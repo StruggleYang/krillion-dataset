@@ -8,9 +8,9 @@
 Every **Krillion** daily trivia dive — prompts and rarity-tiered answers — as clean,
 structured open data. **Updated daily by an automated pipeline.**
 
-Krillion ([krillion.io](https://krillion.io/)) is a free daily trivia game, the
-"daily trivia dive": 7 open prompts a day, where the **rarest valid answer scores
-the most** — from Plankton (10 points) up to One in a Krillion (100 points).
+**Krillion** is a free daily trivia game, the "daily trivia dive": 7 open prompts
+a day, where the **rarest valid answer scores the most** — from Plankton (10 points)
+up to One in a Krillion (100 points) ([how it works](https://krillionhq.com/how-to-play/)).
 This repository redistributes the publicly released answer sheets as machine-readable
 data: every dive since day one (#1 on 2026-07-16), every prompt, and a sample of
 every accepted answer grouped by its official rarity tier.
@@ -108,9 +108,10 @@ qualifiers (e.g. "accessories don't count").
 
 ## License & citation
 
-Released under [CC BY 4.0](LICENSE). Krillion the game is made by a solo
-developer at [krillion.io](https://krillion.io/) — this is an independent,
-non-affiliated dataset built for players and researchers.
+Released under [CC BY 4.0](LICENSE). Krillion the game is made by its solo
+developer (play at the official site) — this is an independent, non-affiliated
+dataset built for players and researchers, maintained by
+[KrillionHQ](https://krillionhq.com/).
 
 **Cite as:**
 
