@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Krillion Daily Dive Dataset
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - name: KrillionHQ
+    website: https://krillionhq.com/
+version: "2026-09-24"
+date-released: "2026-09-24"
+license: CC-BY-4.0
+url: https://github.com/StruggleYang/krillion-dataset
+keywords:
+  - krillion
+  - daily trivia
+  - daily games
+  - wordle-like
+  - open data
+  - dataset
