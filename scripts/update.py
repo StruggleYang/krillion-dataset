@@ -12,6 +12,7 @@ Usage:
 """
 import csv
 import json
+import html
 import re
 import sys
 import time
@@ -38,7 +39,7 @@ def fetch(url: str) -> str:
 
 def strip_tags(s: str) -> str:
     s = re.sub(r"<[^>]+>", " ", s)
-    return re.sub(r"\s+", " ", s).strip()
+    return re.sub(r"\s+", " ", html.unescape(s)).strip()
 
 
 def parse_page(html: str, iso: str) -> dict:
