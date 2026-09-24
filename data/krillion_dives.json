@@ -1,5 +1,463 @@
 [
  {
+  "n": 71,
+  "date": "2026-09-24",
+  "prompts": [
+   {
+    "q": "Name a US city with over 100,000 people",
+    "accepted": 348,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 73,
+      "picks": [
+       "Allen",
+       "Antioch",
+       "Arvada",
+       "Avondale",
+       "Brockton",
+       "Broken Arrow",
+       "Buckeye",
+       "Carrollton",
+       "Centennial",
+       "Chico"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 179,
+      "picks": [
+       "Abilene",
+       "Akron",
+       "Albany",
+       "Alexandria",
+       "Allentown",
+       "Amarillo",
+       "Ann Arbor",
+       "Athens",
+       "Augusta",
+       "Aurora, Colorado"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 80,
+      "picks": [
+       "Albuquerque",
+       "Anaheim",
+       "Anchorage",
+       "Arlington",
+       "Austin",
+       "Bakersfield",
+       "Baltimore",
+       "Baton Rouge",
+       "Birmingham",
+       "Boise"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 15,
+      "picks": [
+       "Atlanta",
+       "Boston",
+       "Chicago",
+       "Dallas",
+       "Denver",
+       "Houston",
+       "Las Vegas",
+       "Los Angeles",
+       "Miami",
+       "New York City"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country that borders China",
+    "accepted": 14,
+    "tiers": [
+     {
+      "name": "Deep cut",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Rare",
+      "count": 3,
+      "picks": [
+       "Afghanistan",
+       "Bhutan"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Kazakhstan",
+       "Laos",
+       "Myanmar",
+       "Nepal",
+       "Pakistan"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "India",
+       "Mongolia",
+       "North Korea"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a kitchen appliance (something powered)",
+    "accepted": 151,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 101,
+      "picks": [
+       "Aebleskiver maker",
+       "AGA",
+       "Arepa maker",
+       "Automatic pan stirrer",
+       "Baby food maker",
+       "Baby formula maker",
+       "Bachelor griller",
+       "Beer brewing machine",
+       "Beverage fridge",
+       "Bottle sterilizer"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 28,
+      "picks": [
+       "Bread maker",
+       "Coffee grinder",
+       "Coffee percolator",
+       "Deep fryer",
+       "Dehydrator",
+       "Electric can opener",
+       "Electric knife",
+       "Electric skillet",
+       "Food steamer",
+       "Griddle"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "Air fryer",
+       "Coffee maker",
+       "Espresso machine",
+       "Food processor",
+       "Freezer",
+       "Garbage disposal",
+       "Hand mixer",
+       "Kettle",
+       "Pressure cooker",
+       "Rice cooker"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Blender",
+       "Dishwasher",
+       "Microwave",
+       "Oven",
+       "Refrigerator",
+       "Stove"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a villain from a Marvel Cinematic Universe movie",
+    "accepted": 222,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 165,
+      "picks": [
+       "Abilisk",
+       "Abu Bakaar",
+       "Adam Warlock",
+       "Administrator Kwol",
+       "Ahmed",
+       "Akihiko",
+       "Alioth",
+       "Anitolov",
+       "Arclight",
+       "Arishem"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 41,
+      "picks": [
+       "Abomination",
+       "Aldrich Killian",
+       "Alexander Pierce",
+       "Arnim Zola",
+       "Baron Zemo",
+       "Cassandra Nova",
+       "Crossbones",
+       "Darren Cross",
+       "Ebony Maw",
+       "Ego"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Doctor Doom",
+       "Doctor Octopus",
+       "Dormammu",
+       "Green Goblin",
+       "Hela",
+       "Kang",
+       "Killmonger",
+       "Mysterio",
+       "Red Skull",
+       "Scarlet Witch"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Loki"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an animal without the letter A in its name (breeds count too)",
+    "accepted": 9373,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 9128,
+      "picks": [
+       "10-spotted rhododendron moth",
+       "12-spot strider",
+       "12-spotted diving beetle",
+       "15-spotted money spider",
+       "Bechstein's Myotis",
+       "Beck's petrel",
+       "Bedlington Terrier",
+       "Bee hummingbird",
+       "Bee-fly",
+       "Beecroft's flying squirrel"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 202,
+      "picks": [
+       "Bedbug",
+       "Beetle",
+       "Bird",
+       "Bison",
+       "Blobfish",
+       "Bloodhound",
+       "Bluebird",
+       "Bluegill",
+       "Bonobo",
+       "Border Collie"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 32,
+      "picks": [
+       "Bee",
+       "Bull",
+       "Bunny",
+       "Butterfly",
+       "Coyote",
+       "Crocodile",
+       "Deer",
+       "Dolphin",
+       "Donkey",
+       "Duck"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Chicken",
+       "Cow",
+       "Dog",
+       "Horse",
+       "Lion",
+       "Monkey",
+       "Mouse",
+       "Pig",
+       "Sheep"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a mobile phone brand",
+    "accepted": 581,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 547,
+      "picks": [
+       "10.or",
+       "5Star",
+       "Abit",
+       "Acer",
+       "Adcom",
+       "Advan",
+       "AEG",
+       "Afrione",
+       "AG Tel",
+       "AGM"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 24,
+      "picks": [
+       "Alcatel",
+       "Asus",
+       "BLU",
+       "Ericsson",
+       "Honor",
+       "HTC",
+       "Jitterbug",
+       "Kyocera",
+       "Lenovo",
+       "Microsoft"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 5,
+      "picks": [
+       "BlackBerry",
+       "Google",
+       "Huawei",
+       "LG"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Apple",
+       "Motorola",
+       "Nokia"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a platform people use to listen to music (apps and services, not devices)",
+    "accepted": 585,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 535,
+      "picks": [
+       "1-800-MUSIC-NOW",
+       "1.FM",
+       "24Six",
+       "5sing",
+       "6 Towns Radio",
+       "7digital",
+       "ABC listen",
+       "AccuRadio",
+       "Afrotunes",
+       "Aftown"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 37,
+      "picks": [
+       "8tracks",
+       "Anghami",
+       "Audiomack",
+       "Audius",
+       "Bandcamp",
+       "BBC Sounds",
+       "BearShare",
+       "Beatport",
+       "Beats Music",
+       "Boomplay"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Amazon Music",
+       "iHeartRadio",
+       "Pandora",
+       "Radio",
+       "SiriusXM",
+       "SoundCloud",
+       "Tidal",
+       "TikTok"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Apple Music",
+       "Spotify"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 70,
   "date": "2026-09-23",
   "prompts": [

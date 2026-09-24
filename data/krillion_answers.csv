@@ -1,4 +1,217 @@
 dive_number,date,prompt_number,prompt,accepted_answers,tier,points,answer
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Deep cut,85,Allen
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Deep cut,85,Antioch
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Deep cut,85,Arvada
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Deep cut,85,Avondale
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Deep cut,85,Brockton
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Deep cut,85,Broken Arrow
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Deep cut,85,Buckeye
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Deep cut,85,Carrollton
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Deep cut,85,Centennial
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Deep cut,85,Chico
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Rare,60,Abilene
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Rare,60,Akron
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Rare,60,Albany
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Rare,60,Alexandria
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Rare,60,Allentown
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Rare,60,Amarillo
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Rare,60,Ann Arbor
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Rare,60,Athens
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Rare,60,Augusta
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Rare,60,"Aurora, Colorado"
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Schooler,30,Albuquerque
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Schooler,30,Anaheim
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Schooler,30,Anchorage
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Schooler,30,Arlington
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Schooler,30,Austin
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Schooler,30,Bakersfield
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Schooler,30,Baltimore
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Schooler,30,Baton Rouge
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Schooler,30,Birmingham
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Schooler,30,Boise
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Plankton,10,Atlanta
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Plankton,10,Boston
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Plankton,10,Chicago
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Plankton,10,Dallas
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Plankton,10,Denver
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Plankton,10,Houston
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Plankton,10,Las Vegas
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Plankton,10,Los Angeles
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Plankton,10,Miami
+71,2026-09-24,1,"Name a US city with over 100,000 people",348,Plankton,10,New York City
+71,2026-09-24,2,Name a country that borders China,14,Rare,60,Afghanistan
+71,2026-09-24,2,Name a country that borders China,14,Rare,60,Bhutan
+71,2026-09-24,2,Name a country that borders China,14,Schooler,30,Kazakhstan
+71,2026-09-24,2,Name a country that borders China,14,Schooler,30,Laos
+71,2026-09-24,2,Name a country that borders China,14,Schooler,30,Myanmar
+71,2026-09-24,2,Name a country that borders China,14,Schooler,30,Nepal
+71,2026-09-24,2,Name a country that borders China,14,Schooler,30,Pakistan
+71,2026-09-24,2,Name a country that borders China,14,Plankton,10,India
+71,2026-09-24,2,Name a country that borders China,14,Plankton,10,Mongolia
+71,2026-09-24,2,Name a country that borders China,14,Plankton,10,North Korea
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Deep cut,85,Aebleskiver maker
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Deep cut,85,AGA
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Deep cut,85,Arepa maker
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Deep cut,85,Automatic pan stirrer
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Deep cut,85,Baby food maker
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Deep cut,85,Baby formula maker
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Deep cut,85,Bachelor griller
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Deep cut,85,Beer brewing machine
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Deep cut,85,Beverage fridge
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Deep cut,85,Bottle sterilizer
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Rare,60,Bread maker
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Rare,60,Coffee grinder
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Rare,60,Coffee percolator
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Rare,60,Deep fryer
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Rare,60,Dehydrator
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Rare,60,Electric can opener
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Rare,60,Electric knife
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Rare,60,Electric skillet
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Rare,60,Food steamer
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Rare,60,Griddle
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Schooler,30,Air fryer
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Schooler,30,Coffee maker
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Schooler,30,Espresso machine
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Schooler,30,Food processor
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Schooler,30,Freezer
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Schooler,30,Garbage disposal
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Schooler,30,Hand mixer
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Schooler,30,Kettle
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Schooler,30,Pressure cooker
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Schooler,30,Rice cooker
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Plankton,10,Blender
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Plankton,10,Dishwasher
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Plankton,10,Microwave
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Plankton,10,Oven
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Plankton,10,Refrigerator
+71,2026-09-24,3,Name a kitchen appliance (something powered),151,Plankton,10,Stove
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Deep cut,85,Abilisk
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Deep cut,85,Abu Bakaar
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Deep cut,85,Adam Warlock
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Deep cut,85,Administrator Kwol
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Deep cut,85,Ahmed
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Deep cut,85,Akihiko
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Deep cut,85,Alioth
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Deep cut,85,Anitolov
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Deep cut,85,Arclight
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Deep cut,85,Arishem
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Rare,60,Abomination
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Rare,60,Aldrich Killian
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Rare,60,Alexander Pierce
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Rare,60,Arnim Zola
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Rare,60,Baron Zemo
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Rare,60,Cassandra Nova
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Rare,60,Crossbones
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Rare,60,Darren Cross
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Rare,60,Ebony Maw
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Rare,60,Ego
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Schooler,30,Doctor Doom
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Schooler,30,Doctor Octopus
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Schooler,30,Dormammu
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Schooler,30,Green Goblin
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Schooler,30,Hela
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Schooler,30,Kang
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Schooler,30,Killmonger
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Schooler,30,Mysterio
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Schooler,30,Red Skull
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Schooler,30,Scarlet Witch
+71,2026-09-24,4,Name a villain from a Marvel Cinematic Universe movie,222,Plankton,10,Loki
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Deep cut,85,10-spotted rhododendron moth
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Deep cut,85,12-spot strider
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Deep cut,85,12-spotted diving beetle
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Deep cut,85,15-spotted money spider
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Deep cut,85,Bechstein's Myotis
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Deep cut,85,Beck's petrel
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Deep cut,85,Bedlington Terrier
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Deep cut,85,Bee hummingbird
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Deep cut,85,Bee-fly
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Deep cut,85,Beecroft's flying squirrel
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Rare,60,Bedbug
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Rare,60,Beetle
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Rare,60,Bird
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Rare,60,Bison
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Rare,60,Blobfish
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Rare,60,Bloodhound
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Rare,60,Bluebird
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Rare,60,Bluegill
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Rare,60,Bonobo
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Rare,60,Border Collie
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Schooler,30,Bee
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Schooler,30,Bull
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Schooler,30,Bunny
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Schooler,30,Butterfly
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Schooler,30,Coyote
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Schooler,30,Crocodile
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Schooler,30,Deer
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Schooler,30,Dolphin
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Schooler,30,Donkey
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Schooler,30,Duck
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Plankton,10,Chicken
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Plankton,10,Cow
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Plankton,10,Dog
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Plankton,10,Horse
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Plankton,10,Lion
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Plankton,10,Monkey
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Plankton,10,Mouse
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Plankton,10,Pig
+71,2026-09-24,5,Name an animal without the letter A in its name (breeds count too),9373,Plankton,10,Sheep
+71,2026-09-24,6,Name a mobile phone brand,581,Deep cut,85,10.or
+71,2026-09-24,6,Name a mobile phone brand,581,Deep cut,85,5Star
+71,2026-09-24,6,Name a mobile phone brand,581,Deep cut,85,Abit
+71,2026-09-24,6,Name a mobile phone brand,581,Deep cut,85,Acer
+71,2026-09-24,6,Name a mobile phone brand,581,Deep cut,85,Adcom
+71,2026-09-24,6,Name a mobile phone brand,581,Deep cut,85,Advan
+71,2026-09-24,6,Name a mobile phone brand,581,Deep cut,85,AEG
+71,2026-09-24,6,Name a mobile phone brand,581,Deep cut,85,Afrione
+71,2026-09-24,6,Name a mobile phone brand,581,Deep cut,85,AG Tel
+71,2026-09-24,6,Name a mobile phone brand,581,Deep cut,85,AGM
+71,2026-09-24,6,Name a mobile phone brand,581,Rare,60,Alcatel
+71,2026-09-24,6,Name a mobile phone brand,581,Rare,60,Asus
+71,2026-09-24,6,Name a mobile phone brand,581,Rare,60,BLU
+71,2026-09-24,6,Name a mobile phone brand,581,Rare,60,Ericsson
+71,2026-09-24,6,Name a mobile phone brand,581,Rare,60,Honor
+71,2026-09-24,6,Name a mobile phone brand,581,Rare,60,HTC
+71,2026-09-24,6,Name a mobile phone brand,581,Rare,60,Jitterbug
+71,2026-09-24,6,Name a mobile phone brand,581,Rare,60,Kyocera
+71,2026-09-24,6,Name a mobile phone brand,581,Rare,60,Lenovo
+71,2026-09-24,6,Name a mobile phone brand,581,Rare,60,Microsoft
+71,2026-09-24,6,Name a mobile phone brand,581,Schooler,30,BlackBerry
+71,2026-09-24,6,Name a mobile phone brand,581,Schooler,30,Google
+71,2026-09-24,6,Name a mobile phone brand,581,Schooler,30,Huawei
+71,2026-09-24,6,Name a mobile phone brand,581,Schooler,30,LG
+71,2026-09-24,6,Name a mobile phone brand,581,Plankton,10,Apple
+71,2026-09-24,6,Name a mobile phone brand,581,Plankton,10,Motorola
+71,2026-09-24,6,Name a mobile phone brand,581,Plankton,10,Nokia
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Deep cut,85,1-800-MUSIC-NOW
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Deep cut,85,1.FM
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Deep cut,85,24Six
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Deep cut,85,5sing
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Deep cut,85,6 Towns Radio
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Deep cut,85,7digital
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Deep cut,85,ABC listen
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Deep cut,85,AccuRadio
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Deep cut,85,Afrotunes
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Deep cut,85,Aftown
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Rare,60,8tracks
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Rare,60,Anghami
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Rare,60,Audiomack
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Rare,60,Audius
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Rare,60,Bandcamp
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Rare,60,BBC Sounds
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Rare,60,BearShare
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Rare,60,Beatport
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Rare,60,Beats Music
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Rare,60,Boomplay
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Schooler,30,Amazon Music
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Schooler,30,iHeartRadio
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Schooler,30,Pandora
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Schooler,30,Radio
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Schooler,30,SiriusXM
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Schooler,30,SoundCloud
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Schooler,30,Tidal
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Schooler,30,TikTok
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Plankton,10,Apple Music
+71,2026-09-24,7,"Name a platform people use to listen to music (apps and services, not devices)",585,Plankton,10,Spotify
 70,2026-09-23,1,Name a way to prepare eggs,259,One in a Krillion,100,Haminados
 70,2026-09-23,1,Name a way to prepare eggs,259,Deep cut,85,Advocaat
 70,2026-09-23,1,Name a way to prepare eggs,259,Deep cut,85,Äggost
