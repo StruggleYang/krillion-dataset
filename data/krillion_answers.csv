@@ -1,4 +1,222 @@
 dive_number,date,prompt_number,prompt,accepted_answers,tier,points,answer
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Deep cut,85,Andorra
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Deep cut,85,Burundi
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Deep cut,85,Comoros
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Deep cut,85,Djibouti
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Deep cut,85,Gambia
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Deep cut,85,Grenada
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Deep cut,85,Guyana
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Deep cut,85,Kyrgyzstan
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Deep cut,85,Lesotho
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Deep cut,85,Nauru
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Rare,60,Albania
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Rare,60,Angola
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Rare,60,Armenia
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Rare,60,Bahamas
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Rare,60,Barbados
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Rare,60,Belarus
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Rare,60,Botswana
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Rare,60,Cameroon
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Rare,60,Cape Verde
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Rare,60,Czechia
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Schooler,30,Austria
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Schooler,30,Bangladesh
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Schooler,30,Croatia
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Schooler,30,Hungary
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Schooler,30,Ireland
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Schooler,30,Israel
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Schooler,30,Jamaica
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Schooler,30,Malaysia
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Schooler,30,Mongolia
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Schooler,30,Morocco
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Plankton,10,Australia
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Plankton,10,Canada
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Plankton,10,Germany
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Plankton,10,India
+72,2026-09-25,1,Name a country with three syllables (English pronunciation),81,Plankton,10,Italy
+72,2026-09-25,2,Name a country without the letter A in its name,30,Deep cut,85,Comoros
+72,2026-09-25,2,Name a country without the letter A in its name,30,Rare,60,Belize
+72,2026-09-25,2,Name a country without the letter A in its name,30,Rare,60,Benin
+72,2026-09-25,2,Name a country without the letter A in its name,30,Rare,60,Brunei
+72,2026-09-25,2,Name a country without the letter A in its name,30,Rare,60,Burundi
+72,2026-09-25,2,Name a country without the letter A in its name,30,Rare,60,Czech Republic
+72,2026-09-25,2,Name a country without the letter A in its name,30,Rare,60,Lesotho
+72,2026-09-25,2,Name a country without the letter A in its name,30,Rare,60,Liechtenstein
+72,2026-09-25,2,Name a country without the letter A in its name,30,Rare,60,Luxembourg
+72,2026-09-25,2,Name a country without the letter A in its name,30,Rare,60,Montenegro
+72,2026-09-25,2,Name a country without the letter A in its name,30,Rare,60,Republic of the Congo
+72,2026-09-25,2,Name a country without the letter A in its name,30,Schooler,30,Belgium
+72,2026-09-25,2,Name a country without the letter A in its name,30,Schooler,30,Cyprus
+72,2026-09-25,2,Name a country without the letter A in its name,30,Schooler,30,Fiji
+72,2026-09-25,2,Name a country without the letter A in its name,30,Schooler,30,Morocco
+72,2026-09-25,2,Name a country without the letter A in its name,30,Schooler,30,Niger
+72,2026-09-25,2,Name a country without the letter A in its name,30,Schooler,30,Philippines
+72,2026-09-25,2,Name a country without the letter A in its name,30,Schooler,30,Togo
+72,2026-09-25,2,Name a country without the letter A in its name,30,Schooler,30,United Kingdom
+72,2026-09-25,2,Name a country without the letter A in its name,30,Plankton,10,Chile
+72,2026-09-25,2,Name a country without the letter A in its name,30,Plankton,10,Egypt
+72,2026-09-25,2,Name a country without the letter A in its name,30,Plankton,10,Greece
+72,2026-09-25,2,Name a country without the letter A in its name,30,Plankton,10,Mexico
+72,2026-09-25,2,Name a country without the letter A in its name,30,Plankton,10,Peru
+72,2026-09-25,2,Name a country without the letter A in its name,30,Plankton,10,Sweden
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,One in a Krillion,100,Mooré
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Deep cut,85,Cape Verdean Creole
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Deep cut,85,Dinka
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Deep cut,85,Guinea-Bissau Creole
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Deep cut,85,Krio
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Deep cut,85,Mauritian Creole
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Rare,60,Bambara
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Rare,60,Bemba
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Rare,60,Chichewa
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Rare,60,Comorian
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Rare,60,Fula
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Rare,60,Hausa
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Rare,60,Kinyarwanda
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Rare,60,Kirundi
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Rare,60,Luganda
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Rare,60,Malagasy
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Schooler,30,Amharic
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Schooler,30,Portuguese
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Schooler,30,Somali
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Plankton,10,Arabic
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Plankton,10,English
+72,2026-09-25,3,Name an African country’s most-spoken language.,35,Plankton,10,French
+72,2026-09-25,4,Name a video game that includes Mario,256,Deep cut,85,All Night Nippon Super Mario Bros.
+72,2026-09-25,4,Name a video game that includes Mario,256,Deep cut,85,Baseball (Game Boy)
+72,2026-09-25,4,Name a video game that includes Mario,256,Deep cut,85,BS Super Mario USA Power Challenge
+72,2026-09-25,4,Name a video game that includes Mario,256,Deep cut,85,Captain Toad: Treasure Tracker
+72,2026-09-25,4,Name a video game that includes Mario,256,Deep cut,85,Dance Dance Revolution: Mario Mix
+72,2026-09-25,4,Name a video game that includes Mario,256,Deep cut,85,Donkey Kong (Game & Watch)
+72,2026-09-25,4,Name a video game that includes Mario,256,Deep cut,85,Donkey Kong (Game Boy)
+72,2026-09-25,4,Name a video game that includes Mario,256,Deep cut,85,Donkey Kong Circus
+72,2026-09-25,4,Name a video game that includes Mario,256,Deep cut,85,Donkey Kong Classics
+72,2026-09-25,4,Name a video game that includes Mario,256,Deep cut,85,Donkey Kong Country 2: Diddy's Kong Quest
+72,2026-09-25,4,Name a video game that includes Mario,256,Rare,60,Donkey Kong Jr.
+72,2026-09-25,4,Name a video game that includes Mario,256,Rare,60,Hotel Mario
+72,2026-09-25,4,Name a video game that includes Mario,256,Rare,60,Luigi's Mansion
+72,2026-09-25,4,Name a video game that includes Mario,256,Rare,60,Luigi's Mansion 3
+72,2026-09-25,4,Name a video game that includes Mario,256,Rare,60,Mario & Luigi
+72,2026-09-25,4,Name a video game that includes Mario,256,Rare,60,Mario & Luigi: Superstar Saga
+72,2026-09-25,4,Name a video game that includes Mario,256,Rare,60,Mario & Sonic
+72,2026-09-25,4,Name a video game that includes Mario,256,Rare,60,Mario & Sonic at the Olympic Games
+72,2026-09-25,4,Name a video game that includes Mario,256,Rare,60,Mario + Rabbids
+72,2026-09-25,4,Name a video game that includes Mario,256,Rare,60,Mario + Rabbids Kingdom Battle
+72,2026-09-25,4,Name a video game that includes Mario,256,Schooler,30,Donkey Kong
+72,2026-09-25,4,Name a video game that includes Mario,256,Schooler,30,Dr. Mario
+72,2026-09-25,4,Name a video game that includes Mario,256,Schooler,30,Mario Golf
+72,2026-09-25,4,Name a video game that includes Mario,256,Schooler,30,Mario Kart 64
+72,2026-09-25,4,Name a video game that includes Mario,256,Schooler,30,Mario Kart Wii
+72,2026-09-25,4,Name a video game that includes Mario,256,Schooler,30,Mario Kart World
+72,2026-09-25,4,Name a video game that includes Mario,256,Schooler,30,Mario Party
+72,2026-09-25,4,Name a video game that includes Mario,256,Schooler,30,Mario Tennis
+72,2026-09-25,4,Name a video game that includes Mario,256,Schooler,30,New Super Mario Bros
+72,2026-09-25,4,Name a video game that includes Mario,256,Schooler,30,Paper Mario
+72,2026-09-25,4,Name a video game that includes Mario,256,Plankton,10,Mario Kart
+72,2026-09-25,4,Name a video game that includes Mario,256,Plankton,10,Mario Kart 8 Deluxe
+72,2026-09-25,4,Name a video game that includes Mario,256,Plankton,10,Super Mario 64
+72,2026-09-25,4,Name a video game that includes Mario,256,Plankton,10,Super Mario Bros
+72,2026-09-25,5,Name an international airport (must say full name),2022,Deep cut,85,A Coruña Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Deep cut,85,A.N.R. Robinson International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Deep cut,85,Aalborg Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Deep cut,85,Aarhus Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Deep cut,85,Abadan International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Deep cut,85,Abakan International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Deep cut,85,Abbotsford International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Deep cut,85,Abdullahi Yusuf Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Deep cut,85,Abeid Amani Karume International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Deep cut,85,Abel Santamaría Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Rare,60,Adolfo Suárez Madrid–Barajas Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Rare,60,Arturo Merino Benítez International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Rare,60,Atatürk Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Rare,60,Athens International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Rare,60,Auckland Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Rare,60,Austin–Bergstrom International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Rare,60,Baghdad International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Rare,60,Baltimore/Washington International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Rare,60,Beijing Capital International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Rare,60,Beijing Daxing International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Schooler,30,Amsterdam Airport Schiphol
+72,2026-09-25,5,Name an international airport (must say full name),2022,Schooler,30,Dallas Fort Worth International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Schooler,30,Denver International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Schooler,30,Dubai International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Schooler,30,George Bush Intercontinental Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Schooler,30,Harry Reid International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Schooler,30,LaGuardia Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Schooler,30,Logan International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Schooler,30,London Gatwick Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Schooler,30,Miami International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Plankton,10,Chicago O'Hare International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Plankton,10,Hartsfield–Jackson Atlanta International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Plankton,10,John F. Kennedy International Airport
+72,2026-09-25,5,Name an international airport (must say full name),2022,Plankton,10,London Heathrow Airport
+72,2026-09-25,6,Name a garden tool,167,Deep cut,85,Adze
+72,2026-09-25,6,Name a garden tool,167,Deep cut,85,Artificial turf rake
+72,2026-09-25,6,Name a garden tool,167,Deep cut,85,Asparagus knife
+72,2026-09-25,6,Name a garden tool,167,Deep cut,85,Auger
+72,2026-09-25,6,Name a garden tool,167,Deep cut,85,Beet hoe
+72,2026-09-25,6,Name a garden tool,167,Deep cut,85,Berry rake
+72,2026-09-25,6,Name a garden tool,167,Deep cut,85,Border fork
+72,2026-09-25,6,Name a garden tool,167,Deep cut,85,Border spade
+72,2026-09-25,6,Name a garden tool,167,Deep cut,85,Bow rake
+72,2026-09-25,6,Name a garden tool,167,Deep cut,85,Branch hook
+72,2026-09-25,6,Name a garden tool,167,Rare,60,Aerator
+72,2026-09-25,6,Name a garden tool,167,Rare,60,Axe
+72,2026-09-25,6,Name a garden tool,167,Rare,60,Bow saw
+72,2026-09-25,6,Name a garden tool,167,Rare,60,Bucket
+72,2026-09-25,6,Name a garden tool,167,Rare,60,Chainsaw
+72,2026-09-25,6,Name a garden tool,167,Rare,60,Cultivator
+72,2026-09-25,6,Name a garden tool,167,Rare,60,Edger
+72,2026-09-25,6,Name a garden tool,167,Rare,60,Garden cart
+72,2026-09-25,6,Name a garden tool,167,Rare,60,Garden gloves
+72,2026-09-25,6,Name a garden tool,167,Rare,60,Hatchet
+72,2026-09-25,6,Name a garden tool,167,Schooler,30,Garden fork
+72,2026-09-25,6,Name a garden tool,167,Schooler,30,Hedge trimmer
+72,2026-09-25,6,Name a garden tool,167,Schooler,30,Hose
+72,2026-09-25,6,Name a garden tool,167,Schooler,30,Lawn mower
+72,2026-09-25,6,Name a garden tool,167,Schooler,30,Leaf blower
+72,2026-09-25,6,Name a garden tool,167,Schooler,30,Pruning shears
+72,2026-09-25,6,Name a garden tool,167,Schooler,30,Spade
+72,2026-09-25,6,Name a garden tool,167,Schooler,30,String trimmer
+72,2026-09-25,6,Name a garden tool,167,Schooler,30,Trowel
+72,2026-09-25,6,Name a garden tool,167,Schooler,30,Watering can
+72,2026-09-25,6,Name a garden tool,167,Plankton,10,Hoe
+72,2026-09-25,6,Name a garden tool,167,Plankton,10,Rake
+72,2026-09-25,7,Name a stock trading term,1501,Deep cut,85,10-Q
+72,2026-09-25,7,Name a stock trading term,1501,Deep cut,85,13-Week High
+72,2026-09-25,7,Name a stock trading term,1501,Deep cut,85,13-Week Low
+72,2026-09-25,7,Name a stock trading term,1501,Deep cut,85,13F
+72,2026-09-25,7,Name a stock trading term,1501,Deep cut,85,26-Week High
+72,2026-09-25,7,Name a stock trading term,1501,Deep cut,85,26-Week Low
+72,2026-09-25,7,Name a stock trading term,1501,Deep cut,85,5-0 pattern
+72,2026-09-25,7,Name a stock trading term,1501,Deep cut,85,8-K
+72,2026-09-25,7,Name a stock trading term,1501,Deep cut,85,AB=CD
+72,2026-09-25,7,Name a stock trading term,1501,Deep cut,85,Abandoned baby
+72,2026-09-25,7,Name a stock trading term,1501,Rare,60,0DTE
+72,2026-09-25,7,Name a stock trading term,1501,Rare,60,10-K
+72,2026-09-25,7,Name a stock trading term,1501,Rare,60,52-week high
+72,2026-09-25,7,Name a stock trading term,1501,Rare,60,After-hours trading
+72,2026-09-25,7,Name a stock trading term,1501,Rare,60,Algorithmic trading
+72,2026-09-25,7,Name a stock trading term,1501,Rare,60,All-time high
+72,2026-09-25,7,Name a stock trading term,1501,Rare,60,Alpha
+72,2026-09-25,7,Name a stock trading term,1501,Rare,60,Analyst
+72,2026-09-25,7,Name a stock trading term,1501,Rare,60,Ape
+72,2026-09-25,7,Name a stock trading term,1501,Rare,60,Arbitrage
+72,2026-09-25,7,Name a stock trading term,1501,Schooler,30,Ask
+72,2026-09-25,7,Name a stock trading term,1501,Schooler,30,Bear
+72,2026-09-25,7,Name a stock trading term,1501,Schooler,30,Bid
+72,2026-09-25,7,Name a stock trading term,1501,Schooler,30,Blue-chip stock
+72,2026-09-25,7,Name a stock trading term,1501,Schooler,30,Broker
+72,2026-09-25,7,Name a stock trading term,1501,Schooler,30,Bubble
+72,2026-09-25,7,Name a stock trading term,1501,Schooler,30,Bull
+72,2026-09-25,7,Name a stock trading term,1501,Schooler,30,Buy the dip
+72,2026-09-25,7,Name a stock trading term,1501,Schooler,30,Capital gain
+72,2026-09-25,7,Name a stock trading term,1501,Schooler,30,Crash
+72,2026-09-25,7,Name a stock trading term,1501,Plankton,10,Bear market
+72,2026-09-25,7,Name a stock trading term,1501,Plankton,10,Bull market
+72,2026-09-25,7,Name a stock trading term,1501,Plankton,10,Buy
+72,2026-09-25,7,Name a stock trading term,1501,Plankton,10,Dividend
+72,2026-09-25,7,Name a stock trading term,1501,Plankton,10,Sell
+72,2026-09-25,7,Name a stock trading term,1501,Plankton,10,Share
 71,2026-09-24,1,"Name a US city with over 100,000 people",348,Deep cut,85,Allen
 71,2026-09-24,1,"Name a US city with over 100,000 people",348,Deep cut,85,Antioch
 71,2026-09-24,1,"Name a US city with over 100,000 people",348,Deep cut,85,Arvada

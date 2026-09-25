@@ -1,5 +1,475 @@
 [
  {
+  "n": 72,
+  "date": "2026-09-25",
+  "prompts": [
+   {
+    "q": "Name a country with three syllables (English pronunciation)",
+    "accepted": 81,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 13,
+      "picks": [
+       "Andorra",
+       "Burundi",
+       "Comoros",
+       "Djibouti",
+       "Gambia",
+       "Grenada",
+       "Guyana",
+       "Kyrgyzstan",
+       "Lesotho",
+       "Nauru"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 39,
+      "picks": [
+       "Albania",
+       "Angola",
+       "Armenia",
+       "Bahamas",
+       "Barbados",
+       "Belarus",
+       "Botswana",
+       "Cameroon",
+       "Cape Verde",
+       "Czechia"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 22,
+      "picks": [
+       "Austria",
+       "Bangladesh",
+       "Croatia",
+       "Hungary",
+       "Ireland",
+       "Israel",
+       "Jamaica",
+       "Malaysia",
+       "Mongolia",
+       "Morocco"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Australia",
+       "Canada",
+       "Germany",
+       "India",
+       "Italy"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country without the letter A in its name",
+    "accepted": 30,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2,
+      "picks": [
+       "Comoros"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 11,
+      "picks": [
+       "Belize",
+       "Benin",
+       "Brunei",
+       "Burundi",
+       "Czech Republic",
+       "Lesotho",
+       "Liechtenstein",
+       "Luxembourg",
+       "Montenegro",
+       "Republic of the Congo"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Belgium",
+       "Cyprus",
+       "Fiji",
+       "Morocco",
+       "Niger",
+       "Philippines",
+       "Togo",
+       "United Kingdom"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Chile",
+       "Egypt",
+       "Greece",
+       "Mexico",
+       "Peru",
+       "Sweden"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an African country’s most-spoken language.",
+    "accepted": 35,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Mooré"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 6,
+      "picks": [
+       "Cape Verdean Creole",
+       "Dinka",
+       "Guinea-Bissau Creole",
+       "Krio",
+       "Mauritian Creole"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 19,
+      "picks": [
+       "Bambara",
+       "Bemba",
+       "Chichewa",
+       "Comorian",
+       "Fula",
+       "Hausa",
+       "Kinyarwanda",
+       "Kirundi",
+       "Luganda",
+       "Malagasy"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 4,
+      "picks": [
+       "Amharic",
+       "Portuguese",
+       "Somali"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Arabic",
+       "English",
+       "French"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a video game that includes Mario",
+    "accepted": 256,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 184,
+      "picks": [
+       "All Night Nippon Super Mario Bros.",
+       "Baseball (Game Boy)",
+       "BS Super Mario USA Power Challenge",
+       "Captain Toad: Treasure Tracker",
+       "Dance Dance Revolution: Mario Mix",
+       "Donkey Kong (Game & Watch)",
+       "Donkey Kong (Game Boy)",
+       "Donkey Kong Circus",
+       "Donkey Kong Classics",
+       "Donkey Kong Country 2: Diddy's Kong Quest"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 46,
+      "picks": [
+       "Donkey Kong Jr.",
+       "Hotel Mario",
+       "Luigi's Mansion",
+       "Luigi's Mansion 3",
+       "Mario & Luigi",
+       "Mario & Luigi: Superstar Saga",
+       "Mario & Sonic",
+       "Mario & Sonic at the Olympic Games",
+       "Mario + Rabbids",
+       "Mario + Rabbids Kingdom Battle"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Donkey Kong",
+       "Dr. Mario",
+       "Mario Golf",
+       "Mario Kart 64",
+       "Mario Kart Wii",
+       "Mario Kart World",
+       "Mario Party",
+       "Mario Tennis",
+       "New Super Mario Bros",
+       "Paper Mario"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Mario Kart",
+       "Mario Kart 8 Deluxe",
+       "Super Mario 64",
+       "Super Mario Bros"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an international airport (must say full name)",
+    "accepted": 2022,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1879,
+      "picks": [
+       "A Coruña Airport",
+       "A.N.R. Robinson International Airport",
+       "Aalborg Airport",
+       "Aarhus Airport",
+       "Abadan International Airport",
+       "Abakan International Airport",
+       "Abbotsford International Airport",
+       "Abdullahi Yusuf Airport",
+       "Abeid Amani Karume International Airport",
+       "Abel Santamaría Airport"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 117,
+      "picks": [
+       "Adolfo Suárez Madrid–Barajas Airport",
+       "Arturo Merino Benítez International Airport",
+       "Atatürk Airport",
+       "Athens International Airport",
+       "Auckland Airport",
+       "Austin–Bergstrom International Airport",
+       "Baghdad International Airport",
+       "Baltimore/Washington International Airport",
+       "Beijing Capital International Airport",
+       "Beijing Daxing International Airport"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Amsterdam Airport Schiphol",
+       "Dallas Fort Worth International Airport",
+       "Denver International Airport",
+       "Dubai International Airport",
+       "George Bush Intercontinental Airport",
+       "Harry Reid International Airport",
+       "LaGuardia Airport",
+       "Logan International Airport",
+       "London Gatwick Airport",
+       "Miami International Airport"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Chicago O'Hare International Airport",
+       "Hartsfield–Jackson Atlanta International Airport",
+       "John F. Kennedy International Airport",
+       "London Heathrow Airport"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a garden tool",
+    "accepted": 167,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 126,
+      "picks": [
+       "Adze",
+       "Artificial turf rake",
+       "Asparagus knife",
+       "Auger",
+       "Beet hoe",
+       "Berry rake",
+       "Border fork",
+       "Border spade",
+       "Bow rake",
+       "Branch hook"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 26,
+      "picks": [
+       "Aerator",
+       "Axe",
+       "Bow saw",
+       "Bucket",
+       "Chainsaw",
+       "Cultivator",
+       "Edger",
+       "Garden cart",
+       "Garden gloves",
+       "Hatchet"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Garden fork",
+       "Hedge trimmer",
+       "Hose",
+       "Lawn mower",
+       "Leaf blower",
+       "Pruning shears",
+       "Spade",
+       "String trimmer",
+       "Trowel",
+       "Watering can"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Hoe",
+       "Rake"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a stock trading term",
+    "accepted": 1501,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1248,
+      "picks": [
+       "10-Q",
+       "13-Week High",
+       "13-Week Low",
+       "13F",
+       "26-Week High",
+       "26-Week Low",
+       "5-0 pattern",
+       "8-K",
+       "AB=CD",
+       "Abandoned baby"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 205,
+      "picks": [
+       "0DTE",
+       "10-K",
+       "52-week high",
+       "After-hours trading",
+       "Algorithmic trading",
+       "All-time high",
+       "Alpha",
+       "Analyst",
+       "Ape",
+       "Arbitrage"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 40,
+      "picks": [
+       "Ask",
+       "Bear",
+       "Bid",
+       "Blue-chip stock",
+       "Broker",
+       "Bubble",
+       "Bull",
+       "Buy the dip",
+       "Capital gain",
+       "Crash"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Bear market",
+       "Bull market",
+       "Buy",
+       "Dividend",
+       "Sell",
+       "Share"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 71,
   "date": "2026-09-24",
   "prompts": [
