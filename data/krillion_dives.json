@@ -1,5 +1,492 @@
 [
  {
+  "n": 73,
+  "date": "2026-09-26",
+  "prompts": [
+   {
+    "q": "Name an app that comes preinstalled on an iPhone",
+    "accepted": 59,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 10,
+      "picks": [
+       "Apple Store",
+       "Clips",
+       "Freeform",
+       "Games",
+       "Image Playground",
+       "iTunes U",
+       "Magnifier",
+       "Nike + iPod",
+       "Preview"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 21,
+      "picks": [
+       "Books",
+       "Files",
+       "Fitness",
+       "Game Center",
+       "GarageBand",
+       "Home",
+       "iMovie",
+       "iTunes Store",
+       "Journal",
+       "Keynote"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 21,
+      "picks": [
+       "App Store",
+       "Calculator",
+       "Calendar",
+       "Clock",
+       "Compass",
+       "Contacts",
+       "FaceTime",
+       "Find My",
+       "Health",
+       "Maps"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Camera",
+       "Mail",
+       "Messages",
+       "Phone",
+       "Photos"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a deodorant brand",
+    "accepted": 723,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 689,
+      "picks": [
+       "4711",
+       "7 by M S Dhoni",
+       "808 Dude",
+       "8x4",
+       "900.care",
+       "A Bit Hippy",
+       "A'kin",
+       "Ab-Scent",
+       "Above",
+       "ACO"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 22,
+      "picks": [
+       "Adidas",
+       "Arrid",
+       "Ban",
+       "Bath & Body Works",
+       "Brut",
+       "Certain Dri",
+       "Crystal",
+       "Dr. Squatch",
+       "Dry Idea",
+       "Duke Cannon"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Arm & Hammer",
+       "Gillette",
+       "Lume",
+       "Native",
+       "Right Guard"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Axe",
+       "Degree",
+       "Dove",
+       "Old Spice"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something with wheels that isn't a vehicle",
+    "accepted": 335,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 232,
+      "picks": [
+       "A-frame cart",
+       "Air compressor",
+       "Airblast sprayer",
+       "Alpine slide",
+       "Anesthesia cart",
+       "Anesthesia machine",
+       "Angle grinder",
+       "Anti-aircraft gun",
+       "Anti-tank gun",
+       "Aqua bike"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 81,
+      "picks": [
+       "Ab wheel",
+       "Airline service trolley",
+       "Baby walker",
+       "Bar cart",
+       "Book cart",
+       "Cannon",
+       "Caster board",
+       "Cozy Coupe",
+       "Crash cart",
+       "Delivery robot"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Ferris wheel",
+       "Golf push cart",
+       "Hand truck",
+       "Hoverboard",
+       "Kick scooter",
+       "Lawn mower",
+       "Pull wagon",
+       "Robot vacuum",
+       "Rollator",
+       "Roller coaster"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Office chair",
+       "Roller skates",
+       "Shopping cart",
+       "Skateboard",
+       "Stroller",
+       "Suitcase",
+       "Wheelbarrow"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a shade of red (pinks don't count)",
+    "accepted": 444,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 378,
+      "picks": [
+       "Adrenaline Rush",
+       "Ajazi Red",
+       "Alfa red",
+       "Allura Red",
+       "Amaranth",
+       "Amaranto Bull Lea",
+       "Amaranto Roma",
+       "American Beauty",
+       "Aniline Red",
+       "Antique Red"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 50,
+      "picks": [
+       "Alabama crimson",
+       "Alizarin",
+       "Apple red",
+       "Auburn",
+       "Barn red",
+       "Beet red",
+       "Bordeaux",
+       "Burnt red",
+       "Cabernet",
+       "Cadmium red"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 12,
+      "picks": [
+       "Blood red",
+       "Brick red",
+       "Bright red",
+       "Burgundy",
+       "Candy apple red",
+       "Cherry",
+       "Dark red",
+       "Deep red",
+       "Fire engine red",
+       "Rose"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Crimson",
+       "Maroon"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a state or province anywhere in the world (must be officially called a state or province)",
+    "accepted": 2320,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Batman"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 2171,
+      "picks": [
+       "A Coruña",
+       "Abancay",
+       "Abel Iturralde",
+       "Abia",
+       "Abra",
+       "Abuná",
+       "Aceh",
+       "Acobamba",
+       "Acomayo",
+       "Aconcagua"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 95,
+      "picks": [
+       "Alsace",
+       "Anbar",
+       "Andhra Pradesh",
+       "Ankara",
+       "Aquitaine",
+       "Assam",
+       "Baden-Württemberg",
+       "Bahia",
+       "Baja California Sur",
+       "Bali"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 46,
+      "picks": [
+       "Alabama",
+       "Alaska",
+       "Alberta",
+       "Arizona",
+       "Arkansas",
+       "Bavaria",
+       "British Columbia",
+       "Chihuahua",
+       "Colorado",
+       "Connecticut"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "California",
+       "Florida",
+       "New York",
+       "Ontario",
+       "Quebec"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a real-life melee weapon",
+    "accepted": 602,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 551,
+      "picks": [
+       "2x4",
+       "Acinaces",
+       "Ahlspiess",
+       "Aikuchi",
+       "Akrafena",
+       "Alamang",
+       "Amanremu",
+       "Anelace",
+       "Applegate–Fairbairn fighting knife",
+       "Arab sword"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 29,
+      "picks": [
+       "Baton",
+       "Battle axe",
+       "Bayonet",
+       "Bowie knife",
+       "Broadsword",
+       "Butterfly knife",
+       "Chainsaw",
+       "Claymore",
+       "Combat knife",
+       "Cutlass"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 17,
+      "picks": [
+       "Baseball bat",
+       "Brass knuckles",
+       "Crowbar",
+       "Dagger",
+       "Hammer",
+       "Hatchet",
+       "Katana",
+       "Lead pipe",
+       "Mace",
+       "Machete"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Axe",
+       "Club",
+       "Knife"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a city with a metro system",
+    "accepted": 225,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 153,
+      "picks": [
+       "Adana",
+       "Agra",
+       "Ahmedabad",
+       "Algiers",
+       "Almaty",
+       "Ankara",
+       "Astana",
+       "Baku",
+       "Belo Horizonte",
+       "Bhopal"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 48,
+      "picks": [
+       "Amsterdam",
+       "Athens",
+       "Baltimore",
+       "Bangkok",
+       "Barcelona",
+       "Bengaluru",
+       "Brussels",
+       "Budapest",
+       "Buenos Aires",
+       "Busan"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 18,
+      "picks": [
+       "Atlanta",
+       "Beijing",
+       "Berlin",
+       "Boston",
+       "Dubai",
+       "Los Angeles",
+       "Madrid",
+       "Mexico City",
+       "Montreal",
+       "Moscow"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Chicago",
+       "London",
+       "New York",
+       "Paris"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 72,
   "date": "2026-09-25",
   "prompts": [
