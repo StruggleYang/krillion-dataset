@@ -1,5 +1,494 @@
 [
  {
+  "n": 74,
+  "date": "2026-09-27",
+  "prompts": [
+   {
+    "q": "Name a fruit or vegetable that starts with S",
+    "accepted": 589,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Salak"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 521,
+      "picks": [
+       "Saba banana",
+       "Sabal palm fruit",
+       "Sabanera guava",
+       "Sabará jabuticaba",
+       "Saffron milk cap",
+       "Saffron Winter apple",
+       "Safou",
+       "Sagitta potato",
+       "Saguaro fruit",
+       "Saijo persimmon"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 50,
+      "picks": [
+       "Salsify",
+       "Samphire",
+       "San Marzano tomato",
+       "Santol",
+       "Sapodilla",
+       "Sapote",
+       "Satsuma",
+       "Savoy cabbage",
+       "Scorzonera",
+       "Scotch bonnet"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 12,
+      "picks": [
+       "Scallion",
+       "Serrano pepper",
+       "Shallot",
+       "Snow pea",
+       "Soybean",
+       "Spaghetti squash",
+       "Sprouts",
+       "Star fruit",
+       "Sugar snap pea",
+       "Sweet corn"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Spinach",
+       "Squash",
+       "Strawberry"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a territory, constituent country or autonomous region",
+    "accepted": 157,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 86,
+      "picks": [
+       "Adélie Land",
+       "Adjara",
+       "Akrotiri and Dhekelia",
+       "Åland Islands",
+       "Alderney",
+       "Aosta Valley",
+       "Aragon",
+       "Argentine Antarctica",
+       "Ascension Island",
+       "Ashmore and Cartier Islands"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 43,
+      "picks": [
+       "Abkhazia",
+       "Andalusia",
+       "Andaman and Nicobar Islands",
+       "Anguilla",
+       "Australian Capital Territory",
+       "Azores",
+       "Balearic Islands",
+       "Basque Country",
+       "Christmas Island",
+       "Cook Islands"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "American Samoa",
+       "Aruba",
+       "Bermuda",
+       "British Virgin Islands",
+       "Canary Islands",
+       "Catalonia",
+       "Cayman Islands",
+       "Faroe Islands",
+       "French Polynesia",
+       "Gibraltar"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "England",
+       "Greenland",
+       "Guam",
+       "Northern Ireland",
+       "Puerto Rico",
+       "Scotland"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a Fire-type Pokémon",
+    "accepted": 89,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Chi-Yu"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 29,
+      "picks": [
+       "Blacephalon",
+       "Carkol",
+       "Centiskorch",
+       "Charcadet",
+       "Coalossal",
+       "Crocalor",
+       "Fire Arceus",
+       "Fletchinder",
+       "Gouging Fire",
+       "Hearthflame Ogerpon"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 28,
+      "picks": [
+       "Alolan Marowak",
+       "Armarouge",
+       "Braixen",
+       "Camerupt",
+       "Ceruledge",
+       "Combusken",
+       "Darmanitan",
+       "Darumaka",
+       "Delphox",
+       "Emboar"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 26,
+      "picks": [
+       "Arcanine",
+       "Blaziken",
+       "Chandelure",
+       "Charmeleon",
+       "Chimchar",
+       "Cinderace",
+       "Cyndaquil",
+       "Fennekin",
+       "Fuecoco",
+       "Growlithe"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Charizard",
+       "Charmander",
+       "Flareon"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a city in Italy (must hold the official città title)",
+    "accepted": 1069,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Crotone"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 1002,
+      "picks": [
+       "Abano Terme",
+       "Abbiategrasso",
+       "Acerra",
+       "Acireale",
+       "Acquapendente",
+       "Acqui Terme",
+       "Acri",
+       "Adrano",
+       "Adria",
+       "Afragola"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 50,
+      "picks": [
+       "Alba",
+       "Amalfi",
+       "Assisi",
+       "Asti",
+       "Bari",
+       "Bergamo",
+       "Bolzano",
+       "Brescia",
+       "Cagliari",
+       "Capri"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Bologna",
+       "Como",
+       "Genoa",
+       "Palermo",
+       "Parma",
+       "Pisa",
+       "Pompei",
+       "Siena",
+       "Turin"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Florence",
+       "Milan",
+       "Naples",
+       "Rome"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a career in finance",
+    "accepted": 129,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Average adjuster"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 87,
+      "picks": [
+       "Accounting clerk",
+       "Accounts payable clerk",
+       "Accounts receivable clerk",
+       "Algorithmic trader",
+       "Anti-money-laundering analyst",
+       "Appraiser",
+       "Bank clerk",
+       "Bank examiner",
+       "Bill broker",
+       "Billing specialist"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 22,
+      "picks": [
+       "Actuary",
+       "Angel investor",
+       "Bank manager",
+       "Bond trader",
+       "Claims adjuster",
+       "Commodities trader",
+       "Compliance officer",
+       "Controller",
+       "Credit analyst",
+       "Crypto trader"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "Auditor",
+       "Bank teller",
+       "Bookkeeper",
+       "CFO",
+       "Financial analyst",
+       "Hedge fund manager",
+       "Insurance agent",
+       "Investment banker",
+       "Loan officer",
+       "Portfolio manager"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Accountant",
+       "Banker",
+       "Financial advisor"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sport that has a goalkeeper",
+    "accepted": 62,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 46,
+      "picks": [
+       "Amputee football",
+       "Bandy",
+       "Beach handball",
+       "Beach soccer",
+       "Blind football",
+       "Box lacrosse",
+       "Broomball",
+       "Cageball",
+       "Calcio storico",
+       "Camogie"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 8,
+      "picks": [
+       "Ball hockey",
+       "Floor hockey",
+       "Futsal",
+       "Gaelic football",
+       "Hurling",
+       "Indoor soccer",
+       "Netball"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 4,
+      "picks": [
+       "Field hockey",
+       "Handball",
+       "Lacrosse",
+       "Water polo"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Ice hockey"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of card (like a birthday card or a library card)",
+    "accepted": 527,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Aperture card"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 298,
+      "picks": [
+       "Aadhaar card",
+       "Accelerator card",
+       "Administrative Professionals' Day card",
+       "Admit card",
+       "Advance directive card",
+       "Advent card",
+       "Affinity card",
+       "Affirmation card",
+       "Airline trading card",
+       "Alcohol server card"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 166,
+      "picks": [
+       "Access card",
+       "Adoption card",
+       "Amiibo card",
+       "Apology card",
+       "Apples to Apples card",
+       "Appointment card",
+       "Appreciation card",
+       "ATM card",
+       "Baby shower card",
+       "Backstage pass"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 52,
+      "picks": [
+       "Anniversary card",
+       "Baseball card",
+       "Basketball card",
+       "Bingo card",
+       "Boarding card",
+       "Driver's license",
+       "Easter card",
+       "Face card",
+       "Father's Day card",
+       "Flash card"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Birthday card",
+       "Business card",
+       "Christmas card",
+       "Credit card",
+       "Debit card",
+       "Gift card",
+       "ID card",
+       "Library card"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 73,
   "date": "2026-09-26",
   "prompts": [

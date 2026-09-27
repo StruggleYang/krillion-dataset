@@ -1,4 +1,237 @@
 dive_number,date,prompt_number,prompt,accepted_answers,tier,points,answer
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,One in a Krillion,100,Salak
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Deep cut,85,Saba banana
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Deep cut,85,Sabal palm fruit
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Deep cut,85,Sabanera guava
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Deep cut,85,Sabará jabuticaba
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Deep cut,85,Saffron milk cap
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Deep cut,85,Saffron Winter apple
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Deep cut,85,Safou
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Deep cut,85,Sagitta potato
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Deep cut,85,Saguaro fruit
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Deep cut,85,Saijo persimmon
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Rare,60,Salsify
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Rare,60,Samphire
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Rare,60,San Marzano tomato
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Rare,60,Santol
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Rare,60,Sapodilla
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Rare,60,Sapote
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Rare,60,Satsuma
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Rare,60,Savoy cabbage
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Rare,60,Scorzonera
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Rare,60,Scotch bonnet
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Schooler,30,Scallion
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Schooler,30,Serrano pepper
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Schooler,30,Shallot
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Schooler,30,Snow pea
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Schooler,30,Soybean
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Schooler,30,Spaghetti squash
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Schooler,30,Sprouts
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Schooler,30,Star fruit
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Schooler,30,Sugar snap pea
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Schooler,30,Sweet corn
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Plankton,10,Spinach
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Plankton,10,Squash
+74,2026-09-27,1,Name a fruit or vegetable that starts with S,589,Plankton,10,Strawberry
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Deep cut,85,Adélie Land
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Deep cut,85,Adjara
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Deep cut,85,Akrotiri and Dhekelia
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Deep cut,85,Åland Islands
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Deep cut,85,Alderney
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Deep cut,85,Aosta Valley
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Deep cut,85,Aragon
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Deep cut,85,Argentine Antarctica
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Deep cut,85,Ascension Island
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Deep cut,85,Ashmore and Cartier Islands
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Rare,60,Abkhazia
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Rare,60,Andalusia
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Rare,60,Andaman and Nicobar Islands
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Rare,60,Anguilla
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Rare,60,Australian Capital Territory
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Rare,60,Azores
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Rare,60,Balearic Islands
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Rare,60,Basque Country
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Rare,60,Christmas Island
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Rare,60,Cook Islands
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Schooler,30,American Samoa
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Schooler,30,Aruba
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Schooler,30,Bermuda
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Schooler,30,British Virgin Islands
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Schooler,30,Canary Islands
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Schooler,30,Catalonia
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Schooler,30,Cayman Islands
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Schooler,30,Faroe Islands
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Schooler,30,French Polynesia
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Schooler,30,Gibraltar
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Plankton,10,England
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Plankton,10,Greenland
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Plankton,10,Guam
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Plankton,10,Northern Ireland
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Plankton,10,Puerto Rico
+74,2026-09-27,2,"Name a territory, constituent country or autonomous region",157,Plankton,10,Scotland
+74,2026-09-27,3,Name a Fire-type Pokémon,89,One in a Krillion,100,Chi-Yu
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Deep cut,85,Blacephalon
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Deep cut,85,Carkol
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Deep cut,85,Centiskorch
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Deep cut,85,Charcadet
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Deep cut,85,Coalossal
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Deep cut,85,Crocalor
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Deep cut,85,Fire Arceus
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Deep cut,85,Fletchinder
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Deep cut,85,Gouging Fire
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Deep cut,85,Hearthflame Ogerpon
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Rare,60,Alolan Marowak
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Rare,60,Armarouge
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Rare,60,Braixen
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Rare,60,Camerupt
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Rare,60,Ceruledge
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Rare,60,Combusken
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Rare,60,Darmanitan
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Rare,60,Darumaka
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Rare,60,Delphox
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Rare,60,Emboar
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Schooler,30,Arcanine
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Schooler,30,Blaziken
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Schooler,30,Chandelure
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Schooler,30,Charmeleon
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Schooler,30,Chimchar
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Schooler,30,Cinderace
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Schooler,30,Cyndaquil
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Schooler,30,Fennekin
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Schooler,30,Fuecoco
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Schooler,30,Growlithe
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Plankton,10,Charizard
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Plankton,10,Charmander
+74,2026-09-27,3,Name a Fire-type Pokémon,89,Plankton,10,Flareon
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,One in a Krillion,100,Crotone
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Deep cut,85,Abano Terme
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Deep cut,85,Abbiategrasso
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Deep cut,85,Acerra
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Deep cut,85,Acireale
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Deep cut,85,Acquapendente
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Deep cut,85,Acqui Terme
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Deep cut,85,Acri
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Deep cut,85,Adrano
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Deep cut,85,Adria
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Deep cut,85,Afragola
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Rare,60,Alba
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Rare,60,Amalfi
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Rare,60,Assisi
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Rare,60,Asti
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Rare,60,Bari
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Rare,60,Bergamo
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Rare,60,Bolzano
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Rare,60,Brescia
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Rare,60,Cagliari
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Rare,60,Capri
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Schooler,30,Bologna
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Schooler,30,Como
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Schooler,30,Genoa
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Schooler,30,Palermo
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Schooler,30,Parma
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Schooler,30,Pisa
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Schooler,30,Pompei
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Schooler,30,Siena
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Schooler,30,Turin
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Plankton,10,Florence
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Plankton,10,Milan
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Plankton,10,Naples
+74,2026-09-27,4,Name a city in Italy (must hold the official città title),1069,Plankton,10,Rome
+74,2026-09-27,5,Name a career in finance,129,One in a Krillion,100,Average adjuster
+74,2026-09-27,5,Name a career in finance,129,Deep cut,85,Accounting clerk
+74,2026-09-27,5,Name a career in finance,129,Deep cut,85,Accounts payable clerk
+74,2026-09-27,5,Name a career in finance,129,Deep cut,85,Accounts receivable clerk
+74,2026-09-27,5,Name a career in finance,129,Deep cut,85,Algorithmic trader
+74,2026-09-27,5,Name a career in finance,129,Deep cut,85,Anti-money-laundering analyst
+74,2026-09-27,5,Name a career in finance,129,Deep cut,85,Appraiser
+74,2026-09-27,5,Name a career in finance,129,Deep cut,85,Bank clerk
+74,2026-09-27,5,Name a career in finance,129,Deep cut,85,Bank examiner
+74,2026-09-27,5,Name a career in finance,129,Deep cut,85,Bill broker
+74,2026-09-27,5,Name a career in finance,129,Deep cut,85,Billing specialist
+74,2026-09-27,5,Name a career in finance,129,Rare,60,Actuary
+74,2026-09-27,5,Name a career in finance,129,Rare,60,Angel investor
+74,2026-09-27,5,Name a career in finance,129,Rare,60,Bank manager
+74,2026-09-27,5,Name a career in finance,129,Rare,60,Bond trader
+74,2026-09-27,5,Name a career in finance,129,Rare,60,Claims adjuster
+74,2026-09-27,5,Name a career in finance,129,Rare,60,Commodities trader
+74,2026-09-27,5,Name a career in finance,129,Rare,60,Compliance officer
+74,2026-09-27,5,Name a career in finance,129,Rare,60,Controller
+74,2026-09-27,5,Name a career in finance,129,Rare,60,Credit analyst
+74,2026-09-27,5,Name a career in finance,129,Rare,60,Crypto trader
+74,2026-09-27,5,Name a career in finance,129,Schooler,30,Auditor
+74,2026-09-27,5,Name a career in finance,129,Schooler,30,Bank teller
+74,2026-09-27,5,Name a career in finance,129,Schooler,30,Bookkeeper
+74,2026-09-27,5,Name a career in finance,129,Schooler,30,CFO
+74,2026-09-27,5,Name a career in finance,129,Schooler,30,Financial analyst
+74,2026-09-27,5,Name a career in finance,129,Schooler,30,Hedge fund manager
+74,2026-09-27,5,Name a career in finance,129,Schooler,30,Insurance agent
+74,2026-09-27,5,Name a career in finance,129,Schooler,30,Investment banker
+74,2026-09-27,5,Name a career in finance,129,Schooler,30,Loan officer
+74,2026-09-27,5,Name a career in finance,129,Schooler,30,Portfolio manager
+74,2026-09-27,5,Name a career in finance,129,Plankton,10,Accountant
+74,2026-09-27,5,Name a career in finance,129,Plankton,10,Banker
+74,2026-09-27,5,Name a career in finance,129,Plankton,10,Financial advisor
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Deep cut,85,Amputee football
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Deep cut,85,Bandy
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Deep cut,85,Beach handball
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Deep cut,85,Beach soccer
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Deep cut,85,Blind football
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Deep cut,85,Box lacrosse
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Deep cut,85,Broomball
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Deep cut,85,Cageball
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Deep cut,85,Calcio storico
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Deep cut,85,Camogie
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Rare,60,Ball hockey
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Rare,60,Floor hockey
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Rare,60,Futsal
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Rare,60,Gaelic football
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Rare,60,Hurling
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Rare,60,Indoor soccer
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Rare,60,Netball
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Schooler,30,Field hockey
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Schooler,30,Handball
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Schooler,30,Lacrosse
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Schooler,30,Water polo
+74,2026-09-27,6,Name a sport that has a goalkeeper,62,Plankton,10,Ice hockey
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,One in a Krillion,100,Aperture card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Deep cut,85,Aadhaar card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Deep cut,85,Accelerator card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Deep cut,85,Administrative Professionals' Day card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Deep cut,85,Admit card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Deep cut,85,Advance directive card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Deep cut,85,Advent card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Deep cut,85,Affinity card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Deep cut,85,Affirmation card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Deep cut,85,Airline trading card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Deep cut,85,Alcohol server card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Rare,60,Access card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Rare,60,Adoption card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Rare,60,Amiibo card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Rare,60,Apology card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Rare,60,Apples to Apples card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Rare,60,Appointment card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Rare,60,Appreciation card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Rare,60,ATM card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Rare,60,Baby shower card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Rare,60,Backstage pass
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Schooler,30,Anniversary card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Schooler,30,Baseball card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Schooler,30,Basketball card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Schooler,30,Bingo card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Schooler,30,Boarding card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Schooler,30,Driver's license
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Schooler,30,Easter card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Schooler,30,Face card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Schooler,30,Father's Day card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Schooler,30,Flash card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Plankton,10,Birthday card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Plankton,10,Business card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Plankton,10,Christmas card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Plankton,10,Credit card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Plankton,10,Debit card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Plankton,10,Gift card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Plankton,10,ID card
+74,2026-09-27,7,Name a type of card (like a birthday card or a library card),527,Plankton,10,Library card
 73,2026-09-26,1,Name an app that comes preinstalled on an iPhone,59,Deep cut,85,Apple Store
 73,2026-09-26,1,Name an app that comes preinstalled on an iPhone,59,Deep cut,85,Clips
 73,2026-09-26,1,Name an app that comes preinstalled on an iPhone,59,Deep cut,85,Freeform
