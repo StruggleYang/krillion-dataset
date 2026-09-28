@@ -1,5 +1,490 @@
 [
  {
+  "n": 75,
+  "date": "2026-09-28",
+  "prompts": [
+   {
+    "q": "Name a superpower Superman has in the comics or movies",
+    "accepted": 92,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Rebuild vision"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 58,
+      "picks": [
+       "Absorbing life energy",
+       "Bio-electric aura",
+       "Cosmic awareness",
+       "Darkness manipulation",
+       "Density shifting",
+       "Dimensional travel",
+       "Eidetic memory",
+       "Electric powers",
+       "Electromagnetic spectrum vision",
+       "Emotional spectrum vision"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 21,
+      "picks": [
+       "Crushing coal into diamonds",
+       "Healing factor",
+       "Infrared vision",
+       "Invisibility",
+       "Longevity",
+       "Memory-erasing kiss",
+       "Microscopic vision",
+       "Self-sustenance",
+       "Super agility",
+       "Super intelligence"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 5,
+      "picks": [
+       "Freeze breath",
+       "Solar energy absorption",
+       "Super breath",
+       "Super hearing"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Flight",
+       "Heat vision",
+       "Invulnerability",
+       "Super speed",
+       "Super strength"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a language whose English name ends in -ish",
+    "accepted": 259,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 229,
+      "picks": [
+       "Abednedish",
+       "Alemannish",
+       "Altirish",
+       "Ancient Baklunish",
+       "Ancient Elvish",
+       "Ancient Ogrish",
+       "Antigua and Barbuda Creole English",
+       "Aqualish",
+       "Arablish",
+       "Attempto Controlled English"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 19,
+      "picks": [
+       "Chinese Pidgin English",
+       "Chinglish",
+       "Cornish",
+       "Dwarvish",
+       "Early Modern English",
+       "Elvish",
+       "Frenglish",
+       "Hinglish",
+       "Japanglish",
+       "Konglish"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Danish",
+       "Finnish",
+       "Flemish",
+       "Irish",
+       "Polish",
+       "Swedish",
+       "Turkish"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "English"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something used to block the sun",
+    "accepted": 405,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Inuit snow goggles"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 324,
+      "picks": [
+       "Aircraft sunshade",
+       "Amiloxate",
+       "Arbor",
+       "Astronaut sun visor",
+       "Austrian shades",
+       "Avobenzone",
+       "Ba tầm",
+       "Baby carrier hood",
+       "Balloon shades",
+       "Banana leaf"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 67,
+      "picks": [
+       "Airplane window shade",
+       "Arm sleeves",
+       "Aviator sunglasses",
+       "Awning",
+       "Bandana",
+       "Beach tent",
+       "Bimini top",
+       "Blackout blinds",
+       "Blackout curtains",
+       "Bonnet"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Baseball cap",
+       "Beach umbrella",
+       "Sombrero",
+       "Sun hat",
+       "Tree"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Blinds",
+       "Curtains",
+       "Hat",
+       "Sunglasses",
+       "Sunscreen"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a laptop brand",
+    "accepted": 791,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "GRiD"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 761,
+      "picks": [
+       "2AM",
+       "2E",
+       "3K Razorbook",
+       "51nb",
+       "5D Technology",
+       "AAPOGEE",
+       "AccelNote",
+       "Acemagic",
+       "ACi",
+       "Acom"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 15,
+      "picks": [
+       "Compaq",
+       "eMachines",
+       "Framework",
+       "Fujitsu",
+       "Gateway",
+       "Gigabyte",
+       "Huawei",
+       "IBM",
+       "LeapFrog",
+       "LG"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Acer",
+       "Alienware",
+       "Asus",
+       "Chromebook",
+       "Google",
+       "Microsoft",
+       "Samsung",
+       "Sony"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Apple",
+       "Dell",
+       "HP"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a part of an airplane, inside or out (anything built in or mounted)",
+    "accepted": 985,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Ashtray"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 856,
+      "picks": [
+       "Abradable seal",
+       "Accelerating pump",
+       "Accelerometer",
+       "Access panel",
+       "Accessory gearbox",
+       "Accessory section",
+       "Acoustic liner",
+       "Actuator",
+       "Actuator control electronics",
+       "ADS-B"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 95,
+      "picks": [
+       "Afterburner",
+       "Aileron",
+       "Air vent",
+       "Airspeed indicator",
+       "Airstair",
+       "Aisle",
+       "Altimeter",
+       "Antenna",
+       "Attitude indicator",
+       "Autopilot"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 25,
+      "picks": [
+       "Armrest",
+       "Cabin",
+       "Cargo hold",
+       "Door",
+       "Emergency exit",
+       "Empennage",
+       "Fan",
+       "Fuel tank",
+       "Fuselage",
+       "Galley"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Cockpit",
+       "Engine",
+       "Propeller",
+       "Seat",
+       "Wheel",
+       "Window"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a body part people have more than two of (like fingers)",
+    "accepted": 1591,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Lunulae"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 1500,
+      "picks": [
+       "Abductors",
+       "Accessory canals",
+       "Accessory lacrimal glands",
+       "Accessory processes",
+       "Adaptive NK cells",
+       "Adductors",
+       "Adrenal cortex zones",
+       "Adrenergic neurons",
+       "Adrenocortical progenitors",
+       "Afferent arterioles"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 70,
+      "picks": [
+       "Alveoli",
+       "Arm hair",
+       "Armpit hair",
+       "Arteries",
+       "Baby teeth",
+       "Blood cells",
+       "Blood vessels",
+       "Canines",
+       "Capillaries",
+       "Chest hair"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "Abs",
+       "Bones",
+       "Cells",
+       "Eyelashes",
+       "Fingernails",
+       "Joints",
+       "Knuckles",
+       "Molars",
+       "Muscles",
+       "Nails"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Fingers",
+       "Hair",
+       "Ribs",
+       "Teeth"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an item of formal wear (clothing and shoes, not jewelry)",
+    "accepted": 742,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Albert slippers"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 659,
+      "picks": [
+       "Abacost",
+       "Abochhini",
+       "Academic hood",
+       "Academic scarf",
+       "Academic stole",
+       "Achkan",
+       "Aesan gede",
+       "Agbada",
+       "Agrun",
+       "Ahenema"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 58,
+      "picks": [
+       "Academic gown",
+       "Áo dài",
+       "Ascot tie",
+       "Barong tagalog",
+       "Boutonnière",
+       "Bowler hat",
+       "Bridesmaid dress",
+       "Brogues",
+       "Cape",
+       "Corsage"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 18,
+      "picks": [
+       "Ball gown",
+       "Belt",
+       "Blazer",
+       "Cocktail dress",
+       "Cummerbund",
+       "Dress pants",
+       "Dress shirt",
+       "Evening gown",
+       "Heels",
+       "Necktie"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Bow tie",
+       "Dress",
+       "Dress shoes",
+       "Suit"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 74,
   "date": "2026-09-27",
   "prompts": [
