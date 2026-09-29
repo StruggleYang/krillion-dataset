@@ -1,5 +1,515 @@
 [
  {
+  "n": 76,
+  "date": "2026-09-29",
+  "prompts": [
+   {
+    "q": "Name something sold in a tube",
+    "accepted": 474,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Kalles Kaviar"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 322,
+      "picks": [
+       "Acne wash",
+       "Acoustic sealant",
+       "Acrylic medium",
+       "Aioli",
+       "Algerian sauce",
+       "Alkyd paint",
+       "All-purpose glue",
+       "Allantoin cream",
+       "Almond paste",
+       "American dressing"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 106,
+      "picks": [
+       "Acne cream",
+       "Acrylic paint",
+       "After-sun",
+       "Aftershave balm",
+       "Aloe vera gel",
+       "Anchovy paste",
+       "Anti-aging cream",
+       "Antifungal cream",
+       "Antiseptic cream",
+       "Aqueous cream"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 34,
+      "picks": [
+       "Anti-itch cream",
+       "Biscuit dough",
+       "Breakfast sausage",
+       "Caulk",
+       "Cinnamon rolls",
+       "Cleanser",
+       "Concealer",
+       "Conditioner",
+       "Cookie dough",
+       "Crescent rolls"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Antibiotic ointment",
+       "Cream",
+       "Glue",
+       "Lip balm",
+       "Lipstick",
+       "Lotion",
+       "Ointment",
+       "Pringles",
+       "Superglue"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a symbol or shape that appears on a national flag (like a star)",
+    "accepted": 192,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Armillary sphere"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 99,
+      "picks": [
+       "Allah",
+       "Anchor",
+       "Animal",
+       "Arrowhead",
+       "Aurochs",
+       "Axe",
+       "Bananas",
+       "Bayonet",
+       "Bell",
+       "Belt"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 70,
+      "picks": [
+       "AK-47",
+       "Angkor Wat",
+       "Arabic script",
+       "Ashoka Chakra",
+       "Bible",
+       "Bird of paradise",
+       "Book",
+       "Border",
+       "Cactus",
+       "Canton"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 18,
+      "picks": [
+       "Bird",
+       "Circle",
+       "Coat of arms",
+       "Crescent",
+       "Dragon",
+       "Eagle",
+       "Emblem",
+       "Leaf",
+       "Maple leaf",
+       "Moon"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Cross",
+       "Star"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of chair",
+    "accepted": 1016,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Ducking stool"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 923,
+      "picks": [
+       ".03 chair",
+       "1001 chair",
+       "1966 lounge chair",
+       "20-06 chair",
+       "366 armchair",
+       "40/4 chair",
+       "404 chair",
+       "48 chair",
+       "4801 armchair",
+       "601 chair"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 62,
+      "picks": [
+       "Accent chair",
+       "Adirondack chair",
+       "Balance ball chair",
+       "Bamboo chair",
+       "Barcelona chair",
+       "Bistro chair",
+       "Bubble chair",
+       "Bungee chair",
+       "Butterfly chair",
+       "Camp stool"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 25,
+      "picks": [
+       "Armchair",
+       "Bar stool",
+       "Barber chair",
+       "Beach chair",
+       "Bean bag chair",
+       "Camping chair",
+       "Deck chair",
+       "Dentist's chair",
+       "Dining chair",
+       "Director's chair"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Office chair",
+       "Recliner"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a standard type of insurance policy (all vehicles count as one type)",
+    "accepted": 433,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Hole-in-one insurance"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 347,
+      "picks": [
+       "Abuse and molestation liability insurance",
+       "Accident and health insurance",
+       "Accident compensation scheme",
+       "Accidental damage cover",
+       "Active assailant insurance",
+       "After-the-event insurance",
+       "All risks insurance",
+       "Allied lines insurance",
+       "Ambulance cover",
+       "Appliance insurance"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 59,
+      "picks": [
+       "ACA marketplace plan",
+       "Accident insurance",
+       "AD&D insurance",
+       "Baggage insurance",
+       "Breakdown cover",
+       "Buildings insurance",
+       "Burglary insurance",
+       "Burial insurance",
+       "Business interruption insurance",
+       "Cancer insurance"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 18,
+      "picks": [
+       "Business insurance",
+       "Collision coverage",
+       "Disability insurance",
+       "Earthquake insurance",
+       "Fire insurance",
+       "Flood insurance",
+       "Hurricane insurance",
+       "Liability insurance",
+       "Pet insurance",
+       "Phone insurance"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Dental insurance",
+       "Health insurance",
+       "Home insurance",
+       "Life insurance",
+       "Renters insurance",
+       "Travel insurance"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a song with over a billion streams on Spotify",
+    "accepted": 1364,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Arcade"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 913,
+      "picks": [
+       "...Ready for It?",
+       "(I Just) Died In Your Arms",
+       "20 Min",
+       "2002",
+       "2055",
+       "3 Nights",
+       "34+35",
+       "3D",
+       "a lot",
+       "A Mí"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 386,
+      "picks": [
+       "...Baby One More Time",
+       "(Sittin' On) the Dock of the Bay",
+       "1-800-273-8255",
+       "10,000 Hours",
+       "21 Questions",
+       "24K Magic",
+       "3005",
+       "505",
+       "7 Years",
+       "A Horse with No Name"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 59,
+      "picks": [
+       "7 rings",
+       "A Bar Song (Tipsy)",
+       "Africa",
+       "All I Want for Christmas Is You",
+       "All Of Me",
+       "Anti-Hero",
+       "APT.",
+       "As It Was",
+       "Baby",
+       "bad guy"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Blinding Lights",
+       "Bohemian Rhapsody",
+       "Despacito"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an animal that can grow longer than 10 feet (3 m), including the tail",
+    "accepted": 304,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Bootlace worm"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 205,
+      "picks": [
+       "African forest elephant",
+       "African giant earthworm",
+       "African manatee",
+       "African rock python",
+       "Amethystine python",
+       "Andrews' beaked whale",
+       "Antarctic minke whale",
+       "Arnoux's beaked whale",
+       "Asian water monitor",
+       "Asperoteuthis acanthoderma"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 63,
+      "picks": [
+       "African buffalo",
+       "African bush elephant",
+       "American crocodile",
+       "Arapaima",
+       "Asian elephant",
+       "Basking shark",
+       "Beluga whale",
+       "Black rhinoceros",
+       "Blue marlin",
+       "Bluefin tuna"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 25,
+      "picks": [
+       "Bison",
+       "Boa constrictor",
+       "Camel",
+       "Cobra",
+       "Dolphin",
+       "Giant squid",
+       "Great white shark",
+       "Hammerhead shark",
+       "Hippopotamus",
+       "Humpback whale"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Alligator",
+       "Anaconda",
+       "Blue whale",
+       "Crocodile",
+       "Elephant",
+       "Giraffe",
+       "Python",
+       "Shark"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a product used to wash or style hair (product types, not brands)",
+    "accepted": 256,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Bandoline"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 182,
+      "picks": [
+       "Acid rinse",
+       "Alligator clip",
+       "Almond oil",
+       "Amino acid shampoo",
+       "Amla oil",
+       "Anti-humidity spray",
+       "Apple cider vinegar rinse",
+       "Applicator bottle",
+       "Automatic curler",
+       "Awapuhi"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 36,
+      "picks": [
+       "2-in-1 shampoo",
+       "Afro pick",
+       "Argan oil",
+       "Baby shampoo",
+       "Barrette",
+       "Beard oil",
+       "Castor oil",
+       "Clarifying shampoo",
+       "Crimper",
+       "Detangling brush"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 30,
+      "picks": [
+       "Bobby pins",
+       "Claw clip",
+       "Coconut oil",
+       "Comb",
+       "Curl cream",
+       "Curling iron",
+       "Dandruff shampoo",
+       "Detangler",
+       "Dry shampoo",
+       "Flat iron"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Conditioner",
+       "Hair dryer",
+       "Hair gel",
+       "Hairspray",
+       "Mousse"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 75,
   "date": "2026-09-28",
   "prompts": [
