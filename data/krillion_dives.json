@@ -1,5 +1,488 @@
 [
  {
+  "n": 77,
+  "date": "2026-09-30",
+  "prompts": [
+   {
+    "q": "Name a coffee shop chain",
+    "accepted": 1657,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1604,
+      "picks": [
+       "&Café",
+       "121 Coffee Run",
+       "1418 Coffee",
+       "151 Coffee",
+       "200 Degrees",
+       "29th Parallel Coffee",
+       "30ML",
+       "321 Coffee",
+       "365 Obrador",
+       "3fe"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 41,
+      "picks": [
+       "7 Brew",
+       "Au Bon Pain",
+       "Barnes & Noble Café",
+       "Biggby Coffee",
+       "Black Rifle Coffee",
+       "Black Rock Coffee Bar",
+       "Blue Bottle Coffee",
+       "Café du Monde",
+       "Caffè Nero",
+       "Chamberlain Coffee"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Caribou Coffee",
+       "Coffee Bean & Tea Leaf",
+       "Dutch Bros",
+       "Krispy Kreme",
+       "McCafé",
+       "Panera Bread",
+       "Peet's Coffee",
+       "Seattle's Best Coffee"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Dunkin'"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an item designed to be filled with air",
+    "accepted": 265,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 181,
+      "picks": [
+       "Air beam",
+       "Air caster",
+       "Air expanding shaft",
+       "Air lounger",
+       "Air pogo stick",
+       "Air receiver",
+       "Air ride seat",
+       "Air shock",
+       "Air splint",
+       "Air spring"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 55,
+      "picks": [
+       "Accordion",
+       "Advertising inflatable",
+       "Air cushion",
+       "Air horn",
+       "Air pillows",
+       "Australian rules football",
+       "Bag of chips",
+       "Bagpipes",
+       "Balloon animal",
+       "Balloon car"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 23,
+      "picks": [
+       "Airbag",
+       "Airship",
+       "American football",
+       "Arm floats",
+       "Ball",
+       "Bouncy castle",
+       "Bubble wrap",
+       "Exercise ball",
+       "Helium balloon",
+       "Hot air balloon"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Air mattress",
+       "Balloon",
+       "Basketball",
+       "Beach ball"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",
+    "accepted": 379,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 290,
+      "picks": [
+       "3D echocardiogram",
+       "3D ultrasound",
+       "4D CT",
+       "4D flow MRI",
+       "AAA screening scan",
+       "Acoustic angiography",
+       "Adaptive optics retinal imaging",
+       "Adrenal CT",
+       "Adrenal scan",
+       "Air enema"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 76,
+      "picks": [
+       "Abdominal CT",
+       "Abdominal MRI",
+       "Abdominal ultrasound",
+       "Abdominal X-ray",
+       "Ankle X-ray",
+       "Anomaly scan",
+       "Arm X-ray",
+       "Barium enema",
+       "Barium meal",
+       "Barium swallow"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Angiogram",
+       "Bone scan",
+       "Chest X-ray",
+       "Dental X-ray",
+       "DEXA scan",
+       "Echocardiogram",
+       "Mammogram"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "CT scan",
+       "MRI",
+       "Ultrasound"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a power tool",
+    "accepted": 296,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 221,
+      "picks": [
+       "Air cut-off tool",
+       "Air engraver",
+       "Air hammer",
+       "Air punch flanger",
+       "Air ratchet",
+       "Air spade",
+       "Alligator saw",
+       "Alligator shear",
+       "Beam planer",
+       "Beam saw"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 50,
+      "picks": [
+       "Air compressor",
+       "Airbrush",
+       "Bench grinder",
+       "Brad nailer",
+       "Chop saw",
+       "Concrete mixer",
+       "Die grinder",
+       "Drain auger",
+       "Earth auger",
+       "Edger"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Angle grinder",
+       "Band saw",
+       "Belt sander",
+       "Drill press",
+       "Electric screwdriver",
+       "Hedge trimmer",
+       "Impact driver",
+       "Jackhammer",
+       "Lawn mower",
+       "Leaf blower"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Chainsaw",
+       "Circular saw",
+       "Drill"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a word for an animal's home (nests and shelters, not habitats like the ocean)",
+    "accepted": 177,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 95,
+      "picks": [
+       "Apery",
+       "Bawn",
+       "Bear pit",
+       "Beavery",
+       "Bee bole",
+       "Bird park",
+       "Bivouac",
+       "Boma",
+       "Brooder",
+       "Byke"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 49,
+      "picks": [
+       "Animal shelter",
+       "Ant farm",
+       "Apiary",
+       "Barnyard",
+       "Bat box",
+       "Butterfly house",
+       "Cat house",
+       "Catio",
+       "Cattery",
+       "Corral"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 22,
+      "picks": [
+       "Anthill",
+       "Aquarium",
+       "Aviary",
+       "Birdhouse",
+       "Cage",
+       "Cocoon",
+       "Farm",
+       "Fish tank",
+       "Fishbowl",
+       "Hole"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Barn",
+       "Burrow",
+       "Cave",
+       "Coop",
+       "Den",
+       "Doghouse",
+       "Hive",
+       "Kennel",
+       "Nest"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a phone accessory",
+    "accepted": 200,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 124,
+      "picks": [
+       "360 camera attachment",
+       "Adaptive switch",
+       "Airplane phone holder",
+       "Antenna booster sticker",
+       "Anti-radiation sticker",
+       "AR headset",
+       "Audio interface",
+       "Auto-tracking stand",
+       "Automatic dialer",
+       "Backpack strap mount"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 57,
+      "picks": [
+       "Answering machine",
+       "Antenna",
+       "Armband",
+       "Aux cable",
+       "Battery case",
+       "Battery charger",
+       "Bike mount",
+       "Bluetooth keyboard",
+       "Bluetooth tracker",
+       "Bumper"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 12,
+      "picks": [
+       "Bluetooth speaker",
+       "Car charger",
+       "Car mount",
+       "Charging cable",
+       "Phone holder",
+       "Phone stand",
+       "PopSocket",
+       "Selfie stick",
+       "Smart glasses",
+       "Smartwatch"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Charger",
+       "Earbuds",
+       "Headphones",
+       "Phone case",
+       "Power bank"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a real-life language that uses a non-Latin writing system",
+    "accepted": 770,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 697,
+      "picks": [
+       "A-Hmao",
+       "Aari",
+       "Abaza",
+       "Abkhaz",
+       "Achomi",
+       "Adyghe",
+       "Aer",
+       "Aghul",
+       "Ahom",
+       "Ainu"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 58,
+      "picks": [
+       "Akkadian",
+       "Amharic",
+       "Ancient Greek",
+       "Aramaic",
+       "Armenian",
+       "Assyrian Neo-Aramaic",
+       "Azerbaijani",
+       "Belarusian",
+       "Bengali",
+       "Bosnian"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 7,
+      "picks": [
+       "Ancient Egyptian",
+       "Cantonese",
+       "Hindi",
+       "Persian",
+       "Sanskrit",
+       "Thai"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Arabic",
+       "Chinese",
+       "Greek",
+       "Hebrew",
+       "Japanese",
+       "Korean"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 76,
   "date": "2026-09-29",
   "prompts": [

@@ -1,4 +1,236 @@
 dive_number,date,prompt_number,prompt,accepted_answers,tier,points,answer
+77,2026-09-30,1,Name a coffee shop chain,1657,Deep cut,85,&Café
+77,2026-09-30,1,Name a coffee shop chain,1657,Deep cut,85,121 Coffee Run
+77,2026-09-30,1,Name a coffee shop chain,1657,Deep cut,85,1418 Coffee
+77,2026-09-30,1,Name a coffee shop chain,1657,Deep cut,85,151 Coffee
+77,2026-09-30,1,Name a coffee shop chain,1657,Deep cut,85,200 Degrees
+77,2026-09-30,1,Name a coffee shop chain,1657,Deep cut,85,29th Parallel Coffee
+77,2026-09-30,1,Name a coffee shop chain,1657,Deep cut,85,30ML
+77,2026-09-30,1,Name a coffee shop chain,1657,Deep cut,85,321 Coffee
+77,2026-09-30,1,Name a coffee shop chain,1657,Deep cut,85,365 Obrador
+77,2026-09-30,1,Name a coffee shop chain,1657,Deep cut,85,3fe
+77,2026-09-30,1,Name a coffee shop chain,1657,Rare,60,7 Brew
+77,2026-09-30,1,Name a coffee shop chain,1657,Rare,60,Au Bon Pain
+77,2026-09-30,1,Name a coffee shop chain,1657,Rare,60,Barnes & Noble Café
+77,2026-09-30,1,Name a coffee shop chain,1657,Rare,60,Biggby Coffee
+77,2026-09-30,1,Name a coffee shop chain,1657,Rare,60,Black Rifle Coffee
+77,2026-09-30,1,Name a coffee shop chain,1657,Rare,60,Black Rock Coffee Bar
+77,2026-09-30,1,Name a coffee shop chain,1657,Rare,60,Blue Bottle Coffee
+77,2026-09-30,1,Name a coffee shop chain,1657,Rare,60,Café du Monde
+77,2026-09-30,1,Name a coffee shop chain,1657,Rare,60,Caffè Nero
+77,2026-09-30,1,Name a coffee shop chain,1657,Rare,60,Chamberlain Coffee
+77,2026-09-30,1,Name a coffee shop chain,1657,Schooler,30,Caribou Coffee
+77,2026-09-30,1,Name a coffee shop chain,1657,Schooler,30,Coffee Bean & Tea Leaf
+77,2026-09-30,1,Name a coffee shop chain,1657,Schooler,30,Dutch Bros
+77,2026-09-30,1,Name a coffee shop chain,1657,Schooler,30,Krispy Kreme
+77,2026-09-30,1,Name a coffee shop chain,1657,Schooler,30,McCafé
+77,2026-09-30,1,Name a coffee shop chain,1657,Schooler,30,Panera Bread
+77,2026-09-30,1,Name a coffee shop chain,1657,Schooler,30,Peet's Coffee
+77,2026-09-30,1,Name a coffee shop chain,1657,Schooler,30,Seattle's Best Coffee
+77,2026-09-30,1,Name a coffee shop chain,1657,Plankton,10,Dunkin'
+77,2026-09-30,2,Name an item designed to be filled with air,265,Deep cut,85,Air beam
+77,2026-09-30,2,Name an item designed to be filled with air,265,Deep cut,85,Air caster
+77,2026-09-30,2,Name an item designed to be filled with air,265,Deep cut,85,Air expanding shaft
+77,2026-09-30,2,Name an item designed to be filled with air,265,Deep cut,85,Air lounger
+77,2026-09-30,2,Name an item designed to be filled with air,265,Deep cut,85,Air pogo stick
+77,2026-09-30,2,Name an item designed to be filled with air,265,Deep cut,85,Air receiver
+77,2026-09-30,2,Name an item designed to be filled with air,265,Deep cut,85,Air ride seat
+77,2026-09-30,2,Name an item designed to be filled with air,265,Deep cut,85,Air shock
+77,2026-09-30,2,Name an item designed to be filled with air,265,Deep cut,85,Air splint
+77,2026-09-30,2,Name an item designed to be filled with air,265,Deep cut,85,Air spring
+77,2026-09-30,2,Name an item designed to be filled with air,265,Rare,60,Accordion
+77,2026-09-30,2,Name an item designed to be filled with air,265,Rare,60,Advertising inflatable
+77,2026-09-30,2,Name an item designed to be filled with air,265,Rare,60,Air cushion
+77,2026-09-30,2,Name an item designed to be filled with air,265,Rare,60,Air horn
+77,2026-09-30,2,Name an item designed to be filled with air,265,Rare,60,Air pillows
+77,2026-09-30,2,Name an item designed to be filled with air,265,Rare,60,Australian rules football
+77,2026-09-30,2,Name an item designed to be filled with air,265,Rare,60,Bag of chips
+77,2026-09-30,2,Name an item designed to be filled with air,265,Rare,60,Bagpipes
+77,2026-09-30,2,Name an item designed to be filled with air,265,Rare,60,Balloon animal
+77,2026-09-30,2,Name an item designed to be filled with air,265,Rare,60,Balloon car
+77,2026-09-30,2,Name an item designed to be filled with air,265,Schooler,30,Airbag
+77,2026-09-30,2,Name an item designed to be filled with air,265,Schooler,30,Airship
+77,2026-09-30,2,Name an item designed to be filled with air,265,Schooler,30,American football
+77,2026-09-30,2,Name an item designed to be filled with air,265,Schooler,30,Arm floats
+77,2026-09-30,2,Name an item designed to be filled with air,265,Schooler,30,Ball
+77,2026-09-30,2,Name an item designed to be filled with air,265,Schooler,30,Bouncy castle
+77,2026-09-30,2,Name an item designed to be filled with air,265,Schooler,30,Bubble wrap
+77,2026-09-30,2,Name an item designed to be filled with air,265,Schooler,30,Exercise ball
+77,2026-09-30,2,Name an item designed to be filled with air,265,Schooler,30,Helium balloon
+77,2026-09-30,2,Name an item designed to be filled with air,265,Schooler,30,Hot air balloon
+77,2026-09-30,2,Name an item designed to be filled with air,265,Plankton,10,Air mattress
+77,2026-09-30,2,Name an item designed to be filled with air,265,Plankton,10,Balloon
+77,2026-09-30,2,Name an item designed to be filled with air,265,Plankton,10,Basketball
+77,2026-09-30,2,Name an item designed to be filled with air,265,Plankton,10,Beach ball
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Deep cut,85,3D echocardiogram
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Deep cut,85,3D ultrasound
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Deep cut,85,4D CT
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Deep cut,85,4D flow MRI
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Deep cut,85,AAA screening scan
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Deep cut,85,Acoustic angiography
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Deep cut,85,Adaptive optics retinal imaging
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Deep cut,85,Adrenal CT
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Deep cut,85,Adrenal scan
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Deep cut,85,Air enema
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Rare,60,Abdominal CT
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Rare,60,Abdominal MRI
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Rare,60,Abdominal ultrasound
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Rare,60,Abdominal X-ray
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Rare,60,Ankle X-ray
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Rare,60,Anomaly scan
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Rare,60,Arm X-ray
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Rare,60,Barium enema
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Rare,60,Barium meal
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Rare,60,Barium swallow
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Schooler,30,Angiogram
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Schooler,30,Bone scan
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Schooler,30,Chest X-ray
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Schooler,30,Dental X-ray
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Schooler,30,DEXA scan
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Schooler,30,Echocardiogram
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Schooler,30,Mammogram
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Plankton,10,CT scan
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Plankton,10,MRI
+77,2026-09-30,3,"Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",379,Plankton,10,Ultrasound
+77,2026-09-30,4,Name a power tool,296,Deep cut,85,Air cut-off tool
+77,2026-09-30,4,Name a power tool,296,Deep cut,85,Air engraver
+77,2026-09-30,4,Name a power tool,296,Deep cut,85,Air hammer
+77,2026-09-30,4,Name a power tool,296,Deep cut,85,Air punch flanger
+77,2026-09-30,4,Name a power tool,296,Deep cut,85,Air ratchet
+77,2026-09-30,4,Name a power tool,296,Deep cut,85,Air spade
+77,2026-09-30,4,Name a power tool,296,Deep cut,85,Alligator saw
+77,2026-09-30,4,Name a power tool,296,Deep cut,85,Alligator shear
+77,2026-09-30,4,Name a power tool,296,Deep cut,85,Beam planer
+77,2026-09-30,4,Name a power tool,296,Deep cut,85,Beam saw
+77,2026-09-30,4,Name a power tool,296,Rare,60,Air compressor
+77,2026-09-30,4,Name a power tool,296,Rare,60,Airbrush
+77,2026-09-30,4,Name a power tool,296,Rare,60,Bench grinder
+77,2026-09-30,4,Name a power tool,296,Rare,60,Brad nailer
+77,2026-09-30,4,Name a power tool,296,Rare,60,Chop saw
+77,2026-09-30,4,Name a power tool,296,Rare,60,Concrete mixer
+77,2026-09-30,4,Name a power tool,296,Rare,60,Die grinder
+77,2026-09-30,4,Name a power tool,296,Rare,60,Drain auger
+77,2026-09-30,4,Name a power tool,296,Rare,60,Earth auger
+77,2026-09-30,4,Name a power tool,296,Rare,60,Edger
+77,2026-09-30,4,Name a power tool,296,Schooler,30,Angle grinder
+77,2026-09-30,4,Name a power tool,296,Schooler,30,Band saw
+77,2026-09-30,4,Name a power tool,296,Schooler,30,Belt sander
+77,2026-09-30,4,Name a power tool,296,Schooler,30,Drill press
+77,2026-09-30,4,Name a power tool,296,Schooler,30,Electric screwdriver
+77,2026-09-30,4,Name a power tool,296,Schooler,30,Hedge trimmer
+77,2026-09-30,4,Name a power tool,296,Schooler,30,Impact driver
+77,2026-09-30,4,Name a power tool,296,Schooler,30,Jackhammer
+77,2026-09-30,4,Name a power tool,296,Schooler,30,Lawn mower
+77,2026-09-30,4,Name a power tool,296,Schooler,30,Leaf blower
+77,2026-09-30,4,Name a power tool,296,Plankton,10,Chainsaw
+77,2026-09-30,4,Name a power tool,296,Plankton,10,Circular saw
+77,2026-09-30,4,Name a power tool,296,Plankton,10,Drill
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Deep cut,85,Apery
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Deep cut,85,Bawn
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Deep cut,85,Bear pit
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Deep cut,85,Beavery
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Deep cut,85,Bee bole
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Deep cut,85,Bird park
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Deep cut,85,Bivouac
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Deep cut,85,Boma
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Deep cut,85,Brooder
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Deep cut,85,Byke
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Rare,60,Animal shelter
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Rare,60,Ant farm
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Rare,60,Apiary
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Rare,60,Barnyard
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Rare,60,Bat box
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Rare,60,Butterfly house
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Rare,60,Cat house
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Rare,60,Catio
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Rare,60,Cattery
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Rare,60,Corral
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Schooler,30,Anthill
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Schooler,30,Aquarium
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Schooler,30,Aviary
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Schooler,30,Birdhouse
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Schooler,30,Cage
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Schooler,30,Cocoon
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Schooler,30,Farm
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Schooler,30,Fish tank
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Schooler,30,Fishbowl
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Schooler,30,Hole
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Plankton,10,Barn
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Plankton,10,Burrow
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Plankton,10,Cave
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Plankton,10,Coop
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Plankton,10,Den
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Plankton,10,Doghouse
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Plankton,10,Hive
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Plankton,10,Kennel
+77,2026-09-30,5,"Name a word for an animal's home (nests and shelters, not habitats like the ocean)",177,Plankton,10,Nest
+77,2026-09-30,6,Name a phone accessory,200,Deep cut,85,360 camera attachment
+77,2026-09-30,6,Name a phone accessory,200,Deep cut,85,Adaptive switch
+77,2026-09-30,6,Name a phone accessory,200,Deep cut,85,Airplane phone holder
+77,2026-09-30,6,Name a phone accessory,200,Deep cut,85,Antenna booster sticker
+77,2026-09-30,6,Name a phone accessory,200,Deep cut,85,Anti-radiation sticker
+77,2026-09-30,6,Name a phone accessory,200,Deep cut,85,AR headset
+77,2026-09-30,6,Name a phone accessory,200,Deep cut,85,Audio interface
+77,2026-09-30,6,Name a phone accessory,200,Deep cut,85,Auto-tracking stand
+77,2026-09-30,6,Name a phone accessory,200,Deep cut,85,Automatic dialer
+77,2026-09-30,6,Name a phone accessory,200,Deep cut,85,Backpack strap mount
+77,2026-09-30,6,Name a phone accessory,200,Rare,60,Answering machine
+77,2026-09-30,6,Name a phone accessory,200,Rare,60,Antenna
+77,2026-09-30,6,Name a phone accessory,200,Rare,60,Armband
+77,2026-09-30,6,Name a phone accessory,200,Rare,60,Aux cable
+77,2026-09-30,6,Name a phone accessory,200,Rare,60,Battery case
+77,2026-09-30,6,Name a phone accessory,200,Rare,60,Battery charger
+77,2026-09-30,6,Name a phone accessory,200,Rare,60,Bike mount
+77,2026-09-30,6,Name a phone accessory,200,Rare,60,Bluetooth keyboard
+77,2026-09-30,6,Name a phone accessory,200,Rare,60,Bluetooth tracker
+77,2026-09-30,6,Name a phone accessory,200,Rare,60,Bumper
+77,2026-09-30,6,Name a phone accessory,200,Schooler,30,Bluetooth speaker
+77,2026-09-30,6,Name a phone accessory,200,Schooler,30,Car charger
+77,2026-09-30,6,Name a phone accessory,200,Schooler,30,Car mount
+77,2026-09-30,6,Name a phone accessory,200,Schooler,30,Charging cable
+77,2026-09-30,6,Name a phone accessory,200,Schooler,30,Phone holder
+77,2026-09-30,6,Name a phone accessory,200,Schooler,30,Phone stand
+77,2026-09-30,6,Name a phone accessory,200,Schooler,30,PopSocket
+77,2026-09-30,6,Name a phone accessory,200,Schooler,30,Selfie stick
+77,2026-09-30,6,Name a phone accessory,200,Schooler,30,Smart glasses
+77,2026-09-30,6,Name a phone accessory,200,Schooler,30,Smartwatch
+77,2026-09-30,6,Name a phone accessory,200,Plankton,10,Charger
+77,2026-09-30,6,Name a phone accessory,200,Plankton,10,Earbuds
+77,2026-09-30,6,Name a phone accessory,200,Plankton,10,Headphones
+77,2026-09-30,6,Name a phone accessory,200,Plankton,10,Phone case
+77,2026-09-30,6,Name a phone accessory,200,Plankton,10,Power bank
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Deep cut,85,A-Hmao
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Deep cut,85,Aari
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Deep cut,85,Abaza
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Deep cut,85,Abkhaz
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Deep cut,85,Achomi
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Deep cut,85,Adyghe
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Deep cut,85,Aer
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Deep cut,85,Aghul
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Deep cut,85,Ahom
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Deep cut,85,Ainu
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Rare,60,Akkadian
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Rare,60,Amharic
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Rare,60,Ancient Greek
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Rare,60,Aramaic
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Rare,60,Armenian
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Rare,60,Assyrian Neo-Aramaic
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Rare,60,Azerbaijani
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Rare,60,Belarusian
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Rare,60,Bengali
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Rare,60,Bosnian
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Schooler,30,Ancient Egyptian
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Schooler,30,Cantonese
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Schooler,30,Hindi
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Schooler,30,Persian
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Schooler,30,Sanskrit
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Schooler,30,Thai
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Plankton,10,Arabic
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Plankton,10,Chinese
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Plankton,10,Greek
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Plankton,10,Hebrew
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Plankton,10,Japanese
+77,2026-09-30,7,Name a real-life language that uses a non-Latin writing system,770,Plankton,10,Korean
 76,2026-09-29,1,Name something sold in a tube,474,One in a Krillion,100,Kalles Kaviar
 76,2026-09-29,1,Name something sold in a tube,474,Deep cut,85,Acne wash
 76,2026-09-29,1,Name something sold in a tube,474,Deep cut,85,Acoustic sealant
