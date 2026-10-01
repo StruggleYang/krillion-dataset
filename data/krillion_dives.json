@@ -1,5 +1,509 @@
 [
  {
+  "n": 78,
+  "date": "2026-10-01",
+  "prompts": [
+   {
+    "q": "Name a feature on Instagram",
+    "accepted": 478,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Emoji game"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 346,
+      "picks": [
+       "1977",
+       "3D photos",
+       "About this account",
+       "Abu Dhabi filter",
+       "Account recovery",
+       "Account status",
+       "Accounts Center",
+       "Achievements",
+       "Activity bubbles",
+       "Ad-free subscription"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 89,
+      "picks": [
+       "Activity status",
+       "Ad preferences",
+       "Add Yours",
+       "Affiliate links",
+       "AI label",
+       "Algorithm",
+       "Archive",
+       "Audio",
+       "Block",
+       "Boost"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 31,
+      "picks": [
+       "Ads",
+       "Bio",
+       "Boomerang",
+       "Captions",
+       "Close Friends",
+       "Edit profile",
+       "Edit tools",
+       "Effects",
+       "Feed",
+       "Highlights"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Comments",
+       "DMs",
+       "Explore",
+       "Filters",
+       "Follow",
+       "Hashtags",
+       "Likes",
+       "Posts",
+       "Reels"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sauce used in Asian cooking (like soy sauce)",
+    "accepted": 605,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 459,
+      "picks": [
+       "Abura miso",
+       "Acevichado sauce",
+       "Ai manas",
+       "Air asam",
+       "Aloo bukhara chutney",
+       "Anardana chutney",
+       "Ankake",
+       "Aojiso dressing",
+       "Asado sauce",
+       "Ashtarak sauce"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 116,
+      "picks": [
+       "Abalone sauce",
+       "Adjika",
+       "Amba",
+       "Bagoong",
+       "Banana ketchup",
+       "Bibimbap sauce",
+       "Black bean sauce",
+       "Black pepper sauce",
+       "Bourbon sauce",
+       "Brown sauce"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 24,
+      "picks": [
+       "Bang bang sauce",
+       "Chili crisp",
+       "Chili oil",
+       "Chili sauce",
+       "Chutney",
+       "Curry sauce",
+       "Dark soy sauce",
+       "Duck sauce",
+       "Dumpling sauce",
+       "Dynamite sauce"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Hoisin sauce",
+       "Soy sauce",
+       "Sriracha",
+       "Sweet and sour sauce"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a music festival",
+    "accepted": 17573,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 17426,
+      "picks": [
+       ":kult: das neue Mühlfest",
+       "!Up Up! - Reggae Festival",
+       "¡Globalquerque!",
+       "\"ZHARA\" International Music Festival",
+       "(a)phònica",
+       ")toon)",
+       "&FRIENDS Festival",
+       "#Dabei Open Air",
+       "#weilbaum",
+       "0110"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 131,
+      "picks": [
+       "Afropunk",
+       "Aftershock",
+       "All Points East",
+       "All Tomorrow's Parties",
+       "Altamont Free Concert",
+       "Amsterdam Dance Event",
+       "Apple Music Festival",
+       "Aspen Music Festival",
+       "Astroworld Festival",
+       "Awakenings"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Austin City Limits Music Festival",
+       "Electric Daisy Carnival",
+       "Glastonbury",
+       "Lilith Fair",
+       "Ozzfest",
+       "Rolling Loud",
+       "Stagecoach",
+       "SXSW",
+       "Tomorrowland",
+       "Ultra Music Festival"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Bonnaroo",
+       "Coachella",
+       "Lollapalooza"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a present-day nationality that ends in -ian (like Canadian)",
+    "accepted": 114,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 47,
+      "picks": [
+       "Abkhazian",
+       "Anguillian",
+       "Arubian",
+       "Azerbaijanian",
+       "Belizian",
+       "Botswanian",
+       "Bruneian",
+       "Burundian",
+       "Caledonian",
+       "Cambrian"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 30,
+      "picks": [
+       "Algerian",
+       "Bahamian",
+       "Barbadian",
+       "Belarusian",
+       "Bermudian",
+       "Bosnian",
+       "Cameroonian",
+       "Chadian",
+       "Estonian",
+       "Fijian"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 29,
+      "picks": [
+       "Albanian",
+       "Argentinian",
+       "Armenian",
+       "Austrian",
+       "Belgian",
+       "Bolivian",
+       "Bulgarian",
+       "Cambodian",
+       "Colombian",
+       "Croatian"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Australian",
+       "Brazilian",
+       "Canadian",
+       "Egyptian",
+       "Indian",
+       "Italian"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a yellow fruit or vegetable",
+    "accepted": 400,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 340,
+      "picks": [
+       "Abiu",
+       "Ackee",
+       "Adajamir",
+       "African custard-apple",
+       "African locust bean",
+       "African mango",
+       "Aizen (Boscia)",
+       "Aji Amarillo",
+       "Aji Charapita",
+       "Alemow"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 38,
+      "picks": [
+       "Apricot",
+       "Asian pear",
+       "Baby corn",
+       "Belgian endive",
+       "Buddha's hand",
+       "Canary melon",
+       "Cape gooseberry",
+       "Chanterelle",
+       "Citron",
+       "Durian"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 15,
+      "picks": [
+       "Banana pepper",
+       "Grapefruit",
+       "Mango",
+       "Papaya",
+       "Peach",
+       "Pear",
+       "Plantain",
+       "Spaghetti squash",
+       "Starfruit",
+       "Yellow apple"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Banana",
+       "Corn",
+       "Lemon",
+       "Pineapple",
+       "Yellow bell pepper"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an app where you can video call",
+    "accepted": 748,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 686,
+      "picks": [
+       "3CX",
+       "51Talk",
+       "55 Messenger",
+       "7 Cups",
+       "8x8",
+       "Ablo",
+       "Accurx",
+       "AChat",
+       "ACN Virtual Care",
+       "Acrobits Softphone"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 45,
+      "picks": [
+       "AIM",
+       "Alexa app",
+       "Amazon Chime",
+       "Badoo",
+       "BetterHelp",
+       "Blackboard Collaborate",
+       "BlueJeans",
+       "BOTIM",
+       "Bumble",
+       "Chatroulette"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Discord",
+       "Google Hangouts",
+       "Houseparty",
+       "Instagram",
+       "Omegle",
+       "Signal",
+       "Snapchat",
+       "Telegram"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Facebook Messenger",
+       "FaceTime",
+       "Google Meet",
+       "Microsoft Teams",
+       "Skype",
+       "WhatsApp"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an animal with a color in its name",
+    "accepted": 32255,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 31611,
+      "picks": [
+       "Aberrant bushblue",
+       "Aberrant oakblue",
+       "Aberrant silverline",
+       "Abert's Black-Spotted Sand Wasp",
+       "Abnormal Silverline",
+       "Abraham's Ruby-Eye",
+       "Abyssinian Bronze",
+       "Abyssinian crimsonwing",
+       "Abyssinian red fox",
+       "Abyssinian slaty flycatcher"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 565,
+      "picks": [
+       "African black beetle",
+       "Amberjack",
+       "american red squirrel",
+       "American redstart",
+       "Asian black bear",
+       "Asian golden cat",
+       "Atlantic white marlin",
+       "Australian golden orb-weaving spider",
+       "Belgian blue",
+       "big brown bat"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 64,
+      "picks": [
+       "African grey parrot",
+       "Black angus",
+       "Black Ant",
+       "Black Labrador",
+       "black mamba",
+       "black rat",
+       "Black rhinoceros",
+       "Black swan",
+       "Black wolf",
+       "blue crab"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 14,
+      "picks": [
+       "black bear",
+       "Black panther",
+       "Black widow spider",
+       "Blackbird",
+       "Blue jay",
+       "Blue whale",
+       "Bluebird",
+       "Brown bear",
+       "Golden Retriever",
+       "goldfish"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 77,
   "date": "2026-09-30",
   "prompts": [
