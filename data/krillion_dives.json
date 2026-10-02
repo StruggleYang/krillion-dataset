@@ -1,5 +1,495 @@
 [
  {
+  "n": 79,
+  "date": "2026-10-02",
+  "prompts": [
+   {
+    "q": "Name a place in the Harry Potter universe",
+    "accepted": 1530,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1386,
+      "picks": [
+       "18 Rue Philippe Lorand",
+       "18 Rue Philippe Lorand attic",
+       "27 Chislehurst Gardens",
+       "2nd Hand Brooms",
+       "43rd Street",
+       "44th Street",
+       "5 Imperial Restaurant",
+       "69 Boulevard des Galantes",
+       "6th Avenue",
+       "7 Aldwych Road"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 98,
+      "picks": [
+       "10 Downing Street",
+       "Albania",
+       "Aragog's lair",
+       "Atrium",
+       "Australia",
+       "Bathilda Bagshot's house",
+       "Boathouse",
+       "Borgin and Burkes",
+       "Bulgaria",
+       "Charing Cross Road"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 35,
+      "picks": [
+       "Astronomy Tower",
+       "Beauxbatons",
+       "Black Lake",
+       "Cupboard Under the Stairs",
+       "Department of Mysteries",
+       "Durmstrang",
+       "Flourish and Blotts",
+       "Godric's Hollow",
+       "Grand Staircase",
+       "Great Hall"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Azkaban",
+       "Chamber of Secrets",
+       "Diagon Alley",
+       "Forbidden Forest",
+       "Gringotts",
+       "Hogsmeade",
+       "Hogwarts",
+       "Ministry of Magic",
+       "Platform 9¾"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of shot in a sport (like a free throw)",
+    "accepted": 608,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Panenka"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 473,
+      "picks": [
+       "45",
+       "65",
+       "Aerial shot",
+       "African hunting dog",
+       "Air bounce",
+       "Air Gait",
+       "Airmail",
+       "Anhyzer",
+       "Around the horn",
+       "Around the table"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 103,
+      "picks": [
+       "360 dunk",
+       "360 layup",
+       "Approach shot",
+       "Baby hook",
+       "Between-the-legs dunk",
+       "Block",
+       "Body shot",
+       "Break shot",
+       "Bunker shot",
+       "Buzzer beater"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 22,
+      "picks": [
+       "Ace",
+       "Alley-oop",
+       "Backhand",
+       "Bank shot",
+       "Bicycle kick",
+       "Chip",
+       "Drive",
+       "Fadeaway",
+       "Field goal",
+       "Forehand"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Drop shot",
+       "Free throw",
+       "Layup",
+       "Penalty kick",
+       "Putt",
+       "Serve",
+       "Slam dunk"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a part of a shoe",
+    "accepted": 237,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 171,
+      "picks": [
+       "Achilles flare",
+       "Angle heel",
+       "Ankle ties",
+       "Annabelle heel",
+       "Apron",
+       "Axles",
+       "Backstay",
+       "Ball heel",
+       "Ball pad",
+       "Bar heel"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 48,
+      "picks": [
+       "Aglet",
+       "Air unit",
+       "Ankle strap",
+       "Blade",
+       "Block heel",
+       "Bow",
+       "Brogueing",
+       "Button",
+       "Cleats",
+       "Collar"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Arch support",
+       "Buckle",
+       "Eyelets",
+       "Lugs",
+       "Midsole",
+       "Outsole",
+       "Steel toe",
+       "Strap",
+       "Upper",
+       "Velcro"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Heel",
+       "Insole",
+       "Laces",
+       "Sole",
+       "Toe box"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country whose name ends in N",
+    "accepted": 24,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Rare",
+      "count": 10,
+      "picks": [
+       "Azerbaijan",
+       "Bahrain",
+       "Bhutan",
+       "Cameroon",
+       "Kyrgyzstan",
+       "Liechtenstein",
+       "South Sudan",
+       "Tajikistan",
+       "Turkmenistan"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 7,
+      "picks": [
+       "Jordan",
+       "Kazakhstan",
+       "Lebanon",
+       "Oman",
+       "Sudan",
+       "Sweden"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Afghanistan",
+       "Iran",
+       "Japan",
+       "Pakistan"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country with glaciers",
+    "accepted": 50,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 22,
+      "picks": [
+       "Afghanistan",
+       "Albania",
+       "Australia",
+       "Azerbaijan",
+       "Bulgaria",
+       "Colombia",
+       "Democratic Republic of the Congo",
+       "Georgia",
+       "Indonesia",
+       "Iran"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 13,
+      "picks": [
+       "Bhutan",
+       "Bolivia",
+       "China",
+       "Denmark",
+       "Ecuador",
+       "Germany",
+       "India",
+       "Mexico",
+       "Pakistan",
+       "Peru"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Argentina",
+       "Austria",
+       "Chile",
+       "France",
+       "Italy",
+       "Nepal",
+       "New Zealand",
+       "Russia"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Canada",
+       "Iceland",
+       "Norway",
+       "Switzerland"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a standard type of tax (currently levied in at least one country)",
+    "accepted": 150,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Hot spring tax"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 89,
+      "picks": [
+       "Accumulated earnings tax",
+       "Advertising tax",
+       "Aggregates levy",
+       "Agricultural tax",
+       "Air conditioner tax",
+       "Amusement tax",
+       "Annual tax on enveloped dwellings",
+       "Anti-dumping duty",
+       "Apprenticeship levy",
+       "Bank levy"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 42,
+      "picks": [
+       "Ad valorem tax",
+       "Alcohol tax",
+       "Alternative minimum tax",
+       "Cannabis tax",
+       "Carbon tax",
+       "Cess",
+       "Church tax",
+       "Congestion charge",
+       "Council tax",
+       "Departure tax"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "Capital gains tax",
+       "Corporate tax",
+       "Estate tax",
+       "Excise tax",
+       "Fuel tax",
+       "Inheritance tax",
+       "Luxury tax",
+       "Medicare tax",
+       "Payroll tax",
+       "Sin tax"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Income tax",
+       "Property tax"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of living bird (general types; species names are grouped)",
+    "accepted": 856,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Hoatzin"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 682,
+      "picks": [
+       "Accentor",
+       "Adjutant",
+       "Akalat",
+       "Akepa",
+       "Alauahio",
+       "Alethe",
+       "Amakihi",
+       "Amazon parrot",
+       "Ani",
+       "Ant tanager"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 115,
+      "picks": [
+       "Anhinga",
+       "Auk",
+       "Avocet",
+       "Barn owl",
+       "Bee-eater",
+       "Bird-of-paradise",
+       "Bittern",
+       "Bobwhite",
+       "Booby",
+       "Bowerbird"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 40,
+      "picks": [
+       "Albatross",
+       "Blackbird",
+       "Bluebird",
+       "Buzzard",
+       "Canary",
+       "Cardinal",
+       "Chickadee",
+       "Cockatoo",
+       "Condor",
+       "Crane"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 17,
+      "picks": [
+       "Chicken",
+       "Crow",
+       "Duck",
+       "Eagle",
+       "Finch",
+       "Hawk",
+       "Hummingbird",
+       "Owl",
+       "Parrot",
+       "Penguin"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 78,
   "date": "2026-10-01",
   "prompts": [
