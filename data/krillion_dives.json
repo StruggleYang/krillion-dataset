@@ -1,5 +1,494 @@
 [
  {
+  "n": 80,
+  "date": "2026-10-03",
+  "prompts": [
+   {
+    "q": "Name a TV genre",
+    "accepted": 377,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Jiggle TV"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 222,
+      "picks": [
+       "Action horror",
+       "Actual play",
+       "Adventure reality",
+       "Aeni",
+       "Aftershow",
+       "Alien invasion",
+       "Alternate history",
+       "Analog horror",
+       "Animated documentary",
+       "Animated reality"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 109,
+      "picks": [
+       "Action comedy",
+       "Action thriller",
+       "Action-adventure",
+       "Adult animation",
+       "Adventure",
+       "After-school special",
+       "Animated sitcom",
+       "Anthology",
+       "Award show",
+       "Baking show"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 33,
+      "picks": [
+       "Action",
+       "Anime",
+       "Children's",
+       "Cooking show",
+       "Dating show",
+       "Dramedy",
+       "Dystopian",
+       "Educational",
+       "Fantasy",
+       "Home improvement"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 11,
+      "picks": [
+       "Cartoon",
+       "Comedy",
+       "Crime",
+       "Documentary",
+       "Drama",
+       "Game show",
+       "Horror",
+       "Reality",
+       "Science fiction",
+       "Sitcom"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a device used to magnify things",
+    "accepted": 202,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Cyclops lens"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 154,
+      "picks": [
+       "4Pi microscope",
+       "Achromatic lens",
+       "Acoustic microscope",
+       "Aerial telescope",
+       "Airborne telescope",
+       "Apochromatic telescope",
+       "Argunov–Cassegrain telescope",
+       "Aspheric lens",
+       "Atomic force microscope",
+       "Balloon-borne telescope"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 33,
+      "picks": [
+       "Bar magnifier",
+       "Digital microscope",
+       "Document camera",
+       "Endoscope",
+       "Eyepiece",
+       "Film projector",
+       "Fresnel lens",
+       "Illuminated magnifier",
+       "Macro lens",
+       "Magic lantern"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 5,
+      "picks": [
+       "Camera lens",
+       "Convex lens",
+       "Electron microscope",
+       "Loupe"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Binoculars",
+       "Camera",
+       "Computer",
+       "Magnifying glass",
+       "Microscope",
+       "Phone",
+       "Tablet"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of structure built underground (man-made)",
+    "accepted": 176,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Denehole"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 103,
+      "picks": [
+       "Archive vault",
+       "Artificial cave",
+       "Auxiliary Units operational base",
+       "Barabara",
+       "Biogas digester",
+       "Canal tunnel",
+       "Catch basin",
+       "Cist",
+       "Columbarium",
+       "Cryptoporticus"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 50,
+      "picks": [
+       "Aqueduct",
+       "Borehole",
+       "Burial vault",
+       "Cave house",
+       "Cellar dwelling",
+       "Cesspit",
+       "Cistern",
+       "Crawl space",
+       "Culvert",
+       "Dugout"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 15,
+      "picks": [
+       "Bomb shelter",
+       "Catacombs",
+       "Cellar",
+       "Crypt",
+       "Dungeon",
+       "Fallout shelter",
+       "Missile silo",
+       "Railway tunnel",
+       "Root cellar",
+       "Storm cellar"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Basement",
+       "Bunker",
+       "Mine",
+       "Sewer",
+       "Subway"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a body part an animal has for fighting or protection",
+    "accepted": 176,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Acrorhagi"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 79,
+      "picks": [
+       "Acidopore",
+       "Acontia",
+       "Antennae",
+       "Axial organ",
+       "Blood-brain barrier",
+       "Brille",
+       "Bristles",
+       "Bursa of Fabricius",
+       "Casque",
+       "Cell membrane"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 69,
+      "picks": [
+       "Abdomen",
+       "Amniotic sac",
+       "Appendix",
+       "Armor",
+       "Arms",
+       "Blubber",
+       "Bone marrow",
+       "Cartilage",
+       "Cervix",
+       "Comb"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 17,
+      "picks": [
+       "Beak",
+       "Ears",
+       "Eyelashes",
+       "Eyelids",
+       "Feathers",
+       "Fins",
+       "Flippers",
+       "Hooves",
+       "Jaws",
+       "Pincers"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Antlers",
+       "Claws",
+       "Fangs",
+       "Fur",
+       "Horns",
+       "Shell",
+       "Stinger",
+       "Teeth"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of sausage",
+    "accepted": 576,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Gumpesel"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 496,
+      "picks": [
+       "Adrio",
+       "Ahle Wurst",
+       "Alheira",
+       "Alligator sausage",
+       "Alpaca sausage",
+       "Andouillette",
+       "Androja",
+       "Androlla",
+       "Andutgel",
+       "Annoia"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 59,
+      "picks": [
+       "'Nduja",
+       "Apple sausage",
+       "Biała kiełbasa",
+       "Black pudding",
+       "Blueberry sausage",
+       "Bockwurst",
+       "Boerewors",
+       "Boudin",
+       "Cheddarwurst",
+       "Chilli sausage"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 15,
+      "picks": [
+       "Andouille",
+       "Beef sausage",
+       "Blood sausage",
+       "Bologna",
+       "Breakfast sausage",
+       "Chicken sausage",
+       "Kielbasa",
+       "Pepperoni",
+       "Pork sausage",
+       "Salami"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Bratwurst",
+       "Chorizo",
+       "Hot dog"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a board, card or hand game made for exactly two players",
+    "accepted": 3920,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Asalto"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 3828,
+      "picks": [
+       "¡Abordaje!",
+       "¡Adiós Calavera!",
+       "¡Cobardes!",
+       "...and then, we held hands.",
+       ".hack//ENEMY",
+       "'CA' Tactical Naval Warfare in the Pacific, 1941-45",
+       "\"La Garde recule!\"",
+       "*Star",
+       "007 James Bond: Goldfinger",
+       "007 James Bond: Live and Let Die"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 66,
+      "picks": [
+       "3D chess",
+       "52 pickup",
+       "7 Wonders Duel",
+       "A sailor went to sea",
+       "Abalone",
+       "Battle Line",
+       "Beggar-my-neighbour",
+       "Bezique",
+       "Blokus Duo",
+       "Bloody knuckles"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 17,
+      "picks": [
+       "Arm Wrestling",
+       "Cribbage",
+       "Dots and Boxes",
+       "Gin rummy",
+       "Go",
+       "Guess Who",
+       "Magic: The Gathering",
+       "Mancala",
+       "Mastermind",
+       "Othello"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Backgammon",
+       "Battleship",
+       "Checkers",
+       "Chess",
+       "Connect Four",
+       "Rock Paper Scissors"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country in the Americas where Spanish is not the most widely spoken language",
+    "accepted": 18,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 4,
+      "picks": [
+       "Antigua and Barbuda",
+       "Grenada",
+       "Paraguay"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 6,
+      "picks": [
+       "Barbados",
+       "Belize",
+       "Guyana",
+       "Saint Lucia",
+       "Suriname"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 4,
+      "picks": [
+       "Bahamas",
+       "Dominica",
+       "Haiti"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Brazil",
+       "Canada"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 79,
   "date": "2026-10-02",
   "prompts": [

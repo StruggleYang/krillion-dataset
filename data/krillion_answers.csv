@@ -1,4 +1,236 @@
 dive_number,date,prompt_number,prompt,accepted_answers,tier,points,answer
+80,2026-10-03,1,Name a TV genre,377,One in a Krillion,100,Jiggle TV
+80,2026-10-03,1,Name a TV genre,377,Deep cut,85,Action horror
+80,2026-10-03,1,Name a TV genre,377,Deep cut,85,Actual play
+80,2026-10-03,1,Name a TV genre,377,Deep cut,85,Adventure reality
+80,2026-10-03,1,Name a TV genre,377,Deep cut,85,Aeni
+80,2026-10-03,1,Name a TV genre,377,Deep cut,85,Aftershow
+80,2026-10-03,1,Name a TV genre,377,Deep cut,85,Alien invasion
+80,2026-10-03,1,Name a TV genre,377,Deep cut,85,Alternate history
+80,2026-10-03,1,Name a TV genre,377,Deep cut,85,Analog horror
+80,2026-10-03,1,Name a TV genre,377,Deep cut,85,Animated documentary
+80,2026-10-03,1,Name a TV genre,377,Deep cut,85,Animated reality
+80,2026-10-03,1,Name a TV genre,377,Rare,60,Action comedy
+80,2026-10-03,1,Name a TV genre,377,Rare,60,Action thriller
+80,2026-10-03,1,Name a TV genre,377,Rare,60,Action-adventure
+80,2026-10-03,1,Name a TV genre,377,Rare,60,Adult animation
+80,2026-10-03,1,Name a TV genre,377,Rare,60,Adventure
+80,2026-10-03,1,Name a TV genre,377,Rare,60,After-school special
+80,2026-10-03,1,Name a TV genre,377,Rare,60,Animated sitcom
+80,2026-10-03,1,Name a TV genre,377,Rare,60,Anthology
+80,2026-10-03,1,Name a TV genre,377,Rare,60,Award show
+80,2026-10-03,1,Name a TV genre,377,Rare,60,Baking show
+80,2026-10-03,1,Name a TV genre,377,Schooler,30,Action
+80,2026-10-03,1,Name a TV genre,377,Schooler,30,Anime
+80,2026-10-03,1,Name a TV genre,377,Schooler,30,Children's
+80,2026-10-03,1,Name a TV genre,377,Schooler,30,Cooking show
+80,2026-10-03,1,Name a TV genre,377,Schooler,30,Dating show
+80,2026-10-03,1,Name a TV genre,377,Schooler,30,Dramedy
+80,2026-10-03,1,Name a TV genre,377,Schooler,30,Dystopian
+80,2026-10-03,1,Name a TV genre,377,Schooler,30,Educational
+80,2026-10-03,1,Name a TV genre,377,Schooler,30,Fantasy
+80,2026-10-03,1,Name a TV genre,377,Schooler,30,Home improvement
+80,2026-10-03,1,Name a TV genre,377,Plankton,10,Cartoon
+80,2026-10-03,1,Name a TV genre,377,Plankton,10,Comedy
+80,2026-10-03,1,Name a TV genre,377,Plankton,10,Crime
+80,2026-10-03,1,Name a TV genre,377,Plankton,10,Documentary
+80,2026-10-03,1,Name a TV genre,377,Plankton,10,Drama
+80,2026-10-03,1,Name a TV genre,377,Plankton,10,Game show
+80,2026-10-03,1,Name a TV genre,377,Plankton,10,Horror
+80,2026-10-03,1,Name a TV genre,377,Plankton,10,Reality
+80,2026-10-03,1,Name a TV genre,377,Plankton,10,Science fiction
+80,2026-10-03,1,Name a TV genre,377,Plankton,10,Sitcom
+80,2026-10-03,2,Name a device used to magnify things,202,One in a Krillion,100,Cyclops lens
+80,2026-10-03,2,Name a device used to magnify things,202,Deep cut,85,4Pi microscope
+80,2026-10-03,2,Name a device used to magnify things,202,Deep cut,85,Achromatic lens
+80,2026-10-03,2,Name a device used to magnify things,202,Deep cut,85,Acoustic microscope
+80,2026-10-03,2,Name a device used to magnify things,202,Deep cut,85,Aerial telescope
+80,2026-10-03,2,Name a device used to magnify things,202,Deep cut,85,Airborne telescope
+80,2026-10-03,2,Name a device used to magnify things,202,Deep cut,85,Apochromatic telescope
+80,2026-10-03,2,Name a device used to magnify things,202,Deep cut,85,Argunov–Cassegrain telescope
+80,2026-10-03,2,Name a device used to magnify things,202,Deep cut,85,Aspheric lens
+80,2026-10-03,2,Name a device used to magnify things,202,Deep cut,85,Atomic force microscope
+80,2026-10-03,2,Name a device used to magnify things,202,Deep cut,85,Balloon-borne telescope
+80,2026-10-03,2,Name a device used to magnify things,202,Rare,60,Bar magnifier
+80,2026-10-03,2,Name a device used to magnify things,202,Rare,60,Digital microscope
+80,2026-10-03,2,Name a device used to magnify things,202,Rare,60,Document camera
+80,2026-10-03,2,Name a device used to magnify things,202,Rare,60,Endoscope
+80,2026-10-03,2,Name a device used to magnify things,202,Rare,60,Eyepiece
+80,2026-10-03,2,Name a device used to magnify things,202,Rare,60,Film projector
+80,2026-10-03,2,Name a device used to magnify things,202,Rare,60,Fresnel lens
+80,2026-10-03,2,Name a device used to magnify things,202,Rare,60,Illuminated magnifier
+80,2026-10-03,2,Name a device used to magnify things,202,Rare,60,Macro lens
+80,2026-10-03,2,Name a device used to magnify things,202,Rare,60,Magic lantern
+80,2026-10-03,2,Name a device used to magnify things,202,Schooler,30,Camera lens
+80,2026-10-03,2,Name a device used to magnify things,202,Schooler,30,Convex lens
+80,2026-10-03,2,Name a device used to magnify things,202,Schooler,30,Electron microscope
+80,2026-10-03,2,Name a device used to magnify things,202,Schooler,30,Loupe
+80,2026-10-03,2,Name a device used to magnify things,202,Plankton,10,Binoculars
+80,2026-10-03,2,Name a device used to magnify things,202,Plankton,10,Camera
+80,2026-10-03,2,Name a device used to magnify things,202,Plankton,10,Computer
+80,2026-10-03,2,Name a device used to magnify things,202,Plankton,10,Magnifying glass
+80,2026-10-03,2,Name a device used to magnify things,202,Plankton,10,Microscope
+80,2026-10-03,2,Name a device used to magnify things,202,Plankton,10,Phone
+80,2026-10-03,2,Name a device used to magnify things,202,Plankton,10,Tablet
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,One in a Krillion,100,Denehole
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Deep cut,85,Archive vault
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Deep cut,85,Artificial cave
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Deep cut,85,Auxiliary Units operational base
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Deep cut,85,Barabara
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Deep cut,85,Biogas digester
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Deep cut,85,Canal tunnel
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Deep cut,85,Catch basin
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Deep cut,85,Cist
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Deep cut,85,Columbarium
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Deep cut,85,Cryptoporticus
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Rare,60,Aqueduct
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Rare,60,Borehole
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Rare,60,Burial vault
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Rare,60,Cave house
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Rare,60,Cellar dwelling
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Rare,60,Cesspit
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Rare,60,Cistern
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Rare,60,Crawl space
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Rare,60,Culvert
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Rare,60,Dugout
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Schooler,30,Bomb shelter
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Schooler,30,Catacombs
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Schooler,30,Cellar
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Schooler,30,Crypt
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Schooler,30,Dungeon
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Schooler,30,Fallout shelter
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Schooler,30,Missile silo
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Schooler,30,Railway tunnel
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Schooler,30,Root cellar
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Schooler,30,Storm cellar
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Plankton,10,Basement
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Plankton,10,Bunker
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Plankton,10,Mine
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Plankton,10,Sewer
+80,2026-10-03,3,Name a type of structure built underground (man-made),176,Plankton,10,Subway
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,One in a Krillion,100,Acrorhagi
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Deep cut,85,Acidopore
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Deep cut,85,Acontia
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Deep cut,85,Antennae
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Deep cut,85,Axial organ
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Deep cut,85,Blood-brain barrier
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Deep cut,85,Brille
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Deep cut,85,Bristles
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Deep cut,85,Bursa of Fabricius
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Deep cut,85,Casque
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Deep cut,85,Cell membrane
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Rare,60,Abdomen
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Rare,60,Amniotic sac
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Rare,60,Appendix
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Rare,60,Armor
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Rare,60,Arms
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Rare,60,Blubber
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Rare,60,Bone marrow
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Rare,60,Cartilage
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Rare,60,Cervix
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Rare,60,Comb
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Schooler,30,Beak
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Schooler,30,Ears
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Schooler,30,Eyelashes
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Schooler,30,Eyelids
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Schooler,30,Feathers
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Schooler,30,Fins
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Schooler,30,Flippers
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Schooler,30,Hooves
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Schooler,30,Jaws
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Schooler,30,Pincers
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Plankton,10,Antlers
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Plankton,10,Claws
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Plankton,10,Fangs
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Plankton,10,Fur
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Plankton,10,Horns
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Plankton,10,Shell
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Plankton,10,Stinger
+80,2026-10-03,4,Name a body part an animal has for fighting or protection,176,Plankton,10,Teeth
+80,2026-10-03,5,Name a type of sausage,576,One in a Krillion,100,Gumpesel
+80,2026-10-03,5,Name a type of sausage,576,Deep cut,85,Adrio
+80,2026-10-03,5,Name a type of sausage,576,Deep cut,85,Ahle Wurst
+80,2026-10-03,5,Name a type of sausage,576,Deep cut,85,Alheira
+80,2026-10-03,5,Name a type of sausage,576,Deep cut,85,Alligator sausage
+80,2026-10-03,5,Name a type of sausage,576,Deep cut,85,Alpaca sausage
+80,2026-10-03,5,Name a type of sausage,576,Deep cut,85,Andouillette
+80,2026-10-03,5,Name a type of sausage,576,Deep cut,85,Androja
+80,2026-10-03,5,Name a type of sausage,576,Deep cut,85,Androlla
+80,2026-10-03,5,Name a type of sausage,576,Deep cut,85,Andutgel
+80,2026-10-03,5,Name a type of sausage,576,Deep cut,85,Annoia
+80,2026-10-03,5,Name a type of sausage,576,Rare,60,'Nduja
+80,2026-10-03,5,Name a type of sausage,576,Rare,60,Apple sausage
+80,2026-10-03,5,Name a type of sausage,576,Rare,60,Biała kiełbasa
+80,2026-10-03,5,Name a type of sausage,576,Rare,60,Black pudding
+80,2026-10-03,5,Name a type of sausage,576,Rare,60,Blueberry sausage
+80,2026-10-03,5,Name a type of sausage,576,Rare,60,Bockwurst
+80,2026-10-03,5,Name a type of sausage,576,Rare,60,Boerewors
+80,2026-10-03,5,Name a type of sausage,576,Rare,60,Boudin
+80,2026-10-03,5,Name a type of sausage,576,Rare,60,Cheddarwurst
+80,2026-10-03,5,Name a type of sausage,576,Rare,60,Chilli sausage
+80,2026-10-03,5,Name a type of sausage,576,Schooler,30,Andouille
+80,2026-10-03,5,Name a type of sausage,576,Schooler,30,Beef sausage
+80,2026-10-03,5,Name a type of sausage,576,Schooler,30,Blood sausage
+80,2026-10-03,5,Name a type of sausage,576,Schooler,30,Bologna
+80,2026-10-03,5,Name a type of sausage,576,Schooler,30,Breakfast sausage
+80,2026-10-03,5,Name a type of sausage,576,Schooler,30,Chicken sausage
+80,2026-10-03,5,Name a type of sausage,576,Schooler,30,Kielbasa
+80,2026-10-03,5,Name a type of sausage,576,Schooler,30,Pepperoni
+80,2026-10-03,5,Name a type of sausage,576,Schooler,30,Pork sausage
+80,2026-10-03,5,Name a type of sausage,576,Schooler,30,Salami
+80,2026-10-03,5,Name a type of sausage,576,Plankton,10,Bratwurst
+80,2026-10-03,5,Name a type of sausage,576,Plankton,10,Chorizo
+80,2026-10-03,5,Name a type of sausage,576,Plankton,10,Hot dog
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,One in a Krillion,100,Asalto
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Deep cut,85,¡Abordaje!
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Deep cut,85,¡Adiós Calavera!
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Deep cut,85,¡Cobardes!
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Deep cut,85,"...and then, we held hands."
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Deep cut,85,.hack//ENEMY
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Deep cut,85,"'CA' Tactical Naval Warfare in the Pacific, 1941-45"
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Deep cut,85,"""La Garde recule!"""
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Deep cut,85,*Star
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Deep cut,85,007 James Bond: Goldfinger
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Deep cut,85,007 James Bond: Live and Let Die
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Rare,60,3D chess
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Rare,60,52 pickup
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Rare,60,7 Wonders Duel
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Rare,60,A sailor went to sea
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Rare,60,Abalone
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Rare,60,Battle Line
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Rare,60,Beggar-my-neighbour
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Rare,60,Bezique
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Rare,60,Blokus Duo
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Rare,60,Bloody knuckles
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Schooler,30,Arm Wrestling
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Schooler,30,Cribbage
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Schooler,30,Dots and Boxes
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Schooler,30,Gin rummy
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Schooler,30,Go
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Schooler,30,Guess Who
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Schooler,30,Magic: The Gathering
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Schooler,30,Mancala
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Schooler,30,Mastermind
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Schooler,30,Othello
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Plankton,10,Backgammon
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Plankton,10,Battleship
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Plankton,10,Checkers
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Plankton,10,Chess
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Plankton,10,Connect Four
+80,2026-10-03,6,"Name a board, card or hand game made for exactly two players",3920,Plankton,10,Rock Paper Scissors
+80,2026-10-03,7,Name a country in the Americas where Spanish is not the most widely spoken language,18,Deep cut,85,Antigua and Barbuda
+80,2026-10-03,7,Name a country in the Americas where Spanish is not the most widely spoken language,18,Deep cut,85,Grenada
+80,2026-10-03,7,Name a country in the Americas where Spanish is not the most widely spoken language,18,Deep cut,85,Paraguay
+80,2026-10-03,7,Name a country in the Americas where Spanish is not the most widely spoken language,18,Rare,60,Barbados
+80,2026-10-03,7,Name a country in the Americas where Spanish is not the most widely spoken language,18,Rare,60,Belize
+80,2026-10-03,7,Name a country in the Americas where Spanish is not the most widely spoken language,18,Rare,60,Guyana
+80,2026-10-03,7,Name a country in the Americas where Spanish is not the most widely spoken language,18,Rare,60,Saint Lucia
+80,2026-10-03,7,Name a country in the Americas where Spanish is not the most widely spoken language,18,Rare,60,Suriname
+80,2026-10-03,7,Name a country in the Americas where Spanish is not the most widely spoken language,18,Schooler,30,Bahamas
+80,2026-10-03,7,Name a country in the Americas where Spanish is not the most widely spoken language,18,Schooler,30,Dominica
+80,2026-10-03,7,Name a country in the Americas where Spanish is not the most widely spoken language,18,Schooler,30,Haiti
+80,2026-10-03,7,Name a country in the Americas where Spanish is not the most widely spoken language,18,Plankton,10,Brazil
+80,2026-10-03,7,Name a country in the Americas where Spanish is not the most widely spoken language,18,Plankton,10,Canada
 79,2026-10-02,1,Name a place in the Harry Potter universe,1530,Deep cut,85,18 Rue Philippe Lorand
 79,2026-10-02,1,Name a place in the Harry Potter universe,1530,Deep cut,85,18 Rue Philippe Lorand attic
 79,2026-10-02,1,Name a place in the Harry Potter universe,1530,Deep cut,85,27 Chislehurst Gardens
