@@ -1,5 +1,495 @@
 [
  {
+  "n": 81,
+  "date": "2026-10-04",
+  "prompts": [
+   {
+    "q": "Name a YouTuber with more than 10 million subscribers",
+    "accepted": 2646,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Bounce Patrol"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 2213,
+      "picks": [
+       "_vector_",
+       "¿Cuánto Sabes?",
+       "123 Andrés",
+       "123 GO!",
+       "1MILLION Dance Studio",
+       "1theK",
+       "2MTV",
+       "3Palavrinhas",
+       "4plusone",
+       "5-Minute Recipes"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 354,
+      "picks": [
+       "21 Savage",
+       "50 Cent",
+       "6ix9ine",
+       "ABC News",
+       "AC/DC",
+       "Adele",
+       "Airrack",
+       "Akon",
+       "Al Jazeera",
+       "Alan Becker"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 72,
+      "picks": [
+       "5-Minute Crafts",
+       "Aphmau",
+       "Ariana Grande",
+       "Billie Eilish",
+       "BLACKPINK",
+       "Blippi",
+       "BTS",
+       "Casey Neistat",
+       "CoComelon",
+       "CoryxKenshin"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Jake Paul",
+       "Logan Paul",
+       "MrBeast"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a gas station chain",
+    "accepted": 2864,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Gilmore"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 2781,
+      "picks": [
+       "+b Energias",
+       "1-2-3",
+       "1st Stop",
+       "24h Tankautomat Albers",
+       "2A & 2E",
+       "3D",
+       "4-Star",
+       "500 Platolene",
+       "7Kıta",
+       "7Sette"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 51,
+      "picks": [
+       "Albertsons",
+       "Allsup's",
+       "Bharat Petroleum",
+       "BJ's",
+       "Caltex",
+       "Canadian Tire",
+       "Cenex",
+       "Cities Service",
+       "Clark",
+       "Coastal"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 25,
+      "picks": [
+       "7-Eleven",
+       "76",
+       "Amoco",
+       "ARCO",
+       "Buc-ee's",
+       "Casey's",
+       "Circle K",
+       "Citgo",
+       "Conoco",
+       "Costco"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "BP",
+       "Chevron",
+       "Exxon",
+       "Mobil"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country with both an O and an R in its name",
+    "accepted": 37,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 5,
+      "picks": [
+       "Cabo Verde",
+       "Micronesia",
+       "Republic of the Congo",
+       "São Tomé and Príncipe"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 13,
+      "picks": [
+       "Andorra",
+       "Barbados",
+       "Bosnia and Herzegovina",
+       "Burkina Faso",
+       "Cameroon",
+       "Democratic Republic of the Congo",
+       "Equatorial Guinea",
+       "Ivory Coast",
+       "Montenegro",
+       "North Macedonia"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Costa Rica",
+       "Croatia",
+       "Dominican Republic",
+       "Ecuador",
+       "El Salvador",
+       "Georgia",
+       "Honduras",
+       "Jordan",
+       "Luxembourg",
+       "Romania"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Morocco",
+       "North Korea",
+       "Norway",
+       "Portugal"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a folder in an email inbox",
+    "accepted": 124,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Imbox"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 90,
+      "picks": [
+       "Active Contacts",
+       "Active Threads",
+       "Assigned to Me",
+       "Attachments",
+       "Buzz",
+       "Cabinet",
+       "Categorized Mail",
+       "Chats",
+       "Clutter",
+       "Conflicts"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 22,
+      "picks": [
+       "All Inboxes",
+       "All Mail",
+       "Calendar",
+       "Contacts",
+       "Favorites",
+       "Focused",
+       "Forums",
+       "Important",
+       "Newsletters",
+       "Other"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 5,
+      "picks": [
+       "Archive",
+       "Outbox",
+       "Promotions",
+       "Social"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Drafts",
+       "Inbox",
+       "Sent",
+       "Spam"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something listed on a nutrition facts label",
+    "accepted": 114,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 68,
+      "picks": [
+       "Alanine",
+       "Alpha-linolenic acid",
+       "Arachidonic acid",
+       "Arginine",
+       "As packaged",
+       "As prepared",
+       "Ash",
+       "Available carbohydrate",
+       "Beta-alanine",
+       "Beta-carotene"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 21,
+      "picks": [
+       "Amino acids",
+       "Amount per serving",
+       "Calories from fat",
+       "Creatine",
+       "Folate",
+       "Gluten",
+       "Magnesium",
+       "Monounsaturated fat",
+       "Niacin",
+       "Omega-3"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 18,
+      "picks": [
+       "Added sugars",
+       "Caffeine",
+       "Calcium",
+       "Cholesterol",
+       "Dietary fiber",
+       "Iron",
+       "Minerals",
+       "Percent Daily Value",
+       "Potassium",
+       "Salt"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Calories",
+       "Protein",
+       "Sodium",
+       "Sugar",
+       "Total carbohydrate"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country larger than the UK by area",
+    "accepted": 77,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 15,
+      "picks": [
+       "Angola",
+       "Botswana",
+       "Burkina Faso",
+       "Cameroon",
+       "Central African Republic",
+       "Gabon",
+       "Ivory Coast",
+       "Mali",
+       "Mauritania",
+       "Mozambique"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 29,
+      "picks": [
+       "Afghanistan",
+       "Algeria",
+       "Bolivia",
+       "Chad",
+       "Democratic Republic of the Congo",
+       "Ecuador",
+       "Ethiopia",
+       "Finland",
+       "Iraq",
+       "Kazakhstan"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 25,
+      "picks": [
+       "Argentina",
+       "Chile",
+       "Colombia",
+       "Egypt",
+       "France",
+       "Germany",
+       "Indonesia",
+       "Iran",
+       "Italy",
+       "Japan"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Australia",
+       "Brazil",
+       "Canada",
+       "China",
+       "India",
+       "Russia"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a religious role or title in Christianity, Islam, Buddhism, Hinduism or Judaism",
+    "accepted": 1228,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Exilarch"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 1104,
+      "picks": [
+       "Abba",
+       "Abbé",
+       "Abbot president",
+       "Abbot primate",
+       "Abbreviator",
+       "Abdal",
+       "Abegha",
+       "Abhidhaja Maha Rattha Guru",
+       "Abhivamsa",
+       "Abthain"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 91,
+      "picks": [
+       "Abbess",
+       "Acolyte",
+       "Archbishop of Canterbury",
+       "Archdeacon",
+       "Associate pastor",
+       "Bodhisattva",
+       "Brahmin",
+       "Brother",
+       "Buddhist priest",
+       "Caliph"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 23,
+      "picks": [
+       "Abbot",
+       "Altar server",
+       "Apostle",
+       "Archbishop",
+       "Ayatollah",
+       "Cantor",
+       "Cardinal",
+       "Chaplain",
+       "Dalai Lama",
+       "Deacon"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Bishop",
+       "Imam",
+       "Monk",
+       "Nun",
+       "Pastor",
+       "Pope",
+       "Priest"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 80,
   "date": "2026-10-03",
   "prompts": [
