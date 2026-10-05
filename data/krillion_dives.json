@@ -1,5 +1,480 @@
 [
  {
+  "n": 82,
+  "date": "2026-10-05",
+  "prompts": [
+   {
+    "q": "Name an artist with at least 1 million monthly listeners on Spotify",
+    "accepted": 14605,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Rodríguez"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 11875,
+      "picks": [
+       "-Prey",
+       "¿Téo?",
+       ".diedlonely",
+       ".Feast",
+       "((( O )))",
+       "[Alexandros]",
+       "@atutowy",
+       "&friends",
+       "&ME",
+       "&TEAM"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 2323,
+      "picks": [
+       "$uicideboy$",
+       "070 Shake",
+       "10,000 Maniacs",
+       "100 gecs",
+       "10cc",
+       "112",
+       "2 Unlimited",
+       "24kGoldn",
+       "2hollis",
+       "2NE1"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 381,
+      "picks": [
+       "\"Weird Al\" Yankovic",
+       "*NSYNC",
+       "2 Chainz",
+       "21 Savage",
+       "2Pac",
+       "50 Cent",
+       "A$AP Rocky",
+       "Aaliyah",
+       "ABBA",
+       "AC/DC"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 24,
+      "picks": [
+       "Adele",
+       "Ariana Grande",
+       "Bad Bunny",
+       "Beyoncé",
+       "Billie Eilish",
+       "Bruno Mars",
+       "Coldplay",
+       "Drake",
+       "Ed Sheeran",
+       "Eminem"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a part of a fruit",
+    "accepted": 128,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Haustorium"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 88,
+      "picks": [
+       "Abscission zone",
+       "Achene",
+       "Apex",
+       "Beak",
+       "Bract",
+       "Bracteole",
+       "Brush",
+       "Bulb",
+       "Button",
+       "Calyx basin"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 26,
+      "picks": [
+       "Aril",
+       "Base",
+       "Bloom",
+       "Blossom end",
+       "Calyx",
+       "Cheek",
+       "Crown",
+       "Endocarp",
+       "Eyes",
+       "Fiber"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Juice",
+       "Leaves",
+       "Pith",
+       "Rind",
+       "Segment"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Core",
+       "Flesh",
+       "Pit",
+       "Seed",
+       "Skin"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country whose name ends in an \"ee\" sound (like Italy)",
+    "accepted": 18,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2,
+      "picks": [
+       "Equatorial Guinea"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 8,
+      "picks": [
+       "Burundi",
+       "Djibouti",
+       "Guinea",
+       "Malawi",
+       "Mali",
+       "Papua New Guinea",
+       "Vatican City"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 3,
+      "picks": [
+       "Fiji",
+       "Haiti"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Chile",
+       "Germany",
+       "Italy"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a TV brand",
+    "accepted": 1187,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "DuMont"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 1126,
+      "picks": [
+       "2E",
+       "4kmism",
+       "Abans",
+       "AccesStyle",
+       "Ace",
+       "Aceline",
+       "acerpure",
+       "Aconatic",
+       "Adelphi",
+       "Adsun"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 40,
+      "picks": [
+       "Acer",
+       "Admiral",
+       "Akai",
+       "Alba",
+       "Apex Digital",
+       "Bang & Olufsen",
+       "Blaupunkt",
+       "Bush",
+       "Coby",
+       "Crosley"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 16,
+      "picks": [
+       "Amazon Fire TV",
+       "Hisense",
+       "Insignia",
+       "JVC",
+       "Magnavox",
+       "onn.",
+       "Panasonic",
+       "Philips",
+       "RCA",
+       "Roku"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "LG",
+       "Samsung"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something you can do with a keyboard shortcut (like copy with Ctrl+C)",
+    "accepted": 777,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Mouse Keys"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 682,
+      "picks": [
+       "Accessibility shortcuts panel",
+       "Activate window demanding attention",
+       "Add auto layout",
+       "Add Bcc",
+       "Add border",
+       "Add cursor",
+       "Add filter",
+       "Add marker",
+       "Add reaction",
+       "Add title"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 65,
+      "picks": [
+       "Align text",
+       "Bookmark page",
+       "Brightness up / down",
+       "Bullet list",
+       "Clipboard history",
+       "Crop",
+       "Decrease font size",
+       "Delete word",
+       "Duplicate",
+       "Emoji picker"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 22,
+      "picks": [
+       "Bold",
+       "Cancel",
+       "Close tab",
+       "Close window",
+       "Delete",
+       "Find",
+       "Italic",
+       "Lock screen",
+       "New tab",
+       "Open Task Manager"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Copy",
+       "Cut",
+       "Paste",
+       "Print",
+       "Save"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a fruit or vegetable that starts with P",
+    "accepted": 970,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 908,
+      "picks": [
+       "Pablo beet",
+       "Pacay",
+       "Pacaya",
+       "Pachino",
+       "Pacienta squash",
+       "Pacific amanita",
+       "Pacific Beauty",
+       "Pacific blackberry",
+       "Pacific crabapple",
+       "Pacific dulse"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 44,
+      "picks": [
+       "Padrón pepper",
+       "Pak choi",
+       "Pattypan",
+       "Pawpaw",
+       "Pea shoots",
+       "Peanut",
+       "Pearl onion",
+       "Pearl oyster mushroom",
+       "Pecan",
+       "Pepino"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 7,
+      "picks": [
+       "Parsnip",
+       "Passion fruit",
+       "Persimmon",
+       "Plantain",
+       "Pomelo",
+       "Portobello"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Papaya",
+       "Pea",
+       "Peach",
+       "Pear",
+       "Pepper",
+       "Pineapple",
+       "Plum",
+       "Pomegranate",
+       "Potato"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a website or app built mainly for ratings and reviews",
+    "accepted": 707,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 645,
+      "picks": [
+       "@cosme",
+       "1000Kitap",
+       "148Apps",
+       "360LiFE",
+       "4Travel",
+       "60 Millions de consommateurs",
+       "Abjjad",
+       "Acclaimed Music",
+       "Adcampus",
+       "Agave Matchmaker"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 48,
+      "picks": [
+       "Album of the Year",
+       "AllMusic",
+       "AniList",
+       "Avvo",
+       "Backloggd",
+       "BeerAdvocate",
+       "Beli",
+       "Better Business Bureau",
+       "BoardGameGeek",
+       "Capterra"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Angi",
+       "Consumer Reports",
+       "Glassdoor",
+       "Goodreads",
+       "IMDb",
+       "Letterboxd",
+       "Metacritic",
+       "RateMyProfessors"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Google Reviews",
+       "Rotten Tomatoes",
+       "Tripadvisor"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 81,
   "date": "2026-10-04",
   "prompts": [
