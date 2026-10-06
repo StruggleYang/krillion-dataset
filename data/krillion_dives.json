@@ -1,5 +1,474 @@
 [
  {
+  "n": 83,
+  "date": "2026-10-06",
+  "prompts": [
+   {
+    "q": "Name a language ending in -ese",
+    "accepted": 316,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 291,
+      "picks": [
+       "Aargauese",
+       "Acehnese",
+       "Adarese",
+       "Albanese",
+       "Alorese",
+       "Amanese",
+       "Ambonese",
+       "Amoyese",
+       "Amuese",
+       "Anarrese"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 18,
+      "picks": [
+       "Animalese",
+       "Assamese",
+       "Balinese",
+       "Bhutanese",
+       "Burmese",
+       "Ewokese",
+       "Faroese",
+       "Huttese",
+       "Javanese",
+       "Maltese"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 2,
+      "picks": [
+       "Cantonese"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Chinese",
+       "Japanese",
+       "Portuguese"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sport or game where you score by getting a ball or object into a hole, hoop, basket or pocket",
+    "accepted": 236,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 189,
+      "picks": [
+       "American carrom",
+       "American four-ball billiards",
+       "American snooker",
+       "Ants in the Pants",
+       "Artistic pool",
+       "Back-basket ball toss",
+       "Bagatelle",
+       "Bank pool",
+       "Bar billiards",
+       "Bas-Ket"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 34,
+      "picks": [
+       "3x3 basketball",
+       "Arcade basketball",
+       "Around the World",
+       "BASEketball",
+       "Beer die",
+       "Bozo buckets",
+       "Bumper pool",
+       "Bushel basket toss",
+       "Carrom",
+       "Crokinole"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Beer pong",
+       "Cornhole",
+       "Croquet",
+       "Disc golf",
+       "Eight-ball",
+       "Netball",
+       "Skee-Ball"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Basketball",
+       "Golf",
+       "Mini golf"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of brush",
+    "accepted": 404,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Fitch"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 321,
+      "picks": [
+       "Abrasive nylon brush",
+       "Acid brush",
+       "Acrylic nail brush",
+       "Action brush",
+       "Adjustment brush",
+       "Angle broom",
+       "Anilox brush",
+       "Anime brush",
+       "Aquarium brush",
+       "Archaeology brush"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 65,
+      "picks": [
+       "Acrylic brush",
+       "Airbrush",
+       "Angled brush",
+       "Baby brush",
+       "Baby toothbrush",
+       "Badger brush",
+       "Bamboo toothbrush",
+       "Bath brush",
+       "Beard brush",
+       "Blending brush"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Bottle brush",
+       "Broom",
+       "Dish brush",
+       "Electric toothbrush",
+       "Makeup brush",
+       "Nail brush",
+       "Paddle brush",
+       "Pastry brush",
+       "Round brush",
+       "Scrub brush"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Hairbrush",
+       "Paintbrush"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a home safety device (like a smoke detector)",
+    "accepted": 167,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Bed shaker"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 110,
+      "picks": [
+       "AFCI breaker",
+       "Anti-climb spikes",
+       "Anti-entrapment drain cover",
+       "Anti-scald valve",
+       "Appliance lock",
+       "Auto shut-off plug",
+       "Automatic water shutoff valve",
+       "Backflow preventer",
+       "Balcony net",
+       "Barking dog alarm"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 44,
+      "picks": [
+       "AED",
+       "Anti-tip straps",
+       "Baby gate",
+       "Baby monitor",
+       "Bed rail",
+       "Circuit breaker",
+       "Combination smoke and CO alarm",
+       "Corner guards",
+       "Door alarm",
+       "Door chain"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Cabinet locks",
+       "Carbon monoxide detector",
+       "Deadbolt",
+       "Door lock",
+       "Motion sensor",
+       "Security camera",
+       "Security light",
+       "Security system"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Fire extinguisher"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something you can do to a photo in your phone's photo editor (like crop)",
+    "accepted": 332,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Curves"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 262,
+      "picks": [
+       "1977",
+       "3D cartoon",
+       "Abu Dhabi filter",
+       "Add muscles",
+       "Add shadow",
+       "Add shapes",
+       "Aden",
+       "Afterglow",
+       "Afternoon",
+       "AI fashion model"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 54,
+      "picks": [
+       "Age filter",
+       "Art style",
+       "Aspect ratio",
+       "Body reshape",
+       "Bounce",
+       "Brilliance",
+       "Brush",
+       "Cartoon",
+       "Clarendon",
+       "Collage"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Add text",
+       "Auto-enhance",
+       "Black and white",
+       "Blur",
+       "Contrast",
+       "Flip",
+       "Markup",
+       "Red-eye removal",
+       "Saturation"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Brightness",
+       "Crop",
+       "Filters"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a form of pay a worker can receive",
+    "accepted": 333,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Kill fee"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 247,
+      "picks": [
+       "Accessorial pay",
+       "Adjunct pay",
+       "Administrative leave pay",
+       "Administratively uncontrollable overtime",
+       "Affiliate commission",
+       "Affiliation bonus",
+       "Air ticket allowance",
+       "All-purpose allowance",
+       "All-Star bonus",
+       "Artist resale royalty"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 57,
+      "picks": [
+       "401(k) match",
+       "Advance",
+       "Appearance fee",
+       "Back pay",
+       "Bounty",
+       "Buyout",
+       "Car allowance",
+       "Clothing allowance",
+       "Combat pay",
+       "Company scrip"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 21,
+      "picks": [
+       "Cash",
+       "Christmas bonus",
+       "Direct deposit",
+       "Double time",
+       "Hazard pay",
+       "Holiday pay",
+       "Maternity pay",
+       "Minimum wage",
+       "Paycheck",
+       "Pension"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Bonus",
+       "Commission",
+       "Overtime",
+       "Salary",
+       "Tips"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country with both an A and an M in its name",
+    "accepted": 46,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 4,
+      "picks": [
+       "East Timor",
+       "Mauritania",
+       "São Tomé and Príncipe"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 15,
+      "picks": [
+       "Cameroon",
+       "Democratic Republic of the Congo",
+       "Gambia",
+       "Malawi",
+       "Marshall Islands",
+       "Mauritius",
+       "Micronesia",
+       "Moldova",
+       "Namibia",
+       "North Macedonia"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Armenia",
+       "Bahamas",
+       "Cambodia",
+       "Colombia",
+       "Denmark",
+       "Dominican Republic",
+       "Guatemala",
+       "Maldives",
+       "Mali",
+       "Malta"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Germany",
+       "Jamaica",
+       "Madagascar",
+       "Malaysia",
+       "Panama"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 82,
   "date": "2026-10-05",
   "prompts": [
