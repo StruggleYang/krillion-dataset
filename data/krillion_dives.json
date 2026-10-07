@@ -1,5 +1,504 @@
 [
  {
+  "n": 84,
+  "date": "2026-10-07",
+  "prompts": [
+   {
+    "q": "Name a dating app",
+    "accepted": 2197,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Hater"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 2154,
+      "picks": [
+       "#open",
+       "123 Date Me",
+       "1km",
+       "1Love",
+       "1on1",
+       "2 Man",
+       "2Link",
+       "2RedBeans",
+       "3Fun",
+       "3Meet"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 29,
+      "picks": [
+       "Adam4Adam",
+       "AdultFriendFinder",
+       "Badoo",
+       "BlackPeopleMeet",
+       "BLK",
+       "Chemistry.com",
+       "Dating.com",
+       "Dil Mil",
+       "Duet",
+       "EliteSingles"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 7,
+      "picks": [
+       "Ashley Madison",
+       "Christian Mingle",
+       "Coffee Meets Bagel",
+       "Grindr",
+       "OkCupid",
+       "Plenty of Fish"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Bumble",
+       "eHarmony",
+       "Hinge",
+       "Match"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a food you'd grate (kinds of cheese count once)",
+    "accepted": 141,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Cured egg yolk"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 96,
+      "picks": [
+       "Almond",
+       "Ambarella",
+       "Amla",
+       "Ash gourd",
+       "Asian pear",
+       "Bambangan",
+       "Bergamot",
+       "Black mangrove propagule",
+       "Bottarga",
+       "Bottle gourd"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 33,
+      "picks": [
+       "Apple",
+       "Beet",
+       "Butter",
+       "Butternut squash",
+       "Cabbage",
+       "Cauliflower",
+       "Cinnamon",
+       "Cucumber",
+       "Daikon",
+       "Eggplant"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 7,
+      "picks": [
+       "Chocolate",
+       "Coconut",
+       "Garlic",
+       "Ginger",
+       "Lemon",
+       "Nutmeg"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Carrot",
+       "Cheese"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a stand-up comedian",
+    "accepted": 7358,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 7031,
+      "picks": [
+       "A. Whitney Brown",
+       "A.J. McKenzie",
+       "Aa! Shiraki",
+       "Aakash Gupta",
+       "Aamer Rahman",
+       "Aaqib Merchant",
+       "Aaron Aryanpur",
+       "Aaron Barschak",
+       "Aaron Berg",
+       "Aaron Branch"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 277,
+      "picks": [
+       "Aaron Chen",
+       "Adam Carolla",
+       "Adam DeVine",
+       "Aisha Tyler",
+       "Akaash Singh",
+       "Alan Carr",
+       "Alan King",
+       "Ali Siddiq",
+       "Andrew Dice Clay",
+       "Andrew Santino"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 42,
+      "picks": [
+       "Adam Sandler",
+       "Ali Wong",
+       "Amy Schumer",
+       "Aziz Ansari",
+       "Bernie Mac",
+       "Bert Kreischer",
+       "Bill Burr",
+       "Bill Cosby",
+       "Bo Burnham",
+       "Ellen DeGeneres"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Chris Rock",
+       "Dave Chappelle",
+       "Eddie Murphy",
+       "George Carlin",
+       "Jerry Seinfeld",
+       "Kevin Hart"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a kind of gun that isn't designed as a weapon (like a glue gun)",
+    "accepted": 206,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Drench gun"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 140,
+      "picks": [
+       "Activator gun",
+       "Air cleaning gun",
+       "Alarm gun",
+       "Anti-static gun",
+       "Astronaut zip gun",
+       "Atom gun",
+       "Avalauncher",
+       "Aviation signal light gun",
+       "Bait gun",
+       "Balling gun"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 49,
+      "picks": [
+       "Air blow gun",
+       "Airbrush",
+       "Bang flag gun",
+       "Blowtorch gun",
+       "Brad nailer",
+       "Caulk gun",
+       "Chicken gun",
+       "Confetti gun",
+       "Drill gun",
+       "Electron gun"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Airsoft gun",
+       "Bubble gun",
+       "Cap gun",
+       "Ear piercing gun",
+       "Flare gun",
+       "Heat gun",
+       "Massage gun",
+       "Paintball gun",
+       "Spray gun"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Glue gun",
+       "Nail gun",
+       "Nerf gun",
+       "Staple gun"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a city in Europe with over 100,000 people",
+    "accepted": 764,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Atyrau"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 580,
+      "picks": [
+       "'s-Hertogenbosch",
+       "A Coruña",
+       "Aachen",
+       "Aalborg",
+       "Aarhus",
+       "Acharnes",
+       "Aix-en-Provence",
+       "Albacete",
+       "Alcalá de Henares",
+       "Alchevsk"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 126,
+      "picks": [
+       "Aberdeen",
+       "Antwerp",
+       "Basel",
+       "Belfast",
+       "Belgrade",
+       "Bergen",
+       "Bern",
+       "Bilbao",
+       "Bologna",
+       "Bonn"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 33,
+      "picks": [
+       "Birmingham",
+       "Brussels",
+       "Budapest",
+       "Copenhagen",
+       "Dortmund",
+       "Dresden",
+       "Düsseldorf",
+       "Geneva",
+       "Genoa",
+       "Glasgow"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 23,
+      "picks": [
+       "Amsterdam",
+       "Athens",
+       "Barcelona",
+       "Berlin",
+       "Dublin",
+       "Edinburgh",
+       "Florence",
+       "Frankfurt",
+       "Hamburg",
+       "Istanbul"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a kind of live stage show (like a magic show)",
+    "accepted": 790,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Chautauqua"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 659,
+      "picks": [
+       "2.5D musical",
+       "Aboriginal dance show",
+       "Acro dance",
+       "Acte de ballet",
+       "Acto",
+       "Aerial dance",
+       "Afterpiece",
+       "Agitprop",
+       "Aitys",
+       "Akhyana"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 112,
+      "picks": [
+       "Acrobatic show",
+       "Aerial show",
+       "Animal show",
+       "Award show",
+       "Ballet folklórico",
+       "Balloon show",
+       "Ballroom dance show",
+       "Beauty pageant",
+       "Bubble show",
+       "Burlesque"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Broadway show",
+       "Dance recital",
+       "Dance show",
+       "Drag show",
+       "Drama",
+       "Improv",
+       "Musical",
+       "Puppet show"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Ballet",
+       "Circus",
+       "Comedy show",
+       "Concert",
+       "Magic show",
+       "Opera",
+       "Play"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a solo sport (no card games, board games, or esports)",
+    "accepted": 1727,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Fierljeppen"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 1529,
+      "picks": [
+       "10K run",
+       "360Ball",
+       "3D archery",
+       "Aba güreşi",
+       "Accuracy landing",
+       "Acrobatic dance",
+       "Adimurai",
+       "Aerial Hoop",
+       "Aerial Silks",
+       "Aerial straps"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 169,
+      "picks": [
+       "5K run",
+       "Alpine skiing",
+       "Arm wrestling",
+       "Artistic gymnastics",
+       "Auto racing",
+       "Axe throwing",
+       "Backstroke",
+       "Balance Beam",
+       "Ballet",
+       "Ballroom dancing"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 22,
+      "picks": [
+       "Archery",
+       "Badminton",
+       "Bowling",
+       "Cycling",
+       "Diving",
+       "Figure skating",
+       "Gymnastics",
+       "Horse racing",
+       "Karate",
+       "Marathon"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Boxing",
+       "Golf",
+       "Running",
+       "Swimming"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 83,
   "date": "2026-10-06",
   "prompts": [
