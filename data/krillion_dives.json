@@ -1,5 +1,491 @@
 [
  {
+  "n": 85,
+  "date": "2026-10-08",
+  "prompts": [
+   {
+    "q": "Name a sports car brand",
+    "accepted": 654,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Bricklin"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 582,
+      "picks": [
+       "9ff",
+       "AAD",
+       "AAT",
+       "AB Performance",
+       "Abadal",
+       "ABC",
+       "ABS",
+       "Active Power",
+       "Adamo",
+       "Adams Probe"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 48,
+      "picks": [
+       "Abarth",
+       "AC",
+       "Acura",
+       "Alpina",
+       "Alpine",
+       "Ariel",
+       "Austin-Healey",
+       "Automobili Pininfarina",
+       "Bentley",
+       "Brabus"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 18,
+      "picks": [
+       "Alfa Romeo",
+       "Aston Martin",
+       "Audi",
+       "BMW",
+       "Bugatti",
+       "Chevrolet",
+       "Dodge",
+       "Ford",
+       "Honda",
+       "Jaguar"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Ferrari",
+       "Lamborghini",
+       "McLaren"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something that uses a filter (physical filters, not photo filters)",
+    "accepted": 1611,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Bombilla"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 1505,
+      "picks": [
+       "3D printer",
+       "Abattoir",
+       "Acorn worm",
+       "acoustic-electric guitar",
+       "Aeroponics system",
+       "Aethalometer",
+       "Agricultural drone",
+       "Air brake",
+       "Air duct cleaning machine",
+       "Air handler"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 81,
+      "picks": [
+       "3D glasses",
+       "AeroPress",
+       "Air compressor",
+       "Air fryer",
+       "Airplane",
+       "Baleen whale",
+       "Blue light glasses",
+       "Bong",
+       "Chainsaw",
+       "Clam"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "Camera",
+       "Cigarette",
+       "Clothes dryer",
+       "Dishwasher",
+       "Espresso machine",
+       "Face mask",
+       "French press",
+       "Furnace",
+       "Gas mask",
+       "Humidifier"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Air conditioner",
+       "Air purifier",
+       "Aquarium",
+       "Car",
+       "Coffee maker",
+       "Swimming pool",
+       "Vacuum cleaner",
+       "Water filter pitcher"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a part of a shirt",
+    "accepted": 207,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Bar tack"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 162,
+      "picks": [
+       "Amulet",
+       "Appliqué",
+       "Armhole seam",
+       "Arrowhead",
+       "Back opening",
+       "Back vent",
+       "Badge tab",
+       "Bib",
+       "Bib tab",
+       "Binding"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 33,
+      "picks": [
+       "Armhole",
+       "Back",
+       "Body",
+       "Collar stay",
+       "Elbow",
+       "Elbow patch",
+       "Embroidery",
+       "Epaulet",
+       "Front",
+       "Graphic"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Buttonhole",
+       "Cuff",
+       "Hem",
+       "Label",
+       "Neckline"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Button",
+       "Collar",
+       "Pocket"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a symptom of a cold or flu",
+    "accepted": 88,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 39,
+      "picks": [
+       "Altered sense of smell",
+       "Bad breath",
+       "Bluish lips",
+       "Chest retractions",
+       "Coated tongue",
+       "Cold hands and feet",
+       "Confusion",
+       "Coughing up blood",
+       "Dark circles under eyes",
+       "Drooling"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 26,
+      "picks": [
+       "Brain fog",
+       "Chest pain",
+       "Croup",
+       "Dehydration",
+       "Dizziness",
+       "Dry mouth",
+       "Earache",
+       "Fever dreams",
+       "Flushed face",
+       "Goosebumps"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 12,
+      "picks": [
+       "Chest congestion",
+       "Diarrhea",
+       "Hoarseness",
+       "Loss of appetite",
+       "Loss of smell",
+       "Loss of taste",
+       "Mucus",
+       "Nausea",
+       "Sinus pressure",
+       "Sweating"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Body aches",
+       "Chills",
+       "Cough",
+       "Fatigue",
+       "Fever",
+       "Headache",
+       "Runny nose",
+       "Sneezing",
+       "Sore throat"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country whose name uses only one vowel letter (a, e, i, o, or u), repeats allowed (like Canada)",
+    "accepted": 23,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2,
+      "picks": [
+       "Comoros"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 6,
+      "picks": [
+       "Cyprus",
+       "Kazakhstan",
+       "Myanmar",
+       "Rwanda",
+       "Togo"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Bahamas",
+       "Chad",
+       "Egypt",
+       "Fiji",
+       "Ghana",
+       "Greece",
+       "Madagascar",
+       "Malta",
+       "Morocco",
+       "Qatar"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Canada",
+       "Japan"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a ceremony or celebration that marks a stage of life",
+    "accepted": 1026,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Kanreki"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 940,
+      "picks": [
+       "100th day memorial",
+       "40th day after death",
+       "9th day memorial",
+       "Aathwansa",
+       "Abakuá initiation",
+       "Abdapurti",
+       "Abdication ceremony",
+       "Achaluyegu",
+       "Adarni",
+       "Adhan in the baby's ear"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 63,
+      "picks": [
+       "18th birthday",
+       "21st birthday",
+       "Baby dedication",
+       "Baek-il",
+       "Bat mitzvah",
+       "Bris",
+       "Burial",
+       "Celebration of life",
+       "Chinese wedding tea ceremony",
+       "Circumcision ceremony"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 16,
+      "picks": [
+       "Anniversary",
+       "Bachelor party",
+       "Bachelorette party",
+       "Baptism",
+       "Bar mitzvah",
+       "Bridal shower",
+       "Coming of age ceremony",
+       "Engagement party",
+       "First communion",
+       "Gender reveal party"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Baby shower",
+       "Birthday",
+       "Funeral",
+       "Graduation"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sport normally played on grass",
+    "accepted": 378,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Stoolball"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 313,
+      "picks": [
+       "16-inch softball",
+       "Aba wrestling",
+       "Acoso y derribo",
+       "AirBadminton",
+       "Amputee football",
+       "Angleball",
+       "Archery golf",
+       "Atlatl throwing",
+       "Audaryspak",
+       "Aunt Sally"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 46,
+      "picks": [
+       "Archery",
+       "Australian rules football",
+       "Badminton",
+       "Bocce",
+       "Bubble soccer",
+       "Caber toss",
+       "Camogie",
+       "Canadian football",
+       "Cheese rolling",
+       "Cornhole"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Cricket",
+       "Cross-country running",
+       "Disc golf",
+       "Field hockey",
+       "Horse racing",
+       "Lacrosse",
+       "Polo",
+       "Rugby",
+       "Softball",
+       "Ultimate"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "American football",
+       "Baseball",
+       "Croquet",
+       "Golf",
+       "Soccer"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 84,
   "date": "2026-10-07",
   "prompts": [
