@@ -1,5 +1,491 @@
 [
  {
+  "n": 86,
+  "date": "2026-10-09",
+  "prompts": [
+   {
+    "q": "Name a Justin Bieber song",
+    "accepted": 252,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 194,
+      "picks": [
+       "#thatPOWER",
+       "2 Much",
+       "405",
+       "Actin' Up",
+       "Afraid to Say",
+       "All Around Me",
+       "All Bad",
+       "All I Can Take",
+       "All I Want Is You",
+       "All in It"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 30,
+      "picks": [
+       "10,000 Hours",
+       "2U",
+       "All Around the World",
+       "All I Want for Christmas Is You",
+       "All That Matters",
+       "Anyone",
+       "Believe",
+       "Changes",
+       "Company",
+       "Confident"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 23,
+      "picks": [
+       "As Long as You Love Me",
+       "Beauty and a Beat",
+       "Boyfriend",
+       "Cold Water",
+       "Daisies",
+       "Despacito",
+       "Eenie Meenie",
+       "Ghost",
+       "Holy",
+       "I Don't Care"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Baby",
+       "Love Yourself",
+       "Peaches"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an animal named after another animal (like seahorse)",
+    "accepted": 22894,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Beewolf"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 22376,
+      "picks": [
+       "10-spot ladybird",
+       "11-spot ladybird",
+       "12-spot ladybird",
+       "13-spot ladybird",
+       "14-spot ladybird",
+       "18-spot ladybird",
+       "2-spot ladybird",
+       "20-spotted ladybird beetle",
+       "22-spot ladybird",
+       "24-spot ladybird"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 477,
+      "picks": [
+       "Aardwolf",
+       "Abyssinian guinea pig",
+       "African bullfrog",
+       "African pygmy hedgehog",
+       "Alligator gar",
+       "Alligator lizard",
+       "Alligator snapping turtle",
+       "American bulldog",
+       "American bullfrog",
+       "American dog tick"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 32,
+      "picks": [
+       "Anteater",
+       "Bearded dragon",
+       "Bull shark",
+       "Bulldog",
+       "Camel spider",
+       "Crayfish",
+       "Dogfish",
+       "Dragonfly",
+       "Elephant seal",
+       "Firefly"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Bullfrog",
+       "Butterfly",
+       "Catfish",
+       "Guinea pig",
+       "Lionfish",
+       "Sea lion"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a Twitch streamer with more than 500k followers",
+    "accepted": 1501,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1144,
+      "picks": [
+       "114rblxx",
+       "1DrakoNz",
+       "21l04",
+       "2chamcham2",
+       "2xnowel",
+       "3Gaming",
+       "4elio6",
+       "5opka",
+       "8cho",
+       "8cok"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 294,
+      "picks": [
+       "39daph",
+       "5up",
+       "72hrs",
+       "A_Seagull",
+       "aceu",
+       "Adapt",
+       "AdmiralBahroo",
+       "AdmiralBulldog",
+       "Adriana Chechik",
+       "aDrive"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 56,
+      "picks": [
+       "Adin Ross",
+       "Agent00",
+       "Amouranth",
+       "Asmongold",
+       "Bugha",
+       "CaseOh",
+       "Clix",
+       "Corpse Husband",
+       "CouRage",
+       "DisguisedToast"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "IShowSpeed",
+       "Kai Cenat",
+       "Ninja",
+       "Pokimane",
+       "Shroud"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country whose flag has both green and red",
+    "accepted": 81,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 29,
+      "picks": [
+       "Belize",
+       "Central African Republic",
+       "Comoros",
+       "Costa Rica",
+       "Djibouti",
+       "Dominican Republic",
+       "Ecuador",
+       "El Salvador",
+       "Equatorial Guinea",
+       "Fiji"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 34,
+      "picks": [
+       "Azerbaijan",
+       "Belarus",
+       "Benin",
+       "Bolivia",
+       "Burkina Faso",
+       "Burundi",
+       "Cameroon",
+       "Dominica",
+       "Eritrea",
+       "Gambia"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "Afghanistan",
+       "Algeria",
+       "Bangladesh",
+       "Bulgaria",
+       "Ethiopia",
+       "Ghana",
+       "Hungary",
+       "Iran",
+       "Kenya",
+       "Lebanon"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Italy",
+       "Mexico"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a city in the UK (towns count too)",
+    "accepted": 2257,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2103,
+      "picks": [
+       "Abbots Langley",
+       "Abbotsbury",
+       "Aberaeron",
+       "Aberchirder",
+       "Aberdare",
+       "Aberdaron",
+       "Aberdyfi",
+       "Aberfeldy",
+       "Aberffraw",
+       "Aberfoyle"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 126,
+      "picks": [
+       "Aberystwyth",
+       "Aintree",
+       "Alnwick",
+       "Antrim",
+       "Armagh",
+       "Ascot",
+       "Bakewell",
+       "Banbury",
+       "Bangor",
+       "Barnsley"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 22,
+      "picks": [
+       "Aberdeen",
+       "Bath",
+       "Belfast",
+       "Brighton",
+       "Bristol",
+       "Cambridge",
+       "Cardiff",
+       "Coventry",
+       "Derby",
+       "Dundee"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Birmingham",
+       "Edinburgh",
+       "Liverpool",
+       "London"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an email service (like Gmail)",
+    "accepted": 645,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Bigfoot"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 615,
+      "picks": [
+       "012 Mail",
+       "10 Yen Mail",
+       "126 Mail",
+       "139 Mail",
+       "189 Mail",
+       "1secmail",
+       "20 Minute Mail",
+       "21CN Mail",
+       "263 Mail",
+       "33mail"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 22,
+      "picks": [
+       "10 Minute Mail",
+       "AT&T Mail",
+       "BT Mail",
+       "Comcast Email",
+       "CompuServe",
+       "Cox Email",
+       "EarthLink",
+       "Exchange Online",
+       "Fastmail",
+       "GMX"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 3,
+      "picks": [
+       "AOL Mail",
+       "Hotmail"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Gmail",
+       "Outlook"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of camera (not brands)",
+    "accepted": 187,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Afghan box camera"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 114,
+      "picks": [
+       "116 camera",
+       "127 camera",
+       "35mm movie camera",
+       "620 camera",
+       "65mm camera",
+       "828 camera",
+       "9.5mm camera",
+       "Acoustic camera",
+       "All-sky camera",
+       "Animal-borne camera"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 52,
+      "picks": [
+       "110 camera",
+       "126 camera",
+       "16mm camera",
+       "360 camera",
+       "8mm camera",
+       "Aerial camera",
+       "APS-C camera",
+       "Astronomy camera",
+       "Baby monitor camera",
+       "Backup camera"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "35mm camera",
+       "Action camera",
+       "Body camera",
+       "Dash cam",
+       "Disposable camera",
+       "Doorbell camera",
+       "DSLR",
+       "Mirrorless camera",
+       "Movie camera",
+       "Phone camera"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Camcorder",
+       "Digital camera",
+       "Film camera",
+       "Instant camera",
+       "Security camera"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 85,
   "date": "2026-10-08",
   "prompts": [
