@@ -1,5 +1,534 @@
 [
  {
+  "n": 87,
+  "date": "2026-10-10",
+  "prompts": [
+   {
+    "q": "Name a musical instrument",
+    "accepted": 3123,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Daxophone"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 2934,
+      "picks": [
+       "17-string koto",
+       "7-string guitar",
+       "Aarbajo",
+       "Abeng",
+       "Aboès",
+       "Aburukuwa",
+       "Accordica",
+       "Accordina",
+       "Accordola",
+       "Accordolin"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 133,
+      "picks": [
+       "12-string guitar",
+       "Acoustic-electric guitar",
+       "Alphorn",
+       "Alto clarinet",
+       "Alto saxophone",
+       "Appalachian dulcimer",
+       "Archtop guitar",
+       "Autoharp",
+       "Baglama",
+       "Balalaika"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 42,
+      "picks": [
+       "Accordion",
+       "Acoustic guitar",
+       "Bagpipes",
+       "Banjo",
+       "Bass drum",
+       "Bass guitar",
+       "Bassoon",
+       "Bell",
+       "Bongos",
+       "Bugle"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 12,
+      "picks": [
+       "Cello",
+       "Clarinet",
+       "Drums",
+       "Flute",
+       "Guitar",
+       "Harp",
+       "Piano",
+       "Saxophone",
+       "Trombone",
+       "Trumpet"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a vegetable that's botanically a fruit",
+    "accepted": 10073,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Achocha"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 9996,
+      "picks": [
+       "20 Karat Gold pumpkin",
+       "42-Day tomato",
+       "49er squash",
+       "7 Pot Douglah",
+       "7 Pot pepper",
+       "7 Pot Primo pepper",
+       "A. q. cherry tomato",
+       "A. z. cutler tomato",
+       "Aaa sweet solano tomato",
+       "Aarue breadfruit"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 57,
+      "picks": [
+       "Acorn squash",
+       "Anaheim pepper",
+       "Banana pepper",
+       "Beefsteak tomato",
+       "Black-eyed pea",
+       "Carolina Reaper",
+       "Cayenne pepper",
+       "Chayote",
+       "Chinese eggplant",
+       "Cinderella pumpkin"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Butternut squash",
+       "Cherry tomato",
+       "Chili pepper",
+       "Eggplant",
+       "Green bean",
+       "Okra",
+       "Olive",
+       "Spaghetti squash"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Avocado",
+       "Corn",
+       "Cucumber",
+       "Peas",
+       "Pepper",
+       "Pumpkin",
+       "Squash",
+       "Tomato"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a body part people have exactly two of (like ears)",
+    "accepted": 2639,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Anatomical snuffboxes"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 2539,
+      "picks": [
+       "Abducens nerves",
+       "Abducens nucleus",
+       "Abductor digiti minimi",
+       "Abductor hallucis",
+       "Abductor pollicis brevis",
+       "Abductor pollicis longus",
+       "AC joints",
+       "Accessory basal nucleus",
+       "Accessory cephalic veins",
+       "Accessory cuneate nucleus"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 68,
+      "picks": [
+       "Abductors",
+       "Achilles tendons",
+       "ACLs",
+       "Adductors",
+       "Adrenal glands",
+       "Arches",
+       "Atria",
+       "Big toes",
+       "Brain hemispheres",
+       "Bronchi"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 18,
+      "picks": [
+       "Ankles",
+       "Armpits",
+       "Biceps",
+       "Breasts",
+       "Buttocks",
+       "Calves",
+       "Cheeks",
+       "Collarbones",
+       "Eyebrows",
+       "Hips"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 12,
+      "picks": [
+       "Arms",
+       "Ears",
+       "Elbows",
+       "Eyes",
+       "Feet",
+       "Hands",
+       "Kidneys",
+       "Knees",
+       "Legs",
+       "Lungs"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a city with the word \"City\" in its name (like Mexico City)",
+    "accepted": 846,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Atomic City"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 769,
+      "picks": [
+       "10th of Ramadan City",
+       "15th of May City",
+       "6th of October City",
+       "Adams City",
+       "Addu City",
+       "Aguascalientes City",
+       "Air Base City",
+       "Airport City",
+       "Al-Galala City",
+       "Al-Mutlaa City"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 58,
+      "picks": [
+       "Bay City",
+       "Benin City",
+       "Boulder City",
+       "Bullhead City",
+       "Cebu City",
+       "Cedar City",
+       "Central City",
+       "Chihuahua City",
+       "City of London",
+       "City of San Marino"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Belize City",
+       "Carson City",
+       "Gaza City",
+       "Guatemala City",
+       "Ho Chi Minh City",
+       "Jefferson City",
+       "Jersey City",
+       "Kuwait City",
+       "Panama City",
+       "Quebec City"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Atlantic City",
+       "Kansas City",
+       "Mexico City",
+       "New York City",
+       "Oklahoma City"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a juice brand",
+    "accepted": 1014,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Donald Duck orange juice"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 916,
+      "picks": [
+       "365 by Whole Foods Market",
+       "7-Select",
+       "Ades",
+       "Afia",
+       "After the Fall",
+       "Agha Juice",
+       "Agousha",
+       "Al Ain",
+       "Al Naseem",
+       "Al Rabie"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 75,
+      "picks": [
+       "AriZona",
+       "Bai",
+       "Boing",
+       "Bolthouse Farms",
+       "Boost Juice",
+       "Booster Juice",
+       "Calypso",
+       "Campbell's",
+       "Clamato",
+       "Del Valle"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "Apple & Eve",
+       "Del Monte",
+       "Dole",
+       "Florida's Natural",
+       "Hawaiian Punch",
+       "Hi-C",
+       "Jamba Juice",
+       "Juicy Juice",
+       "Martinelli's",
+       "Naked"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Capri Sun",
+       "Minute Maid",
+       "Mott's",
+       "Ocean Spray",
+       "Simply",
+       "Tropicana"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a piece of baking equipment",
+    "accepted": 261,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Pie bird"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 188,
+      "picks": [
+       "Airbrush",
+       "Bagel board",
+       "Baguette flipping board",
+       "Baguette pan",
+       "Bain-marie",
+       "Bakers rack",
+       "Baking steel",
+       "Banneton liner",
+       "Batter dispenser",
+       "Batter smoother"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 44,
+      "picks": [
+       "Air fryer",
+       "Aluminum foil",
+       "Banneton",
+       "Bench scraper",
+       "Blender",
+       "Bread knife",
+       "Brownie pan",
+       "Cake stand",
+       "Candy thermometer",
+       "Cast iron skillet"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 17,
+      "picks": [
+       "9x13 pan",
+       "Baking dish",
+       "Bread maker",
+       "Bundt pan",
+       "Cookie cutter",
+       "Cooling rack",
+       "Cupcake liners",
+       "Hand mixer",
+       "Kitchen scale",
+       "Loaf pan"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Baking sheet",
+       "Cake pan",
+       "Measuring cups",
+       "Mixing bowl",
+       "Muffin tin",
+       "Oven",
+       "Rolling pin",
+       "Spatula",
+       "Stand mixer"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an animal whose name ends in Y",
+    "accepted": 10340,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Bilby"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 10164,
+      "picks": [
+       "88 butterfly",
+       "89'98 butterfly",
+       "Aba's long-horned caddisfly",
+       "Abbott's booby",
+       "Abbott's moray",
+       "Abkhazskaya donkey",
+       "Abnormal Judy",
+       "Abrolhos lesser noddy",
+       "Abrupt bee fly",
+       "Aby"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 145,
+      "picks": [
+       "African grey",
+       "Alaskan husky",
+       "American Bully",
+       "Angora bunny",
+       "Atlantic canary",
+       "Atlantic stingray",
+       "Billy",
+       "Birdy",
+       "Blackfly",
+       "Blowfly"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Anchovy",
+       "Blue jay",
+       "Booby",
+       "Canary",
+       "Dragonfly",
+       "Firefly",
+       "Fruit fly",
+       "Grizzly",
+       "Guppy",
+       "Housefly"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Bunny",
+       "Butterfly",
+       "Donkey",
+       "Fly",
+       "Kitty",
+       "Monkey",
+       "Pony",
+       "Puppy"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 86,
   "date": "2026-10-09",
   "prompts": [
