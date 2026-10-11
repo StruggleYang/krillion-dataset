@@ -32,9 +32,12 @@ MAX_PICKS = 10  # sample size kept per tier; the official sheet is complete
 
 
 def fetch(url: str) -> str:
-    req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=25) as r:
-        return r.read().decode()
+    import subprocess
+    r = subprocess.run(["curl", "-sL", "--max-time", "25", "-A", UA["User-Agent"], url],
+                       capture_output=True, timeout=30)
+    if r.returncode != 0:
+        raise RuntimeError(f"curl exit {r.returncode} for {url}")
+    return r.stdout.decode()
 
 
 def strip_tags(s: str) -> str:

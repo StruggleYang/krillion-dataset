@@ -1,5 +1,486 @@
 [
  {
+  "n": 88,
+  "date": "2026-10-11",
+  "prompts": [
+   {
+    "q": "Name something sold in a roll",
+    "accepted": 652,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Flypaper"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 474,
+      "picks": [
+       "3D printer filament",
+       "Absorbent roll",
+       "Aerogel blanket",
+       "Air pillow film",
+       "Aisle runner",
+       "Antacid tablets",
+       "Anti-fatigue matting",
+       "Anti-slip paper",
+       "Anti-slip tape",
+       "Anti-static tape"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 143,
+      "picks": [
+       "Arctic roll",
+       "Artificial turf",
+       "Athletic tape",
+       "Bags on a roll",
+       "Bandage",
+       "Barbed wire",
+       "Batting",
+       "Beach mat",
+       "Bedroll",
+       "Biscuit dough"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 26,
+      "picks": [
+       "Bubble wrap",
+       "Carpet",
+       "Cigarette",
+       "Cinnamon roll",
+       "Coins",
+       "Crescent roll dough",
+       "Egg roll",
+       "Electrical tape",
+       "Film",
+       "Fruit Roll-Ups"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Aluminum foil",
+       "Duct tape",
+       "Paper towels",
+       "Plastic wrap",
+       "Tape",
+       "Toilet paper"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of table (the furniture)",
+    "accepted": 788,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Eight Immortals table"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 661,
+      "picks": [
+       "Aalto table",
+       "Acrylic table",
+       "Adirondack table",
+       "Alex desk",
+       "Ålhult table",
+       "Älskvärd changing table",
+       "Altar table",
+       "Aluminum table",
+       "Amish table",
+       "Ämmaryd table"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 101,
+      "picks": [
+       "Acacia table",
+       "Accent table",
+       "Art table",
+       "Autopsy table",
+       "Banquet table",
+       "Bar table",
+       "Beer pong table",
+       "Birch table",
+       "Bistro table",
+       "Blackjack table"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 18,
+      "picks": [
+       "Air hockey table",
+       "Card table",
+       "Changing table",
+       "Computer desk",
+       "Conference table",
+       "Console table",
+       "Desk",
+       "Dressing table",
+       "Folding table",
+       "Foosball table"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Coffee table",
+       "Dining table",
+       "End table",
+       "Kitchen table",
+       "Picnic table"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a metal (pure elements only; alloys like steel don't count)",
+    "accepted": 95,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Rhenium"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 47,
+      "picks": [
+       "Actinium",
+       "Americium",
+       "Berkelium",
+       "Bohrium",
+       "Californium",
+       "Cerium",
+       "Copernicium",
+       "Curium",
+       "Darmstadtium",
+       "Dubnium"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 24,
+      "picks": [
+       "Antimony",
+       "Barium",
+       "Beryllium",
+       "Bismuth",
+       "Cadmium",
+       "Cesium",
+       "Gallium",
+       "Germanium",
+       "Iridium",
+       "Manganese"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Calcium",
+       "Chromium",
+       "Cobalt",
+       "Lithium",
+       "Magnesium",
+       "Nickel",
+       "Plutonium",
+       "Potassium",
+       "Sodium",
+       "Titanium"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Aluminum",
+       "Copper",
+       "Gold",
+       "Iron",
+       "Lead",
+       "Mercury",
+       "Platinum",
+       "Silver"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a kind of license or permit a person can get",
+    "accepted": 922,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Letter of marque"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 765,
+      "picks": [
+       "Abalone license",
+       "Aboriginal land permit",
+       "Academic Free license",
+       "Accredited Employer Work visa",
+       "Acupuncture license",
+       "Administrative scrivener license",
+       "ADR license",
+       "Adult entertainer license",
+       "Advance parole",
+       "Adventure activities license"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 128,
+      "picks": [
+       "Air traffic controller license",
+       "Airline transport pilot license",
+       "Architect license",
+       "Automotive repair license",
+       "Backcountry permit",
+       "Bail bondsman license",
+       "Barber license",
+       "Bartender license",
+       "Bicycle license",
+       "Block party permit"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 22,
+      "picks": [
+       "Boating license",
+       "Building permit",
+       "Business license",
+       "Commercial driver's license",
+       "Concealed carry permit",
+       "Disabled parking permit",
+       "Dog license",
+       "Green card",
+       "Gun license",
+       "Law license"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Driver's license",
+       "Fishing license",
+       "Hunting license",
+       "Learner's permit"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an app or service for paying or sending money (like PayPal; banks and card networks don't count)",
+    "accepted": 1979,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "DigiCash"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 1905,
+      "picks": [
+       "*99#",
+       "1Bill",
+       "1LINK",
+       "1mdc",
+       "1QianBao",
+       "1Voucher",
+       "2C2P",
+       "407 ETR",
+       "5D Pay",
+       "7-Connect"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 57,
+      "picks": [
+       "ACH",
+       "Adyen",
+       "Affirm",
+       "Alipay",
+       "Authorize.Net",
+       "Bilt",
+       "Bizum",
+       "Boss Money",
+       "Braintree",
+       "Buy Me a Coffee"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Afterpay",
+       "Amazon Pay",
+       "Google Pay",
+       "Klarna",
+       "MoneyGram",
+       "Samsung Pay",
+       "Square",
+       "Stripe",
+       "WeChat Pay"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Apple Pay",
+       "Cash App",
+       "PayPal",
+       "Venmo"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sport that is a race (fastest to the finish wins)",
+    "accepted": 588,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Ice canoe racing"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 447,
+      "picks": [
+       "10-mile run",
+       "100 metres hurdles",
+       "1000 metres",
+       "10km race walk",
+       "12K",
+       "150 metres",
+       "15K",
+       "1600 metres",
+       "20,000 metres",
+       "200 metres hurdles"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 101,
+      "picks": [
+       "10,000 metres",
+       "10K",
+       "110 metres hurdles",
+       "1500 metres",
+       "200 metres",
+       "400 metres",
+       "400 metres hurdles",
+       "4x100 metres relay",
+       "4x400 metres relay",
+       "500 metres"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 28,
+      "picks": [
+       "100 metres",
+       "5K",
+       "Alpine skiing",
+       "Biathlon",
+       "BMX racing",
+       "Bobsled",
+       "Cross country running",
+       "Cross-country skiing",
+       "Dog sled racing",
+       "Downhill"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Auto racing",
+       "Cycling",
+       "Formula 1",
+       "Horse racing",
+       "Marathon",
+       "NASCAR",
+       "Running",
+       "Sprinting",
+       "Swimming"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country that borders Iraq or Iran by land",
+    "accepted": 12,
+    "tiers": [
+     {
+      "name": "Deep cut",
+      "count": 2,
+      "picks": [
+       "Armenia"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 3,
+      "picks": [
+       "Azerbaijan",
+       "Jordan"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 3,
+      "picks": [
+       "Afghanistan",
+       "Kuwait",
+       "Syria",
+       "Too clever (2) Iran"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Saudi Arabia"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 87,
   "date": "2026-10-10",
   "prompts": [
