@@ -1,5 +1,984 @@
 [
  {
+  "n": 90,
+  "date": "2026-10-13",
+  "prompts": [
+   {
+    "q": "Name an Amazon product, service or company Amazon owns",
+    "accepted": 1113,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "A9.com"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 1033,
+      "picks": [
+       "1-Click",
+       "10.or",
+       "206 Collective",
+       "28 Palms",
+       "2lemetry",
+       "47North",
+       "6pm",
+       "A For Awesome",
+       "A to Z",
+       "A-to-z Guarantee"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 54,
+      "picks": [
+       "365 by Whole Foods Market",
+       "Amazon Ads",
+       "Amazon Air",
+       "Amazon Associates",
+       "Amazon Business",
+       "Amazon Dash",
+       "Amazon Drive",
+       "Amazon EC2",
+       "Amazon Essentials",
+       "Amazon Flex"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 17,
+      "picks": [
+       "Amazon Basics",
+       "Amazon Fresh",
+       "Amazon Logistics",
+       "Amazon Music",
+       "Amazon Web Services",
+       "Audible",
+       "Echo Dot",
+       "Fire tablet",
+       "Fire TV",
+       "Fire TV Omni"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Alexa",
+       "Amazon Echo",
+       "Amazon Prime",
+       "Amazon.com",
+       "Fire TV Stick",
+       "Kindle"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a fruit or vegetable that starts with B",
+    "accepted": 2620,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2550,
+      "picks": [
+       "Babaco",
+       "Babanki potato",
+       "Babcock peach",
+       "Băbească Albă grape",
+       "Babeasca Grise grape",
+       "Băbească Neagră grape",
+       "Babel potato",
+       "Babett potato",
+       "Babić grape",
+       "Babington's leek"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 54,
+      "picks": [
+       "Baby corn",
+       "Baby cucumber",
+       "Baby potatoes",
+       "Baby spinach",
+       "Baking potato",
+       "Banana flower",
+       "Banana squash",
+       "Barberry",
+       "Bartlett pear",
+       "Beefsteak tomato"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 7,
+      "picks": [
+       "Baby carrots",
+       "Bamboo shoots",
+       "Banana pepper",
+       "Bean sprouts",
+       "Blood orange",
+       "Bok choy"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Banana",
+       "Beans",
+       "Beet",
+       "Bell pepper",
+       "Blackberry",
+       "Blueberry",
+       "Broccoli"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a driving or traffic offence",
+    "accepted": 240,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Furious driving"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 144,
+      "picks": [
+       "Abandoned vehicle",
+       "Alternate-side parking violation",
+       "Arm out of the window",
+       "Bicycle without a bell",
+       "Blocking a driveway",
+       "Bypassing a weigh station",
+       "Car surfing",
+       "Carrying a passenger on a bike",
+       "Causing danger to road users",
+       "Close passing a cyclist"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 58,
+      "picks": [
+       "Aggressive driving",
+       "Bald tyres",
+       "Bike lane violation",
+       "Blocking a fire hydrant",
+       "Blocking the box",
+       "Burnout",
+       "Causing an obstruction",
+       "Child restraint violation",
+       "Coasting",
+       "Crossing a solid line"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 30,
+      "picks": [
+       "Brake checking",
+       "Broken tail light",
+       "Careless driving",
+       "Distracted driving",
+       "Double parking",
+       "Driving an unregistered vehicle",
+       "Driving in the wrong lane",
+       "Driving too slowly",
+       "Driving without a licence",
+       "Driving without headlights"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Driving under the influence",
+       "Hit and run",
+       "Reckless driving",
+       "Running a red light",
+       "Speeding"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a fictional character played by more than one actor in live-action movies",
+    "accepted": 2611,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2415,
+      "picks": [
+       "Aarne Honkajoki",
+       "Aaron Samuels",
+       "Abbe Faria",
+       "Abel Magwitch",
+       "Aberforth Dumbledore",
+       "Achilles",
+       "Acrisius",
+       "Ada Wong",
+       "Adam Kozlewicz",
+       "Adaś Miauczyński"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 146,
+      "picks": [
+       "Agent 47",
+       "Aladdin",
+       "Alfred Pennyworth",
+       "Alice",
+       "Annabeth Chase",
+       "Anne Shirley",
+       "Annie",
+       "Ant-Man",
+       "Aquaman",
+       "Aunt May"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 44,
+      "picks": [
+       "Belle",
+       "Black Panther",
+       "Captain America",
+       "Catwoman",
+       "Cinderella",
+       "Daredevil",
+       "Darth Vader",
+       "Doctor Doom",
+       "Dracula",
+       "Dumbledore"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Batman",
+       "James Bond",
+       "Joker",
+       "Spider-Man"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country that has part of the Alps, the Andes or the Himalayas",
+    "accepted": 21,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3,
+      "picks": [
+       "Hungary",
+       "Liechtenstein"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 7,
+      "picks": [
+       "Bhutan",
+       "Bolivia",
+       "Colombia",
+       "Ecuador",
+       "Germany",
+       "Pakistan"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Argentina",
+       "Austria",
+       "Chile",
+       "China",
+       "France",
+       "India",
+       "Italy"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Nepal"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a city in Asia with over 1 million people within city limits",
+    "accepted": 543,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 403,
+      "picks": [
+       "Adana",
+       "Ahvaz",
+       "Aleppo",
+       "Aligarh",
+       "Ankang",
+       "Anqing",
+       "Anshan",
+       "Anshun",
+       "Antalya",
+       "Anyang"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 112,
+      "picks": [
+       "Abu Dhabi",
+       "Agra",
+       "Ahmedabad",
+       "Almaty",
+       "Amman",
+       "Amritsar",
+       "Ankara",
+       "Ashgabat",
+       "Astana",
+       "Baku"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Baghdad",
+       "Bengaluru",
+       "Chongqing",
+       "Dubai",
+       "Guangzhou",
+       "Hanoi",
+       "Hiroshima",
+       "Ho Chi Minh City",
+       "Istanbul",
+       "Jakarta"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Bangkok",
+       "Beijing",
+       "Delhi",
+       "Mumbai",
+       "Seoul",
+       "Shanghai"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a shampoo brand",
+    "accepted": 1656,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Body on Tap"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 1554,
+      "picks": [
+       "&honey",
+       "100 Recipes of Beauty",
+       "100% Pure",
+       "107 Beauty",
+       "360 Hair Professional",
+       "365 by Whole Foods Market",
+       "50 Megumi",
+       "8 the Thalasso",
+       "8Grow",
+       "900.care"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 76,
+      "picks": [
+       "Alberto Balsam",
+       "American Crew",
+       "Amika",
+       "Arm & Hammer",
+       "As I Am",
+       "Based Bodyworks",
+       "Batiste",
+       "Bed Head",
+       "Biolage",
+       "Boots"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Aussie",
+       "Aveda",
+       "Aveeno",
+       "Axe",
+       "Fructis",
+       "Garnier",
+       "Johnson's",
+       "L'Oréal",
+       "Native",
+       "Neutrogena"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Dove",
+       "Head & Shoulders",
+       "Herbal Essences"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 89,
+  "date": "2026-10-12",
+  "prompts": [
+   {
+    "q": "Name a job-search website or app (like LinkedIn)",
+    "accepted": 9466,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "America's Job Bank"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 9362,
+      "picks": [
+       "@type",
+       "+twe",
+       "10,000 Interns Foundation",
+       "100000jobs.ch",
+       "1001vieclam",
+       "100offer",
+       "101Kerja",
+       "104 Job Bank",
+       "108job",
+       "10xmanagement"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 93,
+      "picks": [
+       "99designs",
+       "AARP Job Board",
+       "Adecco",
+       "Adzuna",
+       "Aerotek",
+       "Airtasker",
+       "Amazon Mechanical Turk",
+       "Appen",
+       "AppleOne Employment Services",
+       "Backstage"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 5,
+      "picks": [
+       "CareerBuilder",
+       "Craigslist",
+       "Handshake",
+       "Monster"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Glassdoor",
+       "Indeed",
+       "LinkedIn"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an item of winter clothing",
+    "accepted": 491,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 355,
+      "picks": [
+       "Abolla",
+       "Afghan coat",
+       "Aliqsiik",
+       "Aljina",
+       "Almaviva",
+       "Almuce",
+       "Amauti",
+       "Arisaid",
+       "Armyak",
+       "Artois cloak"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 99,
+      "picks": [
+       "3-in-1 jacket",
+       "Anorak",
+       "Aran sweater",
+       "Arm warmers",
+       "Barbour jacket",
+       "Barn jacket",
+       "Base layer",
+       "Bed socks",
+       "Beret",
+       "Blanket hoodie"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 27,
+      "picks": [
+       "Balaclava",
+       "Cardigan",
+       "Christmas sweater",
+       "Down jacket",
+       "Earmuffs",
+       "Flannel shirt",
+       "Fleece",
+       "Fur coat",
+       "Hoodie",
+       "Long johns"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Beanie",
+       "Coat",
+       "Gloves",
+       "Hat",
+       "Jacket",
+       "Mittens",
+       "Scarf",
+       "Sweater"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a body part animals have but humans don't (like wings)",
+    "accepted": 844,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Aristotle's lantern"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 703,
+      "picks": [
+       "Abdominal pores",
+       "Abomasum",
+       "Aboral organ",
+       "Acarinarium",
+       "Accessory olfactory bulb",
+       "Accessory pulsatile organs",
+       "Acicula",
+       "Acidopore",
+       "Acontia",
+       "Acrorhagi"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 107,
+      "picks": [
+       "Adhesive toe pads",
+       "Air sacs",
+       "Anal fin",
+       "Anal glands",
+       "Baculum",
+       "Baleen",
+       "Barb (stingray)",
+       "Barbels",
+       "Bell (jellyfish)",
+       "Blubber"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 23,
+      "picks": [
+       "Antennae",
+       "Antlers",
+       "Blowhole",
+       "Fangs",
+       "Flippers",
+       "Hooves",
+       "Hump",
+       "Mane",
+       "Paws",
+       "Pincers"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Beak",
+       "Claws",
+       "Feathers",
+       "Fins",
+       "Fur",
+       "Gills",
+       "Horns",
+       "Tail"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a hotel brand",
+    "accepted": 4040,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Imperial 400"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 3763,
+      "picks": [
+       "@Home by Best Western",
+       "&AND HOSTEL",
+       "&Beyond",
+       "1969 Business Suites",
+       "25hours",
+       "3 Palms",
+       "7 Days Inn",
+       "9 Square Hotel",
+       "99 Inn",
+       "9Hotel Collection"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 249,
+      "picks": [
+       "1 Hotels",
+       "21c Museum Hotels",
+       "AC Hotels",
+       "Accor",
+       "Ace Hotel",
+       "Alila",
+       "Aloft",
+       "Aman",
+       "Americas Best Value Inn",
+       "AmericInn"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 22,
+      "picks": [
+       "Best Western",
+       "Comfort Inn",
+       "Courtyard",
+       "Crowne Plaza",
+       "Days Inn",
+       "DoubleTree",
+       "Embassy Suites",
+       "Four Seasons",
+       "Hampton Inn",
+       "Hilton Garden Inn"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Hilton",
+       "Holiday Inn",
+       "Hyatt"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a department in a company (like HR)",
+    "accepted": 1344,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1057,
+      "picks": [
+       "1031 exchange",
+       "Absence management",
+       "Academy",
+       "Accessibility",
+       "Accessioning",
+       "Account planning",
+       "Accounting advisory",
+       "Acoustics",
+       "Acquisition finance",
+       "Activewear"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 245,
+      "picks": [
+       "A&R",
+       "Accessories",
+       "Account management",
+       "Acquisitions",
+       "Actuarial",
+       "Ad sales",
+       "After-sales",
+       "Alterations",
+       "Analytics",
+       "Animation"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 34,
+      "picks": [
+       "Accounts payable",
+       "Administration",
+       "Advertising",
+       "Billing",
+       "Call center",
+       "Complaints",
+       "Design",
+       "Digital marketing",
+       "Engineering",
+       "Finance and accounting"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Accounting",
+       "Customer service",
+       "Finance",
+       "Human resources",
+       "Information technology",
+       "Marketing"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country with 8 or more letters",
+    "accepted": 89,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 7,
+      "picks": [
+       "Djibouti",
+       "Dominica",
+       "Eswatini",
+       "Kiribati",
+       "Mauritius",
+       "Saint Vincent and the Grenadines"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 42,
+      "picks": [
+       "Antigua and Barbuda",
+       "Azerbaijan",
+       "Barbados",
+       "Bulgaria",
+       "Burkina Faso",
+       "Cambodia",
+       "Cameroon",
+       "Cape Verde",
+       "Equatorial Guinea",
+       "Ethiopia"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 24,
+      "picks": [
+       "Bosnia and Herzegovina",
+       "Central African Republic",
+       "Colombia",
+       "Costa Rica",
+       "Czech Republic",
+       "Democratic Republic of the Congo",
+       "Dominican Republic",
+       "El Salvador",
+       "Guatemala",
+       "Liechtenstein"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 15,
+      "picks": [
+       "Afghanistan",
+       "Argentina",
+       "Australia",
+       "Bangladesh",
+       "Indonesia",
+       "Kazakhstan",
+       "Madagascar",
+       "Netherlands",
+       "New Zealand",
+       "Philippines"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a feature on YouTube",
+    "accepted": 541,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 305,
+      "picks": [
+       "1911 button",
+       "4K Plus",
+       "67 likes confetti",
+       "A/B testing",
+       "Account status",
+       "Achievements",
+       "Add Yours",
+       "Add-ons",
+       "AI playground",
+       "AI search carousel"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 177,
+      "picks": [
+       "360 video",
+       "3D video",
+       "4K",
+       "60fps",
+       "8K",
+       "Ad blocker detection",
+       "Ad pods",
+       "Ad settings",
+       "AdSense",
+       "Age restriction"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 53,
+      "picks": [
+       "Ads",
+       "Autoplay",
+       "Block",
+       "Captions",
+       "Cast",
+       "Channels",
+       "Chapters",
+       "Dark mode",
+       "Description",
+       "Dislikes"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Comments",
+       "Likes",
+       "Playlists",
+       "Shorts"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 88,
   "date": "2026-10-11",
   "prompts": [
