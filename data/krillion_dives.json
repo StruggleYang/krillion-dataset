@@ -1,5 +1,471 @@
 [
  {
+  "n": 91,
+  "date": "2026-10-14",
+  "prompts": [
+   {
+    "q": "Name an app or website for writing documents or taking notes",
+    "accepted": 3917,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Bravo"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 3853,
+      "picks": [
+       "17K Novel",
+       "1a Easy Writer",
+       "1Doc",
+       "1notepad",
+       "1st Sign",
+       "1st Word",
+       "1Writer",
+       "1초메모",
+       "2nd Word",
+       "321Markdown"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 48,
+      "picks": [
+       "Apple Journal",
+       "AppleWorks",
+       "Bear",
+       "Blogger",
+       "Celtx",
+       "Coda",
+       "ColorNote",
+       "Confluence",
+       "Craft",
+       "Cursor"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Apple Pages",
+       "Evernote",
+       "GoodNotes",
+       "Google Keep",
+       "Microsoft Office",
+       "Microsoft OneNote",
+       "Notion",
+       "Samsung Notes",
+       "TextEdit"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Apple Notes",
+       "Google Docs",
+       "Microsoft Word"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a language that’s the most spoken in at least one country in the Americas.",
+    "accepted": 8,
+    "tiers": [
+     {
+      "name": "Deep cut",
+      "count": 4,
+      "picks": [
+       "Dutch",
+       "Guaraní",
+       "Haitian Creole"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Schooler",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "English"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name the current capital of a state or province anywhere in the world (must be officially called a state or province)",
+    "accepted": 1980,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Ngerbeched"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 1814,
+      "picks": [
+       "'s-Hertogenbosch",
+       "A Coruña",
+       "Abakaliki",
+       "Abancay",
+       "Abéché",
+       "Abeokuta",
+       "Abha",
+       "Achacachi",
+       "Acobamba",
+       "Acomayo"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 124,
+      "picks": [
+       "Adelaide",
+       "Ankara",
+       "Antwerp",
+       "Augusta",
+       "Baghdad",
+       "Barcelona",
+       "Belém",
+       "Belo Horizonte",
+       "Bengaluru",
+       "Berlin"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 35,
+      "picks": [
+       "Albany",
+       "Annapolis",
+       "Baton Rouge",
+       "Boise",
+       "Brisbane",
+       "Cape Town",
+       "Columbus",
+       "Des Moines",
+       "Harrisburg",
+       "Hartford"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Atlanta",
+       "Austin",
+       "Boston",
+       "Denver"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a current or former NBA, MLB, Premier League or NFL team",
+    "accepted": 432,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Oorang Indians"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 287,
+      "picks": [
+       "Acme Packers",
+       "Akron Grays",
+       "Akron Indians",
+       "Akron Pros",
+       "Altoona Mountain Citys",
+       "Anderson Packers",
+       "Atlanta Black Crackers",
+       "Bacharach Giants",
+       "Baltimore Black Sox",
+       "Baltimore Bullets"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 96,
+      "picks": [
+       "Anaheim Angels",
+       "Arizona Cardinals",
+       "Arizona Diamondbacks",
+       "Athletics",
+       "Atlanta Braves",
+       "Atlanta Falcons",
+       "Atlanta Hawks",
+       "Baltimore Colts",
+       "Baltimore Orioles",
+       "Blackburn Rovers"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 35,
+      "picks": [
+       "Aston Villa",
+       "Baltimore Ravens",
+       "Buffalo Bills",
+       "Chicago Bears",
+       "Chicago Cubs",
+       "Cleveland Cavaliers",
+       "Denver Broncos",
+       "Detroit Lions",
+       "Everton",
+       "Golden State Warriors"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 12,
+      "picks": [
+       "Arsenal",
+       "Boston Celtics",
+       "Boston Red Sox",
+       "Chelsea",
+       "Chicago Bulls",
+       "Dallas Cowboys",
+       "Green Bay Packers",
+       "Liverpool",
+       "Los Angeles Lakers",
+       "Manchester City"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a character from the Cars movies",
+    "accepted": 550,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "John Lassetire"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 491,
+      "picks": [
+       "Aaron Clocker",
+       "Adam Parke",
+       "Adam Roadriguez",
+       "Aiden",
+       "Aiken Axler",
+       "Airborne",
+       "Albert Hinkey",
+       "Alex Carvill",
+       "Alex Machino",
+       "Alex Vandel"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 36,
+      "picks": [
+       "Acer",
+       "Al Oft",
+       "Bessie",
+       "Bob Cutlass",
+       "Boost",
+       "Cal Weathers",
+       "Darrell Cartrip",
+       "DJ",
+       "Dusty Rust-eze",
+       "Frank"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "Chick Hicks",
+       "Cruz Ramirez",
+       "Doc Hudson",
+       "Fillmore",
+       "Finn McMissile",
+       "Flo",
+       "Francesco Bernoulli",
+       "Guido",
+       "Holley Shiftwell",
+       "Jackson Storm"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Lightning McQueen"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of powder",
+    "accepted": 1559,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1388,
+      "picks": [
+       "00 flour",
+       "3D printing powder",
+       "Abhrak bhasma",
+       "Acai powder",
+       "Acerola powder",
+       "Acesulfame potassium",
+       "Achar masala",
+       "Achiote",
+       "Acorn flour",
+       "Adobo seasoning"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 140,
+      "picks": [
+       "Acrylic powder",
+       "Activated charcoal",
+       "Allspice",
+       "Almond flour",
+       "Ant powder",
+       "Antacid powder",
+       "Antifungal powder",
+       "Arsenic",
+       "Bleaching powder",
+       "Blush"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "All-purpose flour",
+       "Black pepper",
+       "Body powder",
+       "Cayenne pepper",
+       "Cinnamon",
+       "Cocaine",
+       "Cornstarch",
+       "Curry powder",
+       "Foot powder",
+       "Hot chocolate mix"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 11,
+      "picks": [
+       "Baby powder",
+       "Baking powder",
+       "Baking soda",
+       "Chili powder",
+       "Cocoa powder",
+       "Face powder",
+       "Garlic powder",
+       "Gunpowder",
+       "Powdered sugar",
+       "Protein powder"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something you shake before using it",
+    "accepted": 749,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 641,
+      "picks": [
+       "3D printer resin",
+       "Acne lotion",
+       "Acrylic paint (craft bottle)",
+       "Activated charcoal (liquid)",
+       "Acyclovir (liquid)",
+       "Air filter oil",
+       "Airbrush paint",
+       "Albadry Plus",
+       "Almond butter vinaigrette",
+       "Aloe vera drink"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 89,
+      "picks": [
+       "Air freshener (aerosol)",
+       "Apple cider vinegar (with the mother)",
+       "Balsamic vinaigrette",
+       "Barbecue sauce",
+       "Blue cheese dressing",
+       "Body spray",
+       "Boggle",
+       "Bottled coffee drink",
+       "Bottled lemon juice",
+       "Bubble tea"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "Almond milk",
+       "Baby formula",
+       "Fruit juice",
+       "Inhaler",
+       "Ketchup",
+       "Magic 8-Ball",
+       "Nail polish",
+       "Oat milk",
+       "Pepto-Bismol",
+       "Protein shake"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Orange juice",
+       "Salad dressing",
+       "Spray paint"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 90,
   "date": "2026-10-13",
   "prompts": [
