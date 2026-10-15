@@ -1,5 +1,457 @@
 [
  {
+  "n": 92,
+  "date": "2026-10-15",
+  "prompts": [
+   {
+    "q": "Name a type of astronomical object found in space (like an asteroid)",
+    "accepted": 725,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Hypervelocity star"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 670,
+      "picks": [
+       "1:3 resonant TNO",
+       "2:5 resonant TNO",
+       "3:5 resonant TNO",
+       "4:7 resonant TNO",
+       "A-type asteroid",
+       "A-type bright giant",
+       "A-type main-sequence star",
+       "A-type subgiant star",
+       "Accreting millisecond X-ray pulsar",
+       "Accretion disk"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 41,
+      "picks": [
+       "Asteroid belt",
+       "Barred spiral galaxy",
+       "Binary star",
+       "Blue giant",
+       "Brown dwarf",
+       "Cosmic void",
+       "Dwarf galaxy",
+       "Earth analog",
+       "Elliptical galaxy",
+       "Exoplanet"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 4,
+      "picks": [
+       "Dwarf planet",
+       "Nebula",
+       "Planetary system"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Asteroid",
+       "Black hole",
+       "Comet",
+       "Galaxy",
+       "Meteoroid",
+       "Moon",
+       "Planet"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a professional sports league with at least 10 teams",
+    "accepted": 1481,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "National Bowling League"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 1413,
+      "picks": [
+       "'A' Division National Futsal League",
+       "1. deild karla",
+       "1st Czech Republic Hockey League",
+       "2. Bundesliga",
+       "2. deild karla",
+       "2. Frauen-Bundesliga",
+       "2. Handball-Bundesliga",
+       "2. Liga (Austria)",
+       "2. Liga (Slovakia)",
+       "2. Oberliga Süd"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 58,
+      "picks": [
+       "A-League Men",
+       "All-American Girls Professional Baseball League",
+       "American Basketball Association",
+       "American Football League (1960–1969)",
+       "American Hockey League",
+       "American League",
+       "Arena Football League",
+       "Argentine Primera División",
+       "Australian Football League",
+       "Big3"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 3,
+      "picks": [
+       "Canadian Football League",
+       "Major League Soccer"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Major League Baseball",
+       "National Basketball Association",
+       "National Football League",
+       "National Hockey League"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a living animal that weighs over a metric ton (1,000 kg)",
+    "accepted": 99,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Rice's whale"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 49,
+      "picks": [
+       "African forest elephant",
+       "Antarctic minke whale",
+       "Arnoux's beaked whale",
+       "Baird's beaked whale",
+       "Beaked whale",
+       "Beluga sturgeon",
+       "Blainville's beaked whale",
+       "Bottlenose whale",
+       "Bryde's whale",
+       "Common minke whale"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 29,
+      "picks": [
+       "African bush elephant",
+       "Asian elephant",
+       "Basking shark",
+       "Black rhinoceros",
+       "Bowhead whale",
+       "Cattle",
+       "Dugong",
+       "Elephant seal",
+       "Fin whale",
+       "Gaur"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Beluga whale",
+       "Bison",
+       "Crocodile",
+       "Giraffe",
+       "Great white shark",
+       "Humpback whale",
+       "Manatee",
+       "Orca",
+       "Polar bear",
+       "Shark"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "African elephant",
+       "Blue whale",
+       "Elephant",
+       "Hippopotamus",
+       "Rhinoceros"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a movie featuring Natalie Portman (like Star Wars)",
+    "accepted": 55,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 34,
+      "picks": [
+       "A Tale of Love and Darkness",
+       "Anywhere but Here",
+       "Arco",
+       "Beautiful Girls",
+       "Cold Mountain",
+       "Dolphin Reef",
+       "Eating Animals",
+       "Everyone Says I Love You",
+       "Free Zone",
+       "Goya's Ghosts"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 11,
+      "picks": [
+       "Annihilation",
+       "Avengers: Endgame",
+       "Brothers",
+       "Closer",
+       "Fountain of Youth",
+       "Garden State",
+       "Heat",
+       "Jackie",
+       "May December",
+       "No Strings Attached"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 4,
+      "picks": [
+       "Léon: The Professional",
+       "Thor: Love and Thunder",
+       "Thor: The Dark World"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Black Swan",
+       "Star Wars: Episode I – The Phantom Menace",
+       "Star Wars: Episode II – Attack of the Clones",
+       "Star Wars: Episode III – Revenge of the Sith"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a city south of the equator with over 100,000 people (by metro area)",
+    "accepted": 972,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 914,
+      "picks": [
+       "Abaetetuba",
+       "Abreu e Lima",
+       "Águas Lindas de Goiás",
+       "Alagoinhas",
+       "Albury",
+       "Almirante Tamandaré",
+       "Altamira",
+       "Alvorada",
+       "Ambato",
+       "Ambon"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 44,
+      "picks": [
+       "Adelaide",
+       "Asunción",
+       "Bandung",
+       "Brasília",
+       "Cairns",
+       "Christchurch",
+       "Córdoba",
+       "Cusco",
+       "Darwin",
+       "Denpasar"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Auckland",
+       "Brisbane",
+       "Canberra",
+       "Jakarta",
+       "Perth"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Buenos Aires",
+       "Cape Town",
+       "Johannesburg",
+       "Melbourne",
+       "Rio de Janeiro",
+       "São Paulo"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an app or service meant for editing photos",
+    "accepted": 1287,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1236,
+      "picks": [
+       "(Un)real",
+       "17V28",
+       "1967",
+       "1998 Cam",
+       "5DFly Photo Design",
+       "8Bit Photo Lab",
+       "A Color Story",
+       "A Design Kit",
+       "A Photo Tool Libre",
+       "aaphoto"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 40,
+      "picks": [
+       "Adobe Express",
+       "Adobe Firefly",
+       "Affinity Photo",
+       "AirBrush",
+       "B612",
+       "BeautyPlus",
+       "BeFunky",
+       "FaceApp",
+       "Fotor",
+       "GIMP"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Canva",
+       "CapCut",
+       "Facetune",
+       "Google Photos",
+       "Lightroom",
+       "Microsoft Paint",
+       "Picsart"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Apple Photos"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country whose name starts with two consonants (like France; Y counts too)",
+    "accepted": 32,
+    "tiers": [
+     {
+      "name": "Deep cut",
+      "count": 2,
+      "picks": [
+       "Brunei"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 16,
+      "picks": [
+       "Bhutan",
+       "Cyprus",
+       "Djibouti",
+       "Kyrgyzstan",
+       "Myanmar",
+       "Rwanda",
+       "Slovakia",
+       "Slovenia",
+       "Sri Lanka",
+       "St Kitts and Nevis"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Chad",
+       "Chile",
+       "Croatia",
+       "Czech Republic",
+       "Ghana",
+       "Philippines",
+       "Switzerland"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Brazil",
+       "China",
+       "France",
+       "Greece",
+       "Spain"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 91,
   "date": "2026-10-14",
   "prompts": [
