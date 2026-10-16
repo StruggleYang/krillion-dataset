@@ -1,5 +1,471 @@
 [
  {
+  "n": 93,
+  "date": "2026-10-16",
+  "prompts": [
+   {
+    "q": "Name something that comes in a pump bottle (like moisturizer)",
+    "accepted": 427,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 318,
+      "picks": [
+       "Acne treatment",
+       "Acrylic paint",
+       "Adapalene gel",
+       "Adapalene-benzoyl peroxide gel",
+       "After-sun",
+       "After-wax lotion",
+       "Aftershave balm",
+       "Agave nectar",
+       "All-in-one gel",
+       "Almond oil"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 90,
+      "picks": [
+       "2-in-1 shampoo",
+       "Acne wash",
+       "Aftershave",
+       "Aloe vera gel",
+       "Anti-itch cream",
+       "Antibacterial soap",
+       "Argan oil",
+       "Baby lotion",
+       "Baby oil",
+       "Baby shampoo"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Body wash",
+       "Coffee syrup",
+       "Dish soap",
+       "Face wash",
+       "Foaming hand soap",
+       "Foundation",
+       "Ketchup",
+       "Mayonnaise",
+       "Mustard",
+       "Perfume"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Conditioner",
+       "Hand sanitizer",
+       "Hand soap",
+       "Lotion"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a service you can get at a hair salon",
+    "accepted": 239,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Hand-pressed colour"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 142,
+      "picks": [
+       "African hair threading",
+       "AirTouch",
+       "Amino acid treatment",
+       "Arm wax",
+       "Babylights",
+       "Back wax",
+       "Bantu knots",
+       "Base break",
+       "Block colouring",
+       "Body waxing"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 75,
+      "picks": [
+       "Acrylic nails",
+       "Balayage",
+       "Bang trim",
+       "Beard dye",
+       "Bikini wax",
+       "Body wave",
+       "Bond repair treatment",
+       "Box braids",
+       "Brazilian wax",
+       "Bridal hair"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 17,
+      "picks": [
+       "Beard trim",
+       "Bleach",
+       "Blowout",
+       "Braiding",
+       "Curling",
+       "Eyebrow shaping",
+       "Eyebrow waxing",
+       "Hair extensions",
+       "Hair straightening",
+       "Keratin treatment"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Hair colour",
+       "Haircut"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a feature a modern car can have (like cruise control)",
+    "accepted": 947,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Emergency floating mode"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 719,
+      "picks": [
+       "800-volt architecture",
+       "A-pillar spotlight",
+       "A/C after-blow",
+       "Accessory mounting points",
+       "Acoustic glass",
+       "Active anti-roll bars",
+       "Active engine mounts",
+       "Active grille shutters",
+       "Active head restraints",
+       "Active hood"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 190,
+      "picks": [
+       "Active aerodynamics",
+       "Active exhaust",
+       "Active noise cancellation",
+       "Active suspension",
+       "Adaptive headlights",
+       "Adaptive suspension",
+       "Adjustable ride height",
+       "Adjustable steering wheel",
+       "AI voice assistant",
+       "Air purifier"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 30,
+      "picks": [
+       "360-degree camera",
+       "Adaptive cruise control",
+       "Air conditioning",
+       "All-wheel drive",
+       "Android Auto",
+       "Apple CarPlay",
+       "Automatic emergency braking",
+       "Automatic parking",
+       "Blind-spot monitoring",
+       "Fog lights"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Backup camera",
+       "Bluetooth",
+       "Cruise control",
+       "Heated seats",
+       "Navigation system"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country in East Africa",
+    "accepted": 19,
+    "tiers": [
+     {
+      "name": "Deep cut",
+      "count": 5,
+      "picks": [
+       "Comoros",
+       "Malawi",
+       "Mauritius",
+       "Seychelles"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 7,
+      "picks": [
+       "Burundi",
+       "Djibouti",
+       "Eritrea",
+       "Mozambique",
+       "South Sudan",
+       "Sudan"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Ethiopia",
+       "Madagascar",
+       "Rwanda",
+       "Somalia",
+       "Tanzania"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 1,
+      "picks": []
+     }
+    ]
+   },
+   {
+    "q": "Name a white sauce, dip, or condiment",
+    "accepted": 448,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 357,
+      "picks": [
+       "À la king sauce",
+       "Agliata",
+       "Ají de leche de coco",
+       "Ajoatao",
+       "Albert sauce",
+       "Albufera sauce",
+       "Allemande sauce",
+       "Almadroc",
+       "Almond cream",
+       "Amla raita"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 73,
+      "picks": [
+       "Alabama white sauce",
+       "Artichoke dip",
+       "Bacon ranch",
+       "Beurre blanc",
+       "Blue cheese sauce",
+       "Boursin",
+       "Bread sauce",
+       "Cacio e pepe sauce",
+       "Carbonara",
+       "Cheese and chive dip"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 15,
+      "picks": [
+       "Aioli",
+       "Alfredo sauce",
+       "Béchamel",
+       "Blue cheese dressing",
+       "Caesar dressing",
+       "Country gravy",
+       "Cream cheese",
+       "Cream sauce",
+       "French onion dip",
+       "Garlic sauce"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Mayonnaise"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sport where people sit when they compete (no esports, board games or card games)",
+    "accepted": 632,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Giant pumpkin regatta"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 546,
+      "picks": [
+       "24-hour mountain bike racing",
+       "Acoso y derribo",
+       "Adaptive motocross",
+       "Adaptive mountain biking",
+       "Adaptive snocross",
+       "Adventure racing",
+       "Aerobatics",
+       "Air navigation race",
+       "Airboat racing",
+       "Alleycat racing"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 69,
+      "picks": [
+       "Air racing",
+       "ATV racing",
+       "Barrel racing",
+       "Big-game fishing",
+       "BMX racing",
+       "Boat racing",
+       "Bronc riding",
+       "Bull riding",
+       "Camel racing",
+       "Demolition derby"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Bobsled",
+       "Canoeing",
+       "Equestrian",
+       "Formula 1",
+       "Go-karting",
+       "Kayaking",
+       "Motorcycle racing",
+       "NASCAR",
+       "Polo",
+       "Sailing"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Auto racing",
+       "Cycling",
+       "Horse racing"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something that uses steam",
+    "accepted": 636,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Aeolipile"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 554,
+      "picks": [
+       "Absorption chiller",
+       "Aerated steam seed treatment",
+       "Ammonia plant",
+       "Amphibious assault ship",
+       "Amphibious steam vehicle",
+       "Antigen retrieval steamer",
+       "Arnold sterilizer",
+       "Aseptic canning",
+       "Asparagus steamer",
+       "Atmospheric railway"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 56,
+      "picks": [
+       "Aircraft carrier",
+       "Alcohol still",
+       "Autoclave",
+       "Bamboo steamer",
+       "Banya",
+       "Bottle sterilizer",
+       "Bottle warmer",
+       "Canning",
+       "Carpet steam cleaner",
+       "Coal power plant"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Boiler",
+       "Clothes steamer",
+       "Coffee maker",
+       "Espresso machine",
+       "Food steamer",
+       "Nuclear power plant",
+       "Power plant",
+       "Pressure cooker",
+       "Rice cooker",
+       "Sauna"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Iron",
+       "Kettle",
+       "Steam engine"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 92,
   "date": "2026-10-15",
   "prompts": [
