@@ -1,5 +1,456 @@
 [
  {
+  "n": 94,
+  "date": "2026-10-17",
+  "prompts": [
+   {
+    "q": "Name a way to prepare potatoes",
+    "accepted": 1233,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1094,
+      "picks": [
+       "Aalu wala",
+       "Abura-ki",
+       "Achari aloo",
+       "Adobong patatas",
+       "Age-imo",
+       "Agglegénytál",
+       "Ajiaco",
+       "Ajo colorao",
+       "Ajo de la mano",
+       "Ajo harina"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 109,
+      "picks": [
+       "Aloo gobi",
+       "Aloo pakora",
+       "Aloo tikki",
+       "Animal style fries",
+       "Baked sweet potato",
+       "Belgian fries",
+       "Blanched potatoes",
+       "Boiled sweet potatoes",
+       "Bombay potatoes",
+       "Braised potatoes"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 21,
+      "picks": [
+       "Air-fried potatoes",
+       "Buttered potatoes",
+       "Curly fries",
+       "Grilled potatoes",
+       "Home fries",
+       "Loaded baked potato",
+       "Mashed potato casserole",
+       "Microwaved potatoes",
+       "Parmesan potatoes",
+       "Potato salad"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Baked potato",
+       "Boiled potatoes",
+       "French fries",
+       "Fried potatoes",
+       "Hash browns",
+       "Mashed potatoes",
+       "Potato chips"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an animal whose name is exactly four letters long",
+    "accepted": 467,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 384,
+      "picks": [
+       "Abby",
+       "Aceh",
+       "Ader",
+       "Afar",
+       "Agew",
+       "Aidi",
+       "Akou",
+       "Alai",
+       "Alho",
+       "Alur"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 44,
+      "picks": [
+       "Beta",
+       "Carp",
+       "Chow",
+       "Cock",
+       "Colt",
+       "Coot",
+       "Croc",
+       "Dory",
+       "Foal",
+       "Fowl"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 28,
+      "picks": [
+       "Bass",
+       "Boar",
+       "Buck",
+       "Bull",
+       "Calf",
+       "Clam",
+       "Crow",
+       "Dove",
+       "Fawn",
+       "Flea"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Bear",
+       "Bird",
+       "Crab",
+       "Deer",
+       "Duck",
+       "Fish",
+       "Frog",
+       "Goat",
+       "Lion"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name someone who’s won MVP (NBA/NFL/MLB), Premier League Player of the Season, or won the Ballon d’Or",
+    "accepted": 324,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Jim Konstanty"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 120,
+      "picks": [
+       "Ada Hegerberg",
+       "Al Rosen",
+       "Alan Page",
+       "Allan Simonsen",
+       "Bert Jones",
+       "Bob Cousy",
+       "Bob Elliott",
+       "Bob McAdoo",
+       "Bob O'Farrell",
+       "Bob Pettit"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 147,
+      "picks": [
+       "Adrian Peterson",
+       "Aitana Bonmatí",
+       "Alan Shearer",
+       "Albert Pujols",
+       "Alexia Putellas",
+       "Alfredo Di Stéfano",
+       "Allen Iverson",
+       "Andre Dawson",
+       "Andrew McCutchen",
+       "Andriy Shevchenko"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 43,
+      "picks": [
+       "Aaron Judge",
+       "Aaron Rodgers",
+       "Alex Rodriguez",
+       "Barry Bonds",
+       "Brett Favre",
+       "Bryce Harper",
+       "Cam Newton",
+       "Dan Marino",
+       "Derrick Rose",
+       "Erling Haaland"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 12,
+      "picks": [
+       "Babe Ruth",
+       "Cristiano Ronaldo",
+       "Kobe Bryant",
+       "LeBron James",
+       "Lionel Messi",
+       "Michael Jordan",
+       "Patrick Mahomes",
+       "Peyton Manning",
+       "Shaquille O’Neal",
+       "Shohei Ohtani"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a chemical element whose symbol is one letter",
+    "accepted": 14,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2,
+      "picks": [
+       "Tungsten"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 4,
+      "picks": [
+       "Boron",
+       "Fluorine",
+       "Iodine"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 3,
+      "picks": [
+       "Potassium",
+       "Sulfur"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Carbon",
+       "Hydrogen",
+       "Nitrogen"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of station (like a train station)",
+    "accepted": 635,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 571,
+      "picks": [
+       "Adult contemporary station",
+       "AED station",
+       "Aeration station",
+       "Aerial base station",
+       "Aeronautical earth station",
+       "Aeronautical station",
+       "Affiliate station",
+       "Agricultural inspection station",
+       "Agrometeorological station",
+       "Air ambulance station"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 48,
+      "picks": [
+       "Airport station",
+       "AM station",
+       "Ambulance station",
+       "Baby changing station",
+       "Battle station",
+       "Broadcast station",
+       "Buffet station",
+       "Central station",
+       "Coal-fired power station",
+       "Coast Guard station"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Charging station",
+       "Commuter rail station",
+       "High-speed rail station",
+       "Power station",
+       "Subway station",
+       "TV station",
+       "Weather station"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Bus station",
+       "Fire station",
+       "Gas station",
+       "Police station",
+       "Radio station",
+       "Space station"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country whose name ends in the letter E",
+    "accepted": 15,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 4,
+      "picks": [
+       "Cape Verde",
+       "Côte d'Ivoire",
+       "Sierra Leone"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 3,
+      "picks": [
+       "Mozambique",
+       "Suriname"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 4,
+      "picks": [
+       "Belize",
+       "Singapore",
+       "Ukraine"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Chile",
+       "France"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a superhero team",
+    "accepted": 1419,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1337,
+      "picks": [
+       "¡Justicia!",
+       "11th Street Kids",
+       "22 Brides",
+       "7 Against Chaos",
+       "A La Brava",
+       "A-Ben-Gers",
+       "A-Force",
+       "A-Gwen-Gers",
+       "A-Next",
+       "Abaranger"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 69,
+      "picks": [
+       "Alpha Flight",
+       "Bat-Family",
+       "Big Hero 6",
+       "Birds of Prey",
+       "Cloak and Dagger",
+       "Coon and Friends",
+       "Dark Avengers",
+       "Defenders",
+       "Doom Patrol",
+       "Dynamic Duo"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Guardians of the Galaxy",
+       "Power Rangers",
+       "Suicide Squad",
+       "Teen Titans",
+       "Teenage Mutant Ninja Turtles",
+       "The Boys",
+       "The Incredibles"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Avengers",
+       "Fantastic Four",
+       "Justice League"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 93,
   "date": "2026-10-16",
   "prompts": [
