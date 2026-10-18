@@ -1,5 +1,498 @@
 [
  {
+  "n": 95,
+  "date": "2026-10-18",
+  "prompts": [
+   {
+    "q": "Name a fruit bigger than an apple",
+    "accepted": 206,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Coco de mer"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 154,
+      "picks": [
+       "Abiu",
+       "African breadfruit",
+       "Amalfi lemon",
+       "Ananas melon",
+       "Armenian cucumber",
+       "Asam gelugur",
+       "Atemoya",
+       "Babaco",
+       "Bacuri",
+       "Bael"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 34,
+      "picks": [
+       "Acorn squash",
+       "Asian pear",
+       "Avocado",
+       "Beefsteak tomato",
+       "Bitter melon",
+       "Bottle gourd",
+       "Breadfruit",
+       "Buddha's hand",
+       "Butternut squash",
+       "Cacao"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Cantaloupe",
+       "Coconut",
+       "Dragon fruit",
+       "Durian",
+       "Gourd",
+       "Honeydew",
+       "Jackfruit",
+       "Mango",
+       "Melon",
+       "Papaya"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Grapefruit",
+       "Pineapple"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a symbol of Hinduism, Judaism, Christianity, Islam or Buddhism (like the cross)",
+    "accepted": 447,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Hetoimasia"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 356,
+      "picks": [
+       "Abhaya mudra",
+       "Adventist logo",
+       "Alam",
+       "Almond blossom",
+       "Alms bowl",
+       "Anchor",
+       "Angel Moroni",
+       "Ankusha",
+       "Anuradhapura cross",
+       "Armenian cross"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 79,
+      "picks": [
+       "Advent wreath",
+       "Allah (calligraphy)",
+       "Alpha and Omega",
+       "Altar",
+       "Angel",
+       "Ankh",
+       "Ark of the Covenant",
+       "Basmala",
+       "Bhagavad Gita",
+       "Bindi"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 7,
+      "picks": [
+       "Bible",
+       "Buddha statue",
+       "Crucifix",
+       "Ichthys",
+       "Menorah",
+       "Om"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Cross",
+       "Star and crescent"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a perfume or fragrance brand",
+    "accepted": 17036,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Farina 1709"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 16702,
+      "picks": [
+       "_ODOR",
+       "'Ala Lani",
+       "\"Mo\" Betta by Maury Tate",
+       "(S)MER",
+       "[ comfort zone ]",
+       "[im]proper",
+       "& Other Stories",
+       "&.Joliee",
+       "&me",
+       "&Vanilla"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 285,
+      "picks": [
+       "4711",
+       "Acqua di Parma",
+       "Adidas",
+       "Aesop",
+       "Afnan",
+       "Ajmal",
+       "Al Haramain",
+       "Al Rehab",
+       "Alexander McQueen",
+       "Alexandria Fragrances"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 43,
+      "picks": [
+       "Abercrombie & Fitch",
+       "Ariana Grande",
+       "Avon",
+       "Axe",
+       "Bath & Body Works",
+       "Britney Spears",
+       "Brut",
+       "Burberry",
+       "Bvlgari",
+       "Carolina Herrera"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Calvin Klein",
+       "Chanel",
+       "Dior"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sport where competitors wear gloves",
+    "accepted": 532,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 452,
+      "picks": [
+       "24-hour mountain bike racing",
+       "3D archery",
+       "Academic fencing",
+       "Accuracy landing",
+       "Aerials",
+       "Aerobatics",
+       "Aeronautical pentathlon",
+       "Air racing",
+       "Alpine combined",
+       "Alpine snowboarding"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 62,
+      "picks": [
+       "Airsoft",
+       "Archery",
+       "Biathlon",
+       "BMX racing",
+       "Bobsled",
+       "Bull riding",
+       "Chess boxing",
+       "Cross-country skiing",
+       "Curling",
+       "Cycling"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Alpine skiing",
+       "American football",
+       "Auto racing",
+       "Cricket",
+       "Fencing",
+       "Formula 1",
+       "Golf",
+       "Kickboxing",
+       "Lacrosse",
+       "MMA"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Baseball",
+       "Boxing",
+       "Ice hockey"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a leg exercise at the gym (no cardio)",
+    "accepted": 178,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Kang squat"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 110,
+      "picks": [
+       "Adductor squeeze",
+       "Alternate quarter-turn jump",
+       "Anderson squat",
+       "Arabesque",
+       "Archer squat",
+       "ATG split squat",
+       "Barbell hack squat",
+       "Bench sprint",
+       "Bounding",
+       "Box skip"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 42,
+      "picks": [
+       "Back extension",
+       "Belt squat",
+       "Box squat",
+       "Broad jump",
+       "Cable kickback",
+       "Clamshell",
+       "Clean",
+       "Clean and jerk",
+       "Cossack squat",
+       "Curtsy lunge"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 17,
+      "picks": [
+       "Box jump",
+       "Bulgarian split squat",
+       "Front squat",
+       "Glute bridge",
+       "Goblet squat",
+       "Hack squat",
+       "Hip abduction",
+       "Hip adduction",
+       "Hip thrust",
+       "Jump squat"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Calf raise",
+       "Deadlift",
+       "Leg curl",
+       "Leg extension",
+       "Leg press",
+       "Lunge"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a Fortnite character or skin (sidekicks/pets don't count)",
+    "accepted": 3116,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2636,
+      "picks": [
+       "'Mato Marauder",
+       "1-Ball",
+       "10-Ball",
+       "2-Ball",
+       "212th Battalion Trooper",
+       "2D",
+       "501st Trooper",
+       "7-Ball",
+       "8-Ball vs Scratch",
+       "A Goat (Goat Simulator 3)"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 444,
+      "picks": [
+       "Aang",
+       "Aerial Assault Trooper",
+       "Agent Jones",
+       "Agent Peely",
+       "Ahsoka Tano",
+       "Ali-A",
+       "All Might",
+       "Aloy",
+       "Alpine Ace",
+       "Anakin Skywalker"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 32,
+      "picks": [
+       "Batman Comic Book Outfit",
+       "Black Knight",
+       "Brite Bomber",
+       "Captain America",
+       "Cuddle Team Leader",
+       "Dark Voyager",
+       "Darth Vader",
+       "Deadpool",
+       "DJ Yonder",
+       "Drift"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Peely",
+       "Recruit"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a rapper with more than 500k monthly Spotify listeners",
+    "accepted": 3735,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3099,
+      "picks": [
+       "@atutowy",
+       "$hirak",
+       "$NOT",
+       "$OHO BANI",
+       "$ONO$ CLIQ",
+       "¥ellow Bucks",
+       "01099",
+       "03 Greedo",
+       "031CHOPPA",
+       "1.Cuz"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 548,
+      "picks": [
+       "$uicideboy$",
+       "070 Shake",
+       "2 Live Crew",
+       "24kGoldn",
+       "2hollis",
+       "42 Dugg",
+       "6LACK",
+       "A Boogie Wit da Hoodie",
+       "A Tribe Called Quest",
+       "A$AP Ferg"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 74,
+      "picks": [
+       "2 Chainz",
+       "21 Savage",
+       "6ix9ine",
+       "A$AP Rocky",
+       "Bad Bunny",
+       "Big Sean",
+       "Busta Rhymes",
+       "Chance the Rapper",
+       "Chief Keef",
+       "Childish Gambino"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 13,
+      "picks": [
+       "2Pac",
+       "50 Cent",
+       "Cardi B",
+       "Drake",
+       "Eminem",
+       "J. Cole",
+       "Jay-Z",
+       "Kanye West",
+       "Kendrick Lamar",
+       "Lil Wayne"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 94,
   "date": "2026-10-17",
   "prompts": [
