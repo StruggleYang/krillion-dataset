@@ -1,5 +1,497 @@
 [
  {
+  "n": 96,
+  "date": "2026-10-19",
+  "prompts": [
+   {
+    "q": "Name a female artist with over 500,000 monthly listeners on Spotify",
+    "accepted": 3408,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Cesária Évora"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 2916,
+      "picks": [
+       "070 Shake",
+       "267",
+       "52Hz",
+       "A Little Sound",
+       "A YueYue",
+       "A-Lin",
+       "A-Mei",
+       "Aaliyah",
+       "Aanandi Joshi",
+       "Aarohi Raghav"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 427,
+      "picks": [
+       "9Lana",
+       "Aakanksha Sharma",
+       "Addison Rae",
+       "Adéla",
+       "Ado",
+       "Adrianne Lenker",
+       "Aimee Carty",
+       "Aimee Mann",
+       "Aimer",
+       "Aitana"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 50,
+      "picks": [
+       "Alicia Keys",
+       "Amy Winehouse",
+       "Aretha Franklin",
+       "Avril Lavigne",
+       "beabadoobee",
+       "Camila Cabello",
+       "Cardi B",
+       "Carrie Underwood",
+       "Céline Dion",
+       "Chappell Roan"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 13,
+      "picks": [
+       "Adele",
+       "Ariana Grande",
+       "Beyoncé",
+       "Billie Eilish",
+       "Britney Spears",
+       "Katy Perry",
+       "Lady Gaga",
+       "Madonna",
+       "Mariah Carey",
+       "Olivia Rodrigo"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a foul or rule violation in soccer, basketball, American football, cricket, rugby or ice hockey",
+    "accepted": 395,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Flying wedge"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 248,
+      "picks": [
+       "Abuse of equipment",
+       "Advancing a dead ball",
+       "Aggressor",
+       "Alteration of the playing surface",
+       "Attempt to injure",
+       "Away-from-the-play foul",
+       "Backward pass out of bounds",
+       "Blocking out of bounds",
+       "Boring in",
+       "Bowling consecutive overs"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 105,
+      "picks": [
+       "Abusive language",
+       "Assault",
+       "Back pass",
+       "Ball tampering",
+       "Basket interference",
+       "Beamer",
+       "Biting",
+       "Blindside block",
+       "Blocking below the waist",
+       "Boarding"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 33,
+      "picks": [
+       "Backcourt violation",
+       "Blocking foul",
+       "Carrying",
+       "Charging",
+       "Delay of game",
+       "Diving",
+       "Elbowing",
+       "Encroachment",
+       "Excessive celebration",
+       "Facemask"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Double dribble",
+       "False start",
+       "Handball",
+       "Holding",
+       "Offside",
+       "Pass interference"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an underwear brand",
+    "accepted": 1106,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Jogbra"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 949,
+      "picks": [
+       "2UNDR",
+       "2wink",
+       "6ixty8ight",
+       "Abanderado",
+       "Abecita",
+       "Accessorize",
+       "Addicted",
+       "Aertex",
+       "Aimer",
+       "Aimerfeel"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 139,
+      "picks": [
+       "2(X)IST",
+       "2XU",
+       "32 Degrees",
+       "Abercrombie & Fitch",
+       "Adidas",
+       "Adore Me",
+       "Aéropostale",
+       "Agent Provocateur",
+       "American Apparel",
+       "American Eagle"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Aerie",
+       "Avon",
+       "Eddie Bauer",
+       "Maidenform",
+       "PINK",
+       "Playtex",
+       "Savage X Fenty",
+       "Skims",
+       "Spanx",
+       "Tommy Hilfiger"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Calvin Klein",
+       "Fruit of the Loom",
+       "Hanes",
+       "Jockey"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a university in the US or UK",
+    "accepted": 3139,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Berea College"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 2816,
+      "picks": [
+       "A.T. Still University",
+       "Aaniiih Nakoda College",
+       "Abertay University",
+       "Aberystwyth University",
+       "Abilene Christian University",
+       "Abingdon College",
+       "Abraham Baldwin Agricultural College",
+       "Abraham Lincoln University",
+       "Academy College",
+       "Academy for Five Element Acupuncture"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 248,
+      "picks": [
+       "American University",
+       "Amherst College",
+       "Appalachian State University",
+       "Babson College",
+       "Ball State University",
+       "Bard College",
+       "Barnard College",
+       "Bates College",
+       "Baylor College of Medicine",
+       "Baylor University"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 65,
+      "picks": [
+       "Arizona State University",
+       "Auburn University",
+       "Boston College",
+       "Boston University",
+       "Brigham Young University",
+       "Brown University",
+       "California Institute of Technology",
+       "Clemson University",
+       "Columbia University",
+       "Cornell University"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Harvard University",
+       "Massachusetts Institute of Technology",
+       "Princeton University",
+       "Stanford University",
+       "University of California, Los Angeles",
+       "University of Cambridge",
+       "University of Oxford"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a language that’s the most spoken in at least two countries",
+    "accepted": 19,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3,
+      "picks": [
+       "Albanian",
+       "Romanian"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 5,
+      "picks": [
+       "Dutch",
+       "Greek",
+       "Malay",
+       "Persian"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 5,
+      "picks": [
+       "German",
+       "Italian",
+       "Korean",
+       "Mandarin"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Arabic",
+       "English",
+       "French",
+       "Portuguese"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a character that has been playable in a Super Smash Bros. game",
+    "accepted": 89,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Min Min"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 5,
+      "picks": [
+       "Byleth",
+       "Hero",
+       "Kazuya",
+       "Mythra"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 56,
+      "picks": [
+       "Banjo & Kazooie",
+       "Bayonetta",
+       "Bowser Jr.",
+       "Chrom",
+       "Cloud",
+       "Corrin",
+       "Dark Pit",
+       "Dark Samus",
+       "Dr. Mario",
+       "Duck Hunt"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 16,
+      "picks": [
+       "Captain Falcon",
+       "Charizard",
+       "Daisy",
+       "Diddy Kong",
+       "Fox",
+       "Ganondorf",
+       "Jigglypuff",
+       "Mega Man",
+       "Meta Knight",
+       "Mewtwo"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Bowser",
+       "Donkey Kong",
+       "Kirby",
+       "Link",
+       "Luigi",
+       "Mario",
+       "Peach",
+       "Pikachu",
+       "Sonic"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a fruit normally eaten with its skin on",
+    "accepted": 579,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 485,
+      "picks": [
+       "Acerola",
+       "Afghan cherry",
+       "Aguasiqui",
+       "Ají dulce",
+       "Alaskan bunchberry",
+       "Allegheny plum",
+       "Alligator juniper berry",
+       "Almond-leaved pear",
+       "Altai apple",
+       "Ambarella"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 74,
+      "picks": [
+       "Açaí",
+       "Acorn squash",
+       "Asian pear",
+       "Banana pepper",
+       "Barberry",
+       "Beefsteak tomato",
+       "Bell pepper",
+       "Bilberry",
+       "Bird's eye chili",
+       "Bitter melon"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Apricot",
+       "Blackberry",
+       "Cranberry",
+       "Cucumber",
+       "Guava",
+       "Kiwi",
+       "Kumquat",
+       "Nectarine",
+       "Raspberry",
+       "Star fruit"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Apple",
+       "Blueberry",
+       "Cherry",
+       "Grape",
+       "Peach",
+       "Pear",
+       "Plum"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 95,
   "date": "2026-10-18",
   "prompts": [
