@@ -1,5 +1,484 @@
 [
  {
+  "n": 97,
+  "date": "2026-10-20",
+  "prompts": [
+   {
+    "q": "Name something sold in stick form (like deodorant; things on a stick don’t count).",
+    "accepted": 390,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Miswak"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 294,
+      "picks": [
+       "Achiras",
+       "Agar sticks",
+       "Air freshener stick",
+       "Anti-seize stick",
+       "Aojiru",
+       "Arc gouging carbon",
+       "Arnica stick",
+       "Baby balm stick",
+       "Back scratcher",
+       "Balsa sticks"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 62,
+      "picks": [
+       "Anti-chafe stick",
+       "Biscuit sticks",
+       "Blush stick",
+       "Bronzer stick",
+       "Bully stick",
+       "Candy cane",
+       "Candy cigarettes",
+       "Candy stick",
+       "Charcoal",
+       "Chicken sticks"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 25,
+      "picks": [
+       "Breadsticks",
+       "Candle",
+       "Carrot sticks",
+       "Celery sticks",
+       "Chalk",
+       "Chopsticks",
+       "Cinnamon stick",
+       "Crayon",
+       "Drumsticks",
+       "Dynamite"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Butter",
+       "Deodorant",
+       "Fish sticks",
+       "Glue stick",
+       "Gum",
+       "Lip balm"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a food made by mashing or puréeing (like guacamole)",
+    "accepted": 1454,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1310,
+      "picks": [
+       "'Nduja",
+       "Aam panna",
+       "Aam papad",
+       "Aamras",
+       "Abacus seeds",
+       "Abomu",
+       "Abula",
+       "Acarajé",
+       "Achu",
+       "Açorda"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 122,
+      "picks": [
+       "Açaí bowl",
+       "Akara",
+       "Aligot",
+       "Almond butter",
+       "Aloo tikki",
+       "Apple butter",
+       "Baingan bharta",
+       "Banana cake",
+       "Banana muffins",
+       "Beetroot purée"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 16,
+      "picks": [
+       "Baba ganoush",
+       "Banana bread",
+       "Bean dip",
+       "Jam",
+       "Mashed banana",
+       "Mashed cauliflower",
+       "Mashed sweet potatoes",
+       "Mochi",
+       "Mushy peas",
+       "Peanut butter"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Applesauce",
+       "Baby food",
+       "Guacamole",
+       "Hummus"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country with the letter D in its name",
+    "accepted": 50,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3,
+      "picks": [
+       "Marshall Islands",
+       "Saint Vincent and the Grenadines"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 17,
+      "picks": [
+       "Andorra",
+       "Antigua and Barbuda",
+       "Bosnia and Herzegovina",
+       "Burundi",
+       "Cape Verde",
+       "Côte d'Ivoire",
+       "Democratic Republic of the Congo",
+       "Djibouti",
+       "Dominica",
+       "Grenada"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 23,
+      "picks": [
+       "Bangladesh",
+       "Barbados",
+       "Cambodia",
+       "Chad",
+       "Dominican Republic",
+       "Ecuador",
+       "El Salvador",
+       "Finland",
+       "Honduras",
+       "Iceland"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Canada",
+       "Denmark",
+       "India",
+       "Ireland",
+       "Poland"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a device made to blow air",
+    "accepted": 340,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 240,
+      "picks": [
+       "4D theater air jet",
+       "Active chilled beam",
+       "Aerosledge",
+       "Aerotrain",
+       "Air amplifier",
+       "Air blast circuit breaker",
+       "Air blow gun",
+       "Air cannon",
+       "Air caster",
+       "Air classifier"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 86,
+      "picks": [
+       "Accordion",
+       "Air bike",
+       "Air handler",
+       "Air hockey table",
+       "Air horn",
+       "Air mattress pump",
+       "Air purifier",
+       "Air straightener",
+       "Air vent",
+       "Air-puff tonometer"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Air compressor",
+       "Air fryer",
+       "Air pump",
+       "Bellows",
+       "Bicycle pump",
+       "Ceiling fan",
+       "Clothes dryer",
+       "Hand dryer"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Air conditioner",
+       "Fan",
+       "Hair dryer"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a mammal smaller than a house cat",
+    "accepted": 6502,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Hero shrew"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 6283,
+      "picks": [
+       "Aba Horseshoe Bat",
+       "Aba Roundleaf Bat",
+       "Aberdare Mole Shrew",
+       "Abert's Squirrel",
+       "Abo Butterfly Bat",
+       "Abyssinian Genet",
+       "Abyssinian Grass Rat",
+       "Abyssinian Hare",
+       "Aceh Rat",
+       "Aceramarca Opossum"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 194,
+      "picks": [
+       "African pygmy hedgehog",
+       "Agouti",
+       "American Marten",
+       "American Mink",
+       "American Pika",
+       "Arctic fox",
+       "Arctic Hare",
+       "Asian small-clawed otter",
+       "Aye-aye",
+       "Banded mongoose"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 15,
+      "picks": [
+       "Chinchilla",
+       "Ferret",
+       "Field mouse",
+       "Gerbil",
+       "Gopher",
+       "Groundhog",
+       "Hedgehog",
+       "House Mouse",
+       "Meerkat",
+       "Mole"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Bat",
+       "Chipmunk",
+       "Guinea pig",
+       "Hamster",
+       "Mouse",
+       "Rabbit",
+       "Rat"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an internet service provider",
+    "accepted": 8183,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 8074,
+      "picks": [
+       "012 Smile",
+       "019 Mobile",
+       "099 Primo",
+       "1 Point Communications",
+       "1 Touch BD Online",
+       "1&1",
+       "101 Netlink",
+       "12.ru",
+       "123NET",
+       "12Global"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 94,
+      "picks": [
+       "Adelphia",
+       "Airtel",
+       "Alltel",
+       "altafiber",
+       "Ameritech",
+       "Armstrong",
+       "Astound",
+       "Bell",
+       "BellSouth",
+       "Boingo"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "AOL",
+       "CenturyLink",
+       "Cox",
+       "EarthLink",
+       "Frontier",
+       "Google Fiber",
+       "Optimum",
+       "Starlink",
+       "T-Mobile"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "AT&T",
+       "Comcast",
+       "Spectrum"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something that has a saddle (like a bicycle)",
+    "accepted": 151,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Dandy horse"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 112,
+      "picks": [
+       "Aerial tramway",
+       "Air duct",
+       "Alpaca",
+       "Ammonite",
+       "Anticline",
+       "Appalachian dulcimer",
+       "Bandurria",
+       "Black-backed jackal",
+       "Book sewing machine",
+       "Boring mill"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 30,
+      "picks": [
+       "ATV",
+       "Balance bike",
+       "Bass guitar",
+       "Carousel",
+       "Cycle rickshaw",
+       "Dog",
+       "Elephant",
+       "Exercise bike",
+       "Guitar",
+       "Kiddie ride"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 5,
+      "picks": [
+       "Camel",
+       "Donkey",
+       "Motorcycle",
+       "Mule"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Bicycle"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 96,
   "date": "2026-10-19",
   "prompts": [
