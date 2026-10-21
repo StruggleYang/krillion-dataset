@@ -1,5 +1,470 @@
 [
  {
+  "n": 98,
+  "date": "2026-10-21",
+  "prompts": [
+   {
+    "q": "Name a TV show that's rated 8.5+ on IMDb (1,000+ votes)",
+    "accepted": 979,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 737,
+      "picks": [
+       "1 Litre of Tears",
+       "17 Threads",
+       "19-2 (Québec, 2011)",
+       "1pm Daily Update",
+       "31 Minutes",
+       "7 Numara",
+       "9/11: One Day in America",
+       "90's: A Middle Class Biopic",
+       "99 (Man United documentary)",
+       "A Better Life"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 207,
+      "picks": [
+       "1883",
+       "30 for",
+       "60 A Knight of the Seven Kingdoms",
+       "Adventure Time",
+       "Alfred Hitchcock Presents",
+       "All Creatures Great & Small",
+       "Andor",
+       "Anne of Green Gables",
+       "Anne with an E",
+       "Anthony Bourdain: No Reservations"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 28,
+      "picks": [
+       "Attack on Titan",
+       "Avatar: The Last Airbender",
+       "Better Call Saul",
+       "Black Mirror",
+       "Chernobyl",
+       "Dexter",
+       "Fargo",
+       "House",
+       "House of Cards",
+       "It's Always Sunny in Philadelphia"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Breaking Bad",
+       "Friends",
+       "Game of Thrones",
+       "Stranger Things",
+       "The Office"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a current NBA player",
+    "accepted": 519,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 268,
+      "picks": [
+       "Aaron Wiggins",
+       "Aday Mara",
+       "Adem Bona",
+       "Adou Thiero",
+       "AJ Green",
+       "AJ Johnson",
+       "Ajay Mitchell",
+       "AK Okereke",
+       "Alex Morales",
+       "Alijah Martin"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 218,
+      "picks": [
+       "Aaron Gordon",
+       "Aaron Nesmith",
+       "Ace Bailey",
+       "AJ Dybantsa",
+       "Al Horford",
+       "Alex Caruso",
+       "Alex Karaban",
+       "Alex Sarr",
+       "Alperen Sengun",
+       "Amen Thompson"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 29,
+      "picks": [
+       "Anthony Davis",
+       "Anthony Edwards",
+       "Cooper Flagg",
+       "Damian Lillard",
+       "DeMar DeRozan",
+       "Devin Booker",
+       "Donovan Mitchell",
+       "Draymond Green",
+       "Giannis Antetokounmpo",
+       "Ja Morant"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Kevin Durant",
+       "LeBron James"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a food you have to shell or crack open before eating",
+    "accepted": 362,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 284,
+      "picks": [
+       "Ackee",
+       "African locust bean",
+       "African oil bean",
+       "African walnut",
+       "Andaman lobster",
+       "Angelwing clam",
+       "Apricot kernel",
+       "Babassu nut",
+       "Bacuri",
+       "Bael"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 53,
+      "picks": [
+       "Abalone",
+       "Acorn",
+       "Baby corn",
+       "Balut",
+       "Beechnut",
+       "Black walnut",
+       "Black-eyed peas",
+       "Blue crab",
+       "Blue swimmer crab",
+       "Brazil nut"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "Almond",
+       "Cashew",
+       "Chestnut",
+       "Clam",
+       "Coconut",
+       "Corn",
+       "Crayfish",
+       "Edamame",
+       "Fortune cookie",
+       "Hazelnut"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Crab",
+       "Egg",
+       "Lobster",
+       "Peanut"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a vehicle that doesn't travel on wheels",
+    "accepted": 1186,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Ground-effect vehicle"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 1021,
+      "picks": [
+       "Aak",
+       "Abak",
+       "Abra",
+       "Actuaria",
+       "Adirondack guideboat",
+       "Aerobatic aircraft",
+       "Aerosani",
+       "Agricultural drone",
+       "Agricultural helicopter",
+       "Aircraft cruiser"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 132,
+      "picks": [
+       "Aerial cable car",
+       "Air ambulance",
+       "Airboat",
+       "Aircraft carrier",
+       "Attack helicopter",
+       "Autogyro",
+       "Bamboo raft",
+       "Barge",
+       "Bass boat",
+       "Battleship"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 27,
+      "picks": [
+       "Airliner",
+       "Airship",
+       "Blimp",
+       "Bobsled",
+       "Canoe",
+       "Cruise ship",
+       "Drone",
+       "Ferry",
+       "Gondola (boat)",
+       "Hot air balloon"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Airplane",
+       "Boat",
+       "Helicopter"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a body part people have exactly one of (like the nose)",
+    "accepted": 589,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 498,
+      "picks": [
+       "Abdominal aorta",
+       "Abdominal cavity",
+       "Accessory hemiazygos vein",
+       "Adenoid",
+       "Ampulla of Vater",
+       "Anal canal",
+       "Anococcygeal body",
+       "Anterior commissure",
+       "Anterior communicating artery",
+       "Anterior cusp of the pulmonary valve"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 60,
+      "picks": [
+       "Aorta",
+       "Back of the head",
+       "Brainstem",
+       "Bridge of the nose",
+       "Butt crack",
+       "Cerebellum",
+       "Cerebrum",
+       "Cervix",
+       "Cleavage",
+       "Clitoris"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 25,
+      "picks": [
+       "Adam's apple",
+       "Anus",
+       "Appendix",
+       "Back",
+       "Belly button",
+       "Bladder",
+       "Butt",
+       "Chest",
+       "Chin",
+       "Face"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Brain",
+       "Head",
+       "Heart",
+       "Mouth"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country that borders Greece or Austria",
+    "accepted": 12,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3,
+      "picks": [
+       "North Macedonia",
+       "Slovakia"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 4,
+      "picks": [
+       "Albania",
+       "Bulgaria",
+       "Czech Republic"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 2,
+      "picks": [
+       "Italy"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Germany"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an extra that airlines charge for",
+    "accepted": 111,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 50,
+      "picks": [
+       "Award booking fee",
+       "Award redeposit fee",
+       "Baggage delivery",
+       "Baggage protection",
+       "Baggage subscription",
+       "Bassinet seat",
+       "Bike",
+       "Bundle",
+       "Buying elite status",
+       "Buying miles"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 30,
+      "picks": [
+       "Airport check-in fee",
+       "Amenity kit",
+       "Booking fee",
+       "Credit card fee",
+       "Duty-free",
+       "Early check-in",
+       "Empty adjacent seat",
+       "Extra seat",
+       "Fast-track security",
+       "Flexible fare"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 22,
+      "picks": [
+       "Alcohol",
+       "Blanket",
+       "Boarding pass printing",
+       "Business class",
+       "Cancellation fee",
+       "Change fee",
+       "Exit row",
+       "Extra bag",
+       "First class",
+       "Headphones"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Carry-on bag",
+       "Checked bag",
+       "Drinks",
+       "Extra legroom",
+       "Meals",
+       "Seat selection",
+       "Snacks"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 97,
   "date": "2026-10-20",
   "prompts": [
