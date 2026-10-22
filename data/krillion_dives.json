@@ -1,5 +1,468 @@
 [
  {
+  "n": 99,
+  "date": "2026-10-22",
+  "prompts": [
+   {
+    "q": "Name a character from Attack on Titan, One Piece or Naruto",
+    "accepted": 3421,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Pandaman"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 3232,
+      "picks": [
+       "13",
+       "150",
+       "A A A",
+       "A O",
+       "Abdullah",
+       "Abel",
+       "Abel Reiss",
+       "Abi",
+       "Abiru",
+       "Absalom"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 147,
+      "picks": [
+       "Akamaru",
+       "Alvida",
+       "Anko Mitarashi",
+       "Arlong",
+       "Asuma Sarutobi",
+       "Bartholomew Kuma",
+       "Bartolomeo",
+       "Bellamy",
+       "Bepo",
+       "Black Zetsu"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 35,
+      "picks": [
+       "Annie Leonhart",
+       "Armin Arlert",
+       "Bertholdt Hoover",
+       "Boruto Uzumaki",
+       "Buggy",
+       "Charlotte Linlin",
+       "Chōji Akimichi",
+       "Donquixote Doflamingo",
+       "Erwin Smith",
+       "Gaara"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Eren Yeager",
+       "Monkey D. Luffy",
+       "Naruto Uzumaki",
+       "Roronoa Zoro"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a job with median annual pay over $100,000 in the US",
+    "accepted": 1441,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1169,
+      "picks": [
+       "Accelerator Operator",
+       "Accreditation Manager",
+       "Acoustic engineer",
+       "Acoustician",
+       "Activity Therapy Teacher",
+       "Addiction medicine physician",
+       "Addiction psychologist",
+       "Administrative law judge",
+       "Administrative services manager",
+       "Admiralty Lawyer"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 259,
+      "picks": [
+       "Actuary",
+       "Admiral",
+       "Advertising manager",
+       "Aerospace engineer",
+       "AI engineer",
+       "Air traffic controller",
+       "Anesthesiologist",
+       "Anesthesiologist assistant",
+       "Animator",
+       "Art director"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 4,
+      "picks": [
+       "Investment banker",
+       "President",
+       "Radiologist"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "CEO",
+       "Dentist",
+       "Doctor",
+       "Engineer",
+       "Lawyer",
+       "Pilot",
+       "Software engineer"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a game with a number in its name (sequels and 3D variants don't count)",
+    "accepted": 5903,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 5770,
+      "picks": [
+       "-Making*Lovers- First Blush",
+       ".45 Parabellum Bloodhound",
+       "'65: Squad-Level Combat in the Jungles of Vietnam",
+       "'85 Afghanistan: Graveyard of Empires",
+       "'90s Super GP",
+       "'96 Flag Rally",
+       "'99: The Last War",
+       "'CA' Tactical Naval Warfare in the Pacific, 1941-45",
+       "'Wacht am Rhein': The Battle of the Bulge, 16 Dec 44 – 2 Jan 45",
+       "\"Scratch One Flat Top!\""
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 117,
+      "picks": [
+       "007 (hand game)",
+       "007 First Light",
+       "1-2-Switch",
+       "101 Dalmatians: Escape from DeVil Manor",
+       "1080° Snowboarding",
+       "13 Sentinels: Aegis Rim",
+       "1942",
+       "1v1.LOL",
+       "21 Questions",
+       "24 Game"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "2048",
+       "8 Ball Pool",
+       "Crazy Eights",
+       "Cyberpunk 2077",
+       "Eight-ball",
+       "Five Nights at Freddy's",
+       "Four square",
+       "Left 4 Dead",
+       "NBA 2K",
+       "Super Mario 64"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 1,
+      "picks": []
+     }
+    ]
+   },
+   {
+    "q": "Name a field, art or skill ending in -graphy",
+    "accepted": 1724,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1664,
+      "picks": [
+       "3D mammography",
+       "3D typography",
+       "Abdominal radiography",
+       "Abdominal ultrasonography",
+       "Abstract photography",
+       "Acceleromyography",
+       "Acoustic holography",
+       "Acoustic tomography",
+       "Acoustical oceanography",
+       "Acoustocerebrography"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 51,
+      "picks": [
+       "Aerial photography",
+       "Angiography",
+       "Astrophotography",
+       "Autobiography",
+       "Biogeography",
+       "Chinese Calligraphy",
+       "Choreography",
+       "Chromatography",
+       "Computed Tomography",
+       "Cryptography"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 5,
+      "picks": [
+       "Bibliography",
+       "Calligraphy",
+       "Cartography",
+       "Cinematography"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Biography",
+       "Geography"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country with a five-letter English name",
+    "accepted": 27,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 4,
+      "picks": [
+       "Benin",
+       "Gabon",
+       "Palau"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 10,
+      "picks": [
+       "Burma",
+       "Libya",
+       "Malta",
+       "Niger",
+       "Qatar",
+       "Samoa",
+       "Sudan",
+       "Syria",
+       "Wales"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Chile",
+       "Congo",
+       "Egypt",
+       "Ghana",
+       "Haiti",
+       "Kenya",
+       "Nepal"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "China",
+       "India",
+       "Italy"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an environmental problem (like pollution)",
+    "accepted": 249,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 150,
+      "picks": [
+       "Acid mine drainage",
+       "Acid sulfate soils",
+       "Ammonia pollution",
+       "AMOC weakening",
+       "Amphibian decline",
+       "Antimicrobial resistance in the environment",
+       "Aquaculture pollution",
+       "Arctic amplification",
+       "Arsenic contamination",
+       "Aviation emissions"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 74,
+      "picks": [
+       "Agricultural runoff",
+       "Asbestos contamination",
+       "Bee decline",
+       "Biodiversity loss",
+       "Bottom trawling",
+       "Carbon monoxide pollution",
+       "Chemical pollution",
+       "Chemical spills",
+       "Coastal erosion",
+       "Coral bleaching"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "Acid rain",
+       "Deforestation",
+       "Drought",
+       "Fracking",
+       "Greenhouse effect",
+       "Greenhouse gas emissions",
+       "Light pollution",
+       "Littering",
+       "Melting ice caps",
+       "Microplastics"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Air pollution",
+       "Climate change",
+       "Global warming",
+       "Pollution"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a South Asian dish (India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives, Afghanistan)",
+    "accepted": 2162,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2010,
+      "picks": [
+       "Aab gosht",
+       "Aadasi",
+       "Aadupak",
+       "Aam panna",
+       "Aam papad",
+       "Aamat",
+       "Aamras",
+       "Aasmi",
+       "Ab-e-dandon",
+       "Abgoosht"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 122,
+      "picks": [
+       "Achar",
+       "Afghani chicken",
+       "Aloo bharta",
+       "Aloo chaat",
+       "Aloo gobi",
+       "Aloo masala",
+       "Aloo matar",
+       "Aloo tikki",
+       "Appam",
+       "Avial"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 23,
+      "picks": [
+       "Chaat",
+       "Chicken tikka",
+       "Chutney",
+       "Dal",
+       "Fish curry",
+       "Gulab jamun",
+       "Idli",
+       "Kebab",
+       "Kofta",
+       "Korma"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Biryani",
+       "Butter chicken",
+       "Chicken tikka masala",
+       "Curry",
+       "Naan"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 98,
   "date": "2026-10-21",
   "prompts": [
