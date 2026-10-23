@@ -1,5 +1,478 @@
 [
  {
+  "n": 100,
+  "date": "2026-10-23",
+  "prompts": [
+   {
+    "q": "Name a branded fast-food menu item (like the Big Mac).",
+    "accepted": 2446,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2201,
+      "picks": [
+       "'Shroom Burger",
+       "1921 Slider",
+       "1955 Burger",
+       "280 Original",
+       "3 Guys milk tea",
+       "3 Meat Treat",
+       "5 Alarm Burrito",
+       "5 Meat Feast",
+       "5 Mega Meat Stack",
+       "7 Energy"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 211,
+      "picks": [
+       "$5 Fill Up",
+       "3 Finger Combo",
+       "4 for $4",
+       "7-Layer Burrito",
+       "A&W Root Beer",
+       "Adult Happy Meal",
+       "Americone Dream",
+       "Arby's Classic Roast Beef",
+       "Arby's Sauce",
+       "Arch Deluxe"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 28,
+      "picks": [
+       "Animal Style Fries",
+       "Baconator",
+       "Baja Blast",
+       "Big Mac Sauce",
+       "Biggie Bag",
+       "Blizzard",
+       "Cane's Sauce",
+       "Chalupa",
+       "Chick-fil-A Chicken Sandwich",
+       "Chick-fil-A Nuggets"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Big Mac",
+       "Chicken McNuggets",
+       "Happy Meal",
+       "McChicken"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an animal that sprays, spits or squirts something to defend itself.",
+    "accepted": 111,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 82,
+      "picks": [
+       "African striped weasel",
+       "Albatross",
+       "Amazon ant",
+       "Armoured cricket",
+       "Atlas moth caterpillar",
+       "Bald-faced hornet",
+       "Black skimmer",
+       "Bronze orange bug",
+       "Chameleon gecko",
+       "Chinchemolle"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 23,
+      "picks": [
+       "Alpaca",
+       "Bombardier beetle",
+       "Cane toad",
+       "Carpenter ant",
+       "Chinchilla",
+       "Cuttlefish",
+       "Earwig",
+       "Fire salamander",
+       "Grasshopper",
+       "Hagfish"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 4,
+      "picks": [
+       "Camel",
+       "Llama",
+       "Octopus"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 1,
+      "picks": []
+     }
+    ]
+   },
+   {
+    "q": "Name a part of a 2D or 3D shape (like a radius).",
+    "accepted": 251,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 202,
+      "picks": [
+       "Acamar point",
+       "Ajima-Malfatti point",
+       "Angle of a segment",
+       "Angle trisector",
+       "Anticenter",
+       "Antiorthic axis",
+       "Antipode",
+       "Aperture",
+       "Apollonius point",
+       "Apothem"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 27,
+      "picks": [
+       "Angle bisector",
+       "Apex",
+       "Arch",
+       "Axis",
+       "Base angle",
+       "Base edge",
+       "Central angle",
+       "Centroid",
+       "Endpoint",
+       "Exterior angle"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 16,
+      "picks": [
+       "Altitude",
+       "Arc",
+       "Axis of symmetry",
+       "Base",
+       "Centre",
+       "Chord",
+       "Circumference",
+       "Diagonal",
+       "Exterior",
+       "Face"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Angle",
+       "Diameter",
+       "Edge",
+       "Radius"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an upper-body gym exercise (strength exercises only; no full-body moves).",
+    "accepted": 615,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 478,
+      "picks": [
+       "360 pull",
+       "360 push-up",
+       "4-way neck",
+       "6-way raise",
+       "90-degree front lever raise",
+       "90-degree push-up",
+       "Ab coaster",
+       "Ab slide",
+       "Abdominal hip roll",
+       "Abdominal pendulum"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 108,
+      "picks": [
+       "Ab wheel rollout",
+       "Archer push-up",
+       "Arnold press",
+       "Back extension",
+       "Back lever",
+       "Band pull-apart",
+       "Bayesian curl",
+       "Bench dip",
+       "Bent-over row",
+       "Bicycle crunch"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 24,
+      "picks": [
+       "Barbell curl",
+       "Chin-up",
+       "Crunch",
+       "Diamond push-up",
+       "Dip",
+       "Dumbbell bench press",
+       "Dumbbell row",
+       "Dumbbell shoulder press",
+       "Fly",
+       "Hammer curl"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Bench press",
+       "Bicep curl",
+       "Pull-up"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a Nintendo Wii game.",
+    "accepted": 2077,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1847,
+      "picks": [
+       "\"Aha! I Found It!\" Hidden Object Game",
+       "\"Aha! I Got It!\" Escape Game",
+       "007: Quantum of Solace",
+       "10 Minute Solution",
+       "101-in-1 Explosive Megamix",
+       "101-in-1 Party Megamix",
+       "101-in-1 Sports Party Megamix",
+       "2 Fast 4 Gnomz",
+       "2 in 1: Meine Tierpension + Meine Tiersprechstunde",
+       "2 in 1: Pony Friends 2 + My Riding Stables: Life with Horses"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 214,
+      "picks": [
+       "Angry Birds Star Wars",
+       "Angry Birds Trilogy",
+       "Backyard Football",
+       "Band Hero",
+       "Battleship",
+       "Bee Movie Game",
+       "Big Brain Academy: Wii Degree",
+       "Bolt",
+       "Boom Blox",
+       "Bully: Scholarship Edition"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Animal Crossing: City Folk",
+       "Donkey Kong Country Returns",
+       "Just Dance",
+       "Mario & Sonic at the Olympic Games",
+       "Mario Party 8",
+       "New Play Control! Mario Power Tennis",
+       "New Super Mario Bros. Wii",
+       "Super Mario Galaxy",
+       "Super Mario Galaxy 2",
+       "Super Paper Mario"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Mario Kart Wii",
+       "Super Smash Bros. Brawl",
+       "Wii Sports"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a rap song with over 100 million Spotify streams.",
+    "accepted": 5544,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 4727,
+      "picks": [
+       "¿CÓMO TE VA, QUERIDA?",
+       "¿Quién Te Crees?",
+       "¿Quien Tu Eres?",
+       "...And to Those I Love, Thanks for Sticking Around",
+       "(Rock) Superstar",
+       "<3",
+       "= (Equal Sign)",
+       "$$$ (XXXTentacion & Matt Ox)",
+       "$outh $ide $uicide",
+       "0 Sentimientos"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 722,
+      "picks": [
+       "'03 Bonnie & Clyde",
+       "(You Gotta) Fight for Your Right (To Party!)",
+       "#thatPOWER",
+       "$ave Dat Money",
+       "0 to",
+       "/ The Catch Up",
+       "1-800-273-8255",
+       "10 Freaky Girls",
+       "1st of tha Month",
+       "2 of Amerikaz Most Wanted"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 89,
+      "picks": [
+       "99 Problems",
+       "Airplanes",
+       "All Of The Lights",
+       "All The Stars",
+       "Anaconda",
+       "Baby Got Back",
+       "Bad and Boujee",
+       "Black and Yellow",
+       "Bodak Yellow",
+       "California Love"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "God's Plan",
+       "Hotline Bling",
+       "Not Like Us",
+       "Rap God"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a machine traditionally operated by inserting coins.",
+    "accepted": 197,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 134,
+      "picks": [
+       "Allwin",
+       "Animal feed dispenser",
+       "Arcade bowling machine",
+       "Arm wrestling machine",
+       "Art vending machine",
+       "Automat",
+       "Bait vending machine",
+       "Bar billiards",
+       "Baseball arcade game",
+       "Beer vending machine"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 44,
+      "picks": [
+       "Air pump",
+       "Basketball arcade game",
+       "Batting cage pitching machine",
+       "Boxing machine",
+       "Capsule toy machine",
+       "Car-wash vacuum",
+       "Cigarette machine",
+       "Coffee vending machine",
+       "Coin drop game",
+       "Coin locker"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 15,
+      "picks": [
+       "Air hockey table",
+       "Candy machine",
+       "Claw machine",
+       "Coin-operated dryer",
+       "Coin-operated washing machine",
+       "Gumball machine",
+       "Jukebox",
+       "Kiddie ride",
+       "Parking meter",
+       "Payphone"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Arcade machine",
+       "Slot machine"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 99,
   "date": "2026-10-22",
   "prompts": [

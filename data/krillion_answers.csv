@@ -1,4 +1,227 @@
 dive_number,date,prompt_number,prompt,accepted_answers,tier,points,answer
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Deep cut,85,'Shroom Burger
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Deep cut,85,1921 Slider
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Deep cut,85,1955 Burger
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Deep cut,85,280 Original
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Deep cut,85,3 Guys milk tea
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Deep cut,85,3 Meat Treat
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Deep cut,85,5 Alarm Burrito
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Deep cut,85,5 Meat Feast
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Deep cut,85,5 Mega Meat Stack
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Deep cut,85,7 Energy
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Rare,60,$5 Fill Up
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Rare,60,3 Finger Combo
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Rare,60,4 for $4
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Rare,60,7-Layer Burrito
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Rare,60,A&W Root Beer
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Rare,60,Adult Happy Meal
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Rare,60,Americone Dream
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Rare,60,Arby's Classic Roast Beef
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Rare,60,Arby's Sauce
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Rare,60,Arch Deluxe
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Schooler,30,Animal Style Fries
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Schooler,30,Baconator
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Schooler,30,Baja Blast
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Schooler,30,Big Mac Sauce
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Schooler,30,Biggie Bag
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Schooler,30,Blizzard
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Schooler,30,Cane's Sauce
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Schooler,30,Chalupa
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Schooler,30,Chick-fil-A Chicken Sandwich
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Schooler,30,Chick-fil-A Nuggets
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Plankton,10,Big Mac
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Plankton,10,Chicken McNuggets
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Plankton,10,Happy Meal
+100,2026-10-23,1,Name a branded fast-food menu item (like the Big Mac).,2446,Plankton,10,McChicken
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Deep cut,85,African striped weasel
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Deep cut,85,Albatross
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Deep cut,85,Amazon ant
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Deep cut,85,Armoured cricket
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Deep cut,85,Atlas moth caterpillar
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Deep cut,85,Bald-faced hornet
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Deep cut,85,Black skimmer
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Deep cut,85,Bronze orange bug
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Deep cut,85,Chameleon gecko
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Deep cut,85,Chinchemolle
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Rare,60,Alpaca
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Rare,60,Bombardier beetle
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Rare,60,Cane toad
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Rare,60,Carpenter ant
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Rare,60,Chinchilla
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Rare,60,Cuttlefish
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Rare,60,Earwig
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Rare,60,Fire salamander
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Rare,60,Grasshopper
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Rare,60,Hagfish
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Schooler,30,Camel
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Schooler,30,Llama
+100,2026-10-23,2,"Name an animal that sprays, spits or squirts something to defend itself.",111,Schooler,30,Octopus
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Deep cut,85,Acamar point
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Deep cut,85,Ajima-Malfatti point
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Deep cut,85,Angle of a segment
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Deep cut,85,Angle trisector
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Deep cut,85,Anticenter
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Deep cut,85,Antiorthic axis
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Deep cut,85,Antipode
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Deep cut,85,Aperture
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Deep cut,85,Apollonius point
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Deep cut,85,Apothem
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Rare,60,Angle bisector
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Rare,60,Apex
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Rare,60,Arch
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Rare,60,Axis
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Rare,60,Base angle
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Rare,60,Base edge
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Rare,60,Central angle
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Rare,60,Centroid
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Rare,60,Endpoint
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Rare,60,Exterior angle
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Schooler,30,Altitude
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Schooler,30,Arc
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Schooler,30,Axis of symmetry
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Schooler,30,Base
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Schooler,30,Centre
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Schooler,30,Chord
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Schooler,30,Circumference
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Schooler,30,Diagonal
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Schooler,30,Exterior
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Schooler,30,Face
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Plankton,10,Angle
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Plankton,10,Diameter
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Plankton,10,Edge
+100,2026-10-23,3,Name a part of a 2D or 3D shape (like a radius).,251,Plankton,10,Radius
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Deep cut,85,360 pull
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Deep cut,85,360 push-up
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Deep cut,85,4-way neck
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Deep cut,85,6-way raise
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Deep cut,85,90-degree front lever raise
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Deep cut,85,90-degree push-up
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Deep cut,85,Ab coaster
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Deep cut,85,Ab slide
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Deep cut,85,Abdominal hip roll
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Deep cut,85,Abdominal pendulum
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Rare,60,Ab wheel rollout
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Rare,60,Archer push-up
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Rare,60,Arnold press
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Rare,60,Back extension
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Rare,60,Back lever
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Rare,60,Band pull-apart
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Rare,60,Bayesian curl
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Rare,60,Bench dip
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Rare,60,Bent-over row
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Rare,60,Bicycle crunch
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Schooler,30,Barbell curl
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Schooler,30,Chin-up
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Schooler,30,Crunch
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Schooler,30,Diamond push-up
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Schooler,30,Dip
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Schooler,30,Dumbbell bench press
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Schooler,30,Dumbbell row
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Schooler,30,Dumbbell shoulder press
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Schooler,30,Fly
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Schooler,30,Hammer curl
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Plankton,10,Bench press
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Plankton,10,Bicep curl
+100,2026-10-23,4,Name an upper-body gym exercise (strength exercises only; no full-body moves).,615,Plankton,10,Pull-up
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Deep cut,85,"""Aha! I Found It!"" Hidden Object Game"
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Deep cut,85,"""Aha! I Got It!"" Escape Game"
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Deep cut,85,007: Quantum of Solace
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Deep cut,85,10 Minute Solution
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Deep cut,85,101-in-1 Explosive Megamix
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Deep cut,85,101-in-1 Party Megamix
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Deep cut,85,101-in-1 Sports Party Megamix
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Deep cut,85,2 Fast 4 Gnomz
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Deep cut,85,2 in 1: Meine Tierpension + Meine Tiersprechstunde
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Deep cut,85,2 in 1: Pony Friends 2 + My Riding Stables: Life with Horses
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Rare,60,Angry Birds Star Wars
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Rare,60,Angry Birds Trilogy
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Rare,60,Backyard Football
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Rare,60,Band Hero
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Rare,60,Battleship
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Rare,60,Bee Movie Game
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Rare,60,Big Brain Academy: Wii Degree
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Rare,60,Bolt
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Rare,60,Boom Blox
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Rare,60,Bully: Scholarship Edition
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Schooler,30,Animal Crossing: City Folk
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Schooler,30,Donkey Kong Country Returns
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Schooler,30,Just Dance
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Schooler,30,Mario & Sonic at the Olympic Games
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Schooler,30,Mario Party 8
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Schooler,30,New Play Control! Mario Power Tennis
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Schooler,30,New Super Mario Bros. Wii
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Schooler,30,Super Mario Galaxy
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Schooler,30,Super Mario Galaxy 2
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Schooler,30,Super Paper Mario
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Plankton,10,Mario Kart Wii
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Plankton,10,Super Smash Bros. Brawl
+100,2026-10-23,5,Name a Nintendo Wii game.,2077,Plankton,10,Wii Sports
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Deep cut,85,"¿CÓMO TE VA, QUERIDA?"
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Deep cut,85,¿Quién Te Crees?
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Deep cut,85,¿Quien Tu Eres?
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Deep cut,85,"...And to Those I Love, Thanks for Sticking Around"
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Deep cut,85,(Rock) Superstar
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Deep cut,85,<3
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Deep cut,85,= (Equal Sign)
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Deep cut,85,$$$ (XXXTentacion & Matt Ox)
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Deep cut,85,$outh $ide $uicide
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Deep cut,85,0 Sentimientos
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Rare,60,'03 Bonnie & Clyde
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Rare,60,(You Gotta) Fight for Your Right (To Party!)
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Rare,60,#thatPOWER
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Rare,60,$ave Dat Money
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Rare,60,0 to
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Rare,60,/ The Catch Up
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Rare,60,1-800-273-8255
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Rare,60,10 Freaky Girls
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Rare,60,1st of tha Month
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Rare,60,2 of Amerikaz Most Wanted
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Schooler,30,99 Problems
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Schooler,30,Airplanes
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Schooler,30,All Of The Lights
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Schooler,30,All The Stars
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Schooler,30,Anaconda
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Schooler,30,Baby Got Back
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Schooler,30,Bad and Boujee
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Schooler,30,Black and Yellow
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Schooler,30,Bodak Yellow
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Schooler,30,California Love
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Plankton,10,God's Plan
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Plankton,10,Hotline Bling
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Plankton,10,Not Like Us
+100,2026-10-23,6,Name a rap song with over 100 million Spotify streams.,5544,Plankton,10,Rap God
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Deep cut,85,Allwin
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Deep cut,85,Animal feed dispenser
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Deep cut,85,Arcade bowling machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Deep cut,85,Arm wrestling machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Deep cut,85,Art vending machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Deep cut,85,Automat
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Deep cut,85,Bait vending machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Deep cut,85,Bar billiards
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Deep cut,85,Baseball arcade game
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Deep cut,85,Beer vending machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Rare,60,Air pump
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Rare,60,Basketball arcade game
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Rare,60,Batting cage pitching machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Rare,60,Boxing machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Rare,60,Capsule toy machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Rare,60,Car-wash vacuum
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Rare,60,Cigarette machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Rare,60,Coffee vending machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Rare,60,Coin drop game
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Rare,60,Coin locker
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Schooler,30,Air hockey table
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Schooler,30,Candy machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Schooler,30,Claw machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Schooler,30,Coin-operated dryer
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Schooler,30,Coin-operated washing machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Schooler,30,Gumball machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Schooler,30,Jukebox
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Schooler,30,Kiddie ride
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Schooler,30,Parking meter
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Schooler,30,Payphone
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Plankton,10,Arcade machine
+100,2026-10-23,7,Name a machine traditionally operated by inserting coins.,197,Plankton,10,Slot machine
 99,2026-10-22,1,"Name a character from Attack on Titan, One Piece or Naruto",3421,One in a Krillion,100,Pandaman
 99,2026-10-22,1,"Name a character from Attack on Titan, One Piece or Naruto",3421,Deep cut,85,13
 99,2026-10-22,1,"Name a character from Attack on Titan, One Piece or Naruto",3421,Deep cut,85,150
