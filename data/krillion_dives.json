@@ -1,5 +1,508 @@
 [
  {
+  "n": 101,
+  "date": "2026-10-24",
+  "prompts": [
+   {
+    "q": "Name a movie first released in theaters in 2026",
+    "accepted": 1391,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1170,
+      "picks": [
+       "¿Quieres ser mi novia?",
+       "100 Tage Autark",
+       "125, rue des Malaises",
+       "18 Buracos para o Paraíso",
+       "19",
+       "2 cuori e 2 capanne",
+       "2 Valid IDs",
+       "23,000 Lives",
+       "29",
+       "30 and Wild"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 200,
+      "picks": [
+       "28 Years Later: The Bone Temple",
+       "7 Dogs",
+       "A Part of Me",
+       "A Talent for Murder",
+       "A Werewolf Boy",
+       "Ach, diese Lücke, diese entsetzliche Lücke",
+       "Ali G: Who Iz I?",
+       "All Wishes Come True!",
+       "Alpha",
+       "Animal Farm"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 15,
+      "picks": [
+       "Backrooms",
+       "Digger",
+       "Minions & Monsters",
+       "Moana",
+       "Obsession",
+       "Other Mommy",
+       "Peaky Blinders: The Immortal Man",
+       "Project Hail Mary",
+       "Scary Movie",
+       "Scream 7"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Michael",
+       "Spider-Man: Brand New Day",
+       "The Odyssey",
+       "The Super Mario Galaxy Movie"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something with a spinning blade",
+    "accepted": 1148,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1018,
+      "picks": [
+       "3D printer",
+       "Aerial saw",
+       "Aerobatic aircraft",
+       "Agricultural drone",
+       "Agricultural helicopter",
+       "Air ambulance",
+       "Air bike",
+       "Air circulator",
+       "Air classifier",
+       "Air conditioning pack"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 92,
+      "picks": [
+       "Air conditioner",
+       "Air fryer",
+       "Air purifier",
+       "Airboat",
+       "Angle grinder",
+       "Band saw",
+       "Biplane",
+       "Bladeless fan",
+       "Blower",
+       "Bread maker"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 32,
+      "picks": [
+       "Airplane",
+       "Bathroom fan",
+       "Boat",
+       "Box fan",
+       "Chainsaw",
+       "Circular saw",
+       "Coffee grinder",
+       "Computer fan",
+       "Desk fan",
+       "Drone"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Blender",
+       "Ceiling fan",
+       "Fan",
+       "Helicopter"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a book that has sold at least 500,000 copies worldwide.",
+    "accepted": 11013,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 9734,
+      "picks": [
+       "...And Ladies of the Club",
+       "'Tis",
+       "'Toons for Our Times",
+       "'Twas the Nightshift Before Christmas",
+       "'Twixt Twelve and Twenty",
+       "\"Shouldn't You Be in School?\"",
+       "\"Slowly, Slowly, Slowly,\" Said the Sloth",
+       "\"When Did You See Her Last?\"",
+       "\"Who Could That Be at This Hour?\"",
+       "\"Why Is This Night Different from All Other Nights?\""
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 1160,
+      "picks": [
+       "1,000 Places to See Before You Die",
+       "101 Essays That Will Change the Way You Think",
+       "11/22/63",
+       "12 Rules for Life",
+       "1776",
+       "1Q84",
+       "2 States",
+       "2001: A Space Odyssey",
+       "21 Lessons for the 21st Century",
+       "A Bad Case of Stripes"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 107,
+      "picks": [
+       "A Christmas Carol",
+       "A Court of Thorns and Roses",
+       "A Game of Thrones",
+       "A Midsummer Night's Dream",
+       "A Tale of Two Cities",
+       "A Wrinkle in Time",
+       "Adventures of Huckleberry Finn",
+       "Alice's Adventures in Wonderland",
+       "And Then There Were None",
+       "Animal Farm"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 11,
+      "picks": [
+       "1984",
+       "Diary of a Wimpy Kid",
+       "Harry Potter and the Philosopher's Stone",
+       "Quran",
+       "The Bible",
+       "The Cat in the Hat",
+       "The Hobbit",
+       "The Hunger Games",
+       "The Lord of the Rings",
+       "The Very Hungry Caterpillar"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a word that could be in Wordle (5 letters)",
+    "accepted": 14853,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 10211,
+      "picks": [
+       "aahed",
+       "aalii",
+       "aapas",
+       "aarti",
+       "abaca",
+       "abaci",
+       "abacs",
+       "abaft",
+       "abaht",
+       "abaka"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 3400,
+      "picks": [
+       "aargh",
+       "aback",
+       "abase",
+       "abate",
+       "abbey",
+       "abbot",
+       "abets",
+       "abhor",
+       "abide",
+       "abler"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 1150,
+      "picks": [
+       "above",
+       "ached",
+       "aches",
+       "acres",
+       "acted",
+       "actor",
+       "adapt",
+       "added",
+       "admit",
+       "adopt"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 90,
+      "picks": [
+       "about",
+       "adieu",
+       "aeros",
+       "agree",
+       "aisle",
+       "alive",
+       "allow",
+       "among",
+       "arise",
+       "arose"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an app or program that comes built into Windows or macOS (older versions count).",
+    "accepted": 1936,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1741,
+      "picks": [
+       "3D Builder",
+       "3D FlowerBox",
+       "3D Flying Objects",
+       "3D Text",
+       "aa",
+       "ab",
+       "About Windows",
+       "ac",
+       "Accessibility Wizard",
+       "accton"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 138,
+      "picks": [
+       "3D Maze",
+       "3D Pipes",
+       "3D Viewer",
+       "Activity Monitor",
+       "Add or Remove Programs",
+       "Adobe Acrobat Reader",
+       "America Online",
+       "AppleWorks",
+       "Automator",
+       "bash"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 47,
+      "picks": [
+       "App Store",
+       "Calendar",
+       "Camera",
+       "Candy Crush Saga",
+       "Chess",
+       "Clock",
+       "Command Prompt",
+       "Contacts",
+       "Control Panel",
+       "Copilot"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Calculator",
+       "Internet Explorer",
+       "Microsoft Edge",
+       "Minesweeper",
+       "Notepad",
+       "Paint",
+       "Safari",
+       "Solitaire"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a language that originated in South Asia or Southeast Asia",
+    "accepted": 1966,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1905,
+      "picks": [
+       "'Olekha",
+       "A-Pucikwar",
+       "Abai Sungai",
+       "Abai Tubu-Abai Sembuak",
+       "Abawiri",
+       "Abenlen Ayta",
+       "Abhiri",
+       "Abinomn",
+       "Abui",
+       "Abun"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 47,
+      "picks": [
+       "Acehnese",
+       "Assamese",
+       "Balinese",
+       "Balochi",
+       "Bhojpuri",
+       "Brunei Malay",
+       "Cebuano",
+       "Chavacano",
+       "Dhivehi",
+       "Dzongkha"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Bengali",
+       "Burmese",
+       "Indonesian",
+       "Malay",
+       "Nepali",
+       "Punjabi",
+       "Sanskrit",
+       "Tagalog",
+       "Tamil"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Hindi",
+       "Thai"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something with a legal minimum age",
+    "accepted": 452,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 327,
+      "picks": [
+       "10-year passport",
+       "Acupuncture license",
+       "Adult gaming centre",
+       "Adult prison",
+       "Advance directive",
+       "AI chatbots",
+       "Air traffic controller",
+       "Aircraft dispatcher",
+       "Aircraft mechanic",
+       "Airline pilot"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 87,
+      "picks": [
+       "Abortion",
+       "Adoption",
+       "Age of majority",
+       "Air rifle",
+       "Ammunition",
+       "ATV",
+       "Au pair",
+       "Being tried as an adult",
+       "Bingo",
+       "Boat license"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 31,
+      "picks": [
+       "Age of consent",
+       "Bank account",
+       "Bars and nightclubs",
+       "Bartending",
+       "Blood donation",
+       "Cannabis",
+       "Casino",
+       "Credit card",
+       "Dating apps",
+       "Gun"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Drinking alcohol",
+       "Driving",
+       "Gambling",
+       "Military service",
+       "Smoking"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 100,
   "date": "2026-10-23",
   "prompts": [
