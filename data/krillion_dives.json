@@ -1,5 +1,501 @@
 [
  {
+  "n": 102,
+  "date": "2026-10-25",
+  "prompts": [
+   {
+    "q": "Name a type of bed (for sleeping)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 208,
+      "picks": [
+       "Adjustable air bed",
+       "Air-fluidized bed",
+       "Alaskan king",
+       "Alberta king",
+       "Alcove bed",
+       "Alga",
+       "Ambassador bed",
+       "Ancient Egyptian bed",
+       "Angareb",
+       "Antique single"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 62,
+      "picks": [
+       "Adjustable bed",
+       "Bamboo bed",
+       "Bassinet",
+       "Bassinet mattress",
+       "Beanbag bed",
+       "Bedroll",
+       "Berth",
+       "Boat mattress",
+       "Brass bed",
+       "Captain's bed"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "California king",
+       "Camp bed",
+       "Canopy bed",
+       "Cat bed",
+       "Dog bed",
+       "Double bed",
+       "Futon",
+       "Hammock",
+       "Hospital bed",
+       "Loft bed"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Air mattress",
+       "Bunk bed",
+       "King-size bed"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a food or ingredient that costs over US$100/kg ($45/lb), like caviar",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 369,
+      "picks": [
+       "7 Pot pepper",
+       "A2 bilona ghee",
+       "Acai powder",
+       "Agar agar",
+       "Agaricus blazei",
+       "Aged Xinhui chenpi",
+       "Almas caviar",
+       "Almond extract",
+       "Amaebi",
+       "Amylase enzyme"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 32,
+      "picks": [
+       "Abalone",
+       "American ginseng",
+       "Bird's nest",
+       "Black Ivory coffee",
+       "Dry-aged steak",
+       "Dungeness crab meat",
+       "Edible glitter",
+       "Edible silver leaf",
+       "Fresh ginseng root",
+       "Gooseneck barnacles"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Bluefin tuna",
+       "Edible gold leaf",
+       "Escargot",
+       "Foie gras",
+       "Fresh wasabi",
+       "Jamón ibérico",
+       "King crab legs",
+       "Kobe beef",
+       "Shark fin",
+       "Truffle oil"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Caviar",
+       "Lobster meat",
+       "Saffron",
+       "Truffle"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a song that has reached number one on the Billboard Hot 100",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 551,
+      "picks": [
+       "(Can't Live Without Your) Love and Affection",
+       "(Hey Won't You Play) Another Somebody Done Somebody Wrong Song",
+       "(I Just) Died in Your Arms",
+       "(Just Like) Starting Over",
+       "(Love Is) Thicker Than Water",
+       "(You're My) Soul and Inspiration",
+       "(You're) Having My Baby",
+       "21 Questions",
+       "3",
+       "4 Seasons of Loneliness"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 499,
+      "picks": [
+       "(Everything I Do) I Do It for You",
+       "(I've Had) The Time of My Life",
+       "(Shake, Shake, Shake) Shake Your Booty",
+       "(Sittin' On) The Dock of the Bay",
+       "50 Ways to Leave Your Lover",
+       "7 Rings",
+       "9 to 5",
+       "A Hard Day's Night",
+       "A Moment Like This",
+       "ABC"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 119,
+      "picks": [
+       "...Baby One More Time",
+       "(I Can't Get No) Satisfaction",
+       "A Bar Song (Tipsy)",
+       "A Whole New World",
+       "Ain't No Mountain High Enough",
+       "All About That Bass",
+       "All I Want for Christmas Is You",
+       "All of Me",
+       "Another One Bites the Dust",
+       "Baby Got Back"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Billie Jean",
+       "Blinding Lights",
+       "Despacito",
+       "Shake It Off"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a national park anywhere in the world",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3411,
+      "picks": [
+       "Abaco National Park",
+       "Abel Beth Maacah National Park",
+       "Abercrombie River National Park",
+       "Aberdare",
+       "Abijatta-Shalla",
+       "Abisko National Park",
+       "Abrolhos Marine National Park",
+       "Abruzzo, Lazio and Molise National Park",
+       "Absheron National Park",
+       "Abughilan National Park"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 212,
+      "picks": [
+       "Abel Tasman",
+       "Addo Elephant National Park",
+       "Alpine National Park",
+       "Amazônia National Park",
+       "Ao Phang-nga",
+       "Aoraki / Mount Cook National Park",
+       "Arrecifes de Cozumel",
+       "Arthur's Pass National Park",
+       "Bandhavgarh National Park",
+       "Bandipur National Park"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 23,
+      "picks": [
+       "Acadia",
+       "Arches National Park",
+       "Badlands National Park",
+       "Big Bend",
+       "Bryce Canyon",
+       "Death Valley",
+       "Everglades",
+       "Galápagos",
+       "Glacier National Park",
+       "Grand Teton"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Banff",
+       "Grand Canyon",
+       "Yellowstone"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a TV comedy (tagged Comedy on IMDb, 1,000+ votes)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3881,
+      "picks": [
+       "¡Mucha Lucha!",
+       "'Til Death",
+       "#1 Happy Family USA",
+       "#BlackAF",
+       "$#*! My Dad Says",
+       "1 Kadin 1 Erkek",
+       "10 Items or Less",
+       "10' kirygma",
+       "100 Days My Prince",
+       "100 Things to Do Before High School"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 866,
+      "picks": [
+       "'Allo 'Allo!",
+       "@midnight",
+       "10 Things I Hate About You",
+       "227",
+       "30 Rock",
+       "3rd Rock from the Sun",
+       "6Teen",
+       "8 Out of",
+       "Cats",
+       "8 Out of"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 86,
+      "picks": [
+       "2 Broke Girls",
+       "A Different World",
+       "Abbott Elementary",
+       "Adventure Time",
+       "American Dad!",
+       "Animaniacs",
+       "Arrested Development",
+       "Big Mouth",
+       "Black-ish",
+       "Bluey"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Brooklyn Nine-Nine",
+       "Family Guy",
+       "Friends",
+       "How I Met Your Mother",
+       "Modern Family",
+       "Seinfeld",
+       "The Big Bang Theory",
+       "The Office"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country with a desert climate (in any part of it)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 14,
+      "picks": [
+       "Burkina Faso",
+       "Cabo Verde",
+       "Cameroon",
+       "Colombia",
+       "Denmark",
+       "Ecuador",
+       "Kyrgyzstan",
+       "Madagascar",
+       "Mozambique",
+       "Nigeria"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 31,
+      "picks": [
+       "Angola",
+       "Argentina",
+       "Azerbaijan",
+       "Bahrain",
+       "Bolivia",
+       "Botswana",
+       "Brazil",
+       "Canada",
+       "Chad",
+       "Djibouti"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "Afghanistan",
+       "Algeria",
+       "Chile",
+       "China",
+       "India",
+       "Iran",
+       "Iraq",
+       "Israel",
+       "Jordan",
+       "Libya"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Australia",
+       "Egypt",
+       "Saudi Arabia"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a player currently on an English Premier League or NFL team",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2555,
+      "picks": [
+       "A.J. Haulcy",
+       "A'Shawn Robinson",
+       "Aamaris Brown",
+       "Aaron Anselmino",
+       "Aaron Banks",
+       "Aaron Brewer",
+       "Aaron Hall",
+       "Aaron Stinnie",
+       "Abdoul Ouattara",
+       "Abdul Fatawu"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 469,
+      "picks": [
+       "A.J. Terrell Jr.",
+       "Aaron Hickey",
+       "Aaron Jones Sr.",
+       "Aaron Wan-Bissaka",
+       "Abdukodir Khusanov",
+       "Abdul Carter",
+       "Adam Wharton",
+       "AJ Barner",
+       "AJ Dillon",
+       "Alec Pierce"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 113,
+      "picks": [
+       "A.J. Brown",
+       "Aaron Donald",
+       "Aidan Hutchinson",
+       "Alexander Isak",
+       "Alexis Mac Allister",
+       "Alisson Becker",
+       "Alvin Kamara",
+       "Amon-Ra St. Brown",
+       "Andy Robertson",
+       "Ashton Jeanty"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 13,
+      "picks": [
+       "Aaron Rodgers",
+       "Bukayo Saka",
+       "Christian McCaffrey",
+       "Cole Palmer",
+       "Derrick Henry",
+       "Erling Haaland",
+       "Jalen Hurts",
+       "Joe Burrow",
+       "Josh Allen",
+       "Lamar Jackson"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 101,
   "date": "2026-10-24",
   "prompts": [
