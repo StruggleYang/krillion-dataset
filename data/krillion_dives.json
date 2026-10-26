@@ -1,5 +1,479 @@
 [
  {
+  "n": 103,
+  "date": "2026-10-26",
+  "prompts": [
+   {
+    "q": "Name a currency worth less than the US dollar",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 105,
+      "picks": [
+       "Afghan afghani",
+       "Albanian lek",
+       "Algerian dinar",
+       "Angolan kwanza",
+       "Armenian dram",
+       "Aruban florin",
+       "Azerbaijani manat",
+       "Bangladeshi taka",
+       "Barbadian dollar",
+       "Belarusian ruble"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 21,
+      "picks": [
+       "Argentine peso",
+       "Brazilian real",
+       "Colombian peso",
+       "Danish krone",
+       "Indonesian rupiah",
+       "Iranian rial",
+       "Iraqi dinar",
+       "Israeli shekel",
+       "Jamaican dollar",
+       "Kenyan shilling"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Chinese yuan",
+       "New Zealand dollar",
+       "Norwegian krone",
+       "Philippine peso",
+       "Russian ruble",
+       "Singapore dollar",
+       "South Korean won",
+       "Swedish krona",
+       "Thai baht",
+       "Turkish lira"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Australian dollar",
+       "Canadian dollar",
+       "Indian rupee",
+       "Japanese yen"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a city whose name ends in -ton",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3377,
+      "picks": [
+       "20-solagii Istiqlolijati Toçikiston",
+       "Abberton",
+       "Abbey Hulton",
+       "Abbots Bickington",
+       "Abbots Morton",
+       "Abbots Ripton",
+       "Abbotts Barton",
+       "Abenaston",
+       "Ablington",
+       "Accrington"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 92,
+      "picks": [
+       "Abington",
+       "Allston",
+       "Anniston",
+       "Appleton",
+       "Aston",
+       "Badminton",
+       "Ballston",
+       "Barberton",
+       "Barrington",
+       "Beaverton"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "Arlington",
+       "Bloomington",
+       "Brighton",
+       "Charleston",
+       "Clinton",
+       "Compton",
+       "Edmonton",
+       "Galveston",
+       "Hamilton",
+       "Islington"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Boston",
+       "Houston"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something traditionally expressed as a percentage (like body fat)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2036,
+      "picks": [
+       "€STR",
+       "10-year cardiovascular risk",
+       "12b-1 fee",
+       "30-day mortality",
+       "401(k) participation rate",
+       "Abandonment rate",
+       "Abnormal return",
+       "Abortion rate (livestock)",
+       "Above-the-break three-point percentage",
+       "Absenteeism rate"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 181,
+      "picks": [
+       "401(k) contribution",
+       "401(k) match",
+       "A1C",
+       "Acceptance rate",
+       "Accuracy",
+       "Achievement percentage",
+       "Ancestry percentage",
+       "Annual return",
+       "Approval rating",
+       "APY"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 16,
+      "picks": [
+       "Alcohol by volume (ABV)",
+       "APR",
+       "Blood alcohol content",
+       "Chance of rain",
+       "Completion percentage",
+       "Field goal percentage",
+       "Free throw percentage",
+       "Inflation",
+       "Milk fat",
+       "Oxygen saturation"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Battery",
+       "Body fat",
+       "Discount",
+       "Grade",
+       "Humidity",
+       "Interest rate",
+       "Tax rate"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something used to hit a ball in a sport (the same tool counts once across sports)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 11,
+      "picks": [
+       "Bicycle",
+       "Bracciale",
+       "Broom",
+       "Cue ball",
+       "Forearm",
+       "Hurley",
+       "Pala",
+       "Powerchair",
+       "Shinty stick",
+       "Shoulder"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 5,
+      "picks": [
+       "Chest",
+       "Fist",
+       "Hip",
+       "Knee"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Cue",
+       "Foot",
+       "Hand",
+       "Head",
+       "Hockey stick"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Bat",
+       "Golf club"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a Latin American dish",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 4151,
+      "picks": [
+       "Abacaxi assado com canela",
+       "Abará",
+       "Aberém",
+       "Aborrajado",
+       "Aborrajados de pescado",
+       "Acaçá",
+       "Acachul",
+       "Açaí com peixe frito",
+       "Acamayas al mojo de ajo",
+       "Acarahuazú en hojas"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 380,
+      "picks": [
+       "Açaí na tigela",
+       "Acarajé",
+       "Adobo",
+       "Agua de Jamaica",
+       "Agua de tamarindo",
+       "Aguachile",
+       "Aguapanela",
+       "Ají",
+       "Ají de gallina",
+       "Ají verde"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 48,
+      "picks": [
+       "Agua fresca",
+       "Al pastor",
+       "Arepa",
+       "Arroz con pollo",
+       "Arroz rojo (Mexican rice)",
+       "Asado",
+       "Barbacoa",
+       "Birria",
+       "Carne asada",
+       "Carnitas"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Burrito",
+       "Enchilada",
+       "Guacamole",
+       "Nachos",
+       "Quesadilla",
+       "Taco"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a fruit or vegetable with a one-syllable name",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 34,
+      "picks": [
+       "Bael",
+       "Ber",
+       "Cep",
+       "Che",
+       "Chou",
+       "Cos",
+       "Cress",
+       "Crosne",
+       "Cuke",
+       "Dock"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 5,
+      "picks": [
+       "Chard",
+       "Chive",
+       "Gourd",
+       "Leek"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Bean",
+       "Beet",
+       "Date",
+       "Fig",
+       "Kale",
+       "Pea",
+       "Squash"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Corn",
+       "Grape",
+       "Lime",
+       "Peach",
+       "Pear"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a phone setting you can switch on and off",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1879,
+      "picks": [
+       "360 Audio Recording",
+       "360 Reality Audio",
+       "3D Touch",
+       "4D Game Vibration",
+       "5G Standalone",
+       "Access iCloud Data on the Web",
+       "Access Notes from Lock Screen",
+       "Access Requests",
+       "Access Within Apps",
+       "Accessibility Button"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 135,
+      "picks": [
+       "24-Hour Time",
+       "5G",
+       "Always-On Display",
+       "AMBER Alerts",
+       "App Permissions",
+       "App Tracking",
+       "Apple Intelligence",
+       "Ask to Buy",
+       "AssistiveTouch",
+       "Auto-Brightness"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 15,
+      "picks": [
+       "AirDrop",
+       "Camera Flash",
+       "Data Roaming",
+       "Face ID",
+       "Focus Mode",
+       "Location Services",
+       "Low Power Mode",
+       "Night Shift",
+       "Notifications",
+       "Passcode"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Airplane Mode",
+       "Bluetooth",
+       "Dark Mode",
+       "Do Not Disturb",
+       "Flashlight",
+       "Mobile Data",
+       "Wi-Fi"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 102,
   "date": "2026-10-25",
   "prompts": [
