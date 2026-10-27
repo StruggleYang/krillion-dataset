@@ -1,4 +1,239 @@
 dive_number,date,prompt_number,prompt,accepted_answers,tier,points,answer
+104,2026-10-27,1,Name a bird that lives in or by water,,Deep cut,85,Abbott's Booby
+104,2026-10-27,1,Name a bird that lives in or by water,,Deep cut,85,Abdim's stork
+104,2026-10-27,1,Name a bird that lives in or by water,,Deep cut,85,African black duck
+104,2026-10-27,1,Name a bird that lives in or by water,,Deep cut,85,African crake
+104,2026-10-27,1,Name a bird that lives in or by water,,Deep cut,85,African darter
+104,2026-10-27,1,Name a bird that lives in or by water,,Deep cut,85,African finfoot
+104,2026-10-27,1,Name a bird that lives in or by water,,Deep cut,85,African fish eagle
+104,2026-10-27,1,Name a bird that lives in or by water,,Deep cut,85,African goose
+104,2026-10-27,1,Name a bird that lives in or by water,,Deep cut,85,African Grass Owl
+104,2026-10-27,1,Name a bird that lives in or by water,,Deep cut,85,African jacana
+104,2026-10-27,1,Name a bird that lives in or by water,,Rare,60,Adélie penguin
+104,2026-10-27,1,Name a bird that lives in or by water,,Rare,60,American black duck
+104,2026-10-27,1,Name a bird that lives in or by water,,Rare,60,American coot
+104,2026-10-27,1,Name a bird that lives in or by water,,Rare,60,American flamingo
+104,2026-10-27,1,Name a bird that lives in or by water,,Rare,60,American white ibis
+104,2026-10-27,1,Name a bird that lives in or by water,,Rare,60,Arctic tern
+104,2026-10-27,1,Name a bird that lives in or by water,,Rare,60,Auk
+104,2026-10-27,1,Name a bird that lives in or by water,,Rare,60,Australasian Swamphen
+104,2026-10-27,1,Name a bird that lives in or by water,,Rare,60,Australian white ibis
+104,2026-10-27,1,Name a bird that lives in or by water,,Rare,60,Bald eagle
+104,2026-10-27,1,Name a bird that lives in or by water,,Schooler,30,Albatross
+104,2026-10-27,1,Name a bird that lives in or by water,,Schooler,30,Canada goose
+104,2026-10-27,1,Name a bird that lives in or by water,,Schooler,30,Crane
+104,2026-10-27,1,Name a bird that lives in or by water,,Schooler,30,Flamingo
+104,2026-10-27,1,Name a bird that lives in or by water,,Schooler,30,Heron
+104,2026-10-27,1,Name a bird that lives in or by water,,Schooler,30,Loon
+104,2026-10-27,1,Name a bird that lives in or by water,,Schooler,30,Mallard
+104,2026-10-27,1,Name a bird that lives in or by water,,Schooler,30,Puffin
+104,2026-10-27,1,Name a bird that lives in or by water,,Plankton,10,Duck
+104,2026-10-27,1,Name a bird that lives in or by water,,Plankton,10,Goose
+104,2026-10-27,1,Name a bird that lives in or by water,,Plankton,10,Pelican
+104,2026-10-27,1,Name a bird that lives in or by water,,Plankton,10,Penguin
+104,2026-10-27,1,Name a bird that lives in or by water,,Plankton,10,Seagull
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Deep cut,85,Abstract of title
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Deep cut,85,Accident book
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Deep cut,85,Accordion book
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Deep cut,85,Adventure module
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Deep cut,85,Affidavit
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Deep cut,85,Ahnenpass
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Deep cut,85,Aircraft checklist
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Deep cut,85,Annual
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Deep cut,85,Apartheid pass book
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Deep cut,85,Appointment book
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Rare,60,Academic journal
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Rare,60,Activity book
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Rare,60,Address book
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Rare,60,Adoption papers
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Rare,60,Almanac
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Rare,60,Annual report
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Rare,60,Answer key
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Rare,60,Anthology
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Rare,60,Application
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Rare,60,Art book
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Schooler,30,Agenda
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Schooler,30,Autobiography
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Schooler,30,Binder
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Schooler,30,Biography
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Schooler,30,Booklet
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Schooler,30,Brochure
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Schooler,30,Catalog
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Schooler,30,Checkbook
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Schooler,30,Coloring book
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Schooler,30,Comic
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Plankton,10,Book
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Plankton,10,Calendar
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Plankton,10,Magazine
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Plankton,10,Newspaper
+104,2026-10-27,2,Name something with physical pages (named works don't count),,Plankton,10,Notebook
+104,2026-10-27,3,Name a type of ball outside of sports,,Deep cut,85,Activity ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Deep cut,85,Aniseed ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Deep cut,85,Antenna ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Deep cut,85,Bachelor and spinster ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Deep cut,85,Bagatelle ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Deep cut,85,Bait ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Deep cut,85,Bal blanc
+104,2026-10-27,3,Name a type of ball outside of sports,,Deep cut,85,Ball burnisher
+104,2026-10-27,3,Name a type of ball outside of sports,,Deep cut,85,Ball lens
+104,2026-10-27,3,Name a type of ball outside of sports,,Deep cut,85,Ball lightning
+104,2026-10-27,3,Name a type of ball outside of sports,,Rare,60,Ball and chain
+104,2026-10-27,3,Name a type of ball outside of sports,,Rare,60,Ball of string
+104,2026-10-27,3,Name a type of ball outside of sports,,Rare,60,Ball of the foot
+104,2026-10-27,3,Name a type of ball outside of sports,,Rare,60,Ball-peen hammer
+104,2026-10-27,3,Name a type of ball outside of sports,,Rare,60,Ballpoint pen ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Rare,60,Baoding balls
+104,2026-10-27,3,Name a type of ball outside of sports,,Rare,60,Bean bag ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Rare,60,Beef ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Rare,60,Beer widget
+104,2026-10-27,3,Name a type of ball outside of sports,,Rare,60,Bingo ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Schooler,30,Ball bearing
+104,2026-10-27,3,Name a type of ball outside of sports,,Schooler,30,Ball of yarn
+104,2026-10-27,3,Name a type of ball outside of sports,,Schooler,30,Ball pit ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Schooler,30,Beach ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Schooler,30,Cannonball
+104,2026-10-27,3,Name a type of ball outside of sports,,Schooler,30,Cheese ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Schooler,30,Chocolate ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Schooler,30,Christmas ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Schooler,30,Cotton ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Schooler,30,Crystal ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Plankton,10,Bouncy ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Plankton,10,Disco ball
+104,2026-10-27,3,Name a type of ball outside of sports,,Plankton,10,Meatball
+104,2026-10-27,3,Name a type of ball outside of sports,,Plankton,10,Snowball
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Deep cut,85,&TEAM
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Deep cut,85,=LOVE
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Deep cut,85,1:43
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Deep cut,85,2 Brothers on the 4th Floor
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Deep cut,85,2 Unlimited
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Deep cut,85,2AM
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Deep cut,85,4*TOWN
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Deep cut,85,4EVE
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Deep cut,85,4Minute
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Deep cut,85,5sta Family
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Rare,60,112
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Rare,60,2NE1
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Rare,60,2PM
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Rare,60,5ive
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Rare,60,98 Degrees
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Rare,60,a-ha
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Rare,60,AJR
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Rare,60,AKB48
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Rare,60,All Saints
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Rare,60,Apink
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Schooler,30,5 Seconds of Summer
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Schooler,30,aespa
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Schooler,30,Big Time Rush
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Schooler,30,BIGBANG
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Schooler,30,Boyz II Men
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Schooler,30,Destiny's Child
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Schooler,30,ENHYPEN
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Schooler,30,EXO
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Schooler,30,Fifth Harmony
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Schooler,30,Girls' Generation
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Plankton,10,Backstreet Boys
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Plankton,10,BLACKPINK
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Plankton,10,BTS
+104,2026-10-27,4,"Name a boy band or girl group with over 500,000 monthly listeners on Spotify",,Plankton,10,One Direction
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Deep cut,85,11-plus
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Deep cut,85,Abitur
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Deep cut,85,ACT WorkKeys
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Deep cut,85,Advanced Highers
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Deep cut,85,Advanced Subjects Test
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Deep cut,85,Advising week
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Deep cut,85,Affinity graduation
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Deep cut,85,ANBK
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Deep cut,85,Anti-Bullying Week
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Deep cut,85,Anything but a backpack day
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Rare,60,100th day of school
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Rare,60,A-levels
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Rare,60,ACT
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Rare,60,Activities week
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Rare,60,Add-drop period
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Rare,60,Alumni weekend
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Rare,60,Annual Day
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Rare,60,AP exams
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Rare,60,Art show
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Rare,60,Awards ceremony
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Schooler,30,Back to school
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Schooler,30,Back-to-school night
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Schooler,30,Book fair
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Schooler,30,Dead week
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Schooler,30,Easter break
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Schooler,30,Exam week
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Schooler,30,Fall break
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Schooler,30,Field day
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Schooler,30,First day of school
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Schooler,30,Graduation
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Plankton,10,Finals
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Plankton,10,Prom
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Plankton,10,Semester
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Plankton,10,Spring break
+104,2026-10-27,5,Name a part of the school year (events like prom count too),,Plankton,10,Summer break
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Deep cut,85,El Salvador
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Deep cut,85,Equatorial Guinea
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Deep cut,85,Kuwait
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Deep cut,85,Latvia
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Deep cut,85,Liberia
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Deep cut,85,Luxembourg
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Deep cut,85,Nicaragua
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Deep cut,85,Niger
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Deep cut,85,Paraguay
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Deep cut,85,Sierra Leone
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Rare,60,Croatia
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Rare,60,Denmark
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Rare,60,Dominican Republic
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Rare,60,Egypt
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Rare,60,Guatemala
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Rare,60,Honduras
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Rare,60,Hungary
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Rare,60,Iran
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Rare,60,Iraq
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Rare,60,Ivory Coast
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Schooler,30,Argentina
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Schooler,30,Austria
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Schooler,30,India
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Schooler,30,Ireland
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Schooler,30,Netherlands
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Plankton,10,Canada
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Plankton,10,France
+104,2026-10-27,6,Name a country whose flag has a white stripe through the centre (horizontal or vertical).,,Plankton,10,Italy
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Deep cut,85,Chả
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Deep cut,85,Chaap
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Deep cut,85,Chaas
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Deep cut,85,Chabaa
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Deep cut,85,Chabela
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Deep cut,85,Chabichou
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Deep cut,85,Chabis
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Deep cut,85,Chablais
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Deep cut,85,Chacá
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Deep cut,85,Chacales
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Rare,60,Chaat
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Rare,60,Chablis
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Rare,60,Challah
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Rare,60,Chambord
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Rare,60,Chamoy
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Rare,60,Champignon
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Rare,60,Chang
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Rare,60,Chapati
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Rare,60,Chard
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Rare,60,Chartreuse
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Schooler,30,Chai
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Schooler,30,Chalupa
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Schooler,30,Chamomile
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Schooler,30,Champagne
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Schooler,30,Charcuterie
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Schooler,30,Chardonnay
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Schooler,30,Cheddar
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Schooler,30,Cheerios
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Schooler,30,Cheeseburger
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Schooler,30,Cheesecake
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Plankton,10,Cheese
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Plankton,10,Cherry
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Plankton,10,Chicken
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Plankton,10,Chili
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Plankton,10,Chips
+104,2026-10-27,7,Name a one-word food or drink that starts with Ch,,Plankton,10,Chocolate
 103,2026-10-26,1,Name a currency worth less than the US dollar,,Deep cut,85,Afghan afghani
 103,2026-10-26,1,Name a currency worth less than the US dollar,,Deep cut,85,Albanian lek
 103,2026-10-26,1,Name a currency worth less than the US dollar,,Deep cut,85,Algerian dinar

@@ -1,5 +1,491 @@
 [
  {
+  "n": 104,
+  "date": "2026-10-27",
+  "prompts": [
+   {
+    "q": "Name a bird that lives in or by water",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1386,
+      "picks": [
+       "Abbott's Booby",
+       "Abdim's stork",
+       "African black duck",
+       "African crake",
+       "African darter",
+       "African finfoot",
+       "African fish eagle",
+       "African goose",
+       "African Grass Owl",
+       "African jacana"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 64,
+      "picks": [
+       "Adélie penguin",
+       "American black duck",
+       "American coot",
+       "American flamingo",
+       "American white ibis",
+       "Arctic tern",
+       "Auk",
+       "Australasian Swamphen",
+       "Australian white ibis",
+       "Bald eagle"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Albatross",
+       "Canada goose",
+       "Crane",
+       "Flamingo",
+       "Heron",
+       "Loon",
+       "Mallard",
+       "Puffin"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Duck",
+       "Goose",
+       "Pelican",
+       "Penguin",
+       "Seagull"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something with physical pages (named works don't count)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 259,
+      "picks": [
+       "Abstract of title",
+       "Accident book",
+       "Accordion book",
+       "Adventure module",
+       "Affidavit",
+       "Ahnenpass",
+       "Aircraft checklist",
+       "Annual",
+       "Apartheid pass book",
+       "Appointment book"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 101,
+      "picks": [
+       "Academic journal",
+       "Activity book",
+       "Address book",
+       "Adoption papers",
+       "Almanac",
+       "Annual report",
+       "Answer key",
+       "Anthology",
+       "Application",
+       "Art book"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 52,
+      "picks": [
+       "Agenda",
+       "Autobiography",
+       "Binder",
+       "Biography",
+       "Booklet",
+       "Brochure",
+       "Catalog",
+       "Checkbook",
+       "Coloring book",
+       "Comic"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Book",
+       "Calendar",
+       "Magazine",
+       "Newspaper",
+       "Notebook"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of ball outside of sports",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 236,
+      "picks": [
+       "Activity ball",
+       "Aniseed ball",
+       "Antenna ball",
+       "Bachelor and spinster ball",
+       "Bagatelle ball",
+       "Bait ball",
+       "Bal blanc",
+       "Ball burnisher",
+       "Ball lens",
+       "Ball lightning"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 88,
+      "picks": [
+       "Ball and chain",
+       "Ball of string",
+       "Ball of the foot",
+       "Ball-peen hammer",
+       "Ballpoint pen ball",
+       "Baoding balls",
+       "Bean bag ball",
+       "Beef ball",
+       "Beer widget",
+       "Bingo ball"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 27,
+      "picks": [
+       "Ball bearing",
+       "Ball of yarn",
+       "Ball pit ball",
+       "Beach ball",
+       "Cannonball",
+       "Cheese ball",
+       "Chocolate ball",
+       "Christmas ball",
+       "Cotton ball",
+       "Crystal ball"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Bouncy ball",
+       "Disco ball",
+       "Meatball",
+       "Snowball"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a boy band or girl group with over 500,000 monthly listeners on Spotify",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 392,
+      "picks": [
+       "&TEAM",
+       "=LOVE",
+       "1:43",
+       "2 Brothers on the 4th Floor",
+       "2 Unlimited",
+       "2AM",
+       "4*TOWN",
+       "4EVE",
+       "4Minute",
+       "5sta Family"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 114,
+      "picks": [
+       "112",
+       "2NE1",
+       "2PM",
+       "5ive",
+       "98 Degrees",
+       "a-ha",
+       "AJR",
+       "AKB48",
+       "All Saints",
+       "Apink"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 26,
+      "picks": [
+       "5 Seconds of Summer",
+       "aespa",
+       "Big Time Rush",
+       "BIGBANG",
+       "Boyz II Men",
+       "Destiny's Child",
+       "ENHYPEN",
+       "EXO",
+       "Fifth Harmony",
+       "Girls' Generation"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Backstreet Boys",
+       "BLACKPINK",
+       "BTS",
+       "One Direction"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a part of the school year (events like prom count too)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 422,
+      "picks": [
+       "11-plus",
+       "Abitur",
+       "ACT WorkKeys",
+       "Advanced Highers",
+       "Advanced Subjects Test",
+       "Advising week",
+       "Affinity graduation",
+       "ANBK",
+       "Anti-Bullying Week",
+       "Anything but a backpack day"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 123,
+      "picks": [
+       "100th day of school",
+       "A-levels",
+       "ACT",
+       "Activities week",
+       "Add-drop period",
+       "Alumni weekend",
+       "Annual Day",
+       "AP exams",
+       "Art show",
+       "Awards ceremony"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 28,
+      "picks": [
+       "Back to school",
+       "Back-to-school night",
+       "Book fair",
+       "Dead week",
+       "Easter break",
+       "Exam week",
+       "Fall break",
+       "Field day",
+       "First day of school",
+       "Graduation"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Finals",
+       "Prom",
+       "Semester",
+       "Spring break",
+       "Summer break"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country whose flag has a white stripe through the centre (horizontal or vertical).",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 14,
+      "picks": [
+       "El Salvador",
+       "Equatorial Guinea",
+       "Kuwait",
+       "Latvia",
+       "Liberia",
+       "Luxembourg",
+       "Nicaragua",
+       "Niger",
+       "Paraguay",
+       "Sierra Leone"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 16,
+      "picks": [
+       "Croatia",
+       "Denmark",
+       "Dominican Republic",
+       "Egypt",
+       "Guatemala",
+       "Honduras",
+       "Hungary",
+       "Iran",
+       "Iraq",
+       "Ivory Coast"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Argentina",
+       "Austria",
+       "India",
+       "Ireland",
+       "Netherlands"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Canada",
+       "France",
+       "Italy"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a one-word food or drink that starts with Ch",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 692,
+      "picks": [
+       "Chả",
+       "Chaap",
+       "Chaas",
+       "Chabaa",
+       "Chabela",
+       "Chabichou",
+       "Chabis",
+       "Chablais",
+       "Chacá",
+       "Chacales"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 37,
+      "picks": [
+       "Chaat",
+       "Chablis",
+       "Challah",
+       "Chambord",
+       "Chamoy",
+       "Champignon",
+       "Chang",
+       "Chapati",
+       "Chard",
+       "Chartreuse"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 25,
+      "picks": [
+       "Chai",
+       "Chalupa",
+       "Chamomile",
+       "Champagne",
+       "Charcuterie",
+       "Chardonnay",
+       "Cheddar",
+       "Cheerios",
+       "Cheeseburger",
+       "Cheesecake"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Cheese",
+       "Cherry",
+       "Chicken",
+       "Chili",
+       "Chips",
+       "Chocolate"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 103,
   "date": "2026-10-26",
   "prompts": [
