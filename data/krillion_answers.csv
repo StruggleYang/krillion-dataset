@@ -1,4 +1,261 @@
 dive_number,date,prompt_number,prompt,accepted_answers,tier,points,answer
+105,2026-10-28,1,Name a pasta dish,,Deep cut,85,Agnolini
+105,2026-10-28,1,Name a pasta dish,,Deep cut,85,Agnolotti gobbi
+105,2026-10-28,1,Name a pasta dish,,Deep cut,85,Ají de fideo
+105,2026-10-28,1,Name a pasta dish,,Deep cut,85,Älplermagronen
+105,2026-10-28,1,Name a pasta dish,,Deep cut,85,Amish macaroni salad
+105,2026-10-28,1,Name a pasta dish,,Deep cut,85,Amish noodles
+105,2026-10-28,1,Name a pasta dish,,Deep cut,85,Andarinos al sugo
+105,2026-10-28,1,Name a pasta dish,,Deep cut,85,Anelletti al forno
+105,2026-10-28,1,Name a pasta dish,,Deep cut,85,Ankake spaghetti
+105,2026-10-28,1,Name a pasta dish,,Deep cut,85,Anolini
+105,2026-10-28,1,Name a pasta dish,,Rare,60,Agnolotti
+105,2026-10-28,1,Name a pasta dish,,Rare,60,Alphabet soup
+105,2026-10-28,1,Name a pasta dish,,Rare,60,Alphabetti spaghetti
+105,2026-10-28,1,Name a pasta dish,,Rare,60,Amatriciana
+105,2026-10-28,1,Name a pasta dish,,Rare,60,American goulash
+105,2026-10-28,1,Name a pasta dish,,Rare,60,Annie's mac and cheese
+105,2026-10-28,1,Name a pasta dish,,Rare,60,Bacon pasta
+105,2026-10-28,1,Name a pasta dish,,Rare,60,Baked feta pasta
+105,2026-10-28,1,Name a pasta dish,,Rare,60,Baked mostaccioli
+105,2026-10-28,1,Name a pasta dish,,Rare,60,Baked spaghetti
+105,2026-10-28,1,Name a pasta dish,,Schooler,30,Aglio e olio
+105,2026-10-28,1,Name a pasta dish,,Schooler,30,Baked ziti
+105,2026-10-28,1,Name a pasta dish,,Schooler,30,Buttered noodles
+105,2026-10-28,1,Name a pasta dish,,Schooler,30,Cacio e pepe
+105,2026-10-28,1,Name a pasta dish,,Schooler,30,Chicken Alfredo
+105,2026-10-28,1,Name a pasta dish,,Schooler,30,Gnocchi
+105,2026-10-28,1,Name a pasta dish,,Schooler,30,Pasta al pomodoro
+105,2026-10-28,1,Name a pasta dish,,Schooler,30,Pasta bake
+105,2026-10-28,1,Name a pasta dish,,Schooler,30,Pasta primavera
+105,2026-10-28,1,Name a pasta dish,,Schooler,30,Pasta salad
+105,2026-10-28,1,Name a pasta dish,,Plankton,10,Carbonara
+105,2026-10-28,1,Name a pasta dish,,Plankton,10,Fettuccine Alfredo
+105,2026-10-28,1,Name a pasta dish,,Plankton,10,Lasagna
+105,2026-10-28,1,Name a pasta dish,,Plankton,10,Mac and cheese
+105,2026-10-28,1,Name a pasta dish,,Plankton,10,Spaghetti and meatballs
+105,2026-10-28,2,Name a part of the human head,,Deep cut,85,Abducens nerve
+105,2026-10-28,2,Name a part of the human head,,Deep cut,85,Abducens nucleus
+105,2026-10-28,2,Name a part of the human head,,Deep cut,85,Accessory lacrimal glands
+105,2026-10-28,2,Name a part of the human head,,Deep cut,85,Accessory meningeal artery
+105,2026-10-28,2,Name a part of the human head,,Deep cut,85,Accessory nasal cartilages
+105,2026-10-28,2,Name a part of the human head,,Deep cut,85,Accessory nerve
+105,2026-10-28,2,Name a part of the human head,,Deep cut,85,Accessory parotid gland
+105,2026-10-28,2,Name a part of the human head,,Deep cut,85,Aditus ad antrum
+105,2026-10-28,2,Name a part of the human head,,Deep cut,85,Agger nasi
+105,2026-10-28,2,Name a part of the human head,,Deep cut,85,Ala of crista galli
+105,2026-10-28,2,Name a part of the human head,,Rare,60,Adenoids
+105,2026-10-28,2,Name a part of the human head,,Rare,60,Amygdala
+105,2026-10-28,2,Name a part of the human head,,Rare,60,Auricle
+105,2026-10-28,2,Name a part of the human head,,Rare,60,Baby teeth
+105,2026-10-28,2,Name a part of the human head,,Rare,60,Bridge of the nose
+105,2026-10-28,2,Name a part of the human head,,Rare,60,Brow bone
+105,2026-10-28,2,Name a part of the human head,,Rare,60,Canines
+105,2026-10-28,2,Name a part of the human head,,Rare,60,Canthus
+105,2026-10-28,2,Name a part of the human head,,Rare,60,Cerebellum
+105,2026-10-28,2,Name a part of the human head,,Rare,60,Cerebral cortex
+105,2026-10-28,2,Name a part of the human head,,Schooler,30,Back of the head
+105,2026-10-28,2,Name a part of the human head,,Schooler,30,Beard
+105,2026-10-28,2,Name a part of the human head,,Schooler,30,Brainstem
+105,2026-10-28,2,Name a part of the human head,,Schooler,30,Cheekbone
+105,2026-10-28,2,Name a part of the human head,,Schooler,30,Crown of the head
+105,2026-10-28,2,Name a part of the human head,,Schooler,30,Dimple
+105,2026-10-28,2,Name a part of the human head,,Schooler,30,Earlobe
+105,2026-10-28,2,Name a part of the human head,,Schooler,30,Eyebrow
+105,2026-10-28,2,Name a part of the human head,,Schooler,30,Eyelash
+105,2026-10-28,2,Name a part of the human head,,Schooler,30,Eyelid
+105,2026-10-28,2,Name a part of the human head,,Plankton,10,Brain
+105,2026-10-28,2,Name a part of the human head,,Plankton,10,Cheek
+105,2026-10-28,2,Name a part of the human head,,Plankton,10,Chin
+105,2026-10-28,2,Name a part of the human head,,Plankton,10,Ear
+105,2026-10-28,2,Name a part of the human head,,Plankton,10,Eye
+105,2026-10-28,2,Name a part of the human head,,Plankton,10,Forehead
+105,2026-10-28,2,Name a part of the human head,,Plankton,10,Hair
+105,2026-10-28,2,Name a part of the human head,,Plankton,10,Lips
+105,2026-10-28,2,Name a part of the human head,,Plankton,10,Mouth
+105,2026-10-28,2,Name a part of the human head,,Plankton,10,Nose
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Deep cut,85,Acacia–Commiphora bushland
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Deep cut,85,Acadia
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Deep cut,85,Accursed Mountains
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Deep cut,85,Adamawa Plateau
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Deep cut,85,Aegean
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Deep cut,85,Aegean Islands
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Deep cut,85,Aethiopia
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Deep cut,85,Afar Triangle
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Deep cut,85,African Great Lakes
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Deep cut,85,Afromontane
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Rare,60,Adriatic
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Rare,60,Appalachian Mountains
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Rare,60,Arabian Sea region
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Rare,60,Asia-Pacific
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Rare,60,Atacama Desert
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Rare,60,Australasia
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Rare,60,Basque Country
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Rare,60,Benelux
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Rare,60,Bermuda Triangle
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Rare,60,Black Sea region
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Schooler,30,Alps
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Schooler,30,Amazon
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Schooler,30,Americas
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Schooler,30,Andes
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Schooler,30,Arabian Peninsula
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Schooler,30,Arctic
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Schooler,30,Balkans
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Schooler,30,Baltic region
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Schooler,30,Baltic states
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Schooler,30,British Isles
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Plankton,10,Africa
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Plankton,10,Asia
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Plankton,10,Caribbean
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Plankton,10,Central America
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Plankton,10,East Asia
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Plankton,10,Eastern Europe
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Plankton,10,Europe
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Plankton,10,Latin America
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Plankton,10,Mediterranean
+105,2026-10-28,3,Name a region of the world that spans multiple countries (like the Middle East),,Plankton,10,Middle East
+105,2026-10-28,4,Name a food or drink that has an emoji,,Deep cut,85,Baby bottle
+105,2026-10-28,4,Name a food or drink that has an emoji,,Deep cut,85,Bento
+105,2026-10-28,4,Name a food or drink that has an emoji,,Deep cut,85,Bison
+105,2026-10-28,4,Name a food or drink that has an emoji,,Deep cut,85,Bowl with spoon
+105,2026-10-28,4,Name a food or drink that has an emoji,,Deep cut,85,Canned food
+105,2026-10-28,4,Name a food or drink that has an emoji,,Deep cut,85,Clinking beer mugs
+105,2026-10-28,4,Name a food or drink that has an emoji,,Deep cut,85,Clinking glasses
+105,2026-10-28,4,Name a food or drink that has an emoji,,Deep cut,85,Dango
+105,2026-10-28,4,Name a food or drink that has an emoji,,Deep cut,85,Falafel
+105,2026-10-28,4,Name a food or drink that has an emoji,,Deep cut,85,Fish cake
+105,2026-10-28,4,Name a food or drink that has an emoji,,Rare,60,Avocado
+105,2026-10-28,4,Name a food or drink that has an emoji,,Rare,60,Bacon
+105,2026-10-28,4,Name a food or drink that has an emoji,,Rare,60,Bagel
+105,2026-10-28,4,Name a food or drink that has an emoji,,Rare,60,Baguette
+105,2026-10-28,4,Name a food or drink that has an emoji,,Rare,60,Beans
+105,2026-10-28,4,Name a food or drink that has an emoji,,Rare,60,Bell pepper
+105,2026-10-28,4,Name a food or drink that has an emoji,,Rare,60,Brown mushroom
+105,2026-10-28,4,Name a food or drink that has an emoji,,Rare,60,Bubble tea
+105,2026-10-28,4,Name a food or drink that has an emoji,,Rare,60,Butter
+105,2026-10-28,4,Name a food or drink that has an emoji,,Rare,60,Chestnut
+105,2026-10-28,4,Name a food or drink that has an emoji,,Schooler,30,Beer
+105,2026-10-28,4,Name a food or drink that has an emoji,,Schooler,30,Blueberries
+105,2026-10-28,4,Name a food or drink that has an emoji,,Schooler,30,Bread
+105,2026-10-28,4,Name a food or drink that has an emoji,,Schooler,30,Broccoli
+105,2026-10-28,4,Name a food or drink that has an emoji,,Schooler,30,Burrito
+105,2026-10-28,4,Name a food or drink that has an emoji,,Schooler,30,Candy
+105,2026-10-28,4,Name a food or drink that has an emoji,,Schooler,30,Carrot
+105,2026-10-28,4,Name a food or drink that has an emoji,,Schooler,30,Champagne
+105,2026-10-28,4,Name a food or drink that has an emoji,,Schooler,30,Cheese
+105,2026-10-28,4,Name a food or drink that has an emoji,,Schooler,30,Cherry
+105,2026-10-28,4,Name a food or drink that has an emoji,,Plankton,10,Banana
+105,2026-10-28,4,Name a food or drink that has an emoji,,Plankton,10,Birthday cake
+105,2026-10-28,4,Name a food or drink that has an emoji,,Plankton,10,Burger
+105,2026-10-28,4,Name a food or drink that has an emoji,,Plankton,10,Doughnut
+105,2026-10-28,4,Name a food or drink that has an emoji,,Plankton,10,Eggplant
+105,2026-10-28,4,Name a food or drink that has an emoji,,Plankton,10,Fries
+105,2026-10-28,4,Name a food or drink that has an emoji,,Plankton,10,Ice cream
+105,2026-10-28,4,Name a food or drink that has an emoji,,Plankton,10,Peach
+105,2026-10-28,4,Name a food or drink that has an emoji,,Plankton,10,Pizza
+105,2026-10-28,4,Name a food or drink that has an emoji,,Plankton,10,Red apple
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Deep cut,85,Acid spit
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Deep cut,85,Age manipulation
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Deep cut,85,Ancestral powers
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Deep cut,85,Armor creation
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Deep cut,85,Binary form
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Deep cut,85,Binding spells
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Deep cut,85,Bioluminescence
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Deep cut,85,Breaking mind control
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Deep cut,85,Celestial powers
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Deep cut,85,Changing appearance
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Rare,60,Astral projection
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Rare,60,Breaking the fourth wall
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Rare,60,Chaos magic
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Rare,60,Clairvoyance
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Rare,60,Claws
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Rare,60,Duplication
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Rare,60,Energy blasts
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Rare,60,Enhanced agility
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Rare,60,Enhanced reflexes
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Rare,60,Eye beams
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Schooler,30,Enhanced senses
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Schooler,30,Growing
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Schooler,30,Invisibility
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Schooler,30,Invulnerability
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Schooler,30,Lightning
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Schooler,30,Magic
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Schooler,30,Mind control
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Schooler,30,Portals
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Schooler,30,Shapeshifting
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Schooler,30,Shrinking
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Plankton,10,Flight
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Plankton,10,Healing factor
+105,2026-10-28,5,Name a superpower any superhero has in the MCU,,Plankton,10,Super speed
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Deep cut,85,ikon
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Deep cut,85,kino
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Deep cut,85,kir
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Deep cut,85,kiri
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Deep cut,85,kirn
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Deep cut,85,kon
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Deep cut,85,kor
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Deep cut,85,likin
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Deep cut,85,lilo
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Deep cut,85,lino
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Rare,60,ilk
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Rare,60,irk
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Rare,60,kiln
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Rare,60,knoll
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Rare,60,koi
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Rare,60,nil
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Rare,60,nori
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Schooler,30,ink
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Schooler,30,ion
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Schooler,30,kilo
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Schooler,30,kin
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Schooler,30,loin
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Schooler,30,noir
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Schooler,30,nor
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Schooler,30,oink
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Plankton,10,ill
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Plankton,10,iron
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Plankton,10,kill
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Plankton,10,krill
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Plankton,10,link
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Plankton,10,lion
+105,2026-10-28,6,"Name a 3+ letter word you can spell with the letters in ""krillion"" (using each letter only as many times as it appears)",,Plankton,10,oil
+105,2026-10-28,7,Name something you ride while standing up,,Deep cut,85,Airship
+105,2026-10-28,7,Name something you ride while standing up,,Deep cut,85,Aquaplane
+105,2026-10-28,7,Name something you ride while standing up,,Deep cut,85,Aquaskipper
+105,2026-10-28,7,Name something you ride while standing up,,Deep cut,85,ArcaBoard
+105,2026-10-28,7,Name something you ride while standing up,,Deep cut,85,Bamboo drifting
+105,2026-10-28,7,Name something you ride while standing up,,Deep cut,85,Bamboo raft
+105,2026-10-28,7,Name something you ride while standing up,,Deep cut,85,Barge
+105,2026-10-28,7,Name something you ride while standing up,,Deep cut,85,Barrel
+105,2026-10-28,7,Name something you ride while standing up,,Deep cut,85,Bass boat
+105,2026-10-28,7,Name something you ride while standing up,,Deep cut,85,Battleship
+105,2026-10-28,7,Name something you ride while standing up,,Rare,60,Aircraft carrier
+105,2026-10-28,7,Name something you ride while standing up,,Rare,60,Airplane
+105,2026-10-28,7,Name something you ride while standing up,,Rare,60,Airport shuttle
+105,2026-10-28,7,Name something you ride while standing up,,Rare,60,Airport train
+105,2026-10-28,7,Name something you ride while standing up,,Rare,60,BMX
+105,2026-10-28,7,Name something you ride while standing up,,Rare,60,Cable car
+105,2026-10-28,7,Name something you ride while standing up,,Rare,60,Caster board
+105,2026-10-28,7,Name something you ride while standing up,,Rare,60,Catamaran
+105,2026-10-28,7,Name something you ride while standing up,,Rare,60,Chariot
+105,2026-10-28,7,Name something you ride while standing up,,Rare,60,Cherry picker
+105,2026-10-28,7,Name something you ride while standing up,,Schooler,30,Boat
+105,2026-10-28,7,Name something you ride while standing up,,Schooler,30,Bus
+105,2026-10-28,7,Name something you ride while standing up,,Schooler,30,Cruise ship
+105,2026-10-28,7,Name something you ride while standing up,,Schooler,30,Electric scooter
+105,2026-10-28,7,Name something you ride while standing up,,Schooler,30,Ferry
+105,2026-10-28,7,Name something you ride while standing up,,Schooler,30,Hoverboard
+105,2026-10-28,7,Name something you ride while standing up,,Schooler,30,Jet ski
+105,2026-10-28,7,Name something you ride while standing up,,Schooler,30,Pogo stick
+105,2026-10-28,7,Name something you ride while standing up,,Schooler,30,Ship
+105,2026-10-28,7,Name something you ride while standing up,,Schooler,30,Skis
+105,2026-10-28,7,Name something you ride while standing up,,Plankton,10,Elevator
+105,2026-10-28,7,Name something you ride while standing up,,Plankton,10,Escalator
+105,2026-10-28,7,Name something you ride while standing up,,Plankton,10,Scooter
+105,2026-10-28,7,Name something you ride while standing up,,Plankton,10,Segway
+105,2026-10-28,7,Name something you ride while standing up,,Plankton,10,Skateboard
+105,2026-10-28,7,Name something you ride while standing up,,Plankton,10,Subway
+105,2026-10-28,7,Name something you ride while standing up,,Plankton,10,Surfboard
 104,2026-10-27,1,Name a bird that lives in or by water,,Deep cut,85,Abbott's Booby
 104,2026-10-27,1,Name a bird that lives in or by water,,Deep cut,85,Abdim's stork
 104,2026-10-27,1,Name a bird that lives in or by water,,Deep cut,85,African black duck

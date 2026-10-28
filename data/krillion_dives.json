@@ -1,5 +1,513 @@
 [
  {
+  "n": 105,
+  "date": "2026-10-28",
+  "prompts": [
+   {
+    "q": "Name a pasta dish",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 648,
+      "picks": [
+       "Agnolini",
+       "Agnolotti gobbi",
+       "Ají de fideo",
+       "Älplermagronen",
+       "Amish macaroni salad",
+       "Amish noodles",
+       "Andarinos al sugo",
+       "Anelletti al forno",
+       "Ankake spaghetti",
+       "Anolini"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 98,
+      "picks": [
+       "Agnolotti",
+       "Alphabet soup",
+       "Alphabetti spaghetti",
+       "Amatriciana",
+       "American goulash",
+       "Annie's mac and cheese",
+       "Bacon pasta",
+       "Baked feta pasta",
+       "Baked mostaccioli",
+       "Baked spaghetti"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 21,
+      "picks": [
+       "Aglio e olio",
+       "Baked ziti",
+       "Buttered noodles",
+       "Cacio e pepe",
+       "Chicken Alfredo",
+       "Gnocchi",
+       "Pasta al pomodoro",
+       "Pasta bake",
+       "Pasta primavera",
+       "Pasta salad"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Carbonara",
+       "Fettuccine Alfredo",
+       "Lasagna",
+       "Mac and cheese",
+       "Spaghetti and meatballs"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a part of the human head",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1901,
+      "picks": [
+       "Abducens nerve",
+       "Abducens nucleus",
+       "Accessory lacrimal glands",
+       "Accessory meningeal artery",
+       "Accessory nasal cartilages",
+       "Accessory nerve",
+       "Accessory parotid gland",
+       "Aditus ad antrum",
+       "Agger nasi",
+       "Ala of crista galli"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 98,
+      "picks": [
+       "Adenoids",
+       "Amygdala",
+       "Auricle",
+       "Baby teeth",
+       "Bridge of the nose",
+       "Brow bone",
+       "Canines",
+       "Canthus",
+       "Cerebellum",
+       "Cerebral cortex"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 24,
+      "picks": [
+       "Back of the head",
+       "Beard",
+       "Brainstem",
+       "Cheekbone",
+       "Crown of the head",
+       "Dimple",
+       "Earlobe",
+       "Eyebrow",
+       "Eyelash",
+       "Eyelid"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 11,
+      "picks": [
+       "Brain",
+       "Cheek",
+       "Chin",
+       "Ear",
+       "Eye",
+       "Forehead",
+       "Hair",
+       "Lips",
+       "Mouth",
+       "Nose"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a region of the world that spans multiple countries (like the Middle East)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 757,
+      "picks": [
+       "Acacia–Commiphora bushland",
+       "Acadia",
+       "Accursed Mountains",
+       "Adamawa Plateau",
+       "Aegean",
+       "Aegean Islands",
+       "Aethiopia",
+       "Afar Triangle",
+       "African Great Lakes",
+       "Afromontane"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 78,
+      "picks": [
+       "Adriatic",
+       "Appalachian Mountains",
+       "Arabian Sea region",
+       "Asia-Pacific",
+       "Atacama Desert",
+       "Australasia",
+       "Basque Country",
+       "Benelux",
+       "Bermuda Triangle",
+       "Black Sea region"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 31,
+      "picks": [
+       "Alps",
+       "Amazon",
+       "Americas",
+       "Andes",
+       "Arabian Peninsula",
+       "Arctic",
+       "Balkans",
+       "Baltic region",
+       "Baltic states",
+       "British Isles"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 16,
+      "picks": [
+       "Africa",
+       "Asia",
+       "Caribbean",
+       "Central America",
+       "East Asia",
+       "Eastern Europe",
+       "Europe",
+       "Latin America",
+       "Mediterranean",
+       "Middle East"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a food or drink that has an emoji",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 37,
+      "picks": [
+       "Baby bottle",
+       "Bento",
+       "Bison",
+       "Bowl with spoon",
+       "Canned food",
+       "Clinking beer mugs",
+       "Clinking glasses",
+       "Dango",
+       "Falafel",
+       "Fish cake"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 58,
+      "picks": [
+       "Avocado",
+       "Bacon",
+       "Bagel",
+       "Baguette",
+       "Beans",
+       "Bell pepper",
+       "Brown mushroom",
+       "Bubble tea",
+       "Butter",
+       "Chestnut"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 45,
+      "picks": [
+       "Beer",
+       "Blueberries",
+       "Bread",
+       "Broccoli",
+       "Burrito",
+       "Candy",
+       "Carrot",
+       "Champagne",
+       "Cheese",
+       "Cherry"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 12,
+      "picks": [
+       "Banana",
+       "Birthday cake",
+       "Burger",
+       "Doughnut",
+       "Eggplant",
+       "Fries",
+       "Ice cream",
+       "Peach",
+       "Pizza",
+       "Red apple"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a superpower any superhero has in the MCU",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 85,
+      "picks": [
+       "Acid spit",
+       "Age manipulation",
+       "Ancestral powers",
+       "Armor creation",
+       "Binary form",
+       "Binding spells",
+       "Bioluminescence",
+       "Breaking mind control",
+       "Celestial powers",
+       "Changing appearance"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 34,
+      "picks": [
+       "Astral projection",
+       "Breaking the fourth wall",
+       "Chaos magic",
+       "Clairvoyance",
+       "Claws",
+       "Duplication",
+       "Energy blasts",
+       "Enhanced agility",
+       "Enhanced reflexes",
+       "Eye beams"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 18,
+      "picks": [
+       "Enhanced senses",
+       "Growing",
+       "Invisibility",
+       "Invulnerability",
+       "Lightning",
+       "Magic",
+       "Mind control",
+       "Portals",
+       "Shapeshifting",
+       "Shrinking"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Flight",
+       "Healing factor",
+       "Super speed"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a 3+ letter word you can spell with the letters in \"krillion\" (using each letter only as many times as it appears)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 24,
+      "picks": [
+       "ikon",
+       "kino",
+       "kir",
+       "kiri",
+       "kirn",
+       "kon",
+       "kor",
+       "likin",
+       "lilo",
+       "lino"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 8,
+      "picks": [
+       "ilk",
+       "irk",
+       "kiln",
+       "knoll",
+       "koi",
+       "nil",
+       "nori"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "ink",
+       "ion",
+       "kilo",
+       "kin",
+       "loin",
+       "noir",
+       "nor",
+       "oink"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "ill",
+       "iron",
+       "kill",
+       "krill",
+       "link",
+       "lion",
+       "oil"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something you ride while standing up",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 201,
+      "picks": [
+       "Airship",
+       "Aquaplane",
+       "Aquaskipper",
+       "ArcaBoard",
+       "Bamboo drifting",
+       "Bamboo raft",
+       "Barge",
+       "Barrel",
+       "Bass boat",
+       "Battleship"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 61,
+      "picks": [
+       "Aircraft carrier",
+       "Airplane",
+       "Airport shuttle",
+       "Airport train",
+       "BMX",
+       "Cable car",
+       "Caster board",
+       "Catamaran",
+       "Chariot",
+       "Cherry picker"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Boat",
+       "Bus",
+       "Cruise ship",
+       "Electric scooter",
+       "Ferry",
+       "Hoverboard",
+       "Jet ski",
+       "Pogo stick",
+       "Ship",
+       "Skis"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Elevator",
+       "Escalator",
+       "Scooter",
+       "Segway",
+       "Skateboard",
+       "Subway",
+       "Surfboard"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 104,
   "date": "2026-10-27",
   "prompts": [
