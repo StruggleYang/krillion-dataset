@@ -1,5 +1,510 @@
 [
  {
+  "n": 106,
+  "date": "2026-10-29",
+  "prompts": [
+   {
+    "q": "Name a French or British food",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3239,
+      "picks": [
+       "5 Star",
+       "99 Flake",
+       "Abbaye de Belloc",
+       "Abbaye de Cîteaux",
+       "Abbaye de la Pierre-Qui-Vire",
+       "Abbaye de Tamié",
+       "Abbaye de Timadeuc",
+       "Abbaye la Joie Notre-Dame",
+       "Abbey Crunch",
+       "Aberdeen Angus beef"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 244,
+      "picks": [
+       "A.1. Sauce",
+       "Aioli",
+       "Aligot",
+       "Almond croissant",
+       "Andouille",
+       "Apple crumble",
+       "Apple pie",
+       "Au jus",
+       "Back bacon",
+       "Bacon sandwich"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 34,
+      "picks": [
+       "Banger (British sausage)",
+       "Bangers and mash",
+       "Beef bourguignon",
+       "Beef Wellington",
+       "Black pudding",
+       "Bread pudding",
+       "Cheddar",
+       "Chicken tikka masala",
+       "Chips",
+       "Coq au vin"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Baguette",
+       "Baked beans",
+       "Beans on toast",
+       "Crêpes",
+       "Croissant",
+       "Escargot",
+       "Fish and chips",
+       "French onion soup",
+       "French toast"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something you can measure about the human body",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1505,
+      "picks": [
+       "1,25-Dihydroxyvitamin D",
+       "1,5-Anhydroglucitol",
+       "1.5-mile run time",
+       "10K time",
+       "17-Hydroxyprogesterone",
+       "2-mile run time",
+       "2,3-BPG level",
+       "2K erg time",
+       "3-mile run time",
+       "5-HIAA"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 209,
+      "picks": [
+       "40-yard dash time",
+       "Active B12",
+       "Adrenaline",
+       "Agility",
+       "Ammonia",
+       "Ankle circumference",
+       "Antibody levels",
+       "Antral follicle count",
+       "Anxiety level",
+       "Arch height"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 30,
+      "picks": [
+       "Age",
+       "Arm length",
+       "Arm span",
+       "Blood alcohol",
+       "Blood sugar",
+       "BMI",
+       "Body fat",
+       "Bone density",
+       "Bust size",
+       "Cholesterol"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Blood pressure",
+       "Body temperature",
+       "Heart rate",
+       "Height"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a strategy board game",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 7873,
+      "picks": [
+       "¡Adiós Calavera!",
+       "...and then, we held hands.",
+       "[redacted]",
+       "*Star",
+       "011",
+       "1 Stein + Co.",
+       "10 Days in Africa",
+       "10 Days in Asia",
+       "10 Days in Europe",
+       "10 Days in the USA"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 144,
+      "picks": [
+       "7 Wonders",
+       "7 Wonders Duel",
+       "A Game of Thrones: The Board Game",
+       "Abalone",
+       "Acquire",
+       "Agricola",
+       "Arcs",
+       "Ark Nova",
+       "Arkham Horror",
+       "Articulate!"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Backgammon",
+       "Blokus",
+       "Chinese checkers",
+       "Clue",
+       "Connect Four",
+       "Dominoes",
+       "Go",
+       "Guess Who?",
+       "Mahjong",
+       "Mancala"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Battleship",
+       "Catan",
+       "Checkers",
+       "Chess",
+       "Monopoly"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an animal with a one-word name containing \"ck\"",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 346,
+      "picks": [
+       "Ackie",
+       "Amberjack",
+       "Amrock",
+       "Antpecker",
+       "Backswimmer",
+       "Backworm",
+       "Baddock",
+       "Bardick",
+       "Becker",
+       "Bergscheck"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 29,
+      "picks": [
+       "Blackbuck",
+       "Blackfish",
+       "Blacksnake",
+       "Bullock",
+       "Chickadee",
+       "Chickenhawk",
+       "Cockapoo",
+       "Cocker",
+       "Cockerel",
+       "Cockle"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 16,
+      "picks": [
+       "Blackbird",
+       "Buck",
+       "Chick",
+       "Cock",
+       "Cockatiel",
+       "Cockatoo",
+       "Cockroach",
+       "Cricket",
+       "Cuckoo",
+       "Duckling"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Chicken",
+       "Duck"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country where another religion has more followers than Christianity",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 22,
+      "picks": [
+       "Albania",
+       "Azerbaijan",
+       "Bhutan",
+       "Brunei",
+       "Burkina Faso",
+       "Chad",
+       "Comoros",
+       "Djibouti",
+       "Eritrea",
+       "Gambia"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 24,
+      "picks": [
+       "Algeria",
+       "Bahrain",
+       "Bosnia and Herzegovina",
+       "Cambodia",
+       "Kazakhstan",
+       "Kuwait",
+       "Laos",
+       "Lebanon",
+       "Libya",
+       "Mongolia"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "Afghanistan",
+       "Bangladesh",
+       "China",
+       "Egypt",
+       "Indonesia",
+       "Iraq",
+       "Japan",
+       "Jordan",
+       "Malaysia",
+       "Morocco"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "India",
+       "Iran",
+       "Israel",
+       "Pakistan"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 3,
+      "picks": [
+       "Coby Karl",
+       "David Bellion"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 2438,
+      "picks": [
+       "A. J. Derby",
+       "A. J. Howard",
+       "A. J. Price",
+       "A. Q. Shipley",
+       "A.J. Edds",
+       "A.J. Francis",
+       "Aaron Dobson",
+       "Aaron Lavarias",
+       "Aaron Monteiro",
+       "Aaron Ramsey"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 204,
+      "picks": [
+       "Aaron Wan-Bissaka",
+       "Achraf Hakimi",
+       "Alejandro Garnacho",
+       "Alexis Mac Allister",
+       "Alexis Sánchez",
+       "Allen Iverson",
+       "Anderson Varejão",
+       "Andre Drummond",
+       "Andre Iguodala",
+       "Ansu Fati"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 56,
+      "picks": [
+       "Aaron Hernandez",
+       "Adam Vinatieri",
+       "Alex Caruso",
+       "Andrés Iniesta",
+       "Ángel Di María",
+       "Antonio Brown",
+       "Austin Reaves",
+       "Bruno Fernandes",
+       "Carles Puyol",
+       "Carlos Tevez"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Anthony Davis",
+       "Bronny James",
+       "Dwyane Wade",
+       "Kylian Mbappé",
+       "Kyrie Irving",
+       "Luis Suárez",
+       "Luka Dončić",
+       "Neymar"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a hair type, texture, or natural color",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 132,
+      "picks": [
+       "Afro kinky",
+       "Afro-textured",
+       "Anagen hair",
+       "Baby blonde",
+       "Baby hairs",
+       "Blue-black",
+       "Body wave",
+       "Bohemian curl",
+       "Botticelli curls",
+       "Bouncy"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 69,
+      "picks": [
+       "1A",
+       "1B",
+       "1C",
+       "2A",
+       "2B",
+       "2C",
+       "3A",
+       "3B",
+       "3C",
+       "4A"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 15,
+      "picks": [
+       "Afro",
+       "Auburn",
+       "Coarse",
+       "Coily",
+       "Dark brown",
+       "Dirty blonde",
+       "Fine",
+       "Frizzy",
+       "Kinky",
+       "Light brown"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Black",
+       "Blonde",
+       "Brown",
+       "Curly",
+       "Ginger",
+       "Grey",
+       "Red",
+       "Straight",
+       "Wavy"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 105,
   "date": "2026-10-28",
   "prompts": [

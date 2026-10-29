@@ -1,4 +1,257 @@
 dive_number,date,prompt_number,prompt,accepted_answers,tier,points,answer
+106,2026-10-29,1,Name a French or British food,,Deep cut,85,5 Star
+106,2026-10-29,1,Name a French or British food,,Deep cut,85,99 Flake
+106,2026-10-29,1,Name a French or British food,,Deep cut,85,Abbaye de Belloc
+106,2026-10-29,1,Name a French or British food,,Deep cut,85,Abbaye de Cîteaux
+106,2026-10-29,1,Name a French or British food,,Deep cut,85,Abbaye de la Pierre-Qui-Vire
+106,2026-10-29,1,Name a French or British food,,Deep cut,85,Abbaye de Tamié
+106,2026-10-29,1,Name a French or British food,,Deep cut,85,Abbaye de Timadeuc
+106,2026-10-29,1,Name a French or British food,,Deep cut,85,Abbaye la Joie Notre-Dame
+106,2026-10-29,1,Name a French or British food,,Deep cut,85,Abbey Crunch
+106,2026-10-29,1,Name a French or British food,,Deep cut,85,Aberdeen Angus beef
+106,2026-10-29,1,Name a French or British food,,Rare,60,A.1. Sauce
+106,2026-10-29,1,Name a French or British food,,Rare,60,Aioli
+106,2026-10-29,1,Name a French or British food,,Rare,60,Aligot
+106,2026-10-29,1,Name a French or British food,,Rare,60,Almond croissant
+106,2026-10-29,1,Name a French or British food,,Rare,60,Andouille
+106,2026-10-29,1,Name a French or British food,,Rare,60,Apple crumble
+106,2026-10-29,1,Name a French or British food,,Rare,60,Apple pie
+106,2026-10-29,1,Name a French or British food,,Rare,60,Au jus
+106,2026-10-29,1,Name a French or British food,,Rare,60,Back bacon
+106,2026-10-29,1,Name a French or British food,,Rare,60,Bacon sandwich
+106,2026-10-29,1,Name a French or British food,,Schooler,30,Banger (British sausage)
+106,2026-10-29,1,Name a French or British food,,Schooler,30,Bangers and mash
+106,2026-10-29,1,Name a French or British food,,Schooler,30,Beef bourguignon
+106,2026-10-29,1,Name a French or British food,,Schooler,30,Beef Wellington
+106,2026-10-29,1,Name a French or British food,,Schooler,30,Black pudding
+106,2026-10-29,1,Name a French or British food,,Schooler,30,Bread pudding
+106,2026-10-29,1,Name a French or British food,,Schooler,30,Cheddar
+106,2026-10-29,1,Name a French or British food,,Schooler,30,Chicken tikka masala
+106,2026-10-29,1,Name a French or British food,,Schooler,30,Chips
+106,2026-10-29,1,Name a French or British food,,Schooler,30,Coq au vin
+106,2026-10-29,1,Name a French or British food,,Plankton,10,Baguette
+106,2026-10-29,1,Name a French or British food,,Plankton,10,Baked beans
+106,2026-10-29,1,Name a French or British food,,Plankton,10,Beans on toast
+106,2026-10-29,1,Name a French or British food,,Plankton,10,Crêpes
+106,2026-10-29,1,Name a French or British food,,Plankton,10,Croissant
+106,2026-10-29,1,Name a French or British food,,Plankton,10,Escargot
+106,2026-10-29,1,Name a French or British food,,Plankton,10,Fish and chips
+106,2026-10-29,1,Name a French or British food,,Plankton,10,French onion soup
+106,2026-10-29,1,Name a French or British food,,Plankton,10,French toast
+106,2026-10-29,2,Name something you can measure about the human body,,Deep cut,85,"1,25-Dihydroxyvitamin D"
+106,2026-10-29,2,Name something you can measure about the human body,,Deep cut,85,"1,5-Anhydroglucitol"
+106,2026-10-29,2,Name something you can measure about the human body,,Deep cut,85,1.5-mile run time
+106,2026-10-29,2,Name something you can measure about the human body,,Deep cut,85,10K time
+106,2026-10-29,2,Name something you can measure about the human body,,Deep cut,85,17-Hydroxyprogesterone
+106,2026-10-29,2,Name something you can measure about the human body,,Deep cut,85,2-mile run time
+106,2026-10-29,2,Name something you can measure about the human body,,Deep cut,85,"2,3-BPG level"
+106,2026-10-29,2,Name something you can measure about the human body,,Deep cut,85,2K erg time
+106,2026-10-29,2,Name something you can measure about the human body,,Deep cut,85,3-mile run time
+106,2026-10-29,2,Name something you can measure about the human body,,Deep cut,85,5-HIAA
+106,2026-10-29,2,Name something you can measure about the human body,,Rare,60,40-yard dash time
+106,2026-10-29,2,Name something you can measure about the human body,,Rare,60,Active B12
+106,2026-10-29,2,Name something you can measure about the human body,,Rare,60,Adrenaline
+106,2026-10-29,2,Name something you can measure about the human body,,Rare,60,Agility
+106,2026-10-29,2,Name something you can measure about the human body,,Rare,60,Ammonia
+106,2026-10-29,2,Name something you can measure about the human body,,Rare,60,Ankle circumference
+106,2026-10-29,2,Name something you can measure about the human body,,Rare,60,Antibody levels
+106,2026-10-29,2,Name something you can measure about the human body,,Rare,60,Antral follicle count
+106,2026-10-29,2,Name something you can measure about the human body,,Rare,60,Anxiety level
+106,2026-10-29,2,Name something you can measure about the human body,,Rare,60,Arch height
+106,2026-10-29,2,Name something you can measure about the human body,,Schooler,30,Age
+106,2026-10-29,2,Name something you can measure about the human body,,Schooler,30,Arm length
+106,2026-10-29,2,Name something you can measure about the human body,,Schooler,30,Arm span
+106,2026-10-29,2,Name something you can measure about the human body,,Schooler,30,Blood alcohol
+106,2026-10-29,2,Name something you can measure about the human body,,Schooler,30,Blood sugar
+106,2026-10-29,2,Name something you can measure about the human body,,Schooler,30,BMI
+106,2026-10-29,2,Name something you can measure about the human body,,Schooler,30,Body fat
+106,2026-10-29,2,Name something you can measure about the human body,,Schooler,30,Bone density
+106,2026-10-29,2,Name something you can measure about the human body,,Schooler,30,Bust size
+106,2026-10-29,2,Name something you can measure about the human body,,Schooler,30,Cholesterol
+106,2026-10-29,2,Name something you can measure about the human body,,Plankton,10,Blood pressure
+106,2026-10-29,2,Name something you can measure about the human body,,Plankton,10,Body temperature
+106,2026-10-29,2,Name something you can measure about the human body,,Plankton,10,Heart rate
+106,2026-10-29,2,Name something you can measure about the human body,,Plankton,10,Height
+106,2026-10-29,3,Name a strategy board game,,Deep cut,85,¡Adiós Calavera!
+106,2026-10-29,3,Name a strategy board game,,Deep cut,85,"...and then, we held hands."
+106,2026-10-29,3,Name a strategy board game,,Deep cut,85,[redacted]
+106,2026-10-29,3,Name a strategy board game,,Deep cut,85,*Star
+106,2026-10-29,3,Name a strategy board game,,Deep cut,85,011
+106,2026-10-29,3,Name a strategy board game,,Deep cut,85,1 Stein + Co.
+106,2026-10-29,3,Name a strategy board game,,Deep cut,85,10 Days in Africa
+106,2026-10-29,3,Name a strategy board game,,Deep cut,85,10 Days in Asia
+106,2026-10-29,3,Name a strategy board game,,Deep cut,85,10 Days in Europe
+106,2026-10-29,3,Name a strategy board game,,Deep cut,85,10 Days in the USA
+106,2026-10-29,3,Name a strategy board game,,Rare,60,7 Wonders
+106,2026-10-29,3,Name a strategy board game,,Rare,60,7 Wonders Duel
+106,2026-10-29,3,Name a strategy board game,,Rare,60,A Game of Thrones: The Board Game
+106,2026-10-29,3,Name a strategy board game,,Rare,60,Abalone
+106,2026-10-29,3,Name a strategy board game,,Rare,60,Acquire
+106,2026-10-29,3,Name a strategy board game,,Rare,60,Agricola
+106,2026-10-29,3,Name a strategy board game,,Rare,60,Arcs
+106,2026-10-29,3,Name a strategy board game,,Rare,60,Ark Nova
+106,2026-10-29,3,Name a strategy board game,,Rare,60,Arkham Horror
+106,2026-10-29,3,Name a strategy board game,,Rare,60,Articulate!
+106,2026-10-29,3,Name a strategy board game,,Schooler,30,Backgammon
+106,2026-10-29,3,Name a strategy board game,,Schooler,30,Blokus
+106,2026-10-29,3,Name a strategy board game,,Schooler,30,Chinese checkers
+106,2026-10-29,3,Name a strategy board game,,Schooler,30,Clue
+106,2026-10-29,3,Name a strategy board game,,Schooler,30,Connect Four
+106,2026-10-29,3,Name a strategy board game,,Schooler,30,Dominoes
+106,2026-10-29,3,Name a strategy board game,,Schooler,30,Go
+106,2026-10-29,3,Name a strategy board game,,Schooler,30,Guess Who?
+106,2026-10-29,3,Name a strategy board game,,Schooler,30,Mahjong
+106,2026-10-29,3,Name a strategy board game,,Schooler,30,Mancala
+106,2026-10-29,3,Name a strategy board game,,Plankton,10,Battleship
+106,2026-10-29,3,Name a strategy board game,,Plankton,10,Catan
+106,2026-10-29,3,Name a strategy board game,,Plankton,10,Checkers
+106,2026-10-29,3,Name a strategy board game,,Plankton,10,Chess
+106,2026-10-29,3,Name a strategy board game,,Plankton,10,Monopoly
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Deep cut,85,Ackie
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Deep cut,85,Amberjack
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Deep cut,85,Amrock
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Deep cut,85,Antpecker
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Deep cut,85,Backswimmer
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Deep cut,85,Backworm
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Deep cut,85,Baddock
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Deep cut,85,Bardick
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Deep cut,85,Becker
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Deep cut,85,Bergscheck
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Rare,60,Blackbuck
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Rare,60,Blackfish
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Rare,60,Blacksnake
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Rare,60,Bullock
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Rare,60,Chickadee
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Rare,60,Chickenhawk
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Rare,60,Cockapoo
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Rare,60,Cocker
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Rare,60,Cockerel
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Rare,60,Cockle
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Schooler,30,Blackbird
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Schooler,30,Buck
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Schooler,30,Chick
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Schooler,30,Cock
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Schooler,30,Cockatiel
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Schooler,30,Cockatoo
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Schooler,30,Cockroach
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Schooler,30,Cricket
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Schooler,30,Cuckoo
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Schooler,30,Duckling
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Plankton,10,Chicken
+106,2026-10-29,4,"Name an animal with a one-word name containing ""ck""",,Plankton,10,Duck
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Deep cut,85,Albania
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Deep cut,85,Azerbaijan
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Deep cut,85,Bhutan
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Deep cut,85,Brunei
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Deep cut,85,Burkina Faso
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Deep cut,85,Chad
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Deep cut,85,Comoros
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Deep cut,85,Djibouti
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Deep cut,85,Eritrea
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Deep cut,85,Gambia
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Rare,60,Algeria
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Rare,60,Bahrain
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Rare,60,Bosnia and Herzegovina
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Rare,60,Cambodia
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Rare,60,Kazakhstan
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Rare,60,Kuwait
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Rare,60,Laos
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Rare,60,Lebanon
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Rare,60,Libya
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Rare,60,Mongolia
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Schooler,30,Afghanistan
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Schooler,30,Bangladesh
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Schooler,30,China
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Schooler,30,Egypt
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Schooler,30,Indonesia
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Schooler,30,Iraq
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Schooler,30,Japan
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Schooler,30,Jordan
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Schooler,30,Malaysia
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Schooler,30,Morocco
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Plankton,10,India
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Plankton,10,Iran
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Plankton,10,Israel
+106,2026-10-29,5,Name a country where another religion has more followers than Christianity,,Plankton,10,Pakistan
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,One in a Krillion,100,Coby Karl
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,One in a Krillion,100,David Bellion
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Deep cut,85,A. J. Derby
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Deep cut,85,A. J. Howard
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Deep cut,85,A. J. Price
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Deep cut,85,A. Q. Shipley
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Deep cut,85,A.J. Edds
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Deep cut,85,A.J. Francis
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Deep cut,85,Aaron Dobson
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Deep cut,85,Aaron Lavarias
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Deep cut,85,Aaron Monteiro
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Deep cut,85,Aaron Ramsey
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Rare,60,Aaron Wan-Bissaka
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Rare,60,Achraf Hakimi
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Rare,60,Alejandro Garnacho
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Rare,60,Alexis Mac Allister
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Rare,60,Alexis Sánchez
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Rare,60,Allen Iverson
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Rare,60,Anderson Varejão
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Rare,60,Andre Drummond
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Rare,60,Andre Iguodala
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Rare,60,Ansu Fati
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Schooler,30,Aaron Hernandez
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Schooler,30,Adam Vinatieri
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Schooler,30,Alex Caruso
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Schooler,30,Andrés Iniesta
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Schooler,30,Ángel Di María
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Schooler,30,Antonio Brown
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Schooler,30,Austin Reaves
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Schooler,30,Bruno Fernandes
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Schooler,30,Carles Puyol
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Schooler,30,Carlos Tevez
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Plankton,10,Anthony Davis
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Plankton,10,Bronny James
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Plankton,10,Dwyane Wade
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Plankton,10,Kylian Mbappé
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Plankton,10,Kyrie Irving
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Plankton,10,Luis Suárez
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Plankton,10,Luka Dončić
+106,2026-10-29,6,"Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",,Plankton,10,Neymar
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Deep cut,85,Afro kinky
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Deep cut,85,Afro-textured
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Deep cut,85,Anagen hair
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Deep cut,85,Baby blonde
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Deep cut,85,Baby hairs
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Deep cut,85,Blue-black
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Deep cut,85,Body wave
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Deep cut,85,Bohemian curl
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Deep cut,85,Botticelli curls
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Deep cut,85,Bouncy
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Rare,60,1A
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Rare,60,1B
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Rare,60,1C
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Rare,60,2A
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Rare,60,2B
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Rare,60,2C
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Rare,60,3A
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Rare,60,3B
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Rare,60,3C
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Rare,60,4A
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Schooler,30,Afro
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Schooler,30,Auburn
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Schooler,30,Coarse
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Schooler,30,Coily
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Schooler,30,Dark brown
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Schooler,30,Dirty blonde
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Schooler,30,Fine
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Schooler,30,Frizzy
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Schooler,30,Kinky
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Schooler,30,Light brown
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Plankton,10,Black
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Plankton,10,Blonde
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Plankton,10,Brown
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Plankton,10,Curly
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Plankton,10,Ginger
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Plankton,10,Grey
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Plankton,10,Red
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Plankton,10,Straight
+106,2026-10-29,7,"Name a hair type, texture, or natural color",,Plankton,10,Wavy
 105,2026-10-28,1,Name a pasta dish,,Deep cut,85,Agnolini
 105,2026-10-28,1,Name a pasta dish,,Deep cut,85,Agnolotti gobbi
 105,2026-10-28,1,Name a pasta dish,,Deep cut,85,Ají de fideo
