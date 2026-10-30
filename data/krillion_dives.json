@@ -1,5 +1,479 @@
 [
  {
+  "n": 107,
+  "date": "2026-10-30",
+  "prompts": [
+   {
+    "q": "Name a sport where athletes do flips or somersaults",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 142,
+      "picks": [
+       "1 m springboard",
+       "10 m platform",
+       "3 m springboard",
+       "Acro dance",
+       "Acrobatic rock and roll",
+       "Acrobatic routine",
+       "Acrobatics and tumbling",
+       "Aerials",
+       "Aerobic dance",
+       "Aerobic gymnastics"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 48,
+      "picks": [
+       "Aerobatics",
+       "Amateur wrestling",
+       "Artistic gymnastics",
+       "Balance beam",
+       "Banana Ball",
+       "Base jumping",
+       "Big air",
+       "BMX",
+       "Breaking",
+       "Canadian football"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Acrobatic gymnastics",
+       "American football",
+       "Artistic swimming",
+       "Cheerleading",
+       "Diving",
+       "Figure skating",
+       "Parkour",
+       "Pro wrestling",
+       "Skateboarding",
+       "Skiing"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Gymnastics"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a city whose name starts with the word Los, Las, La, Le, El or The",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 11457,
+      "picks": [
+       "El",
+       "85 El 77",
+       "El Aadhira",
+       "El Aaiún",
+       "El Aali",
+       "El Aaras",
+       "El Abaadiya",
+       "El Ababsa",
+       "El Abadia",
+       "El Abadla"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 41,
+      "picks": [
+       "El Cajon",
+       "El Camino",
+       "El Capitan",
+       "El Centro",
+       "El Chapo",
+       "El Diablo",
+       "El Nido",
+       "El Niño",
+       "El Segundo",
+       "El Toro"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "El Dorado",
+       "El Paso",
+       "El Salvador",
+       "Los Cabos",
+       "The Bronx"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Las Vegas"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something used to grip or pick things up",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1270,
+      "picks": [
+       "Acland clamp",
+       "Acoustic tweezers",
+       "Adaptive utensils",
+       "Adhesive pads (plant)",
+       "Adson forceps",
+       "Aerial roots",
+       "Ah-So",
+       "Air jack",
+       "All-terrain crane",
+       "Alligator forceps"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 91,
+      "picks": [
+       "Adjustable wrench",
+       "Alligator clip",
+       "Backhoe",
+       "Baseball glove",
+       "Beak",
+       "Chalk",
+       "Chelae",
+       "Chip clip",
+       "Claw clip",
+       "Clip"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 23,
+      "picks": [
+       "Arms",
+       "Chopsticks",
+       "Clamp",
+       "Claw machine",
+       "Claws",
+       "Crane",
+       "Feet",
+       "Fingers",
+       "Fork",
+       "Forklift"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Hands",
+       "Tongs"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a non-human character from Star Wars, the MCU, or Lord of the Rings",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 16761,
+      "picks": [
+       "0-0-0",
+       "0-MR1",
+       "02-R0",
+       "0G-LC",
+       "1-JAC",
+       "10-4TO",
+       "10-K8",
+       "11-17",
+       "11-4D",
+       "12-4C-41"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 88,
+      "picks": [
+       "Aayla Secura",
+       "Adam Warlock",
+       "Admiral Ackbar",
+       "Ahsoka Tano",
+       "Alligator Loki",
+       "Ant-thony",
+       "Arwen",
+       "Asajj Ventress",
+       "Azog",
+       "Babu Frik"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "BB-8",
+       "Bilbo Baggins",
+       "C-3PO",
+       "Darth Maul",
+       "Drax",
+       "Frodo Baggins",
+       "Gamora",
+       "Gandalf",
+       "Gimli",
+       "Jabba the Hutt"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Chewbacca",
+       "Gollum",
+       "Grogu",
+       "Groot",
+       "R2-D2",
+       "Rocket",
+       "Thanos"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a nail care product or tool (types, not brands)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 299,
+      "picks": [
+       "3D acrylic flowers",
+       "3D gel",
+       "3D nail stickers",
+       "5-in-1 bit",
+       "Acetone soak bowl",
+       "Acid-free primer",
+       "Acrylic brush",
+       "Acrylic liquid",
+       "Acrylic nail kit",
+       "Acrylic powder"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 68,
+      "picks": [
+       "Acetone",
+       "Aluminium foil",
+       "Antifungal nail treatment",
+       "Base coat",
+       "Biotin",
+       "Builder gel",
+       "Callus remover",
+       "Cat-eye magnet",
+       "Cat-eye nail polish",
+       "Cotton balls"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 7,
+      "picks": [
+       "Acrylic nails",
+       "Cuticle oil",
+       "Gel polish",
+       "Nail glue",
+       "Press-on nails",
+       "Toenail clippers"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Nail clippers",
+       "Nail file",
+       "Nail polish"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a way to contact someone (methods, not brands/apps)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 120,
+      "picks": [
+       "Aerial banner",
+       "Aerogram",
+       "Aircraft radio",
+       "Alphorn",
+       "Anonymous message",
+       "Arrow message",
+       "Audio letter",
+       "Balloon message",
+       "Barrel mail",
+       "Bluetooth"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 45,
+      "picks": [
+       "AirDrop",
+       "Billboard",
+       "Chat room",
+       "Cold call",
+       "Comment",
+       "Courier",
+       "Fax",
+       "Flare",
+       "Forum post",
+       "Greeting card"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Carrier pigeon",
+       "Direct message",
+       "Group chat",
+       "Pager",
+       "Social media post",
+       "Video call",
+       "Visit in person",
+       "Voicemail"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Email",
+       "Letter",
+       "Phone call"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a fast food chain that operates in more than one country",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 739,
+      "picks": [
+       "% Arabica",
+       "100 Montaditos",
+       "4Fingers Crispy Chicken",
+       "5 to go",
+       "85°C Bakery Cafe",
+       "A Twosome Place",
+       "Açaí Concept",
+       "Adyar Ananda Bhavan",
+       "Afuri",
+       "Aïda"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 73,
+      "picks": [
+       "A&W",
+       "Albaik",
+       "Auntie Anne's",
+       "Baskin-Robbins",
+       "bb.q Chicken",
+       "Ben & Jerry's",
+       "Blaze Pizza",
+       "Bojangles",
+       "Bonchon",
+       "Boost Juice"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Arby's",
+       "Chick-fil-A",
+       "Chipotle",
+       "Dairy Queen",
+       "Dave's Hot Chicken",
+       "Dunkin'",
+       "Five Guys",
+       "Jack in the Box",
+       "Jersey Mike's",
+       "Jollibee"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Burger King",
+       "Domino's",
+       "KFC",
+       "McDonald's",
+       "Pizza Hut",
+       "Subway",
+       "Taco Bell"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 106,
   "date": "2026-10-29",
   "prompts": [
