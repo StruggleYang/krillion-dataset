@@ -1,5 +1,470 @@
 [
  {
+  "n": 108,
+  "date": "2026-10-31",
+  "prompts": [
+   {
+    "q": "Name a Halloween tradition",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 395,
+      "picks": [
+       "17th Street High Heel Race",
+       "All Hallows' Eve vigil",
+       "Allantide",
+       "Allentown Halloween Parade",
+       "Alphabet letters in water",
+       "Alton Halloween Parade",
+       "Amerikamura Halloween",
+       "Angels' Night",
+       "Anne Rice Vampire Ball",
+       "Anoka Halloween"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 48,
+      "picks": [
+       "Baking Halloween treats",
+       "Bloody Mary mirror game",
+       "Bonfires",
+       "Candy corn",
+       "Carving turnips",
+       "Checking the candy",
+       "Corn mazes",
+       "Costume contests",
+       "Dressing up pets",
+       "Face painting"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Bobbing for apples",
+       "Candy apples",
+       "Decorating for Halloween",
+       "Egging",
+       "Halloween parties",
+       "Handing out candy",
+       "Pumpkin patches",
+       "Telling ghost stories",
+       "Toilet-papering",
+       "Trunk-or-treat"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Carving pumpkins",
+       "Dressing up in costumes",
+       "Haunted houses"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a chocolate with wafer, biscuit, or cookie in it",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1356,
+      "picks": [
+       "2 For You",
+       "3Bit",
+       "4Fun",
+       "Ad Chatzot (Elite)",
+       "Adria Mega Wafer",
+       "Adventurefuls",
+       "Aero Biscuits",
+       "After Eight Biscuits",
+       "AH Zaans Huisje",
+       "Aiva Chocolate Wafers"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 38,
+      "picks": [
+       "Alfort",
+       "Black Thunder",
+       "Blue Riband",
+       "Bon o Bon",
+       "Cadbury Boost",
+       "Cadbury Dairy Milk Oreo",
+       "Cadbury Fingers",
+       "Club",
+       "Coffee Crisp",
+       "Fudge Covered Oreo"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Ferrero Rocher",
+       "Hershey’s Cookies ’n’ Creme",
+       "Kinder Bueno",
+       "Pocky",
+       "Thin Mints"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Kit Kat"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a fictional character who wears a mask",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 5111,
+      "picks": [
+       "1-Ball",
+       "10,000 Volt Ghost",
+       "1x1x1x1",
+       "3-D Man",
+       "8-Ball (Marvel)",
+       "A-Train",
+       "Aang",
+       "Aaroniero Arruruerie",
+       "Abaddon",
+       "Abed Nadir"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 170,
+      "picks": [
+       "All For One",
+       "Amon",
+       "Atom Eve",
+       "Barnacle Boy",
+       "Baron Zemo",
+       "Batgirl",
+       "Batwoman",
+       "Baymax",
+       "Black Canary",
+       "Black Cat (Marvel)"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 34,
+      "picks": [
+       "Ant-Man",
+       "Bane",
+       "Black Panther",
+       "Boba Fett",
+       "Bumblebee",
+       "Captain America",
+       "Catwoman",
+       "Cyclops",
+       "Daredevil",
+       "Deadpool"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Batman",
+       "Darth Vader",
+       "Ghostface",
+       "Jason Voorhees",
+       "Michael Myers"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an animal that feeds on blood",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Cooper's nutmeg snail"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 61,
+      "picks": [
+       "Aega psora",
+       "Anchor worm",
+       "Avian vampire fly",
+       "Barber's pole worm",
+       "Bat bug",
+       "Bat fly",
+       "Bat wing mite",
+       "Bird blowfly",
+       "Bird nasal mite",
+       "Biting snipe fly"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 11,
+      "picks": [
+       "Biting midge",
+       "Black fly",
+       "Deer fly",
+       "Heartworm",
+       "Hookworm",
+       "Horsefly",
+       "Lamprey",
+       "Oxpecker",
+       "Sand fly",
+       "Tsetse fly"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 3,
+      "picks": [
+       "Bed bug",
+       "Louse"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Flea",
+       "Leech",
+       "Mosquito"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an orange fruit or vegetable",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 254,
+      "picks": [
+       "Abyssinian gooseberry",
+       "Acerola",
+       "Achacha",
+       "Ackee",
+       "African custard-apple",
+       "African mammee apple",
+       "African mango",
+       "African mangosteen",
+       "African pear (Manilkara)",
+       "Ají amarillo"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 15,
+      "picks": [
+       "Acorn squash",
+       "Bitter melon",
+       "Blood orange",
+       "Habanero",
+       "Kumquat",
+       "Nectarine",
+       "Orange cauliflower",
+       "Orange chili pepper",
+       "Orange tomato",
+       "Passion fruit"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Apricot",
+       "Butternut squash",
+       "Cantaloupe",
+       "Clementine",
+       "Mandarin",
+       "Mango",
+       "Orange bell pepper",
+       "Papaya",
+       "Peach",
+       "Sweet potato"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Carrot",
+       "Orange"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country with black or orange on its flag",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 31,
+      "picks": [
+       "Antigua and Barbuda",
+       "Belize",
+       "Bolivia",
+       "Brunei",
+       "Costa Rica",
+       "Dominica",
+       "Dominican Republic",
+       "El Salvador",
+       "Equatorial Guinea",
+       "Eswatini"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 43,
+      "picks": [
+       "Afghanistan",
+       "Albania",
+       "Angola",
+       "Armenia",
+       "Austria",
+       "Bahamas",
+       "Barbados",
+       "Bhutan",
+       "Botswana",
+       "Cambodia"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 4,
+      "picks": [
+       "Belgium",
+       "Egypt",
+       "Jamaica"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Germany",
+       "India"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a word that starts with “boo”",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "booboisie"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 237,
+      "picks": [
+       "booable",
+       "boobage",
+       "boobery",
+       "boobfest",
+       "boobhead",
+       "boobilicious",
+       "boobily",
+       "boobird",
+       "boobish",
+       "boobishly"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 70,
+      "picks": [
+       "boobytrap",
+       "boodle",
+       "booer",
+       "boof",
+       "boogaloo",
+       "boogieboard",
+       "boogiewoogie",
+       "bookable",
+       "bookaholic",
+       "bookbag"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "boob",
+       "booboo",
+       "booby",
+       "booger",
+       "boogeyman",
+       "boogie",
+       "boohoo",
+       "bookcase",
+       "bookmark",
+       "bookshelf"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "boo",
+       "book",
+       "boom",
+       "boot"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 107,
   "date": "2026-10-30",
   "prompts": [
