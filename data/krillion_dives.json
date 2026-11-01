@@ -1,5 +1,491 @@
 [
  {
+  "n": 109,
+  "date": "2026-11-01",
+  "prompts": [
+   {
+    "q": "Name someone with over 10 million Instagram followers",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1024,
+      "picks": [
+       "Aaryan Kelvin",
+       "Abdul Ghafoor",
+       "Abdul Rahman Al-Awadhi",
+       "Abdul Somad",
+       "Abdulkarim Al-Hendal Al-Hashemi",
+       "Abhishek Bachchan",
+       "Abhishek Malhan",
+       "Abhishek Sharma",
+       "Abir El Saghir",
+       "AboFlah"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 433,
+      "picks": [
+       "2 Chainz",
+       "21 Savage",
+       "50 Cent",
+       "6ix9ine",
+       "AB de Villiers",
+       "Achraf Hakimi",
+       "Adam Levine",
+       "Adam Sandler",
+       "Adriana Lima",
+       "Aishwarya Rai"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 75,
+      "picks": [
+       "Adele",
+       "Bad Bunny",
+       "Barack Obama",
+       "Bella Hadid",
+       "Beyoncé",
+       "Billie Eilish",
+       "Britney Spears",
+       "Bruno Mars",
+       "Cardi B",
+       "Charli D'Amelio"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Ariana Grande",
+       "Cristiano Ronaldo",
+       "Kim Kardashian",
+       "Kylie Jenner",
+       "Lionel Messi",
+       "MrBeast",
+       "Selena Gomez"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a holiday from anywhere in the world that is celebrated in October, November or December",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3252,
+      "picks": [
+       "14 October Democracy Day",
+       "14 October Revolution",
+       "16 Days of Activism against Gender-based Violence",
+       "3 October Festival (Leiden)",
+       "Abanagan",
+       "Abhidhamma Day",
+       "Abissa",
+       "Abolition of Slavery Day",
+       "Abu Simbel Sun Festival",
+       "Academic Writing Month"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 100,
+      "picks": [
+       "Advent",
+       "All Saints' Day",
+       "All Souls' Day",
+       "Arbor Day",
+       "Black History Month",
+       "Breast Cancer Awareness Month",
+       "Burkina Faso Independence Proclamation Day",
+       "Canadian Remembrance Day",
+       "Canadian Thanksgiving",
+       "Carnival"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Boxing Day",
+       "Columbus Day",
+       "Day of the Dead",
+       "Diwali",
+       "Eid",
+       "Kwanzaa",
+       "Oktoberfest",
+       "Ramadan"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Christmas",
+       "Christmas Eve",
+       "Halloween",
+       "Hanukkah",
+       "New Year's Eve"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a music release type or format (like an album or CD)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 232,
+      "picks": [
+       "10-inch record",
+       "12-inch record",
+       "16 rpm record",
+       "180-gram vinyl",
+       "3-inch vinyl",
+       "33 1/3 rpm",
+       "4-inch vinyl",
+       "4-track cartridge",
+       "45 rpm single",
+       "5-inch record"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 56,
+      "picks": [
+       "8-track",
+       "A cappella version",
+       "Acoustic / unplugged album",
+       "Anniversary edition",
+       "B-side",
+       "Blu-ray",
+       "Bootleg",
+       "Box set",
+       "Cast recording",
+       "Christmas album"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Cassette",
+       "Compilation",
+       "EP",
+       "Live album",
+       "Mixtape",
+       "Music video",
+       "Remix",
+       "Soundtrack",
+       "Streaming"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Album",
+       "CD",
+       "Single"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an animal that is native to South America",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 19078,
+      "picks": [
+       "88 butterfly",
+       "Abakapa rain frog",
+       "Abalone",
+       "Abatira Skipper",
+       "Abauna Skipper",
+       "Abdonides Skipper",
+       "Abitagua Caecilian",
+       "ABOFOA's Humming frog",
+       "Abra Acanacu marsupial frog",
+       "Abra Málaga Andes Frog"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 281,
+      "picks": [
+       "Agouti",
+       "Albacore",
+       "Albatross",
+       "Amazon parrot",
+       "Amazon River Dolphin",
+       "Amazonian Manatee",
+       "American crocodile",
+       "Anchovy",
+       "Andean Bear",
+       "Andean Condor"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 38,
+      "picks": [
+       "Alpaca",
+       "Anaconda",
+       "Ant",
+       "Anteater",
+       "Bat",
+       "Bee",
+       "Beetle",
+       "Boa",
+       "Boa Constrictor",
+       "Butterfly"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Jaguar",
+       "Llama",
+       "Monkey",
+       "Parrot",
+       "Piranha"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a tool used for digging",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 373,
+      "picks": [
+       "4-in-1 bucket",
+       "Air spade",
+       "Airlift dredge",
+       "Almocafre",
+       "Amphibious dredger",
+       "Amphibious excavator",
+       "Angady",
+       "Antler mattock",
+       "Antler pick",
+       "Archaeology trowel"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 40,
+      "picks": [
+       "Aerator",
+       "Auger",
+       "Backhoe",
+       "Beach spade",
+       "Border spade",
+       "Camping trowel",
+       "Cultivator",
+       "Digging bar",
+       "Digging stick",
+       "Dredger"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Bulldozer",
+       "Drill",
+       "Excavator",
+       "Jackhammer",
+       "Spade"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Hoe",
+       "Pickaxe"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a chips or crisps brand",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2603,
+      "picks": [
+       "007",
+       "1 in 6 Snacks",
+       "100% México",
+       "3 Pauly",
+       "3D's",
+       "42 degrés",
+       "4700BC",
+       "5G",
+       "605",
+       "999"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 77,
+      "picks": [
+       "Balaji Wafers",
+       "Bamba",
+       "Barcel",
+       "Bingo",
+       "Bluebird",
+       "Boulder Canyon",
+       "Bugles",
+       "Buldak",
+       "Calbee",
+       "Cape Cod"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Frito-Lay",
+       "Fritos",
+       "Funyuns",
+       "Miss Vickie's",
+       "Ruffles",
+       "SunChips",
+       "Takis",
+       "Tostitos"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Cheetos",
+       "Doritos",
+       "Lay's"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name one of the 1,000 most common first names in the world",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 492,
+      "picks": [
+       "A",
+       "Abdel",
+       "Abdo",
+       "Abdoulaye",
+       "Abdullahi",
+       "Abubakar",
+       "Adama",
+       "Adamu",
+       "Adel",
+       "Agus"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 374,
+      "picks": [
+       "Abbas",
+       "Abdul",
+       "Abdullah",
+       "Abel",
+       "Abraham",
+       "Adrian",
+       "Adriana",
+       "Agnes",
+       "Aida",
+       "Aisha"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 120,
+      "picks": [
+       "Adam",
+       "Ahmad",
+       "Ahmed",
+       "Alex",
+       "Alexander",
+       "Ali",
+       "Alice",
+       "Amanda",
+       "Amy",
+       "Ana"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Daniel",
+       "David",
+       "James",
+       "John",
+       "Maria",
+       "Mary",
+       "Michael",
+       "Robert",
+       "Sarah",
+       "William"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 108,
   "date": "2026-10-31",
   "prompts": [
