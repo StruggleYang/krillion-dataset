@@ -1,4 +1,229 @@
 dive_number,date,prompt_number,prompt,accepted_answers,tier,points,answer
+110,2026-11-02,1,Name a substance the human body produces,,Deep cut,85,"(10Z,13Z,16Z)-docosatrienoic acid"
+110,2026-11-02,1,Name a substance the human body produces,,Deep cut,85,(10Z)-heptadecenoic acid
+110,2026-11-02,1,Name a substance the human body produces,,Deep cut,85,(10Z)-heptadecenoyl-CoA
+110,2026-11-02,1,Name a substance the human body produces,,Deep cut,85,(11R)-HPETE
+110,2026-11-02,1,Name a substance the human body produces,,Deep cut,85,"(11Z,14Z,17Z)-eicosatrienoic acid"
+110,2026-11-02,1,Name a substance the human body produces,,Deep cut,85,"(11Z,14Z,17Z)-eicosatrienoyl-CoA"
+110,2026-11-02,1,Name a substance the human body produces,,Deep cut,85,"(11Z,14Z,17Z)-eicosatrienoylcarnitine"
+110,2026-11-02,1,Name a substance the human body produces,,Deep cut,85,"(11Z,14Z)-eicosadienoyl-CoA"
+110,2026-11-02,1,Name a substance the human body produces,,Deep cut,85,(11Z)-docosenoyl-CoA
+110,2026-11-02,1,Name a substance the human body produces,,Deep cut,85,(11Z)-octadecenoylcarnitine
+110,2026-11-02,1,Name a substance the human body produces,,Rare,60,Acetylcholine
+110,2026-11-02,1,Name a substance the human body produces,,Rare,60,Adenosine triphosphate
+110,2026-11-02,1,Name a substance the human body produces,,Rare,60,Adipocyte
+110,2026-11-02,1,Name a substance the human body produces,,Rare,60,Adrenochrome
+110,2026-11-02,1,Name a substance the human body produces,,Rare,60,Albumin
+110,2026-11-02,1,Name a substance the human body produces,,Rare,60,Amino acids
+110,2026-11-02,1,Name a substance the human body produces,,Rare,60,Ammonia
+110,2026-11-02,1,Name a substance the human body produces,,Rare,60,Amniotic fluid
+110,2026-11-02,1,Name a substance the human body produces,,Rare,60,Amylase
+110,2026-11-02,1,Name a substance the human body produces,,Rare,60,Androgens
+110,2026-11-02,1,Name a substance the human body produces,,Schooler,30,Adrenaline
+110,2026-11-02,1,Name a substance the human body produces,,Schooler,30,Antibodies
+110,2026-11-02,1,Name a substance the human body produces,,Schooler,30,Bile
+110,2026-11-02,1,Name a substance the human body produces,,Schooler,30,Blackheads
+110,2026-11-02,1,Name a substance the human body produces,,Schooler,30,Blood cells
+110,2026-11-02,1,Name a substance the human body produces,,Schooler,30,Bodily waste
+110,2026-11-02,1,Name a substance the human body produces,,Schooler,30,Body hair
+110,2026-11-02,1,Name a substance the human body produces,,Schooler,30,Bone
+110,2026-11-02,1,Name a substance the human body produces,,Schooler,30,Breast milk
+110,2026-11-02,1,Name a substance the human body produces,,Schooler,30,Carbon dioxide
+110,2026-11-02,1,Name a substance the human body produces,,Plankton,10,Blood
+110,2026-11-02,1,Name a substance the human body produces,,Plankton,10,Feces
+110,2026-11-02,1,Name a substance the human body produces,,Plankton,10,Mucus
+110,2026-11-02,1,Name a substance the human body produces,,Plankton,10,Saliva
+110,2026-11-02,1,Name a substance the human body produces,,Plankton,10,Sweat
+110,2026-11-02,1,Name a substance the human body produces,,Plankton,10,Tears
+110,2026-11-02,2,Name a news organization,,Deep cut,85,:24 (Slovakia)
+110,2026-11-02,2,Name a news organization,,Deep cut,85,¡Ahora!
+110,2026-11-02,2,Name a news organization,,Deep cut,85,¡Alarma!
+110,2026-11-02,2,Name a news organization,,Deep cut,85,¡Aquí Está!
+110,2026-11-02,2,Name a news organization,,Deep cut,85,¡Do Not Panic!
+110,2026-11-02,2,Name a news organization,,Deep cut,85,¡Ey Boricua!
+110,2026-11-02,2,Name a news organization,,Deep cut,85,¡Pacifista!
+110,2026-11-02,2,Name a news organization,,Deep cut,85,.ch
+110,2026-11-02,2,Name a news organization,,Deep cut,85,.týždeň
+110,2026-11-02,2,Name a news organization,,Deep cut,85,'alam Al-fan
+110,2026-11-02,2,Name a news organization,,Rare,60,¡Hola!
+110,2026-11-02,2,Name a news organization,,Rare,60,10 News First
+110,2026-11-02,2,Name a news organization,,Rare,60,1010 WINS
+110,2026-11-02,2,Name a news organization,,Rare,60,1440
+110,2026-11-02,2,Name a news organization,,Rare,60,247Sports
+110,2026-11-02,2,Name a news organization,,Rare,60,3 News
+110,2026-11-02,2,Name a news organization,,Rare,60,5 News
+110,2026-11-02,2,Name a news organization,,Rare,60,7 News
+110,2026-11-02,2,Name a news organization,,Rare,60,9to5Mac
+110,2026-11-02,2,Name a news organization,,Rare,60,Aaj Tak
+110,2026-11-02,2,Name a news organization,,Schooler,30,ABC News
+110,2026-11-02,2,Name a news organization,,Schooler,30,Al Jazeera
+110,2026-11-02,2,Name a news organization,,Schooler,30,Associated Press
+110,2026-11-02,2,Name a news organization,,Schooler,30,Bloomberg News
+110,2026-11-02,2,Name a news organization,,Schooler,30,CBS News
+110,2026-11-02,2,Name a news organization,,Schooler,30,CNBC
+110,2026-11-02,2,Name a news organization,,Schooler,30,Google News
+110,2026-11-02,2,Name a news organization,,Schooler,30,HuffPost
+110,2026-11-02,2,Name a news organization,,Schooler,30,Los Angeles Times
+110,2026-11-02,2,Name a news organization,,Schooler,30,MS NOW
+110,2026-11-02,2,Name a news organization,,Plankton,10,BBC News
+110,2026-11-02,2,Name a news organization,,Plankton,10,CNN
+110,2026-11-02,2,Name a news organization,,Plankton,10,Fox News
+110,2026-11-02,3,Name something shaped like a cone,,Deep cut,85,3D printer nozzle tip
+110,2026-11-02,3,Name something shaped like a cone,,Deep cut,85,Abbott's cone
+110,2026-11-02,3,Name something shaped like a cone,,Deep cut,85,Abbreviated cone
+110,2026-11-02,3,Name something shaped like a cone,,Deep cut,85,Absecon Lighthouse
+110,2026-11-02,3,Name something shaped like a cone,,Deep cut,85,Acamarachi
+110,2026-11-02,3,Name something shaped like a cone,,Deep cut,85,Acorn cone
+110,2026-11-02,3,Name something shaped like a cone,,Deep cut,85,Admiral cone
+110,2026-11-02,3,Name something shaped like a cone,,Deep cut,85,Admiralty Head Light
+110,2026-11-02,3,Name something shaped like a cone,,Deep cut,85,Aeroshell
+110,2026-11-02,3,Name something shaped like a cone,,Deep cut,85,Aerospike
+110,2026-11-02,3,Name something shaped like a cone,,Rare,60,A-line skirt
+110,2026-11-02,3,Name something shaped like a cone,,Rare,60,Acorn
+110,2026-11-02,3,Name something shaped like a cone,,Rare,60,Asian conical hat
+110,2026-11-02,3,Name something shaped like a cone,,Rare,60,Bamboo shoot
+110,2026-11-02,3,Name something shaped like a cone,,Rare,60,Banana pepper
+110,2026-11-02,3,Name something shaped like a cone,,Rare,60,Barnacle
+110,2026-11-02,3,Name something shaped like a cone,,Rare,60,Basket coffee filter
+110,2026-11-02,3,Name something shaped like a cone,,Rare,60,Basketball net
+110,2026-11-02,3,Name something shaped like a cone,,Rare,60,Beak
+110,2026-11-02,3,Name something shaped like a cone,,Rare,60,Bongo drums
+110,2026-11-02,3,Name something shaped like a cone,,Schooler,30,Anthill
+110,2026-11-02,3,Name something shaped like a cone,,Schooler,30,Bullet tip
+110,2026-11-02,3,Name something shaped like a cone,,Schooler,30,Carrot
+110,2026-11-02,3,Name something shaped like a cone,,Schooler,30,Christmas tree
+110,2026-11-02,3,Name something shaped like a cone,,Schooler,30,Cone of shame
+110,2026-11-02,3,Name something shaped like a cone,,Schooler,30,Funnel
+110,2026-11-02,3,Name something shaped like a cone,,Schooler,30,Horn
+110,2026-11-02,3,Name something shaped like a cone,,Schooler,30,Icicle
+110,2026-11-02,3,Name something shaped like a cone,,Schooler,30,Mountain
+110,2026-11-02,3,Name something shaped like a cone,,Schooler,30,Nose cone
+110,2026-11-02,3,Name something shaped like a cone,,Plankton,10,Ice cream cone
+110,2026-11-02,3,Name something shaped like a cone,,Plankton,10,Pine cone
+110,2026-11-02,4,"Name a clear, colourless drink",,Deep cut,85,100Plus
+110,2026-11-02,4,"Name a clear, colourless drink",,Deep cut,85,57 Chevy with a White License Plate
+110,2026-11-02,4,"Name a clear, colourless drink",,Deep cut,85,Acerum
+110,2026-11-02,4,"Name a clear, colourless drink",,Deep cut,85,Akpeteshie
+110,2026-11-02,4,"Name a clear, colourless drink",,Deep cut,85,Anesone
+110,2026-11-02,4,"Name a clear, colourless drink",,Deep cut,85,Anís
+110,2026-11-02,4,"Name a clear, colourless drink",,Deep cut,85,Anisado
+110,2026-11-02,4,"Name a clear, colourless drink",,Deep cut,85,Ara
+110,2026-11-02,4,"Name a clear, colourless drink",,Deep cut,85,Aragh bidmeshk
+110,2026-11-02,4,"Name a clear, colourless drink",,Deep cut,85,Aragh nana
+110,2026-11-02,4,"Name a clear, colourless drink",,Rare,60,Absinthe blanche
+110,2026-11-02,4,"Name a clear, colourless drink",,Rare,60,Aguardiente
+110,2026-11-02,4,"Name a clear, colourless drink",,Rare,60,Anisette
+110,2026-11-02,4,"Name a clear, colourless drink",,Rare,60,Aquavit
+110,2026-11-02,4,"Name a clear, colourless drink",,Rare,60,Arak
+110,2026-11-02,4,"Name a clear, colourless drink",,Rare,60,Arrack
+110,2026-11-02,4,"Name a clear, colourless drink",,Rare,60,Baijiu
+110,2026-11-02,4,"Name a clear, colourless drink",,Rare,60,Banana schnapps
+110,2026-11-02,4,"Name a clear, colourless drink",,Rare,60,Cachaça
+110,2026-11-02,4,"Name a clear, colourless drink",,Rare,60,Clear beer
+110,2026-11-02,4,"Name a clear, colourless drink",,Schooler,30,Dry martini
+110,2026-11-02,4,"Name a clear, colourless drink",,Schooler,30,Gin
+110,2026-11-02,4,"Name a clear, colourless drink",,Schooler,30,Gin and tonic
+110,2026-11-02,4,"Name a clear, colourless drink",,Schooler,30,Hard seltzer
+110,2026-11-02,4,"Name a clear, colourless drink",,Schooler,30,Rum
+110,2026-11-02,4,"Name a clear, colourless drink",,Schooler,30,Soju
+110,2026-11-02,4,"Name a clear, colourless drink",,Schooler,30,Tequila
+110,2026-11-02,4,"Name a clear, colourless drink",,Plankton,10,Lemon-lime soda
+110,2026-11-02,4,"Name a clear, colourless drink",,Plankton,10,Vodka
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Deep cut,85,Bosnia and Herzegovina
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Deep cut,85,Marshall Islands
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Rare,60,Bahrain
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Rare,60,Bhutan
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Rare,60,Lesotho
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Rare,60,Liechtenstein
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Rare,60,Lithuania
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Rare,60,North Macedonia
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Schooler,30,Afghanistan
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Schooler,30,Bahamas
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Schooler,30,Bangladesh
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Schooler,30,Chad
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Schooler,30,Czechia
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Schooler,30,Ethiopia
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Schooler,30,Ghana
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Schooler,30,Kazakhstan
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Schooler,30,Netherlands
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Schooler,30,North Korea
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Plankton,10,Chile
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Plankton,10,China
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Plankton,10,Haiti
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Plankton,10,Honduras
+110,2026-11-02,5,"Name a country with the letter H in its name (ignore the word ""the"")",,Plankton,10,Hungary
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Deep cut,85,#Home (2021)
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Deep cut,85,#Lifestories
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Deep cut,85,10 Days Before the Wedding
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Deep cut,85,1000 Waala
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Deep cut,85,102 Minutes That Changed America
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Deep cut,85,120db Dhwani
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Deep cut,85,1959
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Deep cut,85,1968
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Deep cut,85,1971
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Deep cut,85,1997
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Rare,60,12 Angry Men
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Rare,60,12 Monkeys
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Rare,60,12 Years a Slave
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Rare,60,12th Fail
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Rare,60,13th
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Rare,60,1917
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Rare,60,2001: A Space Odyssey
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Rare,60,3 Idiots
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Rare,60,A Beautiful Mind
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Rare,60,A Christmas Carol
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Schooler,30,Avengers: Endgame
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Schooler,30,Avengers: Infinity War
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Schooler,30,Back to the Future
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Schooler,30,Django Unchained
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Schooler,30,Dune
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Schooler,30,Finding Nemo
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Schooler,30,Forrest Gump
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Schooler,30,Gladiator
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Schooler,30,Good Will Hunting
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Schooler,30,GoodFellas
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Plankton,10,Fight Club
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Plankton,10,Inception
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Plankton,10,Interstellar
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Plankton,10,Star Wars: Episode IV - A New Hope
+110,2026-11-02,6,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",,Plankton,10,The Dark Knight
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Deep cut,85,2-step
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Deep cut,85,21st century classical
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Deep cut,85,3 step
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Deep cut,85,432hz
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Deep cut,85,48g
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Deep cut,85,528hz
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Deep cut,85,5th wave emo
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Deep cut,85,8D
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Deep cut,85,aarhus indie
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Deep cut,85,aberdeen indie
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Rare,60,8-bit
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Rare,60,a cappella
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Rare,60,acid house
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Rare,60,acid jazz
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Rare,60,acid rock
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Rare,60,acoustic blues
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Rare,60,acoustic pop
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Rare,60,acoustic rock
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Rare,60,Afro
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Rare,60,afro house
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Schooler,30,Alternative
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Schooler,30,alternative rock
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Schooler,30,blues
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Schooler,30,classic rock
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Schooler,30,classical
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Schooler,30,Dance/Electronic
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Schooler,30,disco
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Schooler,30,drill
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Schooler,30,dubstep
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Schooler,30,EDM
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Plankton,10,country
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Plankton,10,hip hop
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Plankton,10,jazz
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Plankton,10,pop
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Plankton,10,R&B
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Plankton,10,rap
+110,2026-11-02,7,Name a music genre (listed as a genre on Spotify),,Plankton,10,rock
 109,2026-11-01,1,Name someone with over 10 million Instagram followers,,Deep cut,85,Aaryan Kelvin
 109,2026-11-01,1,Name someone with over 10 million Instagram followers,,Deep cut,85,Abdul Ghafoor
 109,2026-11-01,1,Name someone with over 10 million Instagram followers,,Deep cut,85,Abdul Rahman Al-Awadhi

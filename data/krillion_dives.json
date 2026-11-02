@@ -1,5 +1,481 @@
 [
  {
+  "n": 110,
+  "date": "2026-11-02",
+  "prompts": [
+   {
+    "q": "Name a substance the human body produces",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 12046,
+      "picks": [
+       "(10Z,13Z,16Z)-docosatrienoic acid",
+       "(10Z)-heptadecenoic acid",
+       "(10Z)-heptadecenoyl-CoA",
+       "(11R)-HPETE",
+       "(11Z,14Z,17Z)-eicosatrienoic acid",
+       "(11Z,14Z,17Z)-eicosatrienoyl-CoA",
+       "(11Z,14Z,17Z)-eicosatrienoylcarnitine",
+       "(11Z,14Z)-eicosadienoyl-CoA",
+       "(11Z)-docosenoyl-CoA",
+       "(11Z)-octadecenoylcarnitine"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 209,
+      "picks": [
+       "Acetylcholine",
+       "Adenosine triphosphate",
+       "Adipocyte",
+       "Adrenochrome",
+       "Albumin",
+       "Amino acids",
+       "Ammonia",
+       "Amniotic fluid",
+       "Amylase",
+       "Androgens"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 50,
+      "picks": [
+       "Adrenaline",
+       "Antibodies",
+       "Bile",
+       "Blackheads",
+       "Blood cells",
+       "Bodily waste",
+       "Body hair",
+       "Bone",
+       "Breast milk",
+       "Carbon dioxide"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Blood",
+       "Feces",
+       "Mucus",
+       "Saliva",
+       "Sweat",
+       "Tears"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a news organization",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 98863,
+      "picks": [
+       ":24 (Slovakia)",
+       "¡Ahora!",
+       "¡Alarma!",
+       "¡Aquí Está!",
+       "¡Do Not Panic!",
+       "¡Ey Boricua!",
+       "¡Pacifista!",
+       ".ch",
+       ".týždeň",
+       "'alam Al-fan"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 654,
+      "picks": [
+       "¡Hola!",
+       "10 News First",
+       "1010 WINS",
+       "1440",
+       "247Sports",
+       "3 News",
+       "5 News",
+       "7 News",
+       "9to5Mac",
+       "Aaj Tak"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 23,
+      "picks": [
+       "ABC News",
+       "Al Jazeera",
+       "Associated Press",
+       "Bloomberg News",
+       "CBS News",
+       "CNBC",
+       "Google News",
+       "HuffPost",
+       "Los Angeles Times",
+       "MS NOW"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "BBC News",
+       "CNN",
+       "Fox News"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something shaped like a cone",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2071,
+      "picks": [
+       "3D printer nozzle tip",
+       "Abbott's cone",
+       "Abbreviated cone",
+       "Absecon Lighthouse",
+       "Acamarachi",
+       "Acorn cone",
+       "Admiral cone",
+       "Admiralty Head Light",
+       "Aeroshell",
+       "Aerospike"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 159,
+      "picks": [
+       "A-line skirt",
+       "Acorn",
+       "Asian conical hat",
+       "Bamboo shoot",
+       "Banana pepper",
+       "Barnacle",
+       "Basket coffee filter",
+       "Basketball net",
+       "Beak",
+       "Bongo drums"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Anthill",
+       "Bullet tip",
+       "Carrot",
+       "Christmas tree",
+       "Cone of shame",
+       "Funnel",
+       "Horn",
+       "Icicle",
+       "Mountain",
+       "Nose cone"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Ice cream cone",
+       "Pine cone"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a clear, colourless drink",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 187,
+      "picks": [
+       "100Plus",
+       "57 Chevy with a White License Plate",
+       "Acerum",
+       "Akpeteshie",
+       "Anesone",
+       "Anís",
+       "Anisado",
+       "Ara",
+       "Aragh bidmeshk",
+       "Aragh nana"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 62,
+      "picks": [
+       "Absinthe blanche",
+       "Aguardiente",
+       "Anisette",
+       "Aquavit",
+       "Arak",
+       "Arrack",
+       "Baijiu",
+       "Banana schnapps",
+       "Cachaça",
+       "Clear beer"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Dry martini",
+       "Gin",
+       "Gin and tonic",
+       "Hard seltzer",
+       "Rum",
+       "Soju",
+       "Tequila"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Lemon-lime soda",
+       "Vodka"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country with the letter H in its name (ignore the word \"the\")",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3,
+      "picks": [
+       "Bosnia and Herzegovina",
+       "Marshall Islands"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 7,
+      "picks": [
+       "Bahrain",
+       "Bhutan",
+       "Lesotho",
+       "Liechtenstein",
+       "Lithuania",
+       "North Macedonia"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Afghanistan",
+       "Bahamas",
+       "Bangladesh",
+       "Chad",
+       "Czechia",
+       "Ethiopia",
+       "Ghana",
+       "Kazakhstan",
+       "Netherlands",
+       "North Korea"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Chile",
+       "China",
+       "Haiti",
+       "Honduras",
+       "Hungary"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1792,
+      "picks": [
+       "#Home (2021)",
+       "#Lifestories",
+       "10 Days Before the Wedding",
+       "1000 Waala",
+       "102 Minutes That Changed America",
+       "120db Dhwani",
+       "1959",
+       "1968",
+       "1971",
+       "1997"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 206,
+      "picks": [
+       "12 Angry Men",
+       "12 Monkeys",
+       "12 Years a Slave",
+       "12th Fail",
+       "13th",
+       "1917",
+       "2001: A Space Odyssey",
+       "3 Idiots",
+       "A Beautiful Mind",
+       "A Christmas Carol"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 54,
+      "picks": [
+       "Avengers: Endgame",
+       "Avengers: Infinity War",
+       "Back to the Future",
+       "Django Unchained",
+       "Dune",
+       "Finding Nemo",
+       "Forrest Gump",
+       "Gladiator",
+       "Good Will Hunting",
+       "GoodFellas"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Fight Club",
+       "Inception",
+       "Interstellar",
+       "Star Wars: Episode IV - A New Hope",
+       "The Dark Knight"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a music genre (listed as a genre on Spotify)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 5938,
+      "picks": [
+       "2-step",
+       "21st century classical",
+       "3 step",
+       "432hz",
+       "48g",
+       "528hz",
+       "5th wave emo",
+       "8D",
+       "aarhus indie",
+       "aberdeen indie"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 429,
+      "picks": [
+       "8-bit",
+       "a cappella",
+       "acid house",
+       "acid jazz",
+       "acid rock",
+       "acoustic blues",
+       "acoustic pop",
+       "acoustic rock",
+       "Afro",
+       "afro house"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 32,
+      "picks": [
+       "Alternative",
+       "alternative rock",
+       "blues",
+       "classic rock",
+       "classical",
+       "Dance/Electronic",
+       "disco",
+       "drill",
+       "dubstep",
+       "EDM"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "country",
+       "hip hop",
+       "jazz",
+       "pop",
+       "R&B",
+       "rap",
+       "rock"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 109,
   "date": "2026-11-01",
   "prompts": [
