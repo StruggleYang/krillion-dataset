@@ -1,5 +1,510 @@
 [
  {
+  "n": 112,
+  "date": "2026-11-04",
+  "prompts": [
+   {
+    "q": "Name something that's mined from the ground",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1809,
+      "picks": [
+       "Abbey rose",
+       "Aberdeen granite",
+       "Absolute Black",
+       "Absolute White Marble",
+       "Abtswind Sandstone",
+       "Academy Black granite",
+       "Acajou gneiss",
+       "Achroite",
+       "Acquatic Quartzite",
+       "Actinium"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 112,
+      "picks": [
+       "Agate",
+       "Alabaster",
+       "Alexandrite",
+       "Amber",
+       "Andesite",
+       "Anthracite",
+       "Aquamarine",
+       "Arsenic",
+       "Asbestos",
+       "Barium"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 31,
+      "picks": [
+       "Aluminum",
+       "Amethyst",
+       "Clay",
+       "Crude oil",
+       "Crystals",
+       "Dirt",
+       "Emerald",
+       "Flint",
+       "Fossils",
+       "Gemstones"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Coal",
+       "Copper",
+       "Diamond",
+       "Gold"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sea animal that isn't a fish or a bird",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 11601,
+      "picks": [
+       "'coon oyster",
+       "Abalone barleysnail",
+       "Abalone piddock",
+       "Abalone visored shrimp",
+       "Abbott's Cone",
+       "Abbreviated cone",
+       "Aberrant toothshell",
+       "Abyssal crangon",
+       "Abyssal horny sponge",
+       "Abyssal murex"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 178,
+      "picks": [
+       "Abalone",
+       "American crocodile",
+       "American lobster",
+       "Antarctic krill",
+       "Baleen whale",
+       "Beach hopper",
+       "Black coral",
+       "Black mussel",
+       "Black sea cucumber",
+       "Black sea urchin"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 30,
+      "picks": [
+       "Barnacle",
+       "Beluga whale",
+       "Blue whale",
+       "Bottlenose dolphin",
+       "Clam",
+       "Cuttlefish",
+       "Giant squid",
+       "Hermit crab",
+       "Horseshoe crab",
+       "Humpback whale"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Crab",
+       "Dolphin",
+       "Jellyfish",
+       "Killer whale",
+       "Lobster",
+       "Octopus",
+       "Sea turtle",
+       "Seal"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something that's naturally blue",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3716,
+      "picks": [
+       "Aberrant oakblue",
+       "Abyss Pool",
+       "Abyssinian roller",
+       "Acacia blue",
+       "Achernar",
+       "Achilles morpho",
+       "Acmon blue",
+       "Acrab",
+       "Acrux",
+       "Adhara"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 132,
+      "picks": [
+       "Agapanthus",
+       "Aster",
+       "Barn swallow",
+       "Betta",
+       "Bilberry",
+       "Bioluminescence",
+       "Bird of paradise",
+       "Blue agave",
+       "Blue Akoya pearl",
+       "Blue anemone"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Aquamarine",
+       "Blue crab",
+       "Blue eyes",
+       "Bluebell",
+       "Bluebird",
+       "Bruise",
+       "Cobalt",
+       "Earth",
+       "Glacier",
+       "Ice"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Blue jay",
+       "Blue whale",
+       "Blueberries",
+       "Ocean",
+       "Sapphire",
+       "Sea",
+       "Sky"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an item used for eating or serving food (like a plate or spoon)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1899,
+      "picks": [
+       "Abalone shell",
+       "Absinthe fountain",
+       "Absinthe glass",
+       "Absinthe spoon",
+       "Abuqal",
+       "Acetabulum (vinegar cup)",
+       "Achaar dani",
+       "Adaptive cup",
+       "Adaptive utensils",
+       "Aduno koro"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 346,
+      "picks": [
+       "Appetizer plate",
+       "Baby bottle",
+       "Baby bowl",
+       "Baby fork",
+       "Baby spoon",
+       "Bagel",
+       "Baking dish",
+       "Bamboo leaf",
+       "Bamboo steamer",
+       "Banana leaf"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 33,
+      "picks": [
+       "Bottle",
+       "Butter knife",
+       "Chopsticks",
+       "Cup",
+       "Dishes",
+       "Glass",
+       "Hands",
+       "Ice cream cone",
+       "Ice cream scoop",
+       "Ladle"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Bowl",
+       "Fork",
+       "Knife",
+       "Plate"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sci-fi movie (tagged Sci-Fi on IMDb, 1,000+ votes)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3532,
+      "picks": [
+       ".com for Murder",
+       "*Batteries Not Included",
+       "+1",
+       "100 Million BC",
+       "12 to the Moon",
+       "12:01",
+       "1959",
+       "1984 (1956)",
+       "1990: The Bronx Warriors",
+       "2-Headed Shark Attack"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 524,
+      "picks": [
+       "10 Cloverfield Lane",
+       "1984",
+       "20,000 Leagues Under the Sea",
+       "2012",
+       "28 Days Later",
+       "28 Weeks Later",
+       "28 Years Later",
+       "28 Years Later: The Bone Temple",
+       "65",
+       "9"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 84,
+      "picks": [
+       "12 Monkeys",
+       "2001: A Space Odyssey",
+       "A Clockwork Orange",
+       "A Quiet Place",
+       "Aliens",
+       "Ant-Man",
+       "Armageddon",
+       "Arrival",
+       "Avengers: Age of Ultron",
+       "Avengers: Endgame"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 11,
+      "picks": [
+       "Alien",
+       "Avatar",
+       "Back to the Future",
+       "Dune",
+       "E.T. the Extra-Terrestrial",
+       "Inception",
+       "Interstellar",
+       "Star Trek",
+       "Star Wars: Episode IV - A New Hope",
+       "The Matrix"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a city with 1–10 million people (within city limits)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 534,
+      "picks": [
+       "Abidjan",
+       "Adana",
+       "Aguascalientes",
+       "Ahvaz",
+       "Aligarh",
+       "Ankang",
+       "Anqing",
+       "Anshan",
+       "Anshun",
+       "Antalya"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 116,
+      "picks": [
+       "Abu Dhabi",
+       "Abuja",
+       "Accra",
+       "Addis Ababa",
+       "Agra",
+       "Ahmedabad",
+       "Aleppo",
+       "Alexandria",
+       "Algiers",
+       "Almaty"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 40,
+      "picks": [
+       "Austin",
+       "Bangkok",
+       "Barcelona",
+       "Birmingham",
+       "Brussels",
+       "Budapest",
+       "Buenos Aires",
+       "Cairo",
+       "Calgary",
+       "Cape Town"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Berlin",
+       "Chicago",
+       "London",
+       "Los Angeles",
+       "New York City",
+       "Paris",
+       "Rome"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a dessert that's made out of dough",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 4832,
+      "picks": [
+       "'Nfocacatti",
+       "'Nzuddi",
+       "'Nzullini",
+       "Aachener Printen",
+       "Aachtchen",
+       "Aardbeienslof",
+       "Aardbeienvlaai",
+       "Abambar",
+       "Abanico",
+       "Abar khabo"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 329,
+      "picks": [
+       "Alfajor",
+       "Almond cookie",
+       "Almond croissant",
+       "Amaretti",
+       "Angel wings",
+       "Animal cracker",
+       "Anise cookie",
+       "Anpan",
+       "Anzac biscuit",
+       "Apple cider doughnut"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 42,
+      "picks": [
+       "Apple fritter",
+       "Apple pie",
+       "Baklava",
+       "Bear claw",
+       "Beignet",
+       "Boston cream doughnut",
+       "Cannoli",
+       "Cherry pie",
+       "Chocolate chip cookie",
+       "Chocolate cookie"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Cinnamon roll",
+       "Cookie",
+       "Doughnut",
+       "Pie"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 110,
   "date": "2026-11-02",
   "prompts": [
