@@ -1,5 +1,471 @@
 [
  {
+  "n": 114,
+  "date": "2026-11-06",
+  "prompts": [
+   {
+    "q": "Name a fruit or vegetable that is red on the inside.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 122,
+      "picks": [
+       "African peach",
+       "Arctic raspberry",
+       "Atherton raspberry",
+       "Autumn olive",
+       "Benikururi daikon",
+       "Bilberry cactus fruit",
+       "Blood fruit",
+       "Blood lime",
+       "Blood mandarin",
+       "Blood nectarine"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 14,
+      "picks": [
+       "Barberry",
+       "Blood orange",
+       "Boysenberry",
+       "Fig",
+       "Goji berry",
+       "Lingonberry",
+       "Papaya",
+       "Pomelo",
+       "Prickly pear",
+       "Radicchio"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Beet",
+       "Cherry",
+       "Chili",
+       "Dragon fruit",
+       "Grapefruit",
+       "Guava",
+       "Plum",
+       "Pomegranate",
+       "Raspberry"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Strawberry",
+       "Tomato"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a setting you can change in a video game’s settings.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1323,
+      "picks": [
+       "24-hour clock",
+       "360 dashing",
+       "A+B smash",
+       "Ability cooldown display",
+       "Ability mini-cam",
+       "Accelerated clock",
+       "Accessibility audio cues volume",
+       "Accessibility presets",
+       "Achievement notifications",
+       "Action bars"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 209,
+      "picks": [
+       "Accessibility",
+       "Account",
+       "Adaptive triggers",
+       "ADS sensitivity",
+       "Advanced graphics",
+       "AI difficulty",
+       "All chat",
+       "Allow cheats",
+       "Always run",
+       "Anonymous mode"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 35,
+      "picks": [
+       "Aim assist",
+       "Audio",
+       "Camera",
+       "Camera sensitivity",
+       "Controller sensitivity",
+       "Controls",
+       "Difficulty",
+       "Display",
+       "Display mode",
+       "Field of view"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Brightness",
+       "Sensitivity"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country with \"and\" in its name",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2,
+      "picks": [
+       "Marshall Islands"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 9,
+      "picks": [
+       "Andorra",
+       "Antigua and Barbuda",
+       "Bosnia and Herzegovina",
+       "Northern Ireland",
+       "Saint Kitts and Nevis",
+       "Saint Vincent and the Grenadines",
+       "São Tomé and Príncipe",
+       "Trinidad and Tobago"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 5,
+      "picks": [
+       "England",
+       "Netherlands",
+       "New Zealand",
+       "Scotland"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Finland",
+       "Iceland",
+       "Ireland",
+       "Poland"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something players aim at to score in a sport (like a hoop).",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 171,
+      "picks": [
+       "12 ring",
+       "20 hole",
+       "200 hole",
+       "A-zone",
+       "Accuracy frame",
+       "Ais",
+       "Alka",
+       "Annie's room",
+       "Asyk",
+       "Back zone (oină)"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 18,
+      "picks": [
+       "Backboard square",
+       "Bottom corner",
+       "Boundary",
+       "Corner pocket",
+       "Cornhole board",
+       "Croquet hoop",
+       "End line",
+       "Far post",
+       "Flagstick",
+       "Goal line"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Backboard",
+       "Bullseye",
+       "Crossbar",
+       "Dartboard",
+       "End zone",
+       "Goalposts",
+       "Opponent",
+       "Pins",
+       "Pocket"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Goal",
+       "Hole"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a high-protein food ingredient—at least 8g of protein per 100g.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3052,
+      "picks": [
+       "Aardvark",
+       "Aarewasser",
+       "Abaza",
+       "Abbaye de Belloc",
+       "Abbaye de Belval",
+       "Abbaye de Citeaux",
+       "Abbaye de Tamié",
+       "Abbaye de Timadeuc",
+       "Abbaye du Mont des Cats",
+       "Abertam"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 408,
+      "picks": [
+       "Abalone",
+       "Albacore",
+       "Alligator",
+       "Almond butter",
+       "Almond flour",
+       "Almond paste",
+       "Alpaca",
+       "American cheese",
+       "Anchovy",
+       "Andouille"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 42,
+      "picks": [
+       "Almonds",
+       "Bacon",
+       "Beans",
+       "Black beans",
+       "Bologna",
+       "Cheddar",
+       "Cheese",
+       "Clam",
+       "Cod",
+       "Cottage cheese"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Beef",
+       "Chicken"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a way a person can feel, emotionally or physically (one word only)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1008,
+      "picks": [
+       "Abased",
+       "Abashed",
+       "Abhorrence",
+       "Abject",
+       "Ablaze",
+       "Abnormal",
+       "Absolved",
+       "Absorbed",
+       "Abstracted",
+       "Accepting"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 784,
+      "picks": [
+       "Abandoned",
+       "Absentminded",
+       "Abused",
+       "Accepted",
+       "Accomplished",
+       "Achy",
+       "Addicted",
+       "Admired",
+       "Admiring",
+       "Adorable"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 80,
+      "picks": [
+       "Alone",
+       "Annoyed",
+       "Anxious",
+       "Ashamed",
+       "Awake",
+       "Awkward",
+       "Bad",
+       "Bored",
+       "Calm",
+       "Cheerful"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Angry",
+       "Cold",
+       "Happy",
+       "Hot",
+       "Hungry",
+       "Sad",
+       "Scared"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something people wear that is designed for protection (everyday clothing doesn’t count)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1112,
+      "picks": [
+       "Abdominal binder",
+       "Abracadabra amulet",
+       "Abrasion-resistant gloves",
+       "Abrasive blasting suit",
+       "Aero helmet",
+       "Aetites",
+       "Agnus Dei",
+       "Ailette",
+       "Airbag helmet",
+       "Airbag vest"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 241,
+      "picks": [
+       "Ace bandage",
+       "Airsoft goggles",
+       "Airsoft mask",
+       "Amulet",
+       "Ankle brace",
+       "Apron",
+       "Arm guard",
+       "Athletic cup",
+       "Athletic tape",
+       "Aviator goggles"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Bike helmet",
+       "Boxing gloves",
+       "Bulletproof vest",
+       "Earplugs",
+       "Elbow pads",
+       "Football helmet",
+       "Gas mask",
+       "Hard hat",
+       "Hazmat suit",
+       "Knee pads"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Armor",
+       "Gloves",
+       "Goggles",
+       "Helmet",
+       "Mask"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 113,
   "date": "2026-11-05",
   "prompts": [
