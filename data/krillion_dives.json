@@ -1,5 +1,488 @@
 [
  {
+  "n": 115,
+  "date": "2026-11-07",
+  "prompts": [
+   {
+    "q": "Name a food with a filling inside.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3930,
+      "picks": [
+       "'Shroom Burger",
+       "10 Won bread",
+       "5 Star",
+       "5th Avenue",
+       "A-gei",
+       "Abba-Zaba",
+       "Aborrajado",
+       "Acarajé",
+       "Achma",
+       "Achojcha rellena"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 483,
+      "picks": [
+       "100 Grand",
+       "3 Musketeers",
+       "After Eight",
+       "Alfajor",
+       "Almond croissant",
+       "Almond Joy",
+       "Aloo paratha",
+       "Anpan",
+       "Ants on a log",
+       "Apple strudel"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 111,
+      "picks": [
+       "Almond pie",
+       "Apple butter pie",
+       "Apple pie",
+       "Apricot pie",
+       "Banana Caramel Pie",
+       "Banana pie",
+       "Bao",
+       "Blackberry pie",
+       "Blood orange pie",
+       "Blueberry pie"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Burrito",
+       "Dumpling",
+       "Pie"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an animated TV show that isn't meant for kids (no anime).",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1600,
+      "picks": [
+       "#1 Happy Family USA",
+       "0 Hao Sushe",
+       "1000 złych uczynków",
+       "12 oz. Mouse",
+       "17776",
+       "2 Lizards",
+       "2 Nuts and a Richard!",
+       "24: Day Zero",
+       "2DTV",
+       "3-South"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 113,
+      "picks": [
+       "Adventure Time: Fionna & Cake",
+       "Æon Flux",
+       "Aqua Teen Hunger Force",
+       "Asdfmovie",
+       "Batman: Caped Crusader",
+       "Battle for Dream Island",
+       "Better Call Saul Presents: Slippin' Jimmy",
+       "Black Dynamite",
+       "Blue Eye Samurai",
+       "Brickleberry"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "American Dad!",
+       "Arcane",
+       "Archer",
+       "Beavis and Butt-Head",
+       "Big Mouth",
+       "Bob's Burgers",
+       "BoJack Horseman",
+       "Futurama",
+       "Hazbin Hotel",
+       "Invincible"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Family Guy",
+       "Rick and Morty",
+       "South Park"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country bigger than the UK but smaller than Egypt, by area.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 11,
+      "picks": [
+       "Burkina Faso",
+       "Central African Republic",
+       "Gabon",
+       "Guinea",
+       "Ivory Coast",
+       "Mozambique",
+       "Oman",
+       "Republic of the Congo",
+       "Turkmenistan",
+       "Yemen"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 17,
+      "picks": [
+       "Afghanistan",
+       "Botswana",
+       "Ecuador",
+       "Malaysia",
+       "Myanmar",
+       "Namibia",
+       "New Zealand",
+       "Nigeria",
+       "Papua New Guinea",
+       "Paraguay"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 16,
+      "picks": [
+       "Chile",
+       "Finland",
+       "Iraq",
+       "Italy",
+       "Japan",
+       "Kenya",
+       "Madagascar",
+       "Morocco",
+       "Norway",
+       "Pakistan"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "France",
+       "Germany"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a cardio exercise.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 374,
+      "picks": [
+       "10 Rounds",
+       "20-20 Cardio & Strength",
+       "305 Fitness",
+       "5BX",
+       "9Round",
+       "A-skip",
+       "Adaptive Motion Trainer",
+       "Adventure racing",
+       "Aerobic gymnastics",
+       "Aeroplane arms"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 184,
+      "picks": [
+       "30 Day Shred",
+       "7 Minute Workout",
+       "Afro dance",
+       "Agility ladder drills",
+       "Air bike",
+       "Air walker",
+       "AMRAP",
+       "Aqua aerobics",
+       "Aqua jogging",
+       "Arm bike"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 63,
+      "picks": [
+       "Aerobics",
+       "American football",
+       "Badminton",
+       "Basketball",
+       "Boxing",
+       "Burpee",
+       "Canoeing",
+       "Circuit training",
+       "Cricket",
+       "Dancing"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Cycling",
+       "Jogging",
+       "Running",
+       "Swimming"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a song released in 2025 or 2026 with over 10 million Spotify streams.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 7824,
+      "picks": [
+       "¡Como no!",
+       "¿Cuál estrés?",
+       "¿Quién te dijo?",
+       "#Tetas",
+       "#voyuitwaaien",
+       "+ Te Vale",
+       "+49",
+       "+82 Pressin'",
+       "+971",
+       "$ex Appeal"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 883,
+      "picks": [
+       "1-800",
+       "111",
+       "15 Minutes",
+       "2 Hard 4 The Radio",
+       "2.0",
+       "2+2",
+       "20 Cigarettes",
+       "2024",
+       "23",
+       "3"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 78,
+      "picks": [
+       "12 to 12",
+       "4 Raws",
+       "Abracadabra",
+       "Ain't In LA",
+       "Anxiety",
+       "Azizam",
+       "Babydoll",
+       "Baile Inolvidable",
+       "Bby Wow",
+       "Boston"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "DtMF",
+       "Golden",
+       "Man I Need",
+       "Manchild",
+       "Ordinary"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a red sauce, dip or condiment.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 552,
+      "picks": [
+       "Achilles Heat",
+       "Achiote paste",
+       "Ah-So sauce",
+       "Ají panca paste",
+       "Ajika",
+       "Akabare chili paste",
+       "Alabama Hot Sauce",
+       "Alabama Sunshine",
+       "Alchemy Peppers",
+       "Alla Norma sauce"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 107,
+      "picks": [
+       "Adobo sauce",
+       "Ají",
+       "Ajvar",
+       "Amatriciana",
+       "Arby's sauce",
+       "Arrabbiata",
+       "Banana ketchup",
+       "Beet hummus",
+       "Birria sauce",
+       "Bruschetta topping"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 15,
+      "picks": [
+       "BBQ sauce",
+       "Bolognese",
+       "Buffalo sauce",
+       "Chili oil",
+       "Chili sauce",
+       "Cocktail sauce",
+       "Cranberry sauce",
+       "Frank's RedHot",
+       "Pasta sauce",
+       "Pico de gallo"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Hot sauce",
+       "Ketchup",
+       "Marinara",
+       "Salsa"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an app or website where you book things (like Expedia for travel).",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 8052,
+      "picks": [
+       "01Argentina",
+       "1 Hotels",
+       "1-800-DENTIST",
+       "1001 Tur",
+       "101 Tickets",
+       "109 Cinemas",
+       "10th Mountain Division Huts",
+       "10to8",
+       "12 Knots",
+       "12306"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 173,
+      "picks": [
+       "AAA Travel",
+       "Accor",
+       "Aer Lingus",
+       "Agoda",
+       "Air Canada",
+       "Air France",
+       "Air India",
+       "Air New Zealand",
+       "AirAsia",
+       "Alamo"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Google Flights",
+       "Hotels.com",
+       "Kayak",
+       "OpenTable",
+       "Skyscanner",
+       "Trivago",
+       "Uber"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Airbnb",
+       "Booking.com",
+       "Expedia",
+       "Ticketmaster"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 114,
   "date": "2026-11-06",
   "prompts": [
