@@ -1,5 +1,496 @@
 [
  {
+  "n": 116,
+  "date": "2026-11-08",
+  "prompts": [
+   {
+    "q": "Name a recurring household bill",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 227,
+      "picks": [
+       "Accident insurance",
+       "Accidental damage cover",
+       "Accidental death insurance",
+       "Accountant fees",
+       "Adult day care",
+       "Air filter subscription",
+       "Aircraft insurance",
+       "Airport lounge or travel membership",
+       "Alimony",
+       "Allotment rent"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 107,
+      "picks": [
+       "After-school care",
+       "Alarm monitoring",
+       "Antivirus subscription",
+       "Audiobook subscription",
+       "Babysitter",
+       "Bank fees",
+       "Buy now pay later",
+       "Car payment",
+       "Car registration",
+       "Car wash membership"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 17,
+      "picks": [
+       "Cable TV",
+       "Car insurance",
+       "Credit card",
+       "Fuel",
+       "Groceries",
+       "Gym membership",
+       "Health insurance",
+       "Home insurance",
+       "Insurance",
+       "Medical bills"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Cell phone",
+       "Electricity",
+       "Gas",
+       "Internet",
+       "Rent"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an animal that stings",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 6460,
+      "picks": [
+       "Abbas Cone",
+       "Abbott's Cone",
+       "Abbreviated cone",
+       "Aberrant Cellophane Bee",
+       "Abert's thread-waisted wasp",
+       "Abrolhos Cone",
+       "Abrupt Digger Bee",
+       "Abrupt Leather-Coral",
+       "Abundantly Punctured Sweat Bee",
+       "Acacia ant"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 201,
+      "picks": [
+       "African Honeybee",
+       "Africanized bee",
+       "American bumble bee",
+       "Arabian deathstalker",
+       "Arizona bark scorpion",
+       "Arizona Carpenter Bee",
+       "Asian honey bee",
+       "Asian hornet",
+       "Asian mud dauber",
+       "Auger shell"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Ant",
+       "Box jellyfish",
+       "Bullet ant",
+       "Bumblebee",
+       "Fire ant",
+       "Honey bee",
+       "Sea urchin"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Bee",
+       "Hornet",
+       "Jellyfish",
+       "Scorpion",
+       "Stingray"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a living bird bigger than a chicken",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 645,
+      "picks": [
+       "Abbott's Booby",
+       "Abdim's Stork",
+       "Abyssinian Ground-hornbill",
+       "Adjutant",
+       "African Cuckoo-Hawk",
+       "African Darter",
+       "African Grass Owl",
+       "African Hawk-Eagle",
+       "African Houbara",
+       "African Marsh Harrier"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 138,
+      "picks": [
+       "Adelie Penguin",
+       "African Fish-eagle",
+       "African goose",
+       "African Harrier-Hawk",
+       "African Penguin",
+       "American Flamingo",
+       "American Goshawk",
+       "American White Pelican",
+       "Andean Condor",
+       "Anhinga"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 22,
+      "picks": [
+       "Albatross",
+       "American Crow",
+       "Bald Eagle",
+       "Canada Goose",
+       "Cassowary",
+       "Condor",
+       "Crane",
+       "Emperor Penguin",
+       "Falcon",
+       "Flamingo"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Eagle",
+       "Emu",
+       "Ostrich",
+       "Peacock",
+       "Swan"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a place or landmark with Great or Grand in its name (like the Grand Canyon)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 22246,
+      "picks": [
+       "1–11 Great North Road",
+       "1–11 Great Western Terrace",
+       "109 Grand Street",
+       "1100 Grand Concourse",
+       "117 and 119 Grand Avenue South",
+       "125 Grand River Avenue",
+       "13 Coins Airport Grand Resort",
+       "13–17 Great North Road",
+       "137 Grand Avenue South",
+       "138th Street–Grand Concourse station"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 275,
+      "picks": [
+       "African Great Lakes",
+       "Amway Grand Plaza",
+       "Arroyo Grande",
+       "Badaling Great Wall",
+       "Beijing-Hangzhou Grand Canal",
+       "Boca Grande",
+       "California's Great America",
+       "Campo Grande",
+       "Casa Grande",
+       "Disney's Grand Californian Hotel & Spa"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Grand Central Terminal",
+       "Grand Rapids",
+       "Great Britain",
+       "Great Lake",
+       "Great Plains",
+       "Great Pyramid of Giza",
+       "Great Salt Lake"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Grand Canyon",
+       "Great Barrier Reef",
+       "Great Lakes"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name any item in Minecraft (older versions count too)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1869,
+      "picks": [
+       "3D",
+       "A Very Fine Item",
+       "Abandoned Camp Map",
+       "Acacia Boat",
+       "Acacia Boat with Chest",
+       "Acacia Button",
+       "Acacia Door",
+       "Acacia Fence",
+       "Acacia Fence Gate",
+       "Acacia Hanging Sign"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 454,
+      "picks": [
+       "Acacia Log",
+       "Acacia Planks",
+       "Acacia Wood",
+       "Amethyst Shard",
+       "Ancient Debris",
+       "Andesite",
+       "Anvil",
+       "Armor Stand",
+       "Awkward Potion",
+       "Baked Potato"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 80,
+      "picks": [
+       "Apple",
+       "Arrow",
+       "Bedrock",
+       "Block of Diamond",
+       "Bone",
+       "Bow",
+       "Bread",
+       "Bucket",
+       "Cake",
+       "Carrot"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Crafting Table",
+       "Diamond",
+       "Diamond Pickaxe",
+       "Diamond Sword",
+       "Dirt",
+       "Grass Block",
+       "Oak Log",
+       "Stone",
+       "TNT"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something you empty regularly at home",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 196,
+      "picks": [
+       "AC drip pan",
+       "Air compressor tank",
+       "Aquarium filter",
+       "Ash bucket",
+       "Ash pan",
+       "Ash pit cleanout",
+       "Baby bath",
+       "Bath bucket",
+       "Bath toys",
+       "Battery recycling box"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 76,
+      "picks": [
+       "Air fryer",
+       "Ashtray",
+       "Backpack",
+       "Bathroom bin",
+       "Bathtub",
+       "Bedpan",
+       "Bird cage tray",
+       "Bird feeder",
+       "Bladder",
+       "Bong"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 12,
+      "picks": [
+       "Bowels",
+       "Coffee maker",
+       "Compost bin",
+       "Dehumidifier",
+       "Dryer",
+       "Laundry hamper",
+       "Mailbox",
+       "Pockets",
+       "Refrigerator",
+       "Sink"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Dishwasher",
+       "Litter box",
+       "Recycling bin"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a method of advertising",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 583,
+      "picks": [
+       "3D pavement art ad",
+       "ABEMA ads",
+       "Addressable TV advertising",
+       "Adopt-a-highway sponsorship",
+       "Ads on cows",
+       "Advergame",
+       "Advertiser-funded programming",
+       "Advertising column",
+       "Advertising comic",
+       "Advertising film"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 192,
+      "picks": [
+       "Advertising circular",
+       "Aerial advertising",
+       "Affiliate marketing",
+       "Airport advertising",
+       "Amazon Ads",
+       "Amazon Prime Video ads",
+       "AR filter",
+       "Audio streaming ad",
+       "Bait-and-switch",
+       "Bandwagon advertising"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 35,
+      "picks": [
+       "Aerial banner",
+       "Banner",
+       "Banner ad",
+       "Brochure",
+       "Bus advertising",
+       "Business card",
+       "Celebrity endorsement",
+       "Cinema advertising",
+       "Cold calling",
+       "Direct mail"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Billboard",
+       "Flyer",
+       "Newspaper ad",
+       "Radio ad",
+       "Social media ads",
+       "TV commercial"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 115,
   "date": "2026-11-07",
   "prompts": [
