@@ -1,5 +1,486 @@
 [
  {
+  "n": 117,
+  "date": "2026-11-09",
+  "prompts": [
+   {
+    "q": "Name a podcast (1K+ ratings on Spotify)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 8221,
+      "picks": [
+       "¡Con amor, carajo!",
+       "¡Menudo Cuadro!",
+       "¡Nadie Me Preguntó!",
+       "¡Qué Spooky! Podcast",
+       "¡Qué visaje la vida!",
+       "¿Cómo Están Los Weones?",
+       "¿Como pooor?",
+       "¿estás?",
+       "¿Qué Fue De Ellos?",
+       "¿Qué Haría Jesús?"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 817,
+      "picks": [
+       "10% Happier with Dan Harris",
+       "1619",
+       "2 Bears, 1 Cave with Tom Segura & Bert Kreischer",
+       "20/20",
+       "32 Thoughts: The Podcast",
+       "36 Questions – The Podcast Musical",
+       "48 Hours",
+       "5-4",
+       "6 Minute English",
+       "60 Songs That Explain the '90s"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 12,
+      "picks": [
+       "anything goes with emma chamberlain",
+       "Crime Junkie",
+       "Huberman Lab",
+       "Lex Fridman Podcast",
+       "Morbid",
+       "MrBallen Podcast: Strange, Dark & Mysterious Stories",
+       "New Heights",
+       "Office Ladies",
+       "Rotten Mango",
+       "SmartLess"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Call Her Daddy"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a villain from Star Wars, DC, or Lord of the Rings",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 25861,
+      "picks": [
+       "\"Blue\" Imcrix",
+       "\"Carbomb\" Carmine",
+       "\"Creeper\" Jackson",
+       "\"Crime Brain\" Doone",
+       "\"Deathfire\"",
+       "\"Deathrain\"",
+       "\"Grudge\"",
+       "\"Knuckles\" Farrelli",
+       "\"Nightfall\"",
+       "\"Null\""
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 270,
+      "picks": [
+       "501st Legion",
+       "Adar",
+       "Alice",
+       "Amanda Waller",
+       "Amazo",
+       "Ares",
+       "Arkham Knight",
+       "Asajj Ventress",
+       "Atrocitus",
+       "Azog"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 28,
+      "picks": [
+       "Bane",
+       "Battle Droids",
+       "Black Adam",
+       "Boba Fett",
+       "Catwoman",
+       "Clayface",
+       "Count Dooku",
+       "Darth Maul",
+       "Galactic Empire",
+       "General Grievous"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Darth Vader",
+       "Emperor Palpatine",
+       "Joker",
+       "Lex Luthor"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a part of the human body below the waist",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2450,
+      "picks": [
+       "Abdominal branch of superficial external pudendal artery",
+       "Abdominal ostium of fallopian tube",
+       "Abductor digiti minimi (foot)",
+       "Abductor hallucis",
+       "Abductor ossis metatarsi quinti",
+       "Accessory deep fibular nerve",
+       "Accessory nail of the fifth toe",
+       "Accessory navicular",
+       "Accessory obturator artery",
+       "Accessory obturator nerve"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 151,
+      "picks": [
+       "Acetabulum",
+       "Adductors",
+       "Anal canal",
+       "Anal glands",
+       "Anal sphincters",
+       "Ankle ligaments",
+       "Anterior talofibular ligament",
+       "Back of the ankle",
+       "Back of the thigh",
+       "Biceps femoris"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 53,
+      "picks": [
+       "Achilles tendon",
+       "Anterior cruciate ligament",
+       "Anus",
+       "Appendix",
+       "Arch",
+       "Ball of the foot",
+       "Big toe",
+       "Big toenail",
+       "Bladder",
+       "Calf"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Ankle",
+       "Buttocks",
+       "Foot",
+       "Knee",
+       "Leg"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a language with more than 10 million total speakers",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 62,
+      "picks": [
+       "Akan",
+       "Amharic",
+       "Assamese",
+       "Azerbaijani",
+       "Balochi",
+       "Bambara",
+       "Banjar",
+       "Berber",
+       "Bhili",
+       "Bhojpuri"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 38,
+      "picks": [
+       "Afrikaans",
+       "Bengali",
+       "Burmese",
+       "Catalan",
+       "Czech",
+       "Gujarati",
+       "Haitian Creole",
+       "Hebrew",
+       "Hungarian",
+       "Igbo"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 12,
+      "picks": [
+       "Cantonese",
+       "Dutch",
+       "Greek",
+       "Italian",
+       "Korean",
+       "Polish",
+       "Swahili",
+       "Swedish",
+       "Tagalog",
+       "Thai"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Arabic",
+       "English",
+       "French",
+       "German",
+       "Hindi",
+       "Japanese",
+       "Mandarin",
+       "Portuguese",
+       "Russian"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an animal that eats bugs (documented regular part of diet)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 40719,
+      "picks": [
+       "15-spotted Money Spider",
+       "Aalbu's Cave Pseudoscorpion",
+       "Aaron Bauer's Gecko",
+       "Aaron Bauer's House Gecko",
+       "Aba",
+       "Aba Horseshoe Bat",
+       "Aba Roundleaf Bat",
+       "Abakapa Rain Frog",
+       "Abandoned-web Orb-weaver",
+       "Abbott's Anglehead Lizard"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 428,
+      "picks": [
+       "Aardwolf",
+       "African bullfrog",
+       "African Chameleon",
+       "African fat-tailed gecko",
+       "African mantis",
+       "African Six-eyed Sand Spider",
+       "Alligator lizard",
+       "American alligator",
+       "American Black Bear",
+       "American Bullfrog"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 58,
+      "picks": [
+       "Aardvark",
+       "Ant",
+       "Armadillo",
+       "Axolotl",
+       "Bass",
+       "Bear",
+       "Bearded Dragon",
+       "Black widow",
+       "Blue Jay",
+       "Brown Recluse"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Anteater",
+       "Bat",
+       "Bird",
+       "Frog",
+       "Lizard"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a toy brand",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 7519,
+      "picks": [
+       ".hack//Enemy",
+       "007 Spy Cards",
+       "1 Toy",
+       "100% Soft",
+       "1001MOONS",
+       "12 Squared",
+       "13 Dead End Drive",
+       "2-XL",
+       "20Q",
+       "24: Trading Card Game"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 361,
+      "picks": [
+       "Action Man",
+       "Activision",
+       "Air Hogs",
+       "Airfix",
+       "amiibo",
+       "Angry Birds",
+       "Anko",
+       "Ants in the Pants",
+       "Apples to Apples",
+       "Avengers"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 60,
+      "picks": [
+       "American Girl",
+       "Beanie Babies",
+       "Beyblade",
+       "Bluey",
+       "Bratz",
+       "Build-A-Bear Workshop",
+       "Care Bears",
+       "Cars",
+       "Crayola",
+       "DC"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Barbie",
+       "Hot Wheels",
+       "LEGO",
+       "Nerf"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country with \"in\" in its name",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 6,
+      "picks": [
+       "Burkina Faso",
+       "Dominica",
+       "Equatorial Guinea",
+       "Guinea-Bissau",
+       "Saint Lucia"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 14,
+      "picks": [
+       "Bahrain",
+       "Benin",
+       "Bosnia and Herzegovina",
+       "Dominican Republic",
+       "Guinea",
+       "Liechtenstein",
+       "Papua New Guinea",
+       "Saint Kitts and Nevis",
+       "San Marino",
+       "São Tomé and Príncipe"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 4,
+      "picks": [
+       "Argentina",
+       "Philippines",
+       "Singapore"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "China",
+       "Finland",
+       "India",
+       "Indonesia"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 116,
   "date": "2026-11-08",
   "prompts": [
