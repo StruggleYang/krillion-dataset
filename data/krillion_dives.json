@@ -1,5 +1,495 @@
 [
  {
+  "n": 118,
+  "date": "2026-11-10",
+  "prompts": [
+   {
+    "q": "Name a Disney Channel, Nickelodeon or Cartoon Network show",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2551,
+      "picks": [
+       "¡Golpea duro, Hara!",
+       ".hack//Legend of the Twilight",
+       ".hack//Roots",
+       ".hack//Sign",
+       "#WAITT",
+       "10 Count",
+       "100 Deeds for Eddie McDowd",
+       "100 Things to Do Before High School",
+       "101 Dalmatian Street",
+       "101 Dalmatians: The Series"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 279,
+      "picks": [
+       "6teen",
+       "A Pup Named Scooby-Doo",
+       "Aaahh!!! Real Monsters",
+       "Aladdin",
+       "All Grown Up!",
+       "All That",
+       "Alvin and the Chipmunks",
+       "Alvinnn!!! and the Chipmunks",
+       "American Dad!",
+       "American Dragon: Jake Long"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 52,
+      "picks": [
+       "A.N.T. Farm",
+       "Austin & Ally",
+       "Avatar: The Last Airbender",
+       "Ben",
+       "30 Big Time Rush",
+       "Chowder",
+       "Codename: Kids Next Door",
+       "Courage the Cowardly Dog",
+       "Danny Phantom",
+       "Dexter's Laboratory"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Adventure Time",
+       "Hannah Montana",
+       "iCarly",
+       "Phineas and Ferb",
+       "SpongeBob SquarePants",
+       "The Amazing World of Gumball",
+       "The Fairly OddParents"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a branch or denomination of Christianity, Islam, Hinduism, Judaism, or Buddhism",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 4381,
+      "picks": [
+       "Aaiyyanism",
+       "Aaron Martin group",
+       "Aashish Presbyterian Free Church in Nepal",
+       "Abajiri",
+       "Abangan",
+       "Abayudaya",
+       "Abecedarians",
+       "Abelians",
+       "Abhayagiri Vihara",
+       "Abkhazian Orthodox Church"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 127,
+      "picks": [
+       "Advaita Vedanta",
+       "Adventism",
+       "African Methodist Episcopal Church",
+       "Aghori",
+       "Ahmadiyya",
+       "Alawites",
+       "Alevism",
+       "American Baptist Churches USA",
+       "Amish",
+       "Anabaptism"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Anglicanism",
+       "Eastern Orthodox Church",
+       "Evangelicalism",
+       "Jehovah's Witnesses",
+       "Lutheranism",
+       "Methodism",
+       "Orthodox Judaism",
+       "Presbyterianism",
+       "Shia Islam",
+       "Sunni Islam"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Baptist",
+       "Catholic Church"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sports team whose logo contains red (NFL, NBA, MLB, NHL, IPL, Premier League, La Liga, Bundesliga, Serie A, Ligue 1, or UEFA Champions League)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 41,
+      "picks": [
+       "1. FC Köln",
+       "Bologna",
+       "Cagliari",
+       "Celta Vigo",
+       "Deportivo de La Coruna",
+       "Eintracht Frankfurt",
+       "Elche",
+       "Espanyol",
+       "FC Augsburg",
+       "Fenerbahce"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 60,
+      "picks": [
+       "AC Milan",
+       "AFC Bournemouth",
+       "Arizona Diamondbacks",
+       "AS Monaco",
+       "AS Roma",
+       "Aston Villa",
+       "Athletic Club",
+       "Atletico Madrid",
+       "Baltimore Ravens",
+       "Barcelona"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 31,
+      "picks": [
+       "Arizona Cardinals",
+       "Arsenal",
+       "Atlanta Braves",
+       "Atlanta Falcons",
+       "Atlanta Hawks",
+       "Bayern Munich",
+       "Buffalo Bills",
+       "Chicago Blackhawks",
+       "Chicago Cubs",
+       "Cincinnati Reds"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Boston Red Sox",
+       "Chicago Bulls",
+       "Kansas City Chiefs"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name any anime (listed on MAL)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 26180,
+      "picks": [
+       "_Summer",
+       "_Summer Specials",
+       "-OutsideR:RequieM-",
+       "!NVADE SHOW!",
+       "?/Sankaku no Rhythm/Trump no Arasoi",
+       ".hack//G.U. Returner",
+       ".hack//G.U. Trilogy",
+       ".hack//G.U. Trilogy: Parody Mode",
+       ".hack//Gift",
+       ".hack//Intermezzo"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 275,
+      "picks": [
+       "5 Centimeters per Second",
+       "A Certain Scientific Railgun",
+       "A Place Further Than the Universe",
+       "A Silent Voice",
+       "A Whisker Away",
+       "Ace of Diamond",
+       "Afro Samurai",
+       "Aggretsuko",
+       "Ajin: Demi-Human",
+       "Akame ga Kill!"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 38,
+      "picks": [
+       "Akira",
+       "Berserk",
+       "Black Clover",
+       "Bleach",
+       "Blue Lock",
+       "Boruto: Naruto Next Generations",
+       "Chainsaw Man",
+       "Code Geass: Lelouch of the Rebellion",
+       "Cowboy Bebop",
+       "Digimon: Digital Monsters"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Attack on Titan",
+       "Death Note",
+       "Demon Slayer: Kimetsu no Yaiba",
+       "Dragon Ball",
+       "Dragon Ball Z",
+       "Jujutsu Kaisen",
+       "Naruto",
+       "One Piece"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a song by Taylor Swift, Ariana Grande, Olivia Rodrigo, or Sabrina Carpenter.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 768,
+      "picks": [
+       "'Til Brad Pitt Comes Along",
+       "'Til We Finally Meet",
+       "(warning signs)",
+       "10 Dollars and a 6 Pack",
+       "100",
+       "13 / Becoming a Man",
+       "21st Century Girls",
+       "4 U",
+       "5 Fingaz to the Face",
+       "90s Heartbreak"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 289,
+      "picks": [
+       "...Ready for It?",
+       "'Tis the Damn Season",
+       "1 Step Forward, 3 Steps Back",
+       "15 Minutes",
+       "A Nonsense Christmas",
+       "Actually Romantic",
+       "Afterglow",
+       "All I Want",
+       "All of the Girls You Loved Before",
+       "All You Had to Do Was Stay"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 68,
+      "picks": [
+       "22",
+       "34+35",
+       "All Too Well",
+       "Anti-Hero",
+       "August",
+       "Back to December",
+       "Bad Blood",
+       "Bang Bang",
+       "Bed Chem",
+       "Betty"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "7 rings",
+       "Blank Space",
+       "drivers license",
+       "Espresso",
+       "good 4 u",
+       "Love Story",
+       "Manchild",
+       "Shake It Off"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a flower that naturally blooms blue, purple, or red",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 7198,
+      "picks": [
+       "'Aku",
+       "'Aku 'Aku",
+       "'Awikiwiki",
+       "'Oha Kepau",
+       "'Oha Wai Nui",
+       "'Ohe Makai",
+       "'Uiwi",
+       "Abajo Fleabane",
+       "Abbeville Iris",
+       "Abelia"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 255,
+      "picks": [
+       "African daisy",
+       "African tulip tree",
+       "African violet",
+       "Agapanthus",
+       "Ageratum",
+       "Alfalfa",
+       "Algerian iris",
+       "Allium",
+       "Aloe",
+       "Alpine forget-me-not"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Bluebell",
+       "Carnation",
+       "Chrysanthemum",
+       "Cornflower",
+       "Dahlia",
+       "Daisy",
+       "Forget-me-not",
+       "Hibiscus",
+       "Hyacinth",
+       "Hydrangea"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Lavender",
+       "Lilac",
+       "Poppy",
+       "Rose",
+       "Tulip"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country whose second letter is O",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 4,
+      "picks": [
+       "Comoros",
+       "Northern Ireland",
+       "Solomon Islands"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 12,
+      "picks": [
+       "Bosnia and Herzegovina",
+       "Botswana",
+       "Costa Rica",
+       "Dominica",
+       "Jordan",
+       "Moldova",
+       "Monaco",
+       "Montenegro",
+       "Mozambique",
+       "North Macedonia"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Bolivia",
+       "Colombia",
+       "Dominican Republic",
+       "Honduras",
+       "Mongolia",
+       "Morocco",
+       "North Korea",
+       "Romania",
+       "Somalia",
+       "South Africa"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Norway",
+       "Poland",
+       "Portugal"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 117,
   "date": "2026-11-09",
   "prompts": [
