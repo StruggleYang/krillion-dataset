@@ -1,5 +1,988 @@
 [
  {
+  "n": 120,
+  "date": "2026-11-12",
+  "prompts": [
+   {
+    "q": "Name something you can see in the sky (no living or manmade things)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1500,
+      "picks": [
+       "120° parhelion",
+       "18° halo",
+       "20° halo",
+       "23° halo",
+       "24° halo",
+       "35° halo",
+       "46° halo",
+       "47 Tucanae",
+       "9° halo",
+       "A-type main-sequence star"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 202,
+      "picks": [
+       "22° halo",
+       "Afterglow",
+       "Aldebaran",
+       "Alpha Centauri",
+       "Altair",
+       "Altocumulus",
+       "Altostratus",
+       "Andromeda Galaxy",
+       "Annular solar eclipse",
+       "Antares"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 31,
+      "picks": [
+       "Big Dipper",
+       "Cirrus",
+       "Comet",
+       "Constellation",
+       "Crescent Moon",
+       "Cumulonimbus",
+       "Cumulus",
+       "Double rainbow",
+       "Drizzle",
+       "Fog"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Cloud",
+       "Moon",
+       "Rainbow",
+       "Star"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a material or product that comes from animals (excluding meat and dairy)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 679,
+      "picks": [
+       "Abbamele",
+       "Adenosine",
+       "Adrenaline",
+       "Advocaat",
+       "Album graecum",
+       "Albumen print",
+       "Almas caviar",
+       "Alpaca fur",
+       "Altai honey",
+       "Alum-tawed leather"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 152,
+      "picks": [
+       "Abalone shell",
+       "Alligator leather",
+       "Alpaca wool",
+       "Ambergris",
+       "Angora",
+       "Animal dander",
+       "Animal glue",
+       "Animal mucus",
+       "Animal saliva",
+       "Animal sweat"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "Animal fat",
+       "Animal hair",
+       "Antlers",
+       "Beeswax",
+       "Bone",
+       "Cashmere",
+       "Caviar",
+       "Feathers",
+       "Fish oil",
+       "Fur"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Eggs",
+       "Honey",
+       "Leather",
+       "Silk"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a vegetable smaller than an onion (culinary definition of “vegetable”)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 530,
+      "picks": [
+       "7 Pot pepper",
+       "Abalone mushroom",
+       "Aborted entoloma",
+       "Adjuma",
+       "Adzuki sprouts",
+       "African eggplant",
+       "African yam bean",
+       "Aglandau olive",
+       "Agretti",
+       "Aji amarillo"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 138,
+      "picks": [
+       "Adzuki bean",
+       "Alfalfa sprouts",
+       "Anaheim pepper",
+       "Arugula",
+       "Baby artichoke",
+       "Baby beet",
+       "Baby bok choy",
+       "Baby chard",
+       "Baby eggplant",
+       "Baby fennel"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 28,
+      "picks": [
+       "Asparagus",
+       "Baby carrot",
+       "Baby corn",
+       "Baby potato",
+       "Beans",
+       "Beet",
+       "Black bean",
+       "Brussels sprouts",
+       "Button mushroom",
+       "Carrot"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Garlic"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a TV game show",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 6205,
+      "picks": [
+       "¡A Que No Puedes!",
+       "¡Ahora caigo!",
+       "¡Allá tú!",
+       "¡Ay, qué calor!",
+       "¡Qué dice Chile!",
+       "¡Salta!",
+       "¡Vaya peña!",
+       "¿Apostarias por Mi?",
+       "¿Cómo lo veis?",
+       "¿Conocemos España?"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 201,
+      "picks": [
+       "@midnight",
+       "007: Road to a Million",
+       "1 vs.",
+       "60 25 Words or Less",
+       "8 Out of",
+       "Cats",
+       "A League of Their Own",
+       "A Question of Sport",
+       "A Shot at Love with Tila Tequila",
+       "After Midnight"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 21,
+      "picks": [
+       "American Ninja Warrior",
+       "Are You Smarter Than a 5th Grader?",
+       "Beast Games",
+       "Big Brother",
+       "Bigg Boss",
+       "Deal or No Deal",
+       "Double Dare",
+       "Fear Factor",
+       "Legends of the Hidden Temple",
+       "Let's Make a Deal"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Family Feud",
+       "Jeopardy!",
+       "The Price Is Right",
+       "Wheel of Fortune"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a dance move (named moves)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3684,
+      "picks": [
+       "1, 2 Step",
+       "100% Pure Love",
+       "12 to 12",
+       "15 Minutes",
+       "1990",
+       "2 Phút Hơn",
+       "2000",
+       "223s dance",
+       "360 (Fortnite emote)",
+       "5, 6, 7, 8"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 290,
+      "picks": [
+       "Achy Breaky Heart",
+       "Aerial",
+       "Air guitar",
+       "Airflare",
+       "Allemande",
+       "Anti-gravity lean",
+       "Apple Dance",
+       "APT dance",
+       "Arabesque",
+       "Arm roll"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 27,
+      "picks": [
+       "Backflip",
+       "Cartwheel",
+       "Cha Cha Slide",
+       "Crank That",
+       "Cupid Shuffle",
+       "Electric Slide",
+       "Gangnam Style",
+       "Griddy",
+       "Headspin",
+       "Macarena"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Dab",
+       "Floss",
+       "Moonwalk",
+       "The Robot",
+       "The Worm"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of injury (like a sprain, not a sprained ankle)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 130,
+      "picks": [
+       "Acoustic trauma",
+       "Acute respiratory distress syndrome",
+       "Adhesion",
+       "Aerosol burn",
+       "Ankylosis",
+       "Apophysitis",
+       "Arrow wound",
+       "Arterial dissection",
+       "Arterial gas embolism",
+       "Atelectasis"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 102,
+      "picks": [
+       "Abscess",
+       "Acute kidney injury",
+       "Amputation",
+       "Aneurysm",
+       "Appendicitis",
+       "Asphyxiation",
+       "Aspiration",
+       "Bite",
+       "Blister",
+       "Blood blister"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 7,
+      "picks": [
+       "Bleeding",
+       "Concussion",
+       "Dislocation",
+       "Scrape",
+       "Strain",
+       "Tear"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Bruise",
+       "Burn",
+       "Cut",
+       "Fracture"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a chocolate that has caramel in it",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 880,
+      "picks": [
+       "1880 Bombones de chocolate rellenos de dulce de leche",
+       "9 de Oro alfajor",
+       "Abdallah Alligators",
+       "Abdallah Sea Salt Caramels",
+       "Abuela Goye alfajor",
+       "Action Milk chocolate caramel sea salt",
+       "Adventurefuls",
+       "Águila Minitorta",
+       "AH Chocolade Repen Karamel",
+       "AH Chocolade repen karamel biscuit"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 46,
+      "picks": [
+       "5 Star",
+       "Albeni",
+       "Baby Ruth",
+       "Bar One",
+       "Beng-Beng",
+       "Boost",
+       "Cadbury Caramel Egg",
+       "Cadbury Eclairs",
+       "Cadbury Freddo Caramel",
+       "Cadbury Fuse"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 12,
+      "picks": [
+       "100 Grand",
+       "Cadbury Caramel",
+       "Caramello",
+       "Galaxy Caramel",
+       "Ghirardelli Caramel Squares",
+       "Godiva Salted Caramel",
+       "Lindor Caramel",
+       "Mars bar",
+       "Milk Duds",
+       "Milka Caramel"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Milky Way",
+       "Snickers",
+       "Twix"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 119,
+  "date": "2026-11-11",
+  "prompts": [
+   {
+    "q": "Name a country where at least 50% of people speak English",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 30,
+      "picks": [
+       "Antigua and Barbuda",
+       "Bhutan",
+       "Botswana",
+       "Brunei",
+       "Dominica",
+       "Eritrea",
+       "Eswatini",
+       "Grenada",
+       "Guyana",
+       "Kiribati"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 38,
+      "picks": [
+       "Austria",
+       "Bahamas",
+       "Bahrain",
+       "Barbados",
+       "Belgium",
+       "Belize",
+       "Croatia",
+       "Cyprus",
+       "Czechia",
+       "Estonia"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "Denmark",
+       "Finland",
+       "France",
+       "Germany",
+       "Iceland",
+       "Israel",
+       "Italy",
+       "Jamaica",
+       "Netherlands",
+       "Northern Ireland"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Australia",
+       "Canada",
+       "England",
+       "Ireland",
+       "New Zealand",
+       "United Kingdom"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a bodily function or biological process (like breathing)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1834,
+      "picks": [
+       "2,3-Butanediol fermentation",
+       "5' capping",
+       "Abdominal reflex",
+       "Abortive initiation",
+       "Absorptive state",
+       "Acclimatization",
+       "Acetyl-CoA synthesis",
+       "Acetylation",
+       "Acetylcholine breakdown",
+       "Acetylcholine synthesis"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 143,
+      "picks": [
+       "Absorption",
+       "Active transport",
+       "Allergic reaction",
+       "Anaphylaxis",
+       "Antibody production",
+       "Balance",
+       "Bedwetting",
+       "Bile secretion",
+       "Binary fission",
+       "Bioluminescence"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 54,
+      "picks": [
+       "Acid reflux",
+       "Aging",
+       "Bleeding",
+       "Bruising",
+       "Chewing",
+       "Circulation",
+       "Crying",
+       "Death",
+       "Diarrhea",
+       "Dreaming"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 15,
+      "picks": [
+       "Blinking",
+       "Breathing",
+       "Burping",
+       "Coughing",
+       "Digestion",
+       "Drinking",
+       "Eating",
+       "Farting",
+       "Heartbeat",
+       "Peeing"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a one-word animal that starts with T",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 4887,
+      "picks": [
+       "Taape",
+       "Taatsiinia",
+       "Tabacktorp",
+       "Tabalqueia",
+       "Tabanid",
+       "Tabanipriscus",
+       "Tabanisargus",
+       "Tabanosoma",
+       "Tabantalites",
+       "Tabantaloceras"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 47,
+      "picks": [
+       "Tabby",
+       "Taipan",
+       "Takin",
+       "Tamarin",
+       "Tanager",
+       "Tang",
+       "Tanuki",
+       "Tapeworm",
+       "Tapir",
+       "Tardigrade"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Tadpole",
+       "Tarantula",
+       "Termite",
+       "Tick",
+       "Tortoise",
+       "Toucan",
+       "Triceratops",
+       "Trout",
+       "Tuna"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Tiger",
+       "Toad",
+       "Turkey"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something that has a needle",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1734,
+      "picks": [
+       "3D bioprinter",
+       "A/C manifold gauge set",
+       "A1C test",
+       "Aari embroidery",
+       "Abscess / cyst aspiration",
+       "Achilles piercing",
+       "Aemilia Ars",
+       "African brush-tailed porcupine",
+       "Air core gauge",
+       "Air pressure wine opener"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 166,
+      "picks": [
+       "Air compressor",
+       "Airbrush",
+       "Airplane",
+       "Allergy shots",
+       "Allergy test",
+       "Altimeter",
+       "Anesthesia",
+       "Auto-injector",
+       "B12 shot",
+       "Ball pump"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 23,
+      "picks": [
+       "Acupuncture",
+       "Blood test",
+       "Cactus",
+       "Christmas tree",
+       "Crochet kit",
+       "Flu shot",
+       "Hedgehog",
+       "Knitting",
+       "Knitting kit",
+       "Piercing"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Compass",
+       "Sewing",
+       "Sewing machine"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an original movie or show from Netflix, Prime Video, Apple TV, or Disney+",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 8121,
+      "picks": [
+       "¡Que viva México!",
+       "(Un)lucky Sisters",
+       "(Un)well",
+       "@GinaYei",
+       "#1 Happy Family USA",
+       "#Alive",
+       "#AnneFrank. Parallel Stories",
+       "#BlackAF",
+       "#IMomSoHard Live",
+       "#Love"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 537,
+      "picks": [
+       "13th",
+       "1899",
+       "3 Body Problem",
+       "6 Underground",
+       "A Christmas Prince",
+       "A Different World",
+       "A House of Dynamite",
+       "A League of Their Own",
+       "A Man on the Inside",
+       "A Series of Unfortunate Events"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 38,
+      "picks": [
+       "13 Reasons Why",
+       "Andor",
+       "Arcane",
+       "Big Mouth",
+       "Bird Box",
+       "Black Mirror",
+       "BoJack Horseman",
+       "Bridgerton",
+       "Cobra Kai",
+       "Daredevil"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Invincible",
+       "Squid Game",
+       "Stranger Things",
+       "Ted Lasso",
+       "The Boys",
+       "The Mandalorian"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a named object in space that's bigger than Earth's Moon (like Jupiter)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 30199,
+      "picks": [
+       "0313-192",
+       "037-B327",
+       "1 Aquarii",
+       "1 Arietis",
+       "1 Aurigae",
+       "1 Boötis",
+       "1 Camelopardalis",
+       "1 Cancri",
+       "1 Canis Minoris",
+       "1 Cassiopeiae"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 72,
+      "picks": [
+       "Aldebaran",
+       "Algol",
+       "Alpha Centauri",
+       "Altair",
+       "Andromeda black hole",
+       "Antares",
+       "Arcturus",
+       "Barnard's Star",
+       "Bellatrix",
+       "Betelgeuse"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Andromeda Galaxy",
+       "Asteroid belt",
+       "Milky Way",
+       "Polaris",
+       "Solar System"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Earth",
+       "Jupiter",
+       "Mars",
+       "Mercury",
+       "Neptune",
+       "Saturn",
+       "Sun",
+       "Uranus"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a character from Mario, Zelda, Donkey Kong, Sonic, or Kirby",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 9528,
+      "picks": [
+       "0²",
+       "13-Amp",
+       "18-Volt",
+       "2-Fold Goomba",
+       "5-Fold Paragoomba",
+       "5-Volt",
+       "9-Volt",
+       "A. Bumpkin",
+       "A. Coz",
+       "Aaqlet"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 343,
+      "picks": [
+       "Adeleine",
+       "Agahnim",
+       "Agent Stone",
+       "Amp",
+       "Angry Sun",
+       "Anju",
+       "Armos",
+       "Ashley",
+       "Baby Bowser",
+       "Baby Daisy"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 31,
+      "picks": [
+       "Amy Rose",
+       "Birdo",
+       "Boo",
+       "Bowser Jr.",
+       "Bullet Bill",
+       "Captain Toad",
+       "Chain Chomp",
+       "Cranky Kong",
+       "Diddy Kong",
+       "Dr. Eggman"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Bowser",
+       "Donkey Kong",
+       "Kirby",
+       "Link",
+       "Luigi",
+       "Mario",
+       "Princess Peach",
+       "Sonic",
+       "Yoshi",
+       "Zelda"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 118,
   "date": "2026-11-10",
   "prompts": [
