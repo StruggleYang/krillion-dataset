@@ -1,5 +1,488 @@
 [
  {
+  "n": 121,
+  "date": "2026-11-13",
+  "prompts": [
+   {
+    "q": "Name a video game you can play on PS5, Xbox Series X, Nintendo Switch 1 or 2.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 25502,
+      "picks": [
+       "-Making*Lovers- First Blush",
+       ".cat 2",
+       ".cat Milk",
+       ".Cat Nincat Dinogotchi",
+       ".catMilk 2",
+       ".dog",
+       ".hack//G.U. vol. 1//Rebirth",
+       ".hack//G.U. vol. 2//Reminisce",
+       ".hack//G.U. vol. 3//Redemption",
+       ".hack//G.U. vol. 4//Reconnection"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 3428,
+      "picks": [
+       ".hack//G.U. Last Recode",
+       "007 First Light",
+       "1-2-Switch",
+       "1000xResist",
+       "1080° Snowboarding",
+       "13 Sentinels: Aegis Rim",
+       "1942",
+       "1943: The Battle of Midway",
+       "20 Minutes Till Dawn",
+       "20XX"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 226,
+      "picks": [
+       "A Way Out",
+       "Among Us",
+       "Animal Crossing: New Horizons",
+       "Apex Legends",
+       "Ark: Survival Evolved",
+       "Assassin's Creed",
+       "Assassin's Creed IV: Black Flag",
+       "Astro Bot",
+       "Astro's Playroom",
+       "Balatro"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Call of Duty: Modern Warfare 4",
+       "Fortnite",
+       "Grand Theft Auto V",
+       "Mario Kart 8 Deluxe"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country that has been colonized by Spain or Portugal.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 23,
+      "picks": [
+       "Algeria",
+       "Bahrain",
+       "Benin",
+       "Canada",
+       "Ghana",
+       "Indonesia",
+       "Kenya",
+       "Libya",
+       "Malaysia",
+       "Maldives"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 14,
+      "picks": [
+       "Angola",
+       "Belize",
+       "Cape Verde",
+       "China",
+       "East Timor",
+       "Equatorial Guinea",
+       "Guinea-Bissau",
+       "Haiti",
+       "India",
+       "Jamaica"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "Argentina",
+       "Bolivia",
+       "Chile",
+       "Colombia",
+       "Costa Rica",
+       "Cuba",
+       "Dominican Republic",
+       "Ecuador",
+       "El Salvador",
+       "Guatemala"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Brazil"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a chemical element that makes up the human body.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 32,
+      "picks": [
+       "Antimony",
+       "Argon",
+       "Barium",
+       "Beryllium",
+       "Bismuth",
+       "Boron",
+       "Bromine",
+       "Cadmium",
+       "Cerium",
+       "Cesium"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 24,
+      "picks": [
+       "Aluminum",
+       "Arsenic",
+       "Chlorine",
+       "Chromium",
+       "Cobalt",
+       "Copper",
+       "Fluorine",
+       "Helium",
+       "Iodine",
+       "Lead"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Calcium",
+       "Iron",
+       "Magnesium",
+       "Nitrogen",
+       "Potassium"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Carbon",
+       "Hydrogen"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an invention that existed before 1500 (no food or drinks).",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 4889,
+      "picks": [
+       "819-day count",
+       "Ab anbar",
+       "Ab urbe condita",
+       "Abacus (architecture)",
+       "Abaptista",
+       "Abat-son",
+       "Abatis",
+       "Abecedary",
+       "Abjad numerals",
+       "Ablaq"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 1280,
+      "picks": [
+       "24-hour day",
+       "360-degree circle",
+       "60-minute hour",
+       "Abaya",
+       "Acre",
+       "Acupuncture",
+       "Adhesive bandage",
+       "Adze",
+       "Aeolipile",
+       "Aglet"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 155,
+      "picks": [
+       "Abacus",
+       "Alphabet",
+       "Aqueduct",
+       "Armor",
+       "Arrow",
+       "Axe",
+       "Axle",
+       "Bag",
+       "Ball",
+       "Barrel"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Compass",
+       "Gunpowder",
+       "Paper",
+       "Printing press"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name anyone who has acted in an MCU film.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2165,
+      "picks": [
+       "A. Jones",
+       "Aakash Shukal",
+       "Aamaya Oyedele",
+       "Aaron Berg",
+       "Aaron Hayes",
+       "Aaron Himelstein",
+       "Aaron Mistry",
+       "Aaron Saxton",
+       "Aaron Schwartz",
+       "Aaron Stanford"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 180,
+      "picks": [
+       "Aaron Taylor-Johnson",
+       "Alfred Molina",
+       "Andy Serkis",
+       "Angela Bassett",
+       "Angelina Jolie",
+       "Anthony Hopkins",
+       "Awkwafina",
+       "Barry Keoghan",
+       "Ben Kingsley",
+       "Ben Mendelsohn"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 28,
+      "picks": [
+       "Andrew Garfield",
+       "Anthony Mackie",
+       "Benedict Cumberbatch",
+       "Bradley Cooper",
+       "Brie Larson",
+       "Chadwick Boseman",
+       "Dave Bautista",
+       "Don Cheadle",
+       "Elizabeth Olsen",
+       "Gwyneth Paltrow"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Chris Evans",
+       "Chris Hemsworth",
+       "Chris Pratt",
+       "Robert Downey Jr.",
+       "Scarlett Johansson",
+       "Tom Holland"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a book that has been adapted into a movie.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 20158,
+      "picks": [
+       "- for dagene er onde",
+       "¡Sublime decisión!",
+       "¿Dónde vas Alfonso XII?",
+       "...a bude hůř",
+       "'night, Mother",
+       "'Op o' Me Thumb",
+       "'Tis Pity She's a Whore",
+       "“I’m Fine” Spirit",
+       "\"Master Harold\"...and the Boys",
+       "\"Oh…\""
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 551,
+      "picks": [
+       "'Salem's Lot",
+       "300",
+       "365 Days",
+       "A Beautiful Mind",
+       "A Clockwork Orange",
+       "A Dog's Purpose",
+       "A Farewell to Arms",
+       "A Journey to the Centre of the Earth",
+       "A Little Princess",
+       "A Man Called Ove"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 62,
+      "picks": [
+       "A Bear Called Paddington",
+       "A Christmas Carol",
+       "Alice's Adventures in Wonderland",
+       "Beauty and the Beast",
+       "Charlie and the Chocolate Factory",
+       "Charlotte's Web",
+       "Cinderella",
+       "Diary of a Wimpy Kid",
+       "Divergent",
+       "Dr Jekyll and Mr Hyde"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Harry Potter and the Philosopher's Stone",
+       "The Hunger Games"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a feature in TikTok.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1347,
+      "picks": [
+       "10/10",
+       "1930s AI Filter",
+       "1st Anniversary",
+       "2025 Glasses",
+       "2025 JoyLens",
+       "2025 Love",
+       "2nd Anniversary",
+       "3rd Anniversary",
+       "A Bubbly Time",
+       "A Fun House"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 679,
+      "picks": [
+       "10-minute videos",
+       "A-ha Filter",
+       "About this account",
+       "About this ad",
+       "Accessibility",
+       "Account check",
+       "Account history",
+       "Account information",
+       "Account status",
+       "Activity center"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 41,
+      "picks": [
+       "Ads",
+       "Analytics",
+       "Bio",
+       "Block",
+       "Camera",
+       "Caption",
+       "Captions",
+       "Dark mode",
+       "Delete account",
+       "Delete post"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Comments",
+       "Duet",
+       "Filters",
+       "For You page",
+       "Like",
+       "Sounds",
+       "Stitch",
+       "Videos"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 120,
   "date": "2026-11-12",
   "prompts": [
