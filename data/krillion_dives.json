@@ -1,5 +1,479 @@
 [
  {
+  "n": 122,
+  "date": "2026-11-14",
+  "prompts": [
+   {
+    "q": "Name a billionaire.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 5099,
+      "picks": [
+       "A Krishnamoorthy",
+       "Abbas Sajwani",
+       "Abdulla Al Futtaim",
+       "Abdulla bin Ahmad Al Ghurair",
+       "Abdullah Al Othaim",
+       "Abdullah Amer Al Nahdi",
+       "Abdullah bin Sulaiman Al Rajhi",
+       "Abdulsamad Rabiu",
+       "Abel Avellan",
+       "Abhay Firodia"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 144,
+      "picks": [
+       "Alan Sugar",
+       "Alex Karp",
+       "Alexandr Wang",
+       "Alice Walton",
+       "Aliko Dangote",
+       "Alisher Usmanov",
+       "Alwaleed bin Talal",
+       "Amancio Ortega",
+       "Andrew Forrest",
+       "Arnold Schwarzenegger"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 12,
+      "picks": [
+       "Cristiano Ronaldo",
+       "Jay-Z",
+       "Kim Kardashian",
+       "Kylie Jenner",
+       "LeBron James",
+       "Mark Cuban",
+       "Michael Jordan",
+       "Peter Thiel",
+       "Sam Altman",
+       "Taylor Swift"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Bill Gates",
+       "Donald Trump",
+       "Elon Musk",
+       "Jeff Bezos"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an extinct animal that isn't an insect or invertebrate.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 20035,
+      "picks": [
+       "'O'u",
+       "Aachenaspis",
+       "Aaptoryctes",
+       "Aardonyx",
+       "Aatotomus",
+       "Abaco tortoise",
+       "Abadzekhia",
+       "Abajudon",
+       "Abalakemys",
+       "Abalosia"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 159,
+      "picks": [
+       "Acrocanthosaurus",
+       "Alamosaurus",
+       "Albertosaurus",
+       "Allosaurus",
+       "Amargasaurus",
+       "Ambulocetus",
+       "American cheetah",
+       "American lion",
+       "Amphicyon",
+       "Andrewsarchus"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "Ankylosaurus",
+       "Brachiosaurus",
+       "Brontosaurus",
+       "Diplodocus",
+       "Dire wolf",
+       "Megalodon",
+       "Megatherium (giant ground sloth)",
+       "Mosasaurus",
+       "Pterodactyl",
+       "Spinosaurus"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Dodo",
+       "Saber-toothed tiger",
+       "Tyrannosaurus rex"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a living animal that moves on 2 feet and can't fly.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 296,
+      "picks": [
+       "Afghan five-toed jerboa",
+       "African hammada jerboa",
+       "Agile gibbon",
+       "Agile kangaroo rat",
+       "Agile wallaby",
+       "Aldabra rail",
+       "Allied rock-wallaby",
+       "Amboina sailfin lizard",
+       "Andrews's three-toed jerboa",
+       "Antilopine kangaroo"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 35,
+      "picks": [
+       "Adélie penguin",
+       "African penguin",
+       "Basilisk lizard",
+       "Cassowary",
+       "Chinstrap penguin",
+       "Common ostrich",
+       "Eastern grey kangaroo",
+       "Flightless cormorant",
+       "Frilled lizard",
+       "Galápagos penguin"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 5,
+      "picks": [
+       "Emperor penguin",
+       "Emu",
+       "Kangaroo",
+       "Kiwi"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Human"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a ball sport where you don't score by getting the ball into or through an object.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 576,
+      "picks": [
+       "16-inch softball",
+       "360Ball",
+       "9 Square in the Air",
+       "Abula",
+       "Air volleyball",
+       "Airsoft",
+       "Altinha",
+       "American flag rugby",
+       "Ancrum Ba' game",
+       "Angleball"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 35,
+      "picks": [
+       "Banana ball",
+       "Bocce",
+       "Canadian football",
+       "Flag football",
+       "Footbag",
+       "Football tennis",
+       "Four square",
+       "Freestyle football",
+       "Gaga ball",
+       "Hammer throw"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Beach volleyball",
+       "Bowling",
+       "Cricket",
+       "Dodgeball",
+       "Pickleball",
+       "Racquetball",
+       "Rugby union",
+       "Softball",
+       "Squash"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "American football",
+       "Baseball",
+       "Tennis"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name any island (must be inhabited).",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 9008,
+      "picks": [
+       "'Euaiki",
+       "'O'ua",
+       "'Okoa",
+       "'Otu Mu'omu'a",
+       "'Uiha",
+       "'Uoleva",
+       "'Utungake",
+       "`Olo`ua Island",
+       "1st Admiralteysky Island",
+       "2nd Admiralteysky Island"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 234,
+      "picks": [
+       "Abu Dhabi Island",
+       "Åland",
+       "Aleutian Islands",
+       "Amelia Island",
+       "American Samoa",
+       "Andaman and Nicobar Islands",
+       "Andaman Islands",
+       "Angel Island",
+       "Anguilla",
+       "Anna Maria Island"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 43,
+      "picks": [
+       "Aruba",
+       "Australia",
+       "Bahamas",
+       "Barbados",
+       "Bermuda",
+       "Bora Bora",
+       "Borneo",
+       "Canary Islands",
+       "Cayman Islands",
+       "Cuba"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Hawaii"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a fictional way to travel.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 48438,
+      "picks": [
+       "!!iikb& a'na 21",
+       ".007 (Kipling locomotive)",
+       "'95 Grotti Cheetah",
+       "'Arry and Bert",
+       "'etlh class",
+       "'X' Dragon (HTTYD)",
+       "\"Achilles\" Type Freighter",
+       "\"Deathhawk\" combat airspeeder",
+       "\"Delta Gamma 9\" Type Transport",
+       "\"Explorer\" Scout Ship"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 244,
+      "picks": [
+       "A-wing",
+       "Air scooter",
+       "Airbender glider",
+       "Anti-gravity",
+       "Anywhere Door",
+       "Apollo's chariot",
+       "Appa",
+       "Apparition",
+       "Arwing",
+       "Astral projection"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 16,
+      "picks": [
+       "Batmobile",
+       "Broomstick",
+       "DeLorean time machine",
+       "Dragon",
+       "Flying car",
+       "Flying saucer",
+       "Hoverboard",
+       "Millennium Falcon",
+       "Pegasus",
+       "Portal"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Flying carpet",
+       "Teleportation",
+       "Time machine"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name any national government agency.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 26229,
+      "picks": [
+       "1776 Commission",
+       "18F",
+       "1st Ministry of Norway",
+       "2nd Ministry of Norway",
+       "3rd Ministry of Norway",
+       "46th Central Research Institute of the Ministry of Defense of the Russian Federation",
+       "4th Ministry of Norway",
+       "5th Ministry of Norway",
+       "610 Office",
+       "6th Ministry of Norway"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 213,
+      "picks": [
+       "Air Force",
+       "AmeriCorps",
+       "Amtrak",
+       "Army Corps of Engineers",
+       "ASI",
+       "Atomic Energy Commission",
+       "Australia Post",
+       "Australian Border Force",
+       "Australian Bureau of Statistics",
+       "Australian Competition and Consumer Commission"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 23,
+      "picks": [
+       "Armed forces",
+       "Army",
+       "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+       "Centers for Disease Control and Prevention",
+       "Department of Agriculture",
+       "Department of Defense",
+       "Department of Education",
+       "Department of Health",
+       "Department of Homeland Security",
+       "DOGE (U.S. DOGE Service)"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "CIA",
+       "Federal Bureau of Investigation",
+       "Food and Drug Administration",
+       "Internal Revenue Service",
+       "National Aeronautics and Space Administration"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 121,
   "date": "2026-11-13",
   "prompts": [
