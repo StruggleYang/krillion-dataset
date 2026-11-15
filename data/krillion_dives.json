@@ -1,5 +1,483 @@
 [
  {
+  "n": 123,
+  "date": "2026-11-15",
+  "prompts": [
+   {
+    "q": "Name a movie involving time travel.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3229,
+      "picks": [
+       "¿Puedes Quedarte un Segundo Más?",
+       "(T)Raumschiff Surprise – Periode 1",
+       "(Time) Travel Centre",
+       "(Y/N): (Yes or No)",
+       "+1",
+       "1 + 1 = 11",
+       "10 Minute Time Machine",
+       "100 Dates",
+       "100 Days in One",
+       "100 Million BC"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 88,
+      "picks": [
+       "12 Monkeys",
+       "13 Going on",
+       "60 16 Wishes",
+       "A Christmas Carol",
+       "A Wrinkle in Time",
+       "Army of Darkness",
+       "Arrival",
+       "Austin Powers in Goldmember",
+       "Austin Powers: International Man of Mystery",
+       "Ben 10: Race Against Time"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 15,
+      "picks": [
+       "About Time",
+       "Back to the Future Part II",
+       "Back to the Future Part III",
+       "Donnie Darko",
+       "Groundhog Day",
+       "Harry Potter and the Prisoner of Azkaban",
+       "Hot Tub Time Machine",
+       "Interstellar",
+       "Looper",
+       "Tenet"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Avengers: Endgame"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country where French is an official language",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 8,
+      "picks": [
+       "Burundi",
+       "Central African Republic",
+       "Comoros",
+       "Equatorial Guinea",
+       "Gabon",
+       "Guinea",
+       "Republic of the Congo"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 12,
+      "picks": [
+       "Benin",
+       "Cameroon",
+       "Chad",
+       "Côte d’Ivoire",
+       "Democratic Republic of the Congo",
+       "Djibouti",
+       "Luxembourg",
+       "Madagascar",
+       "Monaco",
+       "Senegal"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 3,
+      "picks": [
+       "Belgium",
+       "Haiti"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Canada"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a brand with an animal in its logo.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3094,
+      "picks": [
+       "14 Hands",
+       "1inch",
+       "20 Mule Team Borax",
+       "40 Acres and a Mule Filmworks",
+       "400 Conejos",
+       "5 Rabbit Cervecería",
+       "95.1 The Bee",
+       "98.7 The Bull (KUPL)",
+       "9ff",
+       "9Lives"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 140,
+      "picks": [
+       "Abarth",
+       "Aflac",
+       "Alfa Romeo",
+       "American Airlines",
+       "Anheuser-Busch",
+       "Animal Jam",
+       "Animal Planet",
+       "Annie's",
+       "Arc'teryx",
+       "Aussie"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 17,
+      "picks": [
+       "Abercrombie & Fitch",
+       "American Eagle",
+       "Bass Pro Shops",
+       "Chick-fil-A",
+       "Crocs",
+       "Duolingo",
+       "Firefox",
+       "John Deere",
+       "Krillion",
+       "Lacoste"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Ferrari",
+       "Jaguar",
+       "Lamborghini",
+       "Puma",
+       "Red Bull"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a college or university major.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3984,
+      "picks": [
+       "2D design",
+       "3D modeling",
+       "4D design",
+       "Abkhaz",
+       "Aboriginal studies",
+       "Academic advising",
+       "Accelerator physics",
+       "Accessories design",
+       "Accordion",
+       "Accountancy and data analytics"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 494,
+      "picks": [
+       "Accounting technology",
+       "Acting",
+       "Actuarial science",
+       "Acupuncture",
+       "Addiction counseling",
+       "Advertising",
+       "Aeronautical engineering",
+       "Aeronautical science",
+       "Aerospace engineering",
+       "African American studies"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 75,
+      "picks": [
+       "Accounting",
+       "Anthropology",
+       "Arabic",
+       "Architecture",
+       "Art",
+       "Art history",
+       "Astronomy",
+       "Biochemistry",
+       "Chemical engineering",
+       "Chinese"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Biology",
+       "Business",
+       "Chemistry",
+       "Computer science",
+       "Engineering",
+       "Mathematics",
+       "Physics"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something you light with a match or lighter.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1413,
+      "picks": [
+       "'Ndocce (Agnone torches)",
+       "A-frame fire",
+       "Aarti lamp",
+       "Abus gun",
+       "Acetylene headlamp",
+       "Acorn pipe",
+       "Afarganyu",
+       "Afrinagan",
+       "Agnihotra fire",
+       "Agnikaryam"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 236,
+      "picks": [
+       "Absinthe sugar cube",
+       "Advent wreath",
+       "Alcohol burner",
+       "Altar candle",
+       "B-52 (flaming shot)",
+       "Backpacking stove",
+       "Baked Alaska",
+       "Bananas Foster",
+       "Baptismal candle",
+       "Bark"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 32,
+      "picks": [
+       "Birthday candle",
+       "Blunt",
+       "Bonfire",
+       "Bong",
+       "Bunsen burner",
+       "Campfire",
+       "Cigar",
+       "Fire",
+       "Firecracker",
+       "Fireplace"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Candle"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a dish that is or includes deep-fried chicken.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 622,
+      "picks": [
+       "Akbar joojeh",
+       "Alcapurrias de pollo",
+       "Alitas acevichadas",
+       "Almond boneless chicken",
+       "Amritsari chicken",
+       "Andhra chilli chicken",
+       "Ati ampela goreng",
+       "Ayam bacem",
+       "Ayam bawang",
+       "Ayam betutu goreng"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 118,
+      "picks": [
+       "7Up fried chicken",
+       "Almond chicken",
+       "Ayam geprek",
+       "Ayam gepuk",
+       "Ayam goreng",
+       "Ayam goreng berempah",
+       "Ayam penyet",
+       "Bang bang chicken",
+       "Beer-battered chicken",
+       "Boneless wings"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Chicken and waffles",
+       "Chicken cutlet",
+       "Chicken katsu",
+       "Chicken parmesan",
+       "Chicken schnitzel",
+       "Country fried chicken",
+       "General Tso's chicken",
+       "Korean fried chicken",
+       "Orange chicken"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Chicken nuggets",
+       "Chicken tenders",
+       "Chicken wings",
+       "Fried chicken",
+       "Fried chicken sandwich"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a job where people wear a uniform.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2800,
+      "picks": [
+       "Abdi dalem",
+       "Abraham Lincoln presenter",
+       "Abrasive blaster",
+       "Acid dipper",
+       "Acoso y derribo rider",
+       "Acute physician",
+       "Ada programmer (Marines)",
+       "Addiction medicine physician",
+       "Additive manufacturing specialist",
+       "Adjutant"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 400,
+      "picks": [
+       "Aerial firefighter",
+       "Aircraft marshaller",
+       "Aircraft mechanic",
+       "Airman",
+       "Anesthesiologist",
+       "Animal control officer",
+       "Arborist",
+       "Archer",
+       "Armored car guard",
+       "Army chef"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 36,
+      "picks": [
+       "Astronaut",
+       "Athlete",
+       "Barista",
+       "Bartender",
+       "Basketball player",
+       "Bellhop",
+       "Bus driver",
+       "Cashier",
+       "Chef",
+       "Corrections officer"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Construction worker",
+       "Doctor",
+       "Firefighter",
+       "Flight attendant",
+       "Mail carrier",
+       "Nurse",
+       "Pilot",
+       "Police officer",
+       "Soldier"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 122,
   "date": "2026-11-14",
   "prompts": [
