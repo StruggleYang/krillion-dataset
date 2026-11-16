@@ -1,5 +1,477 @@
 [
  {
+  "n": 124,
+  "date": "2026-11-16",
+  "prompts": [
+   {
+    "q": "Name a country with the letter B in its name",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 5,
+      "picks": [
+       "Cabo Verde",
+       "Central African Republic",
+       "Guinea-Bissau",
+       "Kiribati"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 26,
+      "picks": [
+       "Albania",
+       "Azerbaijan",
+       "Bahrain",
+       "Belize",
+       "Benin",
+       "Brunei",
+       "Burkina Faso",
+       "Burundi",
+       "Cambodia",
+       "Czech Republic"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 12,
+      "picks": [
+       "Bahamas",
+       "Bangladesh",
+       "Barbados",
+       "Belarus",
+       "Bhutan",
+       "Bosnia and Herzegovina",
+       "Botswana",
+       "Bulgaria",
+       "Colombia",
+       "Cuba"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Belgium",
+       "Bolivia"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a fictional weapon",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 91382,
+      "picks": [
+       "...and Tubes",
+       ".303 Storm Rifle",
+       ".357 Plus 1 K1L-u",
+       ".44 Shepherd",
+       ".48-caliber Enforcer pistol",
+       ".52 Gal",
+       ".52 Gal Deco",
+       ".675 side-slung deflected chamber Van Damme-Seagal repeating rifle",
+       ".96 Gal",
+       ".96 Gal Deco"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 626,
+      "picks": [
+       "A-280 blaster rifle",
+       "A$AP Rocky's Shock Rocket",
+       "Acid Flower",
+       "Aerondight",
+       "Airbender staff",
+       "Alan Parsons Project laser",
+       "Amban phase-pulse blaster",
+       "Andúril",
+       "Angel blade",
+       "Anti-Champion Rifle"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 21,
+      "picks": [
+       "Adamantium claws",
+       "Batarang",
+       "BFG 9000",
+       "Blaster",
+       "Captain America's shield",
+       "Death Star",
+       "Diamond sword",
+       "Elder Wand",
+       "Freeze ray",
+       "Infinity Gauntlet"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Excalibur",
+       "Lightsaber"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a job focused on repairing physical things",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 968,
+      "picks": [
+       "3D printer technician",
+       "Access control technician",
+       "Accessibility lift technician",
+       "Accordion repairer",
+       "Acute physician",
+       "ADAS calibration technician",
+       "Adding machine mechanic",
+       "Adolescent medicine physician",
+       "Adult congenital heart disease cardiologist",
+       "AH-64D armament/electrical/avionic systems repairer"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 264,
+      "picks": [
+       "Acupuncturist",
+       "Air cooler repairer",
+       "Aircraft engine mechanic",
+       "Airship mechanic",
+       "Allergist",
+       "Amplifier technician",
+       "Amusement ride mechanic",
+       "Antique restorer",
+       "Appliance repair technician",
+       "Aquarium repair technician"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Aircraft mechanic",
+       "Auto body technician",
+       "Bicycle mechanic",
+       "Boat mechanic",
+       "Carpenter",
+       "Dentist",
+       "Doctor",
+       "HVAC technician",
+       "Maintenance worker",
+       "Motorcycle mechanic"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Auto mechanic",
+       "Electrician",
+       "Handyman",
+       "Mechanic",
+       "Plumber"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an author who has a book that has sold over 500,000 copies",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 8251,
+      "picks": [
+       "50 Cent",
+       "A. B. Facey",
+       "A. C. Crispin",
+       "A. E. Hotchner",
+       "A. E. Housman",
+       "A. E. W. Mason",
+       "A. F. Steadman",
+       "A. G. Riddle",
+       "A. H. Tammsaare",
+       "A. Hamilton Gibbs"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 682,
+      "picks": [
+       "A. A. Milne",
+       "Abby Jimenez",
+       "Adam Grant",
+       "Adam Silvera",
+       "Adam Smith",
+       "Aesop",
+       "Akira Toriyama",
+       "Al Gore",
+       "Alan Moore",
+       "Albert Camus"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 39,
+      "picks": [
+       "Adolf Hitler",
+       "Agatha Christie",
+       "Anne Frank",
+       "Barack Obama",
+       "Brandon Sanderson",
+       "C.S. Lewis",
+       "Charles Dickens",
+       "Colleen Hoover",
+       "Dan Brown",
+       "David Goggins"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Dr. Seuss",
+       "J.K. Rowling",
+       "J.R.R. Tolkien",
+       "Stephen King"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sport involving a board (no board games, tabletop games or esports)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 433,
+      "picks": [
+       "20 to 1 (darts)",
+       "3v3 floorball",
+       "5 m platform",
+       "7-a-side bandy",
+       "7.5 m platform",
+       "701 (darts)",
+       "Adaptive bodyboarding",
+       "Adaptive kiteboarding",
+       "Adaptive skateboarding",
+       "Adaptive stand-up paddle"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 107,
+      "picks": [
+       "1 m springboard",
+       "3 m springboard",
+       "3-on-3 ice hockey",
+       "301 darts",
+       "3x3 basketball",
+       "501 darts",
+       "Arena football",
+       "Around the World",
+       "Athletics pentathlon",
+       "Axe throwing"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Artistic gymnastics",
+       "Basketball",
+       "Darts",
+       "Diving",
+       "Ice hockey",
+       "Longboarding",
+       "Paddleboarding",
+       "Shuffleboard",
+       "Wakeboarding"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Skateboarding",
+       "Snowboarding"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a chemical element whose name has 6 or fewer letters",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 5,
+      "picks": [
+       "Cerium",
+       "Cesium",
+       "Curium",
+       "Indium"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 6,
+      "picks": [
+       "Barium",
+       "Cobalt",
+       "Nickel",
+       "Radium",
+       "Radon"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Argon",
+       "Boron",
+       "Copper",
+       "Helium",
+       "Iodine",
+       "Lead",
+       "Silver",
+       "Sodium",
+       "Sulfur",
+       "Tin"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Carbon",
+       "Gold",
+       "Iron",
+       "Neon"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a part of the body above the waist, excluding the head",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 5861,
+      "picks": [
+       "A1 pulley",
+       "A2 pulley",
+       "A3 pulley",
+       "A4 pulley",
+       "A5 pulley",
+       "Abdominal aorta",
+       "Abdominal aortic plexus",
+       "Abdominal branch of musculophrenic artery",
+       "Abdominal esophagus",
+       "Abdominal fascia"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 313,
+      "picks": [
+       "Abdominal cavity",
+       "Abdominal skin",
+       "Abdominal wall",
+       "Accessory nipple",
+       "Acromioclavicular joint",
+       "Acromion",
+       "Adam's apple",
+       "Adrenal gland",
+       "Alveolus",
+       "Anterior cervical region"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 30,
+      "picks": [
+       "Abdomen",
+       "Abs",
+       "Armpit",
+       "Biceps",
+       "Collarbone",
+       "Deltoid",
+       "Elbow",
+       "Fingernail",
+       "Forearm",
+       "Index finger"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 12,
+      "picks": [
+       "Arm",
+       "Back",
+       "Breasts",
+       "Chest",
+       "Finger",
+       "Hand",
+       "Heart",
+       "Liver",
+       "Lungs",
+       "Neck"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 123,
   "date": "2026-11-15",
   "prompts": [
