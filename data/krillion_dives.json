@@ -1,5 +1,509 @@
 [
  {
+  "n": 125,
+  "date": "2026-11-17",
+  "prompts": [
+   {
+    "q": "Name a movie where the main character is a talking animal",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 4194,
+      "picks": [
+       "...Even More Dalmatians",
+       "'Twas the Night Before Christmas",
+       "(Blooper) Bunny",
+       "10 Lives",
+       "100 Pygmies and Andy Panda",
+       "100% Wolf",
+       "14 Carrot Rabbit",
+       "200% Wolf",
+       "3 al Rescate",
+       "3 Little Kungpoo Goats"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 230,
+      "picks": [
+       "101 Dalmatians II: Patch's London Adventure",
+       "A Boy and His Dog",
+       "A Dog's Journey",
+       "A Dog's Perfect Christmas",
+       "A Dog's Purpose",
+       "A Dog's Way Home",
+       "A Goofy Movie",
+       "A Monster in Paris",
+       "A Turtle's Tale: Sammy's Adventures",
+       "A Whisker Away"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 69,
+      "picks": [
+       "101 Dalmatians",
+       "A Bug's Life",
+       "Alvin and the Chipmunks",
+       "Antz",
+       "Babe",
+       "Bambi",
+       "Bee Movie",
+       "Bolt",
+       "Brother Bear",
+       "Cats"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Finding Nemo",
+       "Ice Age",
+       "Kung Fu Panda",
+       "Madagascar",
+       "Ratatouille",
+       "The Lion King"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a one-word food or drink that ends in O",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2961,
+      "picks": [
+       "4Bro",
+       "Aamshotto",
+       "Abadejo",
+       "Abanico",
+       "Abbacchio",
+       "Abbuoto",
+       "Ablo",
+       "Abolo",
+       "Aborrajado",
+       "Abrusco"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 132,
+      "picks": [
+       "Adobo",
+       "Affogato",
+       "Amaretto",
+       "Ancho",
+       "Antipasto",
+       "Arborio",
+       "Asado",
+       "Asiago",
+       "Bacalao",
+       "Bao"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 32,
+      "picks": [
+       "Alfredo",
+       "Americano",
+       "Cappuccino",
+       "Cheerio",
+       "Cheeto",
+       "Chorizo",
+       "Churro",
+       "Cilantro",
+       "Cortado",
+       "Dorito"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Avocado",
+       "Burrito",
+       "Mango",
+       "Oreo",
+       "Potato",
+       "Taco"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a one-word animal whose name is 7 or more letters",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Irritator"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 72717,
+      "picks": [
+       "Aachenaspis",
+       "Aacocrinus",
+       "Aafrita",
+       "Aaglacrinus",
+       "Aaleniella",
+       "Aaptochiton",
+       "Aaptoryctes",
+       "Aardonyx",
+       "Aardwolf",
+       "Aatocrinus"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 482,
+      "picks": [
+       "Aardvark",
+       "Abalone",
+       "Abyssinian",
+       "Albacore",
+       "Albatross",
+       "Allosaurus",
+       "Alsatian",
+       "Amberjack",
+       "Ammonite",
+       "Amphibian"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 75,
+      "picks": [
+       "Anaconda",
+       "Anteater",
+       "Armadillo",
+       "Axolotl",
+       "Buffalo",
+       "Bulldog",
+       "Bumblebee",
+       "Butterfly",
+       "Capybara",
+       "Caterpillar"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Alligator",
+       "Cheetah",
+       "Crocodile",
+       "Elephant",
+       "Giraffe",
+       "Gorilla",
+       "Hippopotamus",
+       "Kangaroo",
+       "Penguin"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a retired player from the NBA, Premier League, La Liga, AFL or IPL (women’s equivalents count too)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Ali Dia"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 23959,
+      "picks": [
+       "A.J. Bramlett",
+       "A.J. English",
+       "A.J. Guyton",
+       "A.J. Hammons",
+       "A.J. Price",
+       "A.J. Wynder",
+       "A.W. Holt",
+       "Aakash Chopra",
+       "Aarón (Tenerife, b. 1982)",
+       "Aaron Black"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 1106,
+      "picks": [
+       "A.C. Green",
+       "Aaron Brooks",
+       "Aaron Finch",
+       "Aaron Lennon",
+       "Aaron McKie",
+       "Aaron Ramsey",
+       "Aaron Sandilands",
+       "AB de Villiers",
+       "Abel Xavier",
+       "Adam Gilchrist"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 81,
+      "picks": [
+       "Alan Shearer",
+       "Alex Morgan",
+       "Allen Iverson",
+       "Andre Iguodala",
+       "Andrés Iniesta",
+       "Bill Russell",
+       "Blake Griffin",
+       "Carles Puyol",
+       "Carmelo Anthony",
+       "Chauncey Billups"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Charles Barkley",
+       "David Beckham",
+       "Dennis Rodman",
+       "Kareem Abdul-Jabbar",
+       "Kobe Bryant",
+       "Larry Bird",
+       "Magic Johnson",
+       "Michael Jordan",
+       "Ronaldo Nazário"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a city ending in -ville, -burg, -burgh or -bourg",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3036,
+      "picks": [
+       "Aalburg",
+       "Aarburg",
+       "Aardenburg",
+       "Aarnhemburg",
+       "Aaronsburg",
+       "Abbyville",
+       "Acadieville",
+       "Accoville",
+       "Acheville",
+       "Acipcoville"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 272,
+      "picks": [
+       "Abbeville",
+       "Albertville",
+       "Amityville",
+       "Asheville",
+       "Augsburg",
+       "Bad Homburg",
+       "Bartlesville",
+       "Batesville",
+       "Belleville",
+       "Bentonville"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Charlottesville",
+       "Edinburgh",
+       "Fayetteville",
+       "Gainesville",
+       "Gettysburg",
+       "Greenville",
+       "Harrisburg",
+       "Johannesburg",
+       "Luxembourg",
+       "St. Petersburg"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Hamburg",
+       "Jacksonville",
+       "Louisville",
+       "Nashville"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a fruit or vegetable that’s white on the inside",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 334,
+      "picks": [
+       "Abalone mushroom",
+       "Abiu",
+       "Achachairu",
+       "Achira",
+       "Achocha",
+       "Adzuki sprouts",
+       "Aerial yam",
+       "African custard apple",
+       "African yam bean tuber",
+       "Ahipa"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 99,
+      "picks": [
+       "Ackee",
+       "African eggplant",
+       "Artichoke",
+       "Asian pear",
+       "Bamboo shoots",
+       "Bean sprouts",
+       "Bitter melon",
+       "Blueberry",
+       "Bok choy",
+       "Bottle gourd"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 15,
+      "picks": [
+       "Cabbage",
+       "Cauliflower",
+       "Corn",
+       "Cucumber",
+       "Dragon fruit",
+       "Eggplant",
+       "Garlic",
+       "Lychee",
+       "Mushroom",
+       "Onion"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Apple",
+       "Banana",
+       "Coconut"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a playable character from Valorant, Overwatch, League of Legends or Apex Legends",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 61,
+      "picks": [
+       "Akshan",
+       "Alter",
+       "Anran",
+       "Aphelios",
+       "Aurora",
+       "Axle",
+       "Bel'Veth",
+       "Briar",
+       "D.Mon",
+       "Doctrine"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 165,
+      "picks": [
+       "Aatrox",
+       "Alistar",
+       "Ambessa",
+       "Amumu",
+       "Anivia",
+       "Annie",
+       "Ash",
+       "Ashe (Overwatch)",
+       "Astra",
+       "Aurelion Sol"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 57,
+      "picks": [
+       "Ahri",
+       "Akali",
+       "Ana",
+       "Ashe (League of Legends)",
+       "Bangalore",
+       "Bastion",
+       "Bloodhound",
+       "Breach",
+       "Brimstone",
+       "Caitlyn"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "D.Va",
+       "Tracer"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 124,
   "date": "2026-11-16",
   "prompts": [
