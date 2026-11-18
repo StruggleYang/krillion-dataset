@@ -1,5 +1,485 @@
 [
  {
+  "n": 126,
+  "date": "2026-11-18",
+  "prompts": [
+   {
+    "q": "Name a fictional food or drink",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Shmoo"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 21550,
+      "picks": [
+       "? Kinoko",
+       "'Apple' Cake of Lost Souls",
+       "'Apple' Curiosity",
+       "'Apple' Ice Cream",
+       "'Apple' Roll",
+       "'Bottled' Ley-Enriched Water",
+       "'Fresh' Moist Azsunian Feta",
+       "'Natural' Highmountain Spring Water",
+       "'Organic' Azsunian grapes",
+       "'Owon"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 390,
+      "picks": [
+       "1-Up Mushroom",
+       "Acid Pops",
+       "Alamo Beer",
+       "Almond Water (Backrooms)",
+       "Amortentia",
+       "Ancient Fruit",
+       "Awkward Potion",
+       "Bachelor Chow",
+       "Bantha milk",
+       "Bean's Cider"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 24,
+      "picks": [
+       "Ambrosia",
+       "Bertie Bott's Every Flavour Beans",
+       "Blue milk",
+       "Chocolate Frog",
+       "Chug Jug",
+       "Chum",
+       "Devil Fruit",
+       "Duff Beer",
+       "Elixir of Life",
+       "Everlasting Gobstopper"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Butterbeer",
+       "Krabby Patty"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a website or app designed for learning or studying (not apps/sites only for taking notes)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 10413,
+      "picks": [
+       "(How to) Pronounce PRO",
+       "§ 34a GewO Lern-App",
+       "#lastseen Game",
+       "1 Giant Mind",
+       "1 Minute Maths",
+       "10 Minute English",
+       "10 Minute Japanese",
+       "10 Minute School",
+       "10 Minute Spanish",
+       "100 Great Educational Games V4"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 232,
+      "picks": [
+       "ABCya",
+       "Accelerated Reader",
+       "AhaGuru",
+       "ALEKS",
+       "Algebra.com",
+       "Animal Jam",
+       "Anki",
+       "AP Classroom",
+       "Art of Problem Solving",
+       "Aula"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "ABCmouse",
+       "BrainPOP",
+       "Canvas",
+       "Chegg",
+       "Coolmath Games",
+       "Coursera",
+       "Google Classroom",
+       "IXL",
+       "Kahoot!",
+       "Prodigy"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Duolingo",
+       "Khan Academy"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sport where competitors wear helmets",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 516,
+      "picks": [
+       "24-hour mountain bike racing",
+       "500 m time trial",
+       "Abseiling",
+       "Accuracy landing (parachuting)",
+       "Adaptive Moto X",
+       "Adaptive motocross",
+       "Adaptive mountain biking",
+       "Adaptive skateboarding",
+       "Adventure racing",
+       "Aggressive inline skating"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 131,
+      "picks": [
+       "Aerials",
+       "Alpine skiing",
+       "Arena football",
+       "ATV racing",
+       "BASE jumping",
+       "Big air skiing",
+       "BMX park",
+       "BMX racing",
+       "Bull riding",
+       "Canadian football"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 18,
+      "picks": [
+       "Auto racing",
+       "BMX",
+       "Bobsled",
+       "Boxing",
+       "Cricket",
+       "Equestrian",
+       "Fencing",
+       "Formula 1",
+       "Horse racing",
+       "Ice hockey"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "American football",
+       "Baseball"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a city whose name starts with D",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Dinosaur"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 18963,
+      "picks": [
+       "D Belagal",
+       "D Kotakonda",
+       "D Vanipenta",
+       "D. F. Sarmiento–El Tero",
+       "D. Malligere",
+       "D. Polavaram",
+       "D. Velamalakota",
+       "D.Cherlopalle",
+       "D.Hirehal",
+       "D.Honnur"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 125,
+      "picks": [
+       "Da Lat",
+       "Da Nang",
+       "Dachau",
+       "Daegu",
+       "Daejeon",
+       "Dakar",
+       "Dakota",
+       "Dali",
+       "Dalian",
+       "Dalton"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Damascus",
+       "Dayton",
+       "Daytona Beach",
+       "Delhi",
+       "Des Moines",
+       "Dhaka",
+       "Doha",
+       "Dortmund",
+       "Dubai"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Dallas",
+       "Denver",
+       "Detroit"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a fruit or vegetable that starts with a vowel",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 5767,
+      "picks": [
+       "'Ōhi'a 'ai (mountain apple)",
+       "A Grappoli d'Inverno tomato",
+       "A La Carte spinach",
+       "A-choy",
+       "A. q. cherry tomato",
+       "A. z. cutler tomato",
+       "A.D.W. Atkins apple",
+       "Aaa sweet solano tomato",
+       "AAC Africadie potato",
+       "AAC Alta Cloud potato"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 48,
+      "picks": [
+       "Acai",
+       "Acerola",
+       "Ackee",
+       "Acorn squash",
+       "Aji amarillo",
+       "Alfalfa sprouts",
+       "Aloe vera",
+       "Aloo",
+       "Alphonso mango",
+       "Amaranth greens"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Apricot",
+       "Artichoke",
+       "Asparagus",
+       "Edamame",
+       "Eggplant"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Apple",
+       "Avocado",
+       "Onion"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name any athlete who competed at the 2024 Summer Olympics or 2026 Winter Olympics",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Andy MacDonald"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 13143,
+      "picks": [
+       "671",
+       "A. J. Edelman",
+       "A. J. Hurt",
+       "Aaliyah Butler",
+       "Aaliyah Edwards",
+       "Aaron Brown",
+       "Aaron Chia",
+       "Aaron Cummings",
+       "Aaron Fara",
+       "Aaron Gate"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 501,
+      "picks": [
+       "A'ja Wilson",
+       "Aaron Brooks",
+       "Abbey Weitzeil",
+       "Achraf Hakimi",
+       "Adam Ondra",
+       "Adam Peaty",
+       "Adrian Kempe",
+       "Aerin Frankel",
+       "Alanna Smith",
+       "Álex Baena"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 32,
+      "picks": [
+       "Alysa Liu",
+       "Anthony Davis",
+       "Anthony Edwards",
+       "Bam Adebayo",
+       "Carlos Alcaraz",
+       "Chloe Kim",
+       "Derrick White",
+       "Devin Booker",
+       "Eileen Gu",
+       "Giannis Antetokounmpo"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Katie Ledecky",
+       "LeBron James",
+       "Simone Biles"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a real-life language that ends in -an",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 657,
+      "picks": [
+       "Abkhazian",
+       "Acoma Keresan",
+       "Aequian",
+       "Ahan",
+       "Airoran",
+       "Akan",
+       "Alangan",
+       "Alemannic German",
+       "Alladian",
+       "Amdo Tibetan"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 52,
+      "picks": [
+       "Akkadian",
+       "Albanian",
+       "Armenian",
+       "Assyrian",
+       "Asturian",
+       "Bavarian",
+       "Belarusian",
+       "Bosnian",
+       "Cambodian",
+       "Castilian"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 11,
+      "picks": [
+       "Bulgarian",
+       "Croatian",
+       "Hungarian",
+       "Indonesian",
+       "Malaysian",
+       "Mongolian",
+       "Norwegian",
+       "Persian",
+       "Romanian",
+       "Serbian"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "German",
+       "Italian",
+       "Korean",
+       "Russian"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 125,
   "date": "2026-11-17",
   "prompts": [
