@@ -1,5 +1,495 @@
 [
  {
+  "n": 127,
+  "date": "2026-11-19",
+  "prompts": [
+   {
+    "q": "Name a living animal that's bigger or heavier than a human",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2426,
+      "picks": [
+       "Aardvark",
+       "Abaga horse",
+       "Abbott's booby",
+       "Abergele cattle",
+       "Abeya",
+       "Abigar cattle",
+       "Abkhazskaya donkey",
+       "Abondance",
+       "Abstang",
+       "Abyssinian donkey"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 194,
+      "picks": [
+       "African buffalo",
+       "African bush elephant",
+       "African rock python",
+       "Albatross",
+       "Alligator gar",
+       "Amazon river dolphin",
+       "American crocodile",
+       "Andean condor",
+       "Angus",
+       "Antelope"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 31,
+      "picks": [
+       "African elephant",
+       "Alligator",
+       "American black bear",
+       "Anaconda",
+       "Beluga whale",
+       "Bison",
+       "Blue whale",
+       "Brown bear",
+       "Camel",
+       "Crocodile"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 12,
+      "picks": [
+       "Bear",
+       "Cow",
+       "Elephant",
+       "Giraffe",
+       "Gorilla",
+       "Hippo",
+       "Horse",
+       "Lion",
+       "Rhino",
+       "Shark"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a named fictional place from Star Wars (canon), Lord of the Rings (Tolkien’s writings), Fortnite, SpongeBob, or a Disney/Pixar movie",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Harryhausen's"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 19349,
+      "picks": [
+       "'Loon Pawntoon",
+       "'Stools Fuels",
+       "\"Community\" junkyard",
+       "0-0-0's relaxation suite",
+       "1044 Chapel",
+       "1649th level",
+       "17 Cherry Tree Lane",
+       "1942 Wizard Street",
+       "215",
+       "23 Mere system"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 191,
+      "picks": [
+       "42 Wallaby Way",
+       "Agrabah",
+       "Ahch-To",
+       "Al's Toy Barn",
+       "Alderaan",
+       "Anarchy Acres",
+       "Angmar",
+       "Arendelle",
+       "Auradon",
+       "Axiom"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 40,
+      "picks": [
+       "Andy's room",
+       "Arlong Park",
+       "Atlantis",
+       "Bag End",
+       "Busy Bay",
+       "Chum Bucket",
+       "Coruscant",
+       "Cursed Cavern",
+       "Dagobah",
+       "Dusty Depot"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Bikini Bottom",
+       "Death Star",
+       "Krusty Krab",
+       "Mordor",
+       "Tatooine",
+       "The Shire"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something designed to stick to your skin that you peel off later",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 149,
+      "picks": [
+       "Activity monitor patch",
+       "Acupressure patch",
+       "ADHD patch",
+       "Adhesive barefoot soles",
+       "Adhesive blood collection device",
+       "Adhesive bone-conduction hearing adapter",
+       "Adhesive breast form",
+       "Adhesive facial prosthesis",
+       "Adhesive nipple prosthesis",
+       "Adhesive posture trainer"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 67,
+      "picks": [
+       "Adhesive bra",
+       "Adhesive dressing",
+       "Adhesive eye pad",
+       "Adhesive heel mask",
+       "Airbrush tattoo stencil",
+       "Allergy patch test",
+       "Athletic tape",
+       "Bald cap",
+       "Beauty patch",
+       "Bindi"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Hair removal wax",
+       "Medical tape",
+       "Nicotine patch",
+       "Patch",
+       "Pimple patch"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Bandage",
+       "Sticker"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name someone who directed a movie with at least 1,000 votes on IMDb",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Bruce Lee"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 24060,
+      "picks": [
+       "50 Cent",
+       "A Abhiramu",
+       "A. Dean Bell",
+       "A. Edward Sutherland",
+       "A. Karunakaran",
+       "A. Pradeep",
+       "A. Quintero",
+       "A. Sarkunam",
+       "A. Sayeeda Moreno",
+       "A. Taner Elhan"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 279,
+      "picks": [
+       "Aamir Khan",
+       "Aaron Sorkin",
+       "Abbas Kiarostami",
+       "Adam McKay",
+       "Agnès Varda",
+       "Aki Kaurismäki",
+       "Akira Kurosawa",
+       "Al Pacino",
+       "Alejandro G. Iñárritu",
+       "Alejandro Jodorowsky"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 23,
+      "picks": [
+       "Alfred Hitchcock",
+       "Anthony Russo",
+       "Clint Eastwood",
+       "Denis Villeneuve",
+       "Francis Ford Coppola",
+       "George Lucas",
+       "Greta Gerwig",
+       "Guillermo del Toro",
+       "Hayao Miyazaki",
+       "J.J. Abrams"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Christopher Nolan",
+       "Martin Scorsese",
+       "Quentin Tarantino"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something an app can ask permission to access on your phone",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 122,
+      "picks": [
+       "Access extra location provider commands",
+       "Access hidden profiles",
+       "Accessories",
+       "Age range",
+       "All files access",
+       "Announce notifications",
+       "App icon badges",
+       "App pinning",
+       "Associated launch",
+       "Battery statistics"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 30,
+      "picks": [
+       "Accessibility",
+       "Alarms",
+       "AutoFill",
+       "Background activity",
+       "Browsing history",
+       "Call logs",
+       "Cellular data",
+       "Clipboard",
+       "Default apps",
+       "Do Not Disturb access"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Accounts on device",
+       "Bluetooth",
+       "Calendar",
+       "Face ID",
+       "Files and media",
+       "Health data",
+       "Local network",
+       "Phone calls",
+       "Text messages"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Camera",
+       "Contacts",
+       "Location",
+       "Microphone",
+       "Notifications"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country where soccer isn't the most watched sport",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 25,
+      "picks": [
+       "Antigua and Barbuda",
+       "Bhutan",
+       "Denmark",
+       "Dominica",
+       "Eritrea",
+       "Estonia",
+       "Grenada",
+       "Guyana",
+       "Iceland",
+       "Latvia"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 30,
+      "picks": [
+       "Afghanistan",
+       "Austria",
+       "Bahamas",
+       "Bangladesh",
+       "Barbados",
+       "Cuba",
+       "Czechia",
+       "Dominican Republic",
+       "Fiji",
+       "Finland"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 5,
+      "picks": [
+       "China",
+       "Japan",
+       "New Zealand",
+       "Pakistan"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Australia",
+       "Canada",
+       "India"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a TV show with at least five seasons (listed on IMDb)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Finding Bigfoot"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 10779,
+      "picks": [
+       "¡¡Cachún cachún ra ra!!",
+       "¡Atención obras!",
+       "¡Colores!",
+       "¡Espléndida!",
+       "¡Mira quién baila!",
+       "¡Qué Momento!",
+       "¿Quién es la máscara?",
+       "¿Quién es la máscara? (2022)",
+       "¿Quién quiere casarse con mi hijo?",
+       "¿Quién quiere ser millonario?"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 588,
+      "picks": [
+       "'Allo 'Allo!",
+       "1000 Ways to Die",
+       "1000-lb Sisters",
+       "19 Kids and Counting",
+       "2 Broke Girls",
+       "21 Jump Street (1987)",
+       "24",
+       "30 for",
+       "60",
+       "Rock"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 68,
+      "picks": [
+       "9-1-1",
+       "Abbott Elementary",
+       "Adventure Time",
+       "All American",
+       "Arrested Development",
+       "Arrow",
+       "Better Call Saul",
+       "Black Clover",
+       "Black Mirror",
+       "Bob's Burgers"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Breaking Bad",
+       "Family Guy",
+       "Friends",
+       "Game of Thrones",
+       "Stranger Things",
+       "The Office"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 126,
   "date": "2026-11-18",
   "prompts": [
@@ -7268,6 +7758,501 @@
        "Cookie",
        "Doughnut",
        "Pie"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 111,
+  "date": "2026-11-03",
+  "prompts": [
+   {
+    "q": "Name a TV show that released or had a new season this year or last year",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 39887,
+      "picks": [
+       "_Civilian",
+       ":newstime Spezial",
+       "¡Ahora me la pagas, maldito!",
+       "¡Atención obras!",
+       "¡Claro Que Baila!",
+       "¡Colores!",
+       "¡De lunes a viernes!",
+       "¡Diache!",
+       "¡Mamá, no me dejes morir!",
+       "¡Salta!"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 575,
+      "picks": [
+       "1000-lb Sisters",
+       "1923",
+       "20/20",
+       "30 for",
+       "60 48 Hours",
+       "56 Days",
+       "60 Minutes",
+       "9-1-1: Lone Star",
+       "9-1-1: Nashville",
+       "90 Day Fiancé"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 65,
+      "picks": [
+       "9-1-1",
+       "A Knight of the Seven Kingdoms",
+       "Abbott Elementary",
+       "Adolescence",
+       "American Horror Story",
+       "Andor",
+       "Beef",
+       "Big Brother",
+       "Black Mirror",
+       "Bob's Burgers"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Love Island",
+       "Stranger Things",
+       "Ted Lasso"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a superhero that can fly",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2275,
+      "picks": [
+       "4-D",
+       "A-Pex",
+       "A.J.",
+       "Aa",
+       "Abby Arcane",
+       "Abin Sur",
+       "Accelerator",
+       "Accomplished Perfect Physician",
+       "Ace (Lilo & Stitch)",
+       "Ace McCloud"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 162,
+      "picks": [
+       "Adam Strange",
+       "Adam Warlock",
+       "Alan Scott",
+       "Allen the Alien",
+       "America Chavez",
+       "Android 17",
+       "Android 18",
+       "Angel",
+       "Anpanman",
+       "Asta"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 23,
+      "picks": [
+       "Beast Boy",
+       "Captain Marvel",
+       "Doctor Strange",
+       "Falcon",
+       "Goku",
+       "Green Lantern (Hal Jordan)",
+       "Homelander",
+       "Human Torch",
+       "Invincible",
+       "Jean Grey"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Iron Man",
+       "Superman",
+       "Thor"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a skincare brand",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 19127,
+      "picks": [
+       "(M)anasi 7",
+       "(Re)Herm",
+       "(Sainsburys) Source of Nature",
+       "& other stories",
+       "&honey",
+       "#17vderma",
+       "#6",
+       "#Superpoderes",
+       "+1HEROLABS",
+       "+FUL"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 336,
+      "picks": [
+       "A+D",
+       "Abreva",
+       "Acure",
+       "Adidas",
+       "Aesop",
+       "AESTURA",
+       "Alba Botanica",
+       "Almay",
+       "Alo Yoga",
+       "AmLactin"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "Aquaphor",
+       "Aveeno",
+       "Bath & Body Works",
+       "Burt's Bees",
+       "Cetaphil",
+       "Clinique",
+       "Eucerin",
+       "Garnier",
+       "Jergens",
+       "Johnson's"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "CeraVe",
+       "Dove",
+       "Neutrogena",
+       "Nivea"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name any Pokémon",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Binacle"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 511,
+      "picks": [
+       "Abomasnow",
+       "Accelgor",
+       "Alomomola",
+       "Amaura",
+       "Ambipom",
+       "Amoonguss",
+       "Anorith",
+       "Appletun",
+       "Applin",
+       "Araquanid"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 422,
+      "picks": [
+       "Absol",
+       "Aegislash",
+       "Aerodactyl",
+       "Aggron",
+       "Aipom",
+       "Alcremie",
+       "Altaria",
+       "Ampharos",
+       "Annihilape",
+       "Arbok"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 81,
+      "picks": [
+       "Abra",
+       "Alakazam",
+       "Arcanine",
+       "Arceus",
+       "Articuno",
+       "Beedrill",
+       "Blaziken",
+       "Butterfree",
+       "Caterpie",
+       "Chansey"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Blastoise",
+       "Bulbasaur",
+       "Charizard",
+       "Charmander",
+       "Eevee",
+       "Jigglypuff",
+       "Mewtwo",
+       "Pikachu"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a team sport (no esports, board games or card games)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 819,
+      "picks": [
+       "100-ball cricket",
+       "16-inch softball",
+       "24-hour team mountain bike racing",
+       "3-on-3 hockey",
+       "3v3 floorball",
+       "3v3 soccer",
+       "Abula",
+       "Acoso y derribo",
+       "Acrobatic rock'n'roll",
+       "Acrobatics and tumbling"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 118,
+      "picks": [
+       "3x3 basketball",
+       "Acrobatic gymnastics",
+       "Airsoft",
+       "Arena football",
+       "Australian rules football",
+       "Ballroom dancing",
+       "Banana ball",
+       "Bandy",
+       "Beach soccer",
+       "Beach tennis"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 16,
+      "picks": [
+       "Artistic swimming",
+       "Beach volleyball",
+       "Cricket",
+       "Curling",
+       "Dodgeball",
+       "Doubles tennis",
+       "Field hockey",
+       "Flag football",
+       "Handball",
+       "Lacrosse"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "American football",
+       "Baseball",
+       "Basketball",
+       "Ice hockey",
+       "Soccer"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name someone currently serving in a national government or parliament.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 35758,
+      "picks": [
+       "A B M Mosharrof Hossain",
+       "A M Mahbub Uddin Khokon",
+       "A N M Ehsanul Hoque Milon",
+       "A T M Azharul Islam",
+       "A. A. Rahim",
+       "A. E. Sultan Mahmud Babu",
+       "A. J. Botha",
+       "A. K. B. Ampiah",
+       "A. K. M. Fazlul Haque Milan",
+       "A. K. M. Selim Reza Habib"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 261,
+      "picks": [
+       "Abbas Araghchi",
+       "Abdel Fattah el-Sisi",
+       "Abdullah II of Jordan",
+       "Abiy Ahmed",
+       "Adam Schiff",
+       "Ahmed al-Sharaa",
+       "Al Green",
+       "Alan Sugar",
+       "Albert II",
+       "Alex Padilla"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 25,
+      "picks": [
+       "Alexandria Ocasio-Cortez",
+       "Anthony Albanese",
+       "Benjamin Netanyahu",
+       "Bernie Sanders",
+       "Chuck Schumer",
+       "Claudia Sheinbaum",
+       "Elizabeth Warren",
+       "Emmanuel Macron",
+       "Giorgia Meloni",
+       "Ilhan Omar"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Donald Trump",
+       "JD Vance"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of container (no appliances)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1909,
+      "picks": [
+       "Aampo",
+       "Absinthe fountain",
+       "Absinthe glass",
+       "Abura tokkuri",
+       "Accordion file",
+       "Acetabulum",
+       "Activated sludge tank",
+       "Aeration tank",
+       "Aerosol shipper",
+       "Aftabeh"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 459,
+      "picks": [
+       "Aerosol can",
+       "Ammo can",
+       "Aquarium",
+       "Ashtray",
+       "Baby bottle",
+       "Baby food jar",
+       "Baby food pouch",
+       "Bakery box",
+       "Baking dish",
+       "Baking pan"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 56,
+      "picks": [
+       "Backpack",
+       "Barrel",
+       "Basket",
+       "Bin",
+       "Bowl",
+       "Briefcase",
+       "Cabinet",
+       "Canister",
+       "Cardboard box",
+       "Carton"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Bag",
+       "Bottle",
+       "Box",
+       "Bucket",
+       "Can",
+       "Food storage container",
+       "Jar"
       ]
      }
     ]
