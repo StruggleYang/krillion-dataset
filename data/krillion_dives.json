@@ -1,5 +1,501 @@
 [
  {
+  "n": 128,
+  "date": "2026-11-20",
+  "prompts": [
+   {
+    "q": "Name a country with the letter P in its name",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 5,
+      "picks": [
+       "Czech Republic",
+       "Democratic Republic of the Congo",
+       "Dominican Republic",
+       "Ethiopia"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 6,
+      "picks": [
+       "Cape Verde",
+       "Cyprus",
+       "Egypt",
+       "Palau",
+       "São Tomé and Príncipe"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 7,
+      "picks": [
+       "Japan",
+       "Nepal",
+       "Panama",
+       "Papua New Guinea",
+       "Paraguay",
+       "Philippines"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Pakistan",
+       "Peru",
+       "Poland"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a movie that released before 2010 (1,000+ IMDb votes)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 27608,
+      "picks": [
+       "...All the Marbles",
+       "...And God Created Woman",
+       "...And Hope to Die",
+       "...Aur Pyaar Ho Gaya",
+       "...First Do No Harm",
+       "...ing",
+       "...Yahaan",
+       ".45",
+       ".com for Murder",
+       "'G' Men"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 1076,
+      "picks": [
+       "¡Three Amigos!",
+       "10 Things I Hate About You",
+       "10,000 BC",
+       "102 Dalmatians",
+       "12 Monkeys",
+       "13 Going on",
+       "60 1408",
+       "17 Again",
+       "1984",
+       "2 Fast 2 Furious"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 102,
+      "picks": [
+       "12 Angry Men",
+       "2001: A Space Odyssey",
+       "A Bug's Life",
+       "Alien",
+       "American Pie",
+       "American Psycho",
+       "Avatar",
+       "Back to the Future Part II",
+       "Back to the Future Part III",
+       "Bambi"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 12,
+      "picks": [
+       "Back to the Future",
+       "Forrest Gump",
+       "Harry Potter and the Sorcerer's Stone",
+       "Jurassic Park",
+       "Shrek",
+       "Star Wars: Episode IV - A New Hope",
+       "The Dark Knight",
+       "The Godfather",
+       "The Lion King",
+       "The Matrix"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a one-word color",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 460,
+      "picks": [
+       "Absinthe",
+       "Acorn",
+       "Adobe",
+       "Aero",
+       "Agouti",
+       "Alabaster",
+       "Alizarin",
+       "Almond",
+       "Amaranth",
+       "Amazon"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 92,
+      "picks": [
+       "Amber",
+       "Amethyst",
+       "Apricot",
+       "Aquamarine",
+       "Ash",
+       "Aubergine",
+       "Auburn",
+       "Avocado",
+       "Azure",
+       "Blond"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 18,
+      "picks": [
+       "Aqua",
+       "Beige",
+       "Burgundy",
+       "Crimson",
+       "Cyan",
+       "Gold",
+       "Indigo",
+       "Lavender",
+       "Magenta",
+       "Maroon"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 11,
+      "picks": [
+       "Black",
+       "Blue",
+       "Brown",
+       "Gray",
+       "Green",
+       "Orange",
+       "Pink",
+       "Purple",
+       "Red",
+       "White"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a song by Drake, Kendrick Lamar, Kanye West, Nicki Minaj, SZA, or Playboi Carti.",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3135,
+      "picks": [
+       ".Period",
+       "'03 Bonnie & Clyde",
+       "'03 Electric Relaxation",
+       "'03 Til Infinity",
+       "***Flawless (Remix)",
+       "+3",
+       "1-900-Ms-Minaj",
+       "1, 2, 3, 4",
+       "10 Bands",
+       "100"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 405,
+      "picks": [
+       "@ MEH",
+       "0 to",
+       "/ The Catch Up",
+       "20 Something",
+       "24",
+       "30 for",
+       "60",
+       "Hours",
+       "4PM in Calabasas",
+       "5AM in Toronto"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 37,
+      "picks": [
+       "All of the Lights",
+       "All the Stars",
+       "Alright",
+       "Anaconda",
+       "Bound 2",
+       "DNA.",
+       "FE!N",
+       "Flashing Lights",
+       "Gold Digger",
+       "Good Morning"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "God's Plan",
+       "Hotline Bling",
+       "HUMBLE.",
+       "Kill Bill",
+       "Not Like Us"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a dog breed that on average weighs 25+ pounds (11 kg)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 576,
+      "picks": [
+       "Africanis",
+       "Aidi",
+       "Airedoodle",
+       "Akbash",
+       "Akita Shepherd",
+       "Aksaray Malaklısı",
+       "Alangu Mastiff",
+       "Alano Español",
+       "Alapaha Blue Blood Bulldog",
+       "Alaskan Goldenmute"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 91,
+      "picks": [
+       "Afghan Hound",
+       "Airedale Terrier",
+       "Akita",
+       "Alaskan husky",
+       "Alaskan Malamute",
+       "American Bulldog",
+       "American Bully",
+       "American Eskimo Dog",
+       "American Foxhound",
+       "American Staffordshire Terrier"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "Australian Shepherd",
+       "Beagle",
+       "Belgian Malinois",
+       "Bernese Mountain Dog",
+       "Bloodhound",
+       "Border Collie",
+       "Boxer",
+       "Cane Corso",
+       "Chow Chow",
+       "Cocker Spaniel"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 10,
+      "picks": [
+       "Bulldog",
+       "Dalmatian",
+       "German Shepherd",
+       "Golden Retriever",
+       "Great Dane",
+       "Labrador Retriever",
+       "Pit Bull",
+       "Poodle",
+       "Rottweiler"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a protagonist from an anime or animated TV show (1,000+ votes on IMDb or listed on MAL)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 16055,
+      "picks": [
+       "0-Gou",
+       "1019 Epstein MJ3 Prototype",
+       "21 Emon",
+       "5.0.5.",
+       "7 Daime Akechi Kogorou",
+       "7 Daime Kaijin Nijuu Mensou",
+       "7 Daime Kobayashi Shounen",
+       "9S",
+       "A-Bomb (Rick Jones)",
+       "A-ko Magami"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 703,
+      "picks": [
+       "2B",
+       "Adora",
+       "Adrien Agreste",
+       "Æon Flux",
+       "Afro Samurai",
+       "Ahsoka Tano",
+       "Ai Hoshino",
+       "Ainz Ooal Gown",
+       "Akame",
+       "Akane Tsunemori"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 79,
+      "picks": [
+       "Alphonse Elric",
+       "Anya Forger",
+       "Arthur Read",
+       "Asta",
+       "Bart Simpson",
+       "Batman",
+       "Beast Boy",
+       "Ben Tennyson",
+       "Bluey",
+       "Bob Belcher"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 11,
+      "picks": [
+       "Aang",
+       "Ash Ketchum",
+       "Eren Yeager",
+       "Goku",
+       "Homer Simpson",
+       "Light Yagami",
+       "Monkey D. Luffy",
+       "Naruto Uzumaki",
+       "Pikachu",
+       "Scooby-Doo"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an awards show",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3741,
+      "picks": [
+       "1Live Krone",
+       "3FM Awards",
+       "3Music Awards",
+       "4 d'Or",
+       "420 Awards",
+       "4Syte Music Video Awards",
+       "7 d'Or",
+       "A-List Awards",
+       "A' Design Award",
+       "A&R Awards"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 72,
+      "picks": [
+       "ACM Awards",
+       "BAFTA Games Awards",
+       "Ballon d'Or",
+       "Baseball Hall of Fame induction ceremony",
+       "Basketball Hall of Fame Enshrinement",
+       "BBC Sports Personality of the Year",
+       "BET Hip Hop Awards",
+       "Billboard Latin Music Awards",
+       "Billboard Music Awards",
+       "Booker Prize ceremony"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "AMAs",
+       "BAFTAs",
+       "BET Awards",
+       "CMA Awards",
+       "ESPYs",
+       "Kids' Choice Awards",
+       "The Game Awards",
+       "The Streamer Awards",
+       "Tonys"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Emmys",
+       "Golden Globes",
+       "Grammys",
+       "Oscars"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 127,
   "date": "2026-11-19",
   "prompts": [
