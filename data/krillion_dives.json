@@ -1,5 +1,486 @@
 [
  {
+  "n": 129,
+  "date": "2026-11-21",
+  "prompts": [
+   {
+    "q": "Name the capital city of any country",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 116,
+      "picks": [
+       "Abidjan",
+       "Aden",
+       "Amman",
+       "Andorra la Vella",
+       "Antananarivo",
+       "Apia",
+       "Ashgabat",
+       "Asmara",
+       "Astana",
+       "Bamako"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 59,
+      "picks": [
+       "Abu Dhabi",
+       "Abuja",
+       "Accra",
+       "Addis Ababa",
+       "Algiers",
+       "Ankara",
+       "Asunción",
+       "Baku",
+       "Beirut",
+       "Belfast"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 30,
+      "picks": [
+       "Amsterdam",
+       "Athens",
+       "Baghdad",
+       "Bangkok",
+       "Bogotá",
+       "Brasília",
+       "Brussels",
+       "Budapest",
+       "Buenos Aires",
+       "Cairo"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 11,
+      "picks": [
+       "Beijing",
+       "Berlin",
+       "London",
+       "Madrid",
+       "Mexico City",
+       "Moscow",
+       "Ottawa",
+       "Paris",
+       "Rome",
+       "Tokyo"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a rom-com movie (1000+ IMDb votes)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 4872,
+      "picks": [
+       "...Aur Pyaar Ho Gaya",
+       "'Til There Was You",
+       "'Tis the Season to Be Merry",
+       "'Twas the Text Before Christmas",
+       "(Girl)Friend",
+       "#Realityhigh",
+       "#Stuck (2014)",
+       "#Xmas",
+       "$50K and a Call Girl: A Love Story",
+       "10"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 494,
+      "picks": [
+       "17 Again",
+       "2 States",
+       "40 Days and 40 Nights",
+       "50/50",
+       "A Castle for Christmas",
+       "A Christmas Prince",
+       "A Family Affair",
+       "A Good Year",
+       "A Lot Like Love",
+       "A Midsummer Night's Dream"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 53,
+      "picks": [
+       "(500) Days of Summer",
+       "13 Going on",
+       "30 27 Dresses",
+       "A Cinderella Story",
+       "About Time",
+       "Anyone But You",
+       "Bridget Jones's Diary",
+       "Clueless",
+       "Crazy Rich Asians",
+       "Crazy, Stupid, Love."
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "10 Things I Hate About You",
+       "50 First Dates",
+       "How to Lose a Guy in",
+       "Days",
+       "Love Actually",
+       "The Proposal"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a one-word animal that starts with “ch” or “sh”",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1642,
+      "picks": [
+       "Chabactoceras",
+       "Chabakovicyathus",
+       "Chabardella",
+       "Chabo",
+       "Chabot",
+       "Chabrador",
+       "Chacaicosaurus",
+       "Chacco",
+       "Chachalaca",
+       "Chachapoyamys"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 23,
+      "picks": [
+       "Chafer",
+       "Chamois",
+       "Char",
+       "Chickadee",
+       "Chigger",
+       "Chinook",
+       "Chow",
+       "Chub",
+       "Shad",
+       "Shag"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 8,
+      "picks": [
+       "Chameleon",
+       "Chick",
+       "Chihuahua",
+       "Chimpanzee",
+       "Chinchilla",
+       "Chipmunk",
+       "Shrew"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Cheetah",
+       "Chicken",
+       "Shark"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something used to scoop",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Locomotive water scoop"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 804,
+      "picks": [
+       "4-in-1 bucket",
+       "Abgardan",
+       "Adjustable measuring cup",
+       "Adjustable sampling scoop",
+       "Ainu porridge ladle",
+       "Ainu soup ladle",
+       "Aish baladi",
+       "Akki rotti",
+       "Ale dipper",
+       "Alginate scoop"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 137,
+      "picks": [
+       "Apple slice",
+       "Aquarium net",
+       "Avocado tool",
+       "Baby spoon",
+       "Backhoe",
+       "Bailer",
+       "Bar spoon",
+       "Baseball glove",
+       "Beach bucket",
+       "Beach shovel"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 14,
+      "picks": [
+       "Bowl",
+       "Bucket",
+       "Cup",
+       "Excavator",
+       "Fingers",
+       "Hands",
+       "Ladle",
+       "Litter scoop",
+       "Pooper scooper",
+       "Scoop"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Ice cream scoop",
+       "Shovel"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a fish (non-extinct)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 36214,
+      "picks": [
+       "Aapticheilichthys websteri",
+       "Aba",
+       "Abactochromis labrosus",
+       "Abbott's moray eel",
+       "Abbottina binhi",
+       "Abbottina lalinensis",
+       "Abbottina liaoningensis",
+       "Abbottina obtusirostris",
+       "Abe's angelfish",
+       "Abe's flyingfish"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 736,
+      "picks": [
+       "Achilles tang",
+       "African glass catfish",
+       "Alabama bass",
+       "Alaska pollock",
+       "Albacore",
+       "Albino angelfish",
+       "Albino betta",
+       "Albino channel catfish",
+       "Albino guppy",
+       "Albino pleco"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 50,
+      "picks": [
+       "Anchovy",
+       "Angelfish",
+       "Anglerfish",
+       "Barracuda",
+       "Blobfish",
+       "Bluefin tuna",
+       "Bluegill",
+       "Carp",
+       "Eel",
+       "Electric eel"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 12,
+      "picks": [
+       "Bass",
+       "Betta",
+       "Catfish",
+       "Clownfish",
+       "Cod",
+       "Goldfish",
+       "Pufferfish",
+       "Salmon",
+       "Shark",
+       "Swordfish"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a battle royale video game (no browser-only games)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1323,
+      "picks": [
+       "#COWABUNGA",
+       "100 Guys 1 Stick",
+       "100 Men vs 1 Gorilla",
+       "1v1 Deathmatch",
+       "2020 THE GAME (Core)",
+       "2030",
+       "2DRoyale",
+       "3Minutes Battle Royale",
+       "49 Reasons To Die - Last Stand",
+       "67 Simulator"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 90,
+      "picks": [
+       "1v1.LOL",
+       "Agar.io",
+       "Apex Legends Mobile",
+       "ARK: Survival Ascended",
+       "ARK: Survival Evolved",
+       "ARK: Survival of the Fittest",
+       "Battlefield REDSEC",
+       "Battlefield V",
+       "Battlegrounds Mobile India",
+       "Battlerite Royale"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 4,
+      "picks": [
+       "Fall Guys",
+       "Free Fire",
+       "Minecraft Hunger Games"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Apex Legends",
+       "Call of Duty: Warzone",
+       "Fortnite"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sport or game that’s played with multiple balls at a time",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 665,
+      "picks": [
+       "1–15 eight-ball",
+       "100 Up Singles",
+       "3 Ball Gladiators",
+       "5 Ball Endurance",
+       "6 Hoops",
+       "Abalone",
+       "Acey deucey (golf game)",
+       "Aggravation",
+       "Ahfour",
+       "Akron (marble game)"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 38,
+      "picks": [
+       "Airsoft",
+       "Arcade basketball",
+       "Beer pong",
+       "Bingo",
+       "Blackball",
+       "Bocce",
+       "Boccia",
+       "Boules",
+       "Carom billiards",
+       "Carpetball"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 4,
+      "picks": [
+       "Dodgeball",
+       "Golf",
+       "Juggling"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 1,
+      "picks": [
+       "Pool"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 128,
   "date": "2026-11-20",
   "prompts": [
