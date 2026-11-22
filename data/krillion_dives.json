@@ -1,5 +1,498 @@
 [
  {
+  "n": 130,
+  "date": "2026-11-22",
+  "prompts": [
+   {
+    "q": "Name a car brand",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 7669,
+      "picks": [
+       "212",
+       "2Rike",
+       "9ff",
+       "A Automobile Company",
+       "A. C. Banker",
+       "A. Cação",
+       "A. F. Chase",
+       "A. F. Clark",
+       "A. G. Alfieri",
+       "A. H. Yocum"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 205,
+      "picks": [
+       "Abarth",
+       "AC",
+       "Allard",
+       "Alpina",
+       "Alpine",
+       "Alvis",
+       "AMC",
+       "American Bantam",
+       "Amphicar",
+       "Ariel"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 50,
+      "picks": [
+       "Acura",
+       "Alfa Romeo",
+       "Aston Martin",
+       "Bentley",
+       "Bugatti",
+       "Buick",
+       "BYD",
+       "Cadillac",
+       "Chrysler",
+       "Citroën"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 13,
+      "picks": [
+       "Audi",
+       "BMW",
+       "Chevrolet",
+       "Ford",
+       "Honda",
+       "Hyundai",
+       "Kia",
+       "Lexus",
+       "Mercedes-Benz",
+       "Nissan"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a book series (1,000+ Goodreads ratings on any one book)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 30808,
+      "picks": [
+       "?Quien mato a Alex?",
+       ".hack// Another Birth",
+       ".hack//Legend of the Twilight",
+       "'90s Coming of Age",
+       "'Fantasy' Football",
+       "'m l`rws@ / lHfyd",
+       "'Mancer",
+       "'nf wthlth `ywn",
+       "'rzq",
+       "'Til Death"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 1294,
+      "picks": [
+       "100 Bullets",
+       "12 Rules for Life",
+       "1632",
+       "1Q84",
+       "20th Century Boys",
+       "30 Days of Night",
+       "365 Days",
+       "87th Precinct",
+       "A Child Called \"It\" trilogy",
+       "A Dog's Purpose"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 65,
+      "picks": [
+       "A Court of Thorns and Roses",
+       "A Series of Unfortunate Events",
+       "Animorphs",
+       "Anne of Green Gables",
+       "Artemis Fowl",
+       "Attack on Titan",
+       "Berenstain Bears",
+       "Big Nate",
+       "Bridgerton",
+       "Captain Underpants"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "A Song of Ice and Fire",
+       "Diary of a Wimpy Kid",
+       "Harry Potter",
+       "Percy Jackson and the Olympians",
+       "The Chronicles of Narnia",
+       "The Hunger Games",
+       "The Lord of the Rings"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an area in an airport",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 375,
+      "picks": [
+       "Ablution room",
+       "Aesthetic clinic",
+       "Agricultural inspection",
+       "Air ambulance base",
+       "Air national guard base",
+       "Air operations area",
+       "Air-raid shelter",
+       "Aircraft graveyard",
+       "Aircraft stand",
+       "Aircraft wash rack"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 190,
+      "picks": [
+       "Accessible parking",
+       "Airfield",
+       "Airport hotel",
+       "Airport museum",
+       "Airport police station",
+       "Airport train",
+       "Airside",
+       "Arrivals exit",
+       "ATM",
+       "Baby changing station"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 29,
+      "picks": [
+       "Airport lounge",
+       "Arrivals hall",
+       "Baggage carousel",
+       "Bar",
+       "Bookstore",
+       "Charging station",
+       "Check-in kiosk",
+       "Coffee shop",
+       "Concourse",
+       "Customs"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Baggage claim",
+       "Check-in",
+       "Gate",
+       "Restroom",
+       "Security checkpoint"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a weapon you throw or a weapon that launches a projectile (no guns)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2170,
+      "picks": [
+       "10 cm Feldhaubitze M 99",
+       "10 cm Gebirgshaubitze M 16",
+       "10 cm Gebirgshaubitze M 8",
+       "10 cm Gebirgshaubitze M 99",
+       "10 cm houfnice vz. 28",
+       "10 cm houfnice vz.",
+       "85",
+       "cm Nebelwerfer 35",
+       "10 cm Nebelwerfer 40",
+       "10 cm vz. 14/19"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 86,
+      "picks": [
+       "Anti-tank grenade",
+       "Anti-tank guided missile launcher",
+       "Arbalest",
+       "AT4",
+       "Atlatl",
+       "Ballistic knife",
+       "Bamboo bow",
+       "Big Bertha",
+       "Bo-shuriken",
+       "Bolas"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 31,
+      "picks": [
+       "Ballista",
+       "Bazooka",
+       "Blowgun",
+       "Boomerang",
+       "Brick",
+       "Cannon",
+       "Catapult",
+       "Dart",
+       "Dynamite",
+       "Flamethrower"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Bow",
+       "Crossbow",
+       "Rocket launcher"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a restaurant chain where you build your own bowl",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2133,
+      "picks": [
+       "'Ono Poké Bar",
+       "1000 Degrees Pizza",
+       "1000 Zen",
+       "10Below Ice Cream",
+       "18 Degrees",
+       "18 Street Hot Pot",
+       "1919 Lanzhou Beef Noodle",
+       "21 Choices",
+       "2941 Street Food",
+       "3 Pepper Burrito Co."
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 182,
+      "picks": [
+       "16 Handles",
+       "America’s Best Wings",
+       "Au Bon Pain",
+       "Backyard Taco",
+       "Bahama Buck’s",
+       "Baja Fresh",
+       "Barburrito",
+       "Baskin-Robbins",
+       "Bd's Mongolian Grill",
+       "bellagreen"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 4,
+      "picks": [
+       "Panda Express",
+       "Qdoba",
+       "Subway"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "CAVA"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a chronic medical condition",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 2,
+      "picks": [
+       "Auto-brewery syndrome"
+      ]
+     },
+     {
+      "name": "Deep cut",
+      "count": 9346,
+      "picks": [
+       "10p13-p14 deletion syndrome",
+       "10q22.3q23.3 microdeletion syndrome",
+       "10q22.3q23.3 microduplication syndrome",
+       "11p15.4 microduplication syndrome",
+       "11q22.2q22.3 microdeletion syndrome",
+       "12q14 microdeletion syndrome",
+       "12q24.31 microdeletion syndrome",
+       "13q12.3 microdeletion syndrome",
+       "14q11.2 microdeletion syndrome",
+       "14q11.2 microduplication syndrome"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 605,
+      "picks": [
+       "Achilles tendinitis",
+       "Acne cosmetica",
+       "Acromegaly",
+       "Actinic keratosis",
+       "Acute intermittent porphyria",
+       "Acute leukemia",
+       "Acute lymphoblastic leukemia",
+       "Acute myeloid leukemia",
+       "Addison's disease",
+       "Adductor tendinopathy"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 107,
+      "picks": [
+       "Acne",
+       "Addiction",
+       "ADHD",
+       "Alcoholism",
+       "Allergies",
+       "ALS",
+       "Alzheimer's disease",
+       "Anemia",
+       "Anorexia",
+       "Anxiety"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Arthritis",
+       "Asthma",
+       "COPD",
+       "Diabetes",
+       "Heart disease"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a part of the field or court in basketball, soccer, American football, cricket, or rugby",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 251,
+      "picks": [
+       "10-metre mark distance marks",
+       "15-metre line",
+       "15-yard circle",
+       "20-metre line",
+       "3-yard line",
+       "40-metre line",
+       "5-metre line",
+       "5-metre mark (futsal goalkeeper)",
+       "7-metre line",
+       "Above the break"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 103,
+      "picks": [
+       "1-yard line",
+       "10-metre line",
+       "15-yard line",
+       "2-yard line",
+       "20-yard line",
+       "22-metre line",
+       "25-yard line",
+       "30-yard circle",
+       "35-yard line",
+       "Backboard square"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 26,
+      "picks": [
+       "50-yard line",
+       "Backboard",
+       "Baseline",
+       "Basket",
+       "Bench",
+       "Center circle",
+       "Corner",
+       "Corner flag",
+       "Crossbar",
+       "Goal line"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "End zone",
+       "Free throw line",
+       "Goal",
+       "Penalty area",
+       "Sideline",
+       "Three-point line"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 129,
   "date": "2026-11-21",
   "prompts": [
