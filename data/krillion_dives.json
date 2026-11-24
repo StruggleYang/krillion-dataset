@@ -1,5 +1,470 @@
 [
  {
+  "n": 131,
+  "date": "2026-11-23",
+  "prompts": [
+   {
+    "q": "Name an animal that eats fish (documented, regular part of its diet)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 9995,
+      "picks": [
+       "Aatotomus",
+       "Aba aba",
+       "Abbott's booby",
+       "Abdim's Stork",
+       "Abdounia",
+       "Abitusavis",
+       "Ablennes gracalii",
+       "Abyssal grenadier",
+       "Abyssal rattail",
+       "Abyssosaurus"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 550,
+      "picks": [
+       "Adélie penguin",
+       "African bullfrog",
+       "African fish eagle",
+       "African leopard",
+       "African penguin",
+       "African rock python",
+       "African tigerfish",
+       "Alaska pollock",
+       "Albacore",
+       "Alligator gar"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 55,
+      "picks": [
+       "Albatross",
+       "Alligator",
+       "Bald eagle",
+       "Beluga whale",
+       "Bird",
+       "Black bear",
+       "Bottlenose dolphin",
+       "Brown bear",
+       "Bull shark",
+       "Cat"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Bear",
+       "Dolphin",
+       "Pelican",
+       "Penguin",
+       "Seal"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a movie that's at least two and a half hours long (100+ IMDb votes)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 5523,
+      "picks": [
+       "¡Que viva México!",
+       "...And Suddenly the Dawn",
+       "'83",
+       "'Rameau's Nephew' by Diderot (Thanx to Dennis Young) by Wilma Schoen (1974)",
+       "'Til Madness Do Us Part",
+       "**** (Four Stars)",
+       "#73, Shaanthi Nivaasa",
+       "#Cult (2026)",
+       "#Home (2021)",
+       "0.5 mm"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 346,
+      "picks": [
+       "1900",
+       "2012",
+       "24",
+       "3 Idiots",
+       "A Aa",
+       "A Bridge Too Far",
+       "A Brighter Summer Day",
+       "A Prophet",
+       "Adipurush",
+       "Ajab Prem Ki Ghazab Kahani"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 27,
+      "picks": [
+       "Avatar: Fire and Ash",
+       "Avatar: The Way of Water",
+       "Dune: Part One",
+       "Dune: Part Two",
+       "Gladiator",
+       "Gone with the Wind",
+       "Harry Potter and the Sorcerer's Stone",
+       "Project Hail Mary",
+       "Pulp Fiction",
+       "RRR"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Avatar",
+       "Avengers: Endgame",
+       "Interstellar",
+       "Oppenheimer",
+       "The Godfather",
+       "The Lord of the Rings: The Fellowship of the Ring"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name one of the Seven Wonders of the World (ancient or new)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2,
+      "picks": [
+       "Statue of Zeus at Olympia"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 5,
+      "picks": [
+       "Chichen Itza",
+       "Colossus of Rhodes",
+       "Hanging Gardens of Babylon",
+       "Lighthouse of Alexandria"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 3,
+      "picks": [
+       "Christ the Redeemer",
+       "Colosseum"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Great Pyramid of Giza",
+       "Great Wall of China"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a fictional vampire, werewolf, or ghost",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 23443,
+      "picks": [
+       "'Adnun",
+       "'Umr Siraj",
+       "\"Good-Boy\" Bruce",
+       "\"Shoeless\" Joe Jackson",
+       "\"The\" Dean Michaels",
+       "10,000 Volt Ghost",
+       "25:17",
+       "47th Street Royals",
+       "5-0",
+       "A-Qing"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 295,
+      "picks": [
+       "Abigail",
+       "Aegislash",
+       "Akasha",
+       "Alcide Herveaux",
+       "Alice Cullen",
+       "Allison Sekemoto",
+       "Alucard (Castlevania)",
+       "Alucard (Hellsing)",
+       "Angel",
+       "Angua"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 17,
+      "picks": [
+       "Bella Swan",
+       "Blade",
+       "Boo",
+       "Count Chocula",
+       "Count Orlok",
+       "Damon Salvatore",
+       "Danny Phantom",
+       "Edward Cullen",
+       "Ghost of Christmas Past",
+       "Jacob Black"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Casper"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an object that has a lens",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 884,
+      "picks": [
+       "4Pi microscope",
+       "Active shutter 3D glasses",
+       "ADAS camera",
+       "Adjustable-focus glasses",
+       "Aerial camera",
+       "Aerial telescope",
+       "Aerobeacon",
+       "Aiming circle",
+       "Aircraft logo light",
+       "Aircraft reading light"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 187,
+      "picks": [
+       "360 camera",
+       "Airplane",
+       "All-in-one computer",
+       "Ambulance",
+       "Anaglyph glasses",
+       "Anatomical eye model",
+       "AR headset",
+       "ATM",
+       "Aviator sunglasses",
+       "Baby monitor"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 32,
+      "picks": [
+       "3D glasses",
+       "Action camera",
+       "Backup camera",
+       "Bifocals",
+       "Body camera",
+       "Camcorder",
+       "Camera lens",
+       "Contact lens",
+       "Dashcam",
+       "Digital camera"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Binoculars",
+       "Camera",
+       "Glasses",
+       "Magnifying glass",
+       "Microscope",
+       "Smartphone"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a natural habitat",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1520,
+      "picks": [
+       "Aapa mire",
+       "Abandoned channel lake",
+       "Abyssal fan",
+       "Abyssal hills",
+       "Abyssal plain",
+       "Acacia savanna",
+       "Acacia shrubland",
+       "Acacia woodland",
+       "Acadian forest",
+       "Acid grassland"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 152,
+      "picks": [
+       "Abyssal zone",
+       "Alpine",
+       "Alpine lake",
+       "Alpine meadow",
+       "Alpine tundra",
+       "Anemone bed",
+       "Aquatic",
+       "Aquatic cave",
+       "Aquifer",
+       "Arctic tundra"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 29,
+      "picks": [
+       "Ant nest",
+       "Beach",
+       "Beaver dam",
+       "Bee nest",
+       "Burrow",
+       "Cave",
+       "Coast",
+       "Coral reef",
+       "Creek",
+       "Den"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Desert",
+       "Forest",
+       "Ocean"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name something that uses suction",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 835,
+      "picks": [
+       "Abalone",
+       "Abdominal decompression chamber",
+       "Accordion plunger",
+       "Acetabular labrum",
+       "Active compression-decompression CPR device",
+       "African clawed frog",
+       "African dwarf frog",
+       "Air admittance valve",
+       "Air amplifier",
+       "Air conveyor"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 169,
+      "picks": [
+       "Accordion",
+       "Air conditioner",
+       "Airplane toilet",
+       "Anti-choking suction device",
+       "Aquarium filter",
+       "Aquarium gravel vacuum",
+       "Ash vacuum",
+       "Baby suction bowl",
+       "Barnacle parking device",
+       "Bath toy organizer"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 16,
+      "picks": [
+       "Baby bottle",
+       "Breast pump",
+       "Cupping",
+       "Dental suction",
+       "Leech",
+       "Liposuction",
+       "Lips",
+       "Mouth",
+       "Nursing baby",
+       "Pipette"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Octopus",
+       "Plunger",
+       "Suction cup",
+       "Vacuum cleaner"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 130,
   "date": "2026-11-22",
   "prompts": [
