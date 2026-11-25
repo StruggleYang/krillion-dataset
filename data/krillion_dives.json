@@ -1,5 +1,826 @@
 [
  {
+  "n": 133,
+  "date": "2026-11-25",
+  "prompts": [
+   {
+    "q": "Name a horror movie (1,000+ votes on IMDb)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 7675,
+      "picks": [
+       ".com for Murder",
+       "[REC] 3: Genesis",
+       "[REC] 4: Apocalypse",
+       "#Alive",
+       "#AMFAD: All My Friends Are Dead",
+       "#Captured",
+       "#ChadGetstheAxe",
+       "#Horror (2015)",
+       "#MissingCouple",
+       "#Screamers"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 995,
+      "picks": [
+       "[REC]",
+       "[REC] 2",
+       "10 Cloverfield Lane",
+       "13 Ghosts (1960)",
+       "1408",
+       "1922",
+       "28 Days Later",
+       "28 Weeks Later",
+       "28 Years Later",
+       "28 Years Later: The Bone Temple"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 80,
+      "picks": [
+       "9 (2019)",
+       "A Quiet Place",
+       "Alien",
+       "Alien 3",
+       "American Psycho",
+       "Annabelle",
+       "Bird Box",
+       "Black (2024)",
+       "Candyman",
+       "Carrie"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 11,
+      "picks": [
+       "A Nightmare on Elm Street",
+       "Friday the 13th",
+       "Get Out",
+       "Halloween",
+       "It",
+       "Psycho",
+       "Saw",
+       "Scream",
+       "The Conjuring",
+       "The Exorcist"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an international brand based in Japan",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 8209,
+      "picks": [
+       "(A)crypsis",
+       "(un)decided",
+       "@cosme",
+       "&.Joliee",
+       "&honey",
+       "&me",
+       "#FR2",
+       "% Arabica",
+       "011 Artistic",
+       "07th Expansion"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 265,
+      "picks": [
+       "A Bathing Ape",
+       "A-1 Pictures",
+       "AEON",
+       "AIRism",
+       "Ajinomoto",
+       "Alpine",
+       "Amiibo",
+       "ANA",
+       "Aniplex",
+       "Arc System Works"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 20,
+      "picks": [
+       "7-Eleven",
+       "Acura",
+       "Canon",
+       "Casio",
+       "Hello Kitty",
+       "Japan Airlines",
+       "Kawasaki",
+       "Lexus",
+       "Mazda",
+       "Mitsubishi"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Honda",
+       "Nintendo",
+       "Nissan",
+       "Sony"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name an insect or arachnid with a one-word name",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 15870,
+      "picks": [
+       "Aafrita",
+       "Abaddonella",
+       "Abanaxipha",
+       "Abaptilon",
+       "Abashevia",
+       "Abbrevikhosara",
+       "Abderina",
+       "Aberrantochrysa",
+       "Aberrokorynetes",
+       "Ablator"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 71,
+      "picks": [
+       "Antlion",
+       "Aphid",
+       "Blackfly",
+       "Bloodworm",
+       "Blowfly",
+       "Bluebottle",
+       "Bombardier",
+       "Bookworm",
+       "Botfly",
+       "Carpenter"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "Bedbug",
+       "Bumblebee",
+       "Caterpillar",
+       "Cicada",
+       "Cricket",
+       "Dragonfly",
+       "Firefly",
+       "Flea",
+       "Hornet",
+       "Ladybug"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 9,
+      "picks": [
+       "Ant",
+       "Bee",
+       "Beetle",
+       "Butterfly",
+       "Cockroach",
+       "Fly",
+       "Grasshopper",
+       "Spider"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a stadium that’s been home to a professional sports team",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 16279,
+      "picks": [
+       "«Anestis Petalidis» Indoor Sports Hall",
+       "«Makis Natsis» Indoor Sports Hall",
+       "1 Mai Stadium (Slatina)",
+       "1 Mai Stadium (Slobozia)",
+       "1 November 1954 Stadium",
+       "10th-Anniversary Stadium",
+       "11 December 1961 Stadium",
+       "12 Şubat Stadium",
+       "15 Temmuz Stadium (Ankara)",
+       "15 Temmuz Stadium (Beykoz)"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 362,
+      "picks": [
+       "Accor Stadium",
+       "Adelaide Oval",
+       "Adnan Menderes Stadium",
+       "Al Thumama Stadium",
+       "Al-Awwal Park",
+       "Alamodome",
+       "Allianz Stadium (Turin)",
+       "Aloha Stadium",
+       "Altair Ice Arena",
+       "Amerant Bank Arena"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 97,
+      "picks": [
+       "Acrisure Stadium",
+       "Allegiant Stadium",
+       "Allianz Arena",
+       "American Airlines Center",
+       "Anfield",
+       "Angel Stadium",
+       "Arrowhead Stadium",
+       "Astrodome",
+       "AT&T Stadium",
+       "Bank of America Stadium"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 7,
+      "picks": [
+       "Camp Nou",
+       "Dodger Stadium",
+       "Fenway Park",
+       "Madison Square Garden",
+       "Wembley Stadium",
+       "Wrigley Field"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a language that originated in East or Central Asia",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 528,
+      "picks": [
+       "A-Hmao",
+       "A'ou",
+       "Achang",
+       "Ache Yi",
+       "Adu",
+       "Ai-Cham",
+       "Akeu",
+       "Akha",
+       "Alo Phola",
+       "Alugu"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 39,
+      "picks": [
+       "Ainu",
+       "Chagatai",
+       "Chinese Sign Language",
+       "Classical Chinese",
+       "Classical Japanese",
+       "Classical Mongolian",
+       "Classical Tibetan",
+       "Hakka",
+       "Hmong",
+       "Japanese Sign Language"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 3,
+      "picks": [
+       "Cantonese",
+       "Hokkien"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Chinese",
+       "Japanese",
+       "Korean"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a mountain peak over 2,000 metres above sea level",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 98303,
+      "picks": [
+       "‘A‘ahuwela",
+       "'Abbas Ghar",
+       "'Abd ur Rahimzi Ghar",
+       "'Abdur Kushtah",
+       "'Abr al Hismi",
+       "'Adile Gharbi Ghar",
+       "'Adile Sharqi Ghar",
+       "'Alam Ghar",
+       "'Alamah Baghoray",
+       "'Alamchoy"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 1,
+      "picks": []
+     }
+    ]
+   },
+   {
+    "q": "Name a wild member of the cat or dog family",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 1033,
+      "picks": [
+       "Achalan red fox",
+       "Acinonyx aicha",
+       "Acinonyx intermedius",
+       "Acinonyx kurteni",
+       "Acinonyx pleistocaenicus",
+       "Adeilosmilus",
+       "Adeilosmilus kabir",
+       "Adelphailurus",
+       "Adelphailurus kansensis",
+       "Aelurodon"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 90,
+      "picks": [
+       "African golden wolf",
+       "African leopard",
+       "African wild dog",
+       "African wildcat",
+       "Alaskan wolf",
+       "Amazonian jaguar",
+       "American lion",
+       "Amur leopard",
+       "Arabian leopard",
+       "Arabian wolf"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 13,
+      "picks": [
+       "Bengal tiger",
+       "Black panther",
+       "Bobcat",
+       "Cougar",
+       "Coyote",
+       "Dingo",
+       "Fox",
+       "Jackal",
+       "Jaguar",
+       "Lynx"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Cheetah",
+       "Leopard",
+       "Lion",
+       "Tiger",
+       "Wolf"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "n": 132,
+  "date": "2026-11-24",
+  "prompts": [
+   {
+    "q": "Name a sport where you're allowed to kick the ball",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 487,
+      "picks": [
+       "3 balones a la caja",
+       "3Ptag",
+       "3v3 floorball",
+       "4D soccer",
+       "9 Square in the Air",
+       "AAASP wheelchair handball",
+       "Aberdeen Grammar School football",
+       "Achomawi football",
+       "Action Ball",
+       "AFL 9s"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 39,
+      "picks": [
+       "Arena football",
+       "Banana Ball",
+       "Baseball",
+       "Beach soccer",
+       "Bubble soccer",
+       "Canadian football",
+       "Crab soccer",
+       "Cricket",
+       "Dodgeball",
+       "Field hockey"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 7,
+      "picks": [
+       "Australian rules football",
+       "Futsal",
+       "Gaelic football",
+       "Kickball",
+       "Rugby",
+       "Rugby union"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "American football"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country that has an A as its second letter",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 9,
+      "picks": [
+       "East Timor",
+       "Malawi",
+       "Mauritania",
+       "Nauru",
+       "Palau",
+       "Saint Kitts and Nevis",
+       "Saint Lucia",
+       "Saint Vincent and the Grenadines"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 23,
+      "picks": [
+       "Bahamas",
+       "Bahrain",
+       "Barbados",
+       "Cambodia",
+       "Cameroon",
+       "Cape Verde",
+       "Gabon",
+       "Gambia",
+       "Latvia",
+       "Maldives"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 12,
+      "picks": [
+       "Bangladesh",
+       "Haiti",
+       "Jamaica",
+       "Kazakhstan",
+       "Laos",
+       "Madagascar",
+       "Malaysia",
+       "Pakistan",
+       "Paraguay",
+       "Qatar"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 2,
+      "picks": [
+       "Canada"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a city on an island (towns count too)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 31457,
+      "picks": [
+       "-Lypiatt",
+       "-Rame",
+       "'Aiea Heights",
+       "'Ālewa Heights",
+       "'Ele'ele",
+       "'s-Gravendeel",
+       "'Utulau",
+       "24 de Abril",
+       "30 de Mayo",
+       "A-et"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 1,
+      "picks": []
+     }
+    ]
+   },
+   {
+    "q": "Name an album by an artist with more than 1 million monthly listeners on Spotify",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 73280,
+      "picks": [
+       "-5LUV5",
+       "-77.82X-78.29",
+       "-Cupid- (Miki Matsubara)",
+       "-Fa-Tal- Gal a Todo Vapor",
+       "-M- au Spectrum",
+       "–EPílogo– Diciembre, Otra Vez",
+       "―花たちの詩―KOBUKURO Concept Album",
+       "〜refrain〜 The songs were inspired by \"Evangelion\"",
+       ", [Semicolon]",
+       "! (Exclamation Mark) (Trippie Redd)"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 1,
+      "picks": []
+     }
+    ]
+   },
+   {
+    "q": "Name an animal with webbed feet",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 7691,
+      "picks": [
+       "Abacot Ranger duck",
+       "Abbott's Booby",
+       "Abdim's Stork",
+       "Abo Slippery Frog",
+       "Abra Malaga Toad",
+       "Abyssinian yellow-billed duck",
+       "Acancocha Water Frog",
+       "Acanthostega",
+       "Accra River Frog",
+       "Acevedo Spiny-backed Frog"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 283,
+      "picks": [
+       "Adélie penguin",
+       "African Clawed Frog",
+       "African Clawless Otter",
+       "African goose",
+       "African Penguin",
+       "African Treefrog",
+       "Akita",
+       "Albatross",
+       "Alligator Snapping Turtle",
+       "American Alligator"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 22,
+      "picks": [
+       "Alligator",
+       "Beaver",
+       "Bullfrog",
+       "Crocodile",
+       "Emperor penguin",
+       "Flamingo",
+       "Gull",
+       "Labrador retriever",
+       "Mallard",
+       "Pelican"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Duck",
+       "Frog",
+       "Goose",
+       "Otter"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a video game company",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 35541,
+      "picks": [
+       "__Ja__ga__imo__",
+       "_badger",
+       "_Echelon Software",
+       "_Helix_",
+       "_if_N",
+       "_Jester_",
+       "_k.y.",
+       "_mexs_",
+       "_rasta",
+       "_RicK_ThE_SimpL_"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 1,
+      "picks": []
+     }
+    ]
+   },
+   {
+    "q": "Name a form medicine comes in (like a pill)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 992,
+      "picks": [
+       "Absorbable coated sponge",
+       "Abstract",
+       "Adai",
+       "Ampoule",
+       "Anticoagulant and preservative solution for blood",
+       "Applicator",
+       "Arishta",
+       "Aromatic water",
+       "Augmented cream",
+       "Augmented lotion"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 112,
+      "picks": [
+       "Aerosol",
+       "Balm",
+       "Cannabis edible",
+       "Cannabis oil",
+       "Caplet",
+       "Chest rub",
+       "Coated tablet",
+       "Cold spray",
+       "Collodion",
+       "Concentrate"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 22,
+      "picks": [
+       "Auto-injector",
+       "Capsule",
+       "Chewable tablet",
+       "Chewing gum",
+       "Cream",
+       "Drops",
+       "Eye drops",
+       "Gas",
+       "Gel",
+       "Gummy"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Injection",
+       "Pill",
+       "Tablet"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 131,
   "date": "2026-11-23",
   "prompts": [
