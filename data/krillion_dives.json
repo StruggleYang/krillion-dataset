@@ -1,5 +1,493 @@
 [
  {
+  "n": 134,
+  "date": "2026-11-26",
+  "prompts": [
+   {
+    "q": "Name a magazine",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 116456,
+      "picks": [
+       "-ette review",
+       ";login:",
+       "! Exclamation Mark",
+       "¡¡Al Ataque!!",
+       "¡A las Barricadas!",
+       "¡Adelante!",
+       "¡Alarma!",
+       "¡Alegría!",
+       "¡aquí Política Decimos Lo Que Otros Callan con Tambora!",
+       "¡Arriba España! (revista)"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 1572,
+      "picks": [
+       "¡Hola!",
+       "01net",
+       "032c",
+       "100+1",
+       "100+1 zahraniční zajímavost",
+       "16 Magazine",
+       "2000 AD",
+       "2600: The Hacker Quarterly",
+       "3-2-1 Contact",
+       "5280"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 53,
+      "picks": [
+       "Architectural Digest",
+       "Better Homes and Gardens",
+       "Billboard",
+       "Car and Driver",
+       "Consumer Reports",
+       "Elle",
+       "Empire",
+       "Entertainment Weekly",
+       "Esquire",
+       "Forbes"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Cosmopolitan",
+       "National Geographic",
+       "People",
+       "Playboy",
+       "Reader's Digest",
+       "Sports Illustrated",
+       "Time"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a one-word food or drink containing a double letter (like coffee)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 5333,
+      "picks": [
+       "A'yajaawushi",
+       "Aachtchen",
+       "Aadun",
+       "Aakkoset",
+       "Aalborg",
+       "Aamat",
+       "Aamshotto",
+       "Aamti",
+       "Aardbeienslof",
+       "Aardbeienvlaai"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 1063,
+      "picks": [
+       "Aamras",
+       "Aashirvaad",
+       "Abgoosht",
+       "Aburaage",
+       "Achaar",
+       "Ackee",
+       "Advocaat",
+       "Affogato",
+       "Agnolotti",
+       "Alcapurria"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 75,
+      "picks": [
+       "Bass",
+       "BBQ",
+       "Beef",
+       "Beet",
+       "Blackberry",
+       "Blueberry",
+       "Broccoli",
+       "Burrito",
+       "Cabbage",
+       "Cannoli"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 13,
+      "picks": [
+       "Apple",
+       "Beer",
+       "Butter",
+       "Carrot",
+       "Cheese",
+       "Cherry",
+       "Coffee",
+       "Cookie",
+       "Egg",
+       "Pepper"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a piece of information you can see on a sports scoreboard",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 902,
+      "picks": [
+       "100+ scores",
+       "22 entries",
+       "2sur4",
+       "40/20 kicks",
+       "45s",
+       "50+ breaks",
+       "60-foot time",
+       "65s",
+       "Abilities",
+       "Achievement recognition"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 631,
+      "picks": [
+       "180s",
+       "50/50 raffle jackpot",
+       "ABS challenge",
+       "Aces",
+       "Added time",
+       "Aggregate score",
+       "Ahead or behind",
+       "All out",
+       "All-around total",
+       "Animated race"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 49,
+      "picks": [
+       "Assists",
+       "At bat",
+       "Balls",
+       "Batting average",
+       "Blocks",
+       "Cards",
+       "Count",
+       "Date",
+       "Down",
+       "Fouls"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 5,
+      "picks": [
+       "Clock",
+       "Half",
+       "Quarter",
+       "Score"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a country where elephants live in the wild",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 7,
+      "picks": [
+       "Benin",
+       "Burkina Faso",
+       "Equatorial Guinea",
+       "Eswatini",
+       "Guinea",
+       "Guinea-Bissau"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 31,
+      "picks": [
+       "Angola",
+       "Bangladesh",
+       "Bhutan",
+       "Cambodia",
+       "Cameroon",
+       "Central African Republic",
+       "Chad",
+       "China",
+       "Ethiopia",
+       "Gabon"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 9,
+      "picks": [
+       "Botswana",
+       "Democratic Republic of the Congo",
+       "Indonesia",
+       "South Africa",
+       "Sri Lanka",
+       "Tanzania",
+       "Uganda",
+       "Zambia"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "India",
+       "Kenya"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a TV show that has a spin-off series",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2327,
+      "picks": [
+       "¿Quién quiere casarse con mi hijo?",
+       "...And Mother Makes Three",
+       ".hack//Sign",
+       "'Cause You're My Boy",
+       "'t Schaep met de 5 pooten",
+       "10.5",
+       "101st Marriage Proposal",
+       "101st Proposal",
+       "112 – på liv och död",
+       "118"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 1483,
+      "picks": [
+       "@midnight",
+       "1000-lb Sisters",
+       "106 & Park",
+       "13 Reasons Why",
+       "16 and Pregnant",
+       "19 Kids and Counting",
+       "2 Days & 1 Night",
+       "20/20",
+       "21 Jump Street",
+       "24"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 69,
+      "picks": [
+       "90 Day Fiancé",
+       "Adventure Time",
+       "America's Got Talent",
+       "Avatar: The Last Airbender",
+       "Ben",
+       "30 Big Brother",
+       "BoJack Horseman",
+       "Boy Meets World",
+       "Bridgerton",
+       "Buffy the Vampire Slayer"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Breaking Bad",
+       "Game of Thrones"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a river over 50 miles long (about 80 km)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 16446,
+      "picks": [
+       "2-ya Nongondzhya",
+       "A Vương River",
+       "Aa River",
+       "Aallaakh",
+       "Ab-e Dowlati",
+       "Aba River",
+       "Abacaxis River",
+       "Abaeté River",
+       "Abakan",
+       "Abalianka"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 264,
+      "picks": [
+       "Aare",
+       "Adige",
+       "Alabama River",
+       "Allegheny River",
+       "Alligator River",
+       "American River",
+       "Amu Darya",
+       "Amur River",
+       "Angara",
+       "Apalachicola River"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 27,
+      "picks": [
+       "Chicago River",
+       "Colorado",
+       "Columbia River",
+       "Congo River",
+       "Danube",
+       "Delaware",
+       "Euphrates",
+       "Ganges",
+       "Hudson",
+       "Indus River"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Amazon",
+       "Mississippi"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a type of device with a built-in microphone",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 278,
+      "picks": [
+       "3D camera",
+       "Accessible pedestrian signal",
+       "Acoustic drone detector",
+       "Acoustic leak detector",
+       "Acoustic machine monitor",
+       "Acoustic mine",
+       "Acoustic termite detector",
+       "Acoustic-electric guitar",
+       "AI pin",
+       "Air quality monitor"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 124,
+      "picks": [
+       "2-in-1 laptop",
+       "360 camera",
+       "Action camera",
+       "AI gadget",
+       "AI voice recorder",
+       "Alarm system",
+       "All-in-one computer",
+       "Answering machine",
+       "Applause meter",
+       "Audio guest book"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 18,
+      "picks": [
+       "Baby monitor",
+       "Bluetooth headset",
+       "Body camera",
+       "Camera",
+       "Earbuds",
+       "Flip phone",
+       "Intercom",
+       "Landline phone",
+       "Noise-cancelling headphones",
+       "Security camera"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "Computer",
+       "Headphones",
+       "Headset",
+       "Laptop",
+       "Phone",
+       "Tablet"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 133,
   "date": "2026-11-25",
   "prompts": [
