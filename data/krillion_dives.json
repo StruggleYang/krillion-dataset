@@ -1,5 +1,498 @@
 [
  {
+  "n": 135,
+  "date": "2026-11-27",
+  "prompts": [
+   {
+    "q": "Name a fruit that’s fuzzy, hairy, or spiky on the outside",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 8187,
+      "picks": [
+       "1002 chestnut",
+       "1005 chestnut",
+       "1015 chestnut",
+       "À Bec peach",
+       "A9 peach",
+       "Abacaxi Vermelho pineapple",
+       "Abachi pineapple",
+       "Abate chestnut",
+       "Abbé de Beaumont peach",
+       "Abbé Jodoc peach"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 87,
+      "picks": [
+       "Almond",
+       "Apple berry",
+       "Aprium",
+       "Atemoya",
+       "Baobab fruit",
+       "Beechnut",
+       "Biriba",
+       "Black apricot",
+       "Black peach",
+       "Black walnut"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 6,
+      "picks": [
+       "Apricot",
+       "Coconut",
+       "Dragon fruit",
+       "Jackfruit",
+       "Prickly pear"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Durian",
+       "Kiwi",
+       "Peach"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a live-action movie released in the 2010s (1,000+ IMDb votes)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 14433,
+      "picks": [
+       "¡Asu Mare!",
+       "'71",
+       "'Tis the Season for Love",
+       "(Dis)Honesty: The Truth About Lies",
+       "(Girl)Friend",
+       "(Nie)znajomi",
+       "#1 Cheerleader Camp",
+       "#Anne Frank Parallel Stories",
+       "#Captured",
+       "#Horror"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 1200,
+      "picks": [
+       "[REC] 3: Genesis",
+       "[REC] 4: Apocalypse",
+       "10 Cloverfield Lane",
+       "100% Love",
+       "12 Dates of Christmas",
+       "12 Strong",
+       "12 Years a Slave",
+       "127 Hours",
+       "13 Assassins",
+       "13 Hours"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 114,
+      "picks": [
+       "1917",
+       "21 Jump Street",
+       "About Time",
+       "Aladdin (2019)",
+       "American Sniper",
+       "Ant-Man",
+       "Arrival",
+       "Avengers: Age of Ultron",
+       "Baahubali: The Beginning",
+       "Baby Driver"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Avengers: Endgame",
+       "Avengers: Infinity War",
+       "Harry Potter and the Deathly Hallows: Part 1",
+       "Inception",
+       "Interstellar",
+       "Star Wars: Episode VII - The Force Awakens",
+       "The Avengers"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a way to travel in or on water",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 2173,
+      "picks": [
+       "18-foot skiff",
+       "64-gun ship",
+       "Aak",
+       "Aasterne",
+       "Abak",
+       "Abalone boat",
+       "Aberystwyth beach boat",
+       "Accommodation barge",
+       "Accon",
+       "Achill yawl"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 320,
+      "picks": [
+       "Abra",
+       "Air mattress",
+       "Airboat",
+       "Aircraft carrier",
+       "Aluminum fishing boat",
+       "Amphibious ATV",
+       "Amphibious bicycle",
+       "Amphibious boat",
+       "Amphibious vehicle",
+       "Aqua jogging"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 19,
+      "picks": [
+       "Breaststroke",
+       "Butterfly stroke",
+       "Doggy paddle",
+       "Ferry",
+       "Front crawl",
+       "Inner tube",
+       "Jet ski",
+       "Motorboat",
+       "Paddle boat",
+       "Paddleboard"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 8,
+      "picks": [
+       "Boat",
+       "Canoe",
+       "Cruise ship",
+       "Kayak",
+       "Sailboat",
+       "Ship",
+       "Submarine"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a sport where you’re allowed to kick your opponent",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 524,
+      "picks": [
+       "10th Planet Jiu-Jitsu",
+       "Aba güreşi",
+       "Abir",
+       "Abrazare",
+       "Adapted sumo",
+       "Adimurai",
+       "Aikido S.A.",
+       "Air Force Combatives",
+       "Akban",
+       "Aki Kiti"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 63,
+      "picks": [
+       "Armored MMA",
+       "Backyard wrestling",
+       "Beach wrestling",
+       "Bökh",
+       "Buhurt",
+       "Calcio storico",
+       "Capoeira",
+       "Catch wrestling",
+       "Chicken fighting (hopping)",
+       "Combat jiu-jitsu"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 10,
+      "picks": [
+       "Brazilian jiu-jitsu",
+       "Judo",
+       "Jujutsu",
+       "Krav Maga",
+       "Kung fu",
+       "Martial arts",
+       "Muay Thai",
+       "Professional wrestling",
+       "Sumo"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 4,
+      "picks": [
+       "Karate",
+       "Kickboxing",
+       "Mixed martial arts"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a job that involves drawing",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 965,
+      "picks": [
+       "Aboriginal artist",
+       "Absorption-and-adsorption engineer",
+       "Accident reconstructionist",
+       "Adire artist",
+       "Advertising painter",
+       "Aeronautical drafter",
+       "Aeronautical-design engineer",
+       "Age progression artist",
+       "Agricultural architect",
+       "Agricultural engineer"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 532,
+      "picks": [
+       "2D animator",
+       "3D animator",
+       "3D artist",
+       "Accountant",
+       "Acoustical engineer",
+       "Acrylic painter",
+       "Actuary",
+       "Additive manufacturing designer",
+       "Advertising designer",
+       "Advertising illustrator"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 31,
+      "picks": [
+       "Anime artist",
+       "Architect",
+       "Art teacher",
+       "Biology teacher",
+       "Cartographer",
+       "Cartoonist",
+       "Chemistry teacher",
+       "Childcare worker",
+       "Comic artist",
+       "Designer"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 3,
+      "picks": [
+       "Animator",
+       "Artist"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a song on a movie soundtrack from Disney Animation, Pixar, DreamWorks Animation, Illumination, Sony Pictures Animation, or Blue Sky",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 7556,
+      "picks": [
+       "¡Hola Casita!",
+       "¡Mi Hermana!",
+       "¡Presente!",
+       "...And Finally, The End Credits Suite",
+       "...And I Said Nothing",
+       "...And Tear Off the Roof",
+       "...Shells",
+       "...To Die For",
+       "'Twas Brillig",
+       "\"One, Two, Three,\" Said the Prospector"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 616,
+      "picks": [
+       "...Baby One More Time",
+       "...Ready for It?",
+       "(Theme From) The Monkees",
+       "(You're the) Devil in Disguise",
+       "1 True Love",
+       "24K Magic",
+       "9 to 5",
+       "99 Luftballons",
+       "A Dream Is a Wish Your Heart Makes",
+       "A Girl Worth Fighting For"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 52,
+      "picks": [
+       "Accidentally in Love",
+       "All Star",
+       "Almost There",
+       "Arabian Nights",
+       "Be Our Guest",
+       "Be Prepared",
+       "Beauty and the Beast",
+       "Belle",
+       "Can You Feel the Love Tonight",
+       "Can't Stop the Feeling!"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 11,
+      "picks": [
+       "A Whole New World",
+       "Colors of the Wind",
+       "Hakuna Matata",
+       "Happy",
+       "How Far I'll Go",
+       "I'll Make a Man Out of You",
+       "Let It Go",
+       "Life Is a Highway",
+       "Sunflower",
+       "We Don't Talk About Bruno"
+      ]
+     }
+    ]
+   },
+   {
+    "q": "Name a term for a division of land (like a country)",
+    "accepted": null,
+    "tiers": [
+     {
+      "name": "One in a Krillion",
+      "count": 1,
+      "picks": []
+     },
+     {
+      "name": "Deep cut",
+      "count": 3536,
+      "picks": [
+       "Abadengo",
+       "Abadi",
+       "Abbott district",
+       "Aboriginal community",
+       "Aboriginal council",
+       "Aboriginal land",
+       "Aboriginal reserve",
+       "Aboriginal shire",
+       "Abthanage",
+       "Académie (education district)"
+      ]
+     },
+     {
+      "name": "Rare",
+      "count": 214,
+      "picks": [
+       "Alpine zone",
+       "Area code",
+       "Arrondissement",
+       "Artificial island",
+       "Atoll",
+       "Autonomous region",
+       "Backcountry",
+       "Badlands",
+       "Barony",
+       "Barrier island"
+      ]
+     },
+     {
+      "name": "Schooler",
+      "count": 18,
+      "picks": [
+       "Beach",
+       "Borough",
+       "Desert",
+       "District",
+       "Kingdom",
+       "Lot",
+       "Nation",
+       "Neighborhood",
+       "Peninsula",
+       "Plot"
+      ]
+     },
+     {
+      "name": "Plankton",
+      "count": 6,
+      "picks": [
+       "City",
+       "Continent",
+       "Country",
+       "County",
+       "Island",
+       "State"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
   "n": 134,
   "date": "2026-11-26",
   "prompts": [
